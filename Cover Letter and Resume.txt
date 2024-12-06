@@ -1,4 +1,4 @@
-Company Name : E.ON Energie Deutschland GmbH
+Company Name : BMW AG
 Date : 06/dec/2024
 ----------------------------------------------------------------------------
 
@@ -28,17 +28,18 @@ Date : 06/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    E.ON Energie Deutschland GmbH\\
-    Arnulfstraße 203\\
-    München,80634\\
+    BMW AG\\
+    Lilienthalallee 25\\
+    München,80788\\
     Deutschland
+
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Hauptstraße 35 \\
-    Bochum, NRW, 44894 \\
+    Romerstadterstraße 3 \\
+    Augsburg,86199 \\
     Deutschland \\
     \vspace{1cm} % Adjust the space as needed
     \today
@@ -48,7 +49,7 @@ Date : 06/dec/2024
 
 % Subject line
 \noindent
-\textbf{Bewerbung auf die Stelle Werkstudent - Business Intelligence Stellen-ID 233207}
+\textbf{Bewerbung auf die Stelle Praktikant Data Science/Data Analytics Stellen-ID 141134}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -59,15 +60,12 @@ Date : 06/dec/2024
 
 Sehr geehrte Damen und Herren,
 
-mit 1,5 Jahren praktischer Erfahrung in der Datenanalyse sowie fundierten Kenntnissen in der Softwareentwicklung freue ich mich darauf, Ihr Team mit meiner Begeisterung für datengetriebene Lösungen und meiner Fähigkeit, komplexe Datenstrukturen zu optimieren, zu bereichern.
+mit über 1,5 Jahren praktischer Erfahrung in der Datenanalyse und fundierten Kenntnissen in der Softwareentwicklung freue ich mich darauf, Ihr Team durch die Entwicklung innovativer Lösungen und die Optimierung von Prozessen zu unterstützen. Meine Expertise umfasst Python, Pandas und Jupyter, mit einem Fokus auf die Analyse und Verwaltung komplexer Datensätze sowie die Erstellung von Dashboards zur Unterstützung datenbasierter Entscheidungsfindung. In meinen bisherigen Tätigkeiten konnte ich Optimierungspotenziale identifizieren und Maßnahmen umsetzen, die messbare Verbesserungen erzielt haben.
 
-Als zertifizierter Data Analyst verfüge ich über tiefgehende Kenntnisse in der Verarbeitung, Analyse und Verwaltung komplexer Datensätze mit Tools wie Python, Pandas, NumPy, SQL und Microsoft Power BI. Besonders die Entwicklung und Optimierung von Dashboards, die datenbasierte Entscheidungsprozesse unterstützen, gehört zu meinen Stärken. Durch meine Arbeit konnte ich bereits Potenziale zur Optimierung identifizieren und konkrete Maßnahmen umsetzen, die spürbaren Mehrwert geschaffen haben.
+Praktische Erfahrung in der Softwareentwicklung habe ich durch eigenständige Projekte und Praktika gesammelt, insbesondere bei der Erstellung datengetriebener Anwendungen. Die Arbeit in internationalen Teams motiviert mich, da ich den interdisziplinären Austausch und die Integration unterschiedlicher Perspektiven in innovative Lösungen schätze. Ich verbessere zudem aktiv meine Deutschkenntnisse, die aktuell auf B1-Niveau sind, und arbeite daran, das B2-Niveau zu erreichen, um mich noch besser in ein deutschsprachiges Arbeitsumfeld integrieren zu können. Weitere Informationen über meine Projekte und Fähigkeiten finden Sie in meinem \href{https://usama00004.github.io/portfolio/}{Portfolio} und auf meinem \href{https://github.com/Usama00004}{GitHub-Profil}.
 
-Mein Interesse an Digitalisierung, Automatisierungstools und künstlicher Intelligenz motiviert mich, den Status Quo aktiv in Frage zu stellen und innovative Lösungen zu entwickeln. Zusätzlich habe ich während meiner akademischen Laufbahn im Bereich Softwareentwicklung fundierte Kenntnisse in Markt- und Wettbewerbsanalysen sowie in der Datenmodellierung erworben.
+Ich bringe eine strukturierte und proaktive Arbeitsweise, starke Kommunikationsfähigkeiten und eine Leidenschaft für Daten und Geschäftsprozesse mit. Mein Ziel ist es, meine Fähigkeiten einzusetzen, um die Datenanalyse zu verbessern, strategische Entscheidungsprozesse zu unterstützen und einen bedeutenden Beitrag zum Erfolg Ihres Unternehmens zu leisten. Vielen Dank für die Berücksichtigung meiner Bewerbung. Über die Möglichkeit, meine Qualifikationen und Motivation in einem persönlichen Gespräch näher vorzustellen, freue ich mich sehr.
 
-Ich bringe eine schnelle Auffassungsgabe, eine lösungsorientierte Denkweise und eine hohe Datenaffinität mit. Gleichzeitig lege ich großen Wert auf Teamarbeit und Kommunikation – Fähigkeiten, die ich gerne einsetze, um Kolleg:innen mitzunehmen und komplexe Themen zielgruppengerecht zu vermitteln.
-
-Vielen Dank für die Berücksichtigung meiner Bewerbung. Über die Möglichkeit, meine Qualifikationen und Motivation in einem persönlichen Gespräch näher vorzustellen, freue ich mich sehr.
 
 \vspace{0.5cm}
 
@@ -89,7 +87,7 @@ Usama Tahir \\
 
 \documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
 
-\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry} % Seitenränder
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.2in]{geometry} % Seitenränder
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
@@ -105,7 +103,7 @@ Usama Tahir \\
 
 \begin{rSection}{ZIEL}
 
-Datenbegeisterter Fachinformatiker mit Erfahrung in Datenanalyse, Visualisierung und SQL. Kompetent in Python, Power BI und Microsoft Office, suche ich eine Teilzeitstelle als Data Analyst, um datengetriebene Prozesse zu optimieren.
+Motivierte Fachkraft mit fundierter Erfahrung in Datenanalyse, Web-Scraping und Datenvisualisierung. Versiert in Python, Pandas, Jupyter, Power BI und SQL, suche ich eine Teilzeitstelle als Data Analyst, um datengetriebene Lösungen zu entwickeln, Geschäftsprozesse zu optimieren und zur digitalen Transformation in einem internationalen Team beizutragen.
 
 \end{rSection}
 
