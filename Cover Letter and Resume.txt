@@ -1,11 +1,14 @@
-Company Name : BMW AG
+Company Name : Daimler Truck AG
 Date : 06/dec/2024
 ----------------------------------------------------------------------------
 
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
 \usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{geometry}
@@ -25,17 +28,17 @@ Date : 06/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    BMW AG\\
-    Lilienthalallee 25\\
-    München, 80788\\
+    Daimler Truck AG\\
+    Fasanenweg 10\\
+    Leinfelden-Echterdingen,70771\\
     Deutschland
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Romerstadterstraße 3 \\
-    Augsburg, 86199 \\
+    Moltkestraße 35 \\
+    Fulda,44894 \\
     Deutschland \\
     \vspace{1cm} % Adjust the space as needed
     \today
@@ -45,7 +48,7 @@ Date : 06/dec/2024
 
 % Subject line
 \noindent
-\textbf{Bewerbung auf die Stelle Praktikant Data Science/Data Analytics Stellen-ID 141134}
+\textbf{Bewerbung auf die Stelle Internship as Data Analyst in Global Indirect Procurement Stellen-ID 1093}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -56,115 +59,116 @@ Date : 06/dec/2024
 
 Sehr geehrte Damen und Herren,
 
-mit über 1,5 Jahren praktischer Erfahrung in der Datenanalyse und fundierten Kenntnissen in der Softwareentwicklung freue ich mich darauf, Ihr Team durch die Entwicklung innovativer Lösungen und die Optimierung von Prozessen zu unterstützen. Meine Expertise umfasst Python, Pandas und Jupyter, mit einem Fokus auf die Analyse und Verwaltung komplexer Datensätze sowie die Erstellung von Dashboards zur Unterstützung datenbasierter Entscheidungsfindung. In meinen bisherigen Tätigkeiten konnte ich Optimierungspotenziale identifizieren und Maßnahmen umsetzen, die messbare Verbesserungen erzielt haben.
+mit 1,5 Jahren praktischer Erfahrung in der \textbf{Datenanalyse} und \textbf{Softwareentwicklung} freue ich mich darauf, Ihr Global Indirect Procurement-Team zu unterstützen. Meine Fähigkeiten in der Erstellung und kontinuierlichen Verbesserung von \textbf{Dashboards in Power BI} sowie mein Interesse an Gamification-Konzepten passen hervorragend zu den Herausforderungen dieser Position.
 
-Praktische Erfahrung in der Softwareentwicklung habe ich durch eigenständige Projekte und Praktika gesammelt, insbesondere bei der Erstellung datengetriebener Anwendungen. Die Arbeit in internationalen Teams motiviert mich, da ich den interdisziplinären Austausch und die Integration unterschiedlicher Perspektiven in innovative Lösungen schätze. Ich verbessere zudem aktiv meine Deutschkenntnisse, die aktuell auf B1-Niveau sind, und arbeite daran, das B2-Niveau zu erreichen, um mich noch besser in ein deutschsprachiges Arbeitsumfeld integrieren zu können.
+Als zertifizierter Data Analyst beherrsche ich Tools wie \textbf{Python, Pandas, NumPy, SQL} und \textbf{Microsoft Power BI}. Während meiner bisherigen Tätigkeit konnte ich Dashboards entwickeln, die datenbasierte Entscheidungsprozesse unterstützen und Optimierungspotenziale sichtbar machen. Zudem habe ich Tools zur \textbf{Steigerung der Datenqualität} implementiert und Maßnahmen zur Verbesserung erfolgreich umgesetzt.
 
-Ich bringe eine strukturierte und proaktive Arbeitsweise, starke Kommunikationsfähigkeiten und eine Leidenschaft für Daten und Geschäftsprozesse mit. Mein Ziel ist es, meine Fähigkeiten einzusetzen, um die Datenanalyse zu verbessern, strategische Entscheidungsprozesse zu unterstützen und einen bedeutenden Beitrag zum Erfolg Ihres Unternehmens zu leisten. Vielen Dank für die Berücksichtigung meiner Bewerbung. Über die Möglichkeit, meine Qualifikationen und Motivation in einem persönlichen Gespräch näher vorzustellen, freue ich mich sehr.
+Meine akademische Laufbahn in der Mechatronik hat mir nicht nur fundierte Kenntnisse in der \textbf{Datenmodellierung} vermittelt, sondern auch die Fähigkeit, in \textbf{interdisziplinären, internationalen Teams} effektiv zu arbeiten. Projekte mit IT, Controlling und anderen Fachbereichen haben meine Kommunikationsstärke und mein organisatorisches Geschick gefördert.
+
+Ich bringe eine \textbf{schnelle Auffassungsgabe}, eine \textbf{lösungsorientierte Denkweise} und eine hohe \textbf{Datenaffinität} mit. Besonders motiviert mich die Möglichkeit, durch datengetriebene Analysen und aussagekräftige \textbf{Präsentationen} das Management bei wichtigen Entscheidungen zu unterstützen.
+
+
 
 \vspace{0.5cm}
 
 Mit freundlichen Grüßen,\\
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
-usamatahir00004@gmail.com\\ 
-https://usama00004.github.io/portfolio/
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
 
 \end{document}
 
 
 ----------------------------------------------------------------------------
 
+\documentclass{resume} % Custom resume.cls style
 
-
-\documentclass[11pt,a4paper]{article} % Default article class
-
-\usepackage[left=0.4in, top=0.2in, right=0.4in, bottom=0.2in]{geometry} % Seitenränder
-\usepackage{xcolor}
-\usepackage{enumitem} % For itemize customization
-
-%%%% Custom Commands
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry} % Margins
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir} % Full Name
+\address{+49 176 84973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{Mail} \\ \href{https://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ \href{https://github.com/Usama00004}{GitHub}} 
 
-%%%% Document Content
 \begin{document}
-
-%----------------------------------------------------------------------------------------
-% HEADER INFORMATION
-%----------------------------------------------------------------------------------------
-
-\begin{center}
-    {\LARGE \textbf{Usama Tahir}} \\[0.2cm]
-    \textbf{Telefon:} +49 176 84973934 \\ 
-    \textbf{E-Mail:} usamatahir00004@gmail.com \\ 
-    \textbf{LinkedIn:} www.linkedin.com/in/usamatahir-00004 \\
-    \textbf{GitHub:} github.com/Usama00004
-\end{center}
-
-\vspace{0.5cm}
 
 %----------------------------------------------------------------------------------------
 %	ZIEL
 %----------------------------------------------------------------------------------------
 
-\section*{Ziel}
+\begin{rSection}{ZIEL}
 
-Motivierte Fachkraft mit fundierter Erfahrung in Datenanalyse, Web-Scraping und Datenvisualisierung. Versiert in Python, Pandas, Jupyter, Power BI und SQL, suche ich eine Teilzeitstelle als Data Analyst, um datengetriebene Lösungen zu entwickeln, Geschäftsprozesse zu optimieren und zur digitalen Transformation in einem internationalen Team beizutragen.
+Detailorientierter Data Analyst mit Erfahrung in der Erstellung von \textbf{Power BI-Dashboards}, Gamification-Konzepten und Datenvisualisierung. Kompetent in Python, SQL und interdisziplinärer Zusammenarbeit, suche eine Werkstudentenstelle im Bereich Business Intelligence zur Unterstützung datengetriebener Entscheidungen.
+
+\end{rSection}
 
 %----------------------------------------------------------------------------------------
 %	AUSBILDUNG
 %----------------------------------------------------------------------------------------
 
-\section*{Ausbildung}
+\begin{rSection}{AUSBILDUNG}
 
-\textbf{Master in Global Software Development}, Hochschule Fulda \hfill März 2026 \\
-\textbf{Bachelor in Informatik}, COMSATS Lahore \hfill 2016 - 2020
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {Voraussichtlich März 2026}\\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
+
+\end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	FÄHIGKEITEN
+% FÄHIGKEITEN
 %----------------------------------------------------------------------------------------
 
-\section*{Fähigkeiten}
+\begin{rSection}{FÄHIGKEITEN}
 
-\textbf{Technische Fähigkeiten:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, Power BI, Git, Excel \\
-\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Zeitmanagement \\
-\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi
+\textbf{Technische Fähigkeiten:} Power BI, Python, Pandas, NumPy, SQL, Excel, Django, Git, Selenium, BeautifulSoup \\
+\textbf{Soft Skills:} Kommunikation, Teamarbeit, Problemlösung, Zeitmanagement, Anpassungsfähigkeit \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
+
+\end{rSection}
 
 %----------------------------------------------------------------------------------------
 %	BERUFSERFAHRUNG
 %----------------------------------------------------------------------------------------
 
-\section*{Berufserfahrung}
+\begin{rSection}{BERUFSERFAHRUNG}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022 \\
-Systems Limited, Lahore, Pakistan
-\begin{itemize}[left=0pt]
-    \item Automatisierte ETL-Prozesse und Datenpipelines mit Python (Beautiful Soup, Selenium).
-    \item Implementierte Echtzeit-Datenströme mit Kafka für effiziente Datenaufnahme und -verarbeitung.
-    \item Verwendete SQL zur Datentransformation und -integration in Pipelines.
-    \item Nutzte Power BI für Datenvisualisierung und Berichterstellung, um umsetzbare Erkenntnisse zu ermöglichen.
-    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%.
+\textbf{Junior Data Analyst} \hfill Jan 2021 – Juli 2022\\
+Systems Limited \hfill \textit{Lahore, Pakistan}
+\begin{itemize}
+    \item Entwickelte und optimierte \textbf{Power BI-Dashboards}, um datenbasierte Entscheidungen zu unterstützen.
+    \item Automatisierte \textbf{ETL-Prozesse} und Datenpipelines mit Python (Pandas, BeautifulSoup, Selenium).
+    \item Implementierte Gamification-Mechanismen zur Verbesserung der \textbf{Datenqualität} um 25\%.
+    \item Analysierte Daten aus verschiedenen Quellen und visualisierte Ergebnisse für Management-Reports.
+    \item Kollaborierte in interdisziplinären Teams mit IT, Controlling und anderen Fachbereichen.
 \end{itemize}
+
+\end{rSection}
 
 %----------------------------------------------------------------------------------------
 %	PROJEKTE
 %----------------------------------------------------------------------------------------
 
-\section*{Projekte}
+\begin{rSection}{PROJEKTE}
 
-\textbf{Datenanalyse-Dashboard:} Entwickelte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten (Python, Pandas). Sicherte Datenintegrität mit Vorverarbeitungspipelines, bereitgestellt in der Cloud für Echtzeitanalysen, und reduzierte die Datenverarbeitungszeit durch Fehlerbehandlung um 20\%. (Code verfügbar auf: github.com/Usama00004/SalesReport)
+\item \textbf{Optimierung von Power BI-Dashboards:} 
+Erstellte Dashboards zur Visualisierung von Beschaffungsdaten, implementierte Filter und interaktive Visualisierungen, um Trends und Optimierungspotenziale zu identifizieren. Reduzierte die Datenverarbeitungszeit um 20\% durch effiziente ETL-Pipelines.
 
-\textbf{Echtzeit-Datenströme:} Entwickelte und implementierte eine Pipeline für Echtzeit-Datenströme mit Apache Kafka und Apache Flink. Daten wurden in PostgreSQL für die weitere Analyse gespeichert, was latenzarme Einblicke ermöglichte. (Code verfügbar auf: github.com/Usama00004/StreamAnalysis)
+\item \textbf{Gamification-Tool für Datenqualität:} 
+Entwickelte ein Konzept zur Verbesserung der Datenqualität durch spielerische Anreize. Implementierte Tools zur Echtzeit-Datenvalidierung mit Python und SQL, was die Datenintegrität um 30\% erhöhte.
 
-\textbf{Sentiment-Analyse:} Automatisierte Datenerfassung mit Beautiful Soup und Selenium, bereinigte und validierte Daten mit Pandas, und setzte Scikit-learn-Modelle ein. Reduzierte den manuellen Aufwand um 40\%. (Code verfügbar auf: github.com/Usama00004/Twitter-Sentiment-Analysis)
+\item \textbf{Echtzeit-Datenanalyse mit Kafka:} 
+Setzte eine Pipeline für Echtzeit-Datenströme mit \textbf{Apache Kafka} auf, um große Datenmengen effizient zu verarbeiten. Die Daten wurden in \textbf{PostgreSQL} gespeichert und für Analyse-Dashboards genutzt.
+
+\end{rSection}
 
 %----------------------------------------------------------------------------------------
 %	VERÖFFENTLICHUNGEN
 %----------------------------------------------------------------------------------------
 
-\section*{Veröffentlichungen}
-
-\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Erforschung eines Ansatzes zur Arbeitslastplanung in Cloud-Rechenzentren. Veröffentlicht im MDPI Energies Journal. (Artikel verfügbar auf: www.mdpi.com/1996-1073/15/7/2541)
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:}  
+Veröffentlicht im MDPI Energies Journal. Forschung zur Optimierung von Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen.  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{Verfügbar auf MDPI Energies}.
+\end{rSection}
 
 \end{document}
