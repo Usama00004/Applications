@@ -1,4 +1,4 @@
-Company Name : Daimler Truck AG
+Company Name : ODDO BHF
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
 
@@ -30,18 +30,22 @@ Date : 09/dec/2024
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
     
-    Greenventory GmbH \\
-    Georges-Köhler-Allee 302 \\
-    Freiburg , 79110 \\
+    ODDO BHF SE \\
+     Gallusanlage 8 \\
+    Frankfurt am Main , 60329 \\
     Germany 
+
+ 
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Moltke Strasse 35 \\
-    Fulda, 36035 \\
+    Hedderichstraße 47A \\
+    Frankfurt am Main, 60594 \\
     Germany \\
+
+    
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -50,7 +54,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Werkstudent Datascience Job ID 13058280}
+\textbf{Application for the Position of Working Student (m/w/d) - Data Analytics}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -61,21 +65,19 @@ Date : 09/dec/2024
 
 Dear Hiring Manager,
 
-Dear Hiring Team at Henkel,
+I am excited to apply for the position of Work student Data Analyst within your Data Excellence Team. With 1.5 years of experience in data analysis and governance, combined with a passion for fostering data-driven decision-making, I am eager to contribute to your mission of advancing data culture and driving meaningful transformation within your organization.
 
-I am excited to apply for the Internship position in the Data and Analytics team, as advertised. With 1.5 years of hands-on experience in data analytics and a strong academic foundation in software development, I am eager to bring my technical expertise and passion for data science to support Greenventory's innovative projects in energy analytics.
+In my professional journey, I have successfully collaborated with cross-functional teams to analyze data trends, develop insightful reports, and empower stakeholders with actionable insights. My technical expertise includes Python, SQL, Power BI, and data visualization, enabling me to construct dynamic dashboards that align with business needs. I have also delivered technical training sessions and supported teams in adopting best practices for data documentation and quality assurance, ensuring data integrity and consistency across projects.
 
-As a Google Professional Certified Data Analyst, I have honed my skills in Python (emphasizing clean, efficient code), SQL, Pandas, and NumPy, alongside experience in machine learning, statistical analysis, and energy modeling. My academic journey, including my current Master’s studies in Global Software Development at Hochschule Fulda, complements this expertise with a strong focus on problem-solving and the ability to ideate, plan, and implement complex analytics projects.
+Your focus on enhancing data culture resonates strongly with my professional ethos. I have experience engaging analytics communities through knowledge-sharing content and promoting data excellence initiatives within organizations. Furthermore, I have worked on evaluating and implementing modern data tools to streamline processes and improve analytics outcomes, aligning perfectly with your emphasis on innovation and tool modernization.
 
-In my professional journey, I have worked on diverse tasks including data preprocessing, cleaning, modeling, and dashboard creation. For example, I led the development of an analytics dashboard in a project where actionable insights streamlined decision-making. Additionally, my experience extends to environmental data analysis, reflected in projects like AquaMetrics, where I optimized resources for sustainable outcomes.
+I am particularly drawn to this role’s connection to the financial sector, as it offers an opportunity to deepen my understanding of data challenges within diverse business contexts. My ability to quickly adapt to complex regulatory environments and my proactive approach to resolving data discrepancies make me well-suited to contribute to your data governance initiatives.
 
-Beyond technical skills, I bring a proactive mindset and a collaborative spirit, enabling me to work effectively in diverse teams. With B1-level proficiency in German and fluency in English, I can communicate seamlessly in multicultural settings, fostering strong professional relationships.
+Based in Frankfurt, I am excited by the opportunity to work closely with IT professionals, business experts, and data analysts to foster a culture of data-driven excellence. I am confident that my technical expertise, collaborative spirit, and passion for analytics innovation align with the needs of your team.
 
-Greenventory’s commitment to innovation resonates deeply with my own aspirations to leverage data science for impactful solutions. I am particularly inspired by the opportunity to collaborate with product owners, data scientists, and engineers, contributing to energy models and machine learning techniques to drive efficient decision-making.
+Thank you for considering my application. I look forward to the possibility of discussing how I can support your team in driving impactful data transformations.
 
-I would be thrilled to contribute my skills and enthusiasm to Greenventory’s data-driven journey and look forward to the possibility of discussing how I can add value to your team.
 
-Thank you for considering my application.
 
 
 
@@ -88,7 +90,6 @@ Usama Tahir \\
 \href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
 
 \end{document}
-
 
 ----------------------------------------------------------------------------
 
