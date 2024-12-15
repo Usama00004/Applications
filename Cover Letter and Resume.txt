@@ -1,4 +1,4 @@
-Company Name : TK Elevator GmbH
+Company Name : Incuda GmbH
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
@@ -29,18 +29,17 @@ Date : 09/dec/2024
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
     
-    TK Elevator GmbH\\
-    E-Plus-Strasse 1 \\
-    40472, Düsseldorf\\
+    Incuda GmbH \\
+    Hansastraße 15 \\
+    80686 München \\
     Germany 
-    
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    HauptStrasse 43 \\
-    44894, Bochum\\
+    Romerstadter Strasse 3 \\
+    86199 Augsberg \\
     Germany \\
     \vspace{1cm} % Adjust the space as needed
     \today
@@ -50,7 +49,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Working Student Business Development \& Marketing Strategy (d/f/m)- Global Field}
+\textbf{Application for the Position of Business Intelligence / Data Science Student}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -61,15 +60,15 @@ Date : 09/dec/2024
 
 Dear Hiring Manager,
 
+I am excited to apply for the Business Intelligence / Data Science Student position at incuda GmbH. With 1.5 years of hands-on experience in data analytics, SQL development, and dashboard creation, combined with my academic background in Global Software Development at Hochschule Fulda, I am eager to contribute to your mission of driving data-driven success for e-commerce and multi-channel retail clients.
 
-I am excited to apply for the Internship position in Business Development and Marketing Strategy within your Global Field function. With 1.5 years of hands-on experience in data analytics, reporting tools, and stakeholder coordination, combined with my academic background in Global Software Development at Hochschule Fulda, I am eager to contribute to your mission of advancing mobility solutions worldwide.
+During my professional journey, I have developed strong skills in SQL, Power BI, and data modeling. In previous projects, I created dashboards and reports that delivered actionable insights, optimized data quality, and streamlined decision-making processes. My experience in data preprocessing, transformation, and analysis has equipped me with the ability to handle complex datasets and ensure high data integrity.
 
-As a Google Professional Certified Data Analyst, I have developed strong skills in Excel, Power BI, Python, and SQL. In my previous role as a Junior Data Analyst, I optimized reporting processes, created interactive dashboards, and ensured the timely submission of high-quality performance data to support strategic decision-making. These experiences have honed my ability to analyze complex datasets and deliver actionable insights.
+I am particularly drawn to incuda’s focus on data-driven business strategies and the opportunity to support the evolution of your BI platform. My understanding of e-commerce data and online marketing analytics, coupled with my collaborative mindset and problem-solving skills, will enable me to consolidate and specify customer requirements effectively. Additionally, my fluency in English and B1-level proficiency in German allow me to communicate seamlessly in multicultural environments.
 
-I thrive in international environments and have collaborated with diverse teams to align global strategies with regional market needs. My proactive mindset, sense of ownership, and ability to communicate effectively in English (fluent) and German (B1 level) enable me to act as a vital link between global and regional teams. I am enthusiastic about supporting transformation projects, enhancing customer engagement strategies, and driving continuous improvement in business development practices.
+I am enthusiastic about the prospect of contributing to incuda’s innovative BI solutions and helping your clients achieve optimized, data-driven outcomes. I would welcome the opportunity to discuss how my skills and experience align with your needs.
 
-I am available to work 20 hours per week for at least six months and would welcome the opportunity to discuss how my skills and passion for innovation can add value to TK Elevator’s mission. Thank you for considering my application, and I look forward to the possibility of joining your team.
-
+Thank you for considering my application. I look forward to the possibility of joining your team and supporting incuda’s mission to “DATA-DRIVE YOUR BUSINESS.”
 
 \vspace{0.5cm}
 
@@ -80,6 +79,7 @@ Usama Tahir \\
 \href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
 
 \end{document}
+
 
 
 
@@ -109,8 +109,7 @@ Usama Tahir \\
 
 \begin{rSection}{OBJECTIVE}
 
-Data Analyst skilled in Python, SQL, Excel, Power BI, and CI/CD workflows. Experienced in reporting, data visualization, and stakeholder coordination. Pursuing a degree in Global Software Development and seeking a part-time internship to deliver data-driven insights, optimize reporting processes, and support business development strategies.
-
+Detail-oriented Data Analyst with experience in SQL, data preprocessing, and dashboard development. Proficient in Python, Power BI, and data modeling within BI and Data Warehouse contexts. Seeking a part-time role to support BI platform development, create insightful reports, and optimize data-driven decision-making for e-commerce and multi-channel retail businesses.
 
 \end{rSection}
 
@@ -131,7 +130,8 @@ Data Analyst skilled in Python, SQL, Excel, Power BI, and CI/CD workflows. Exper
 
 \begin{rSection}{Skills}
 
-\textbf{Technical Skills:} Excel, Power BI, SQL, Python, Data Visualization, Reporting Automation, MS Office Suite, Git, Stakeholder Management \\
+\textbf{Technical Skills:} SQL, Power BI, Python, Data Modeling, Data Preprocessing, Excel, Git, Data Warehousing, Dashboards, Reporting \\
+
 \textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
 \textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
 
