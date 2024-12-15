@@ -1,4 +1,4 @@
-Company Name :Toyota
+Company Name :Novo
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
@@ -29,9 +29,9 @@ Date : 09/dec/2024
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
     
-    Greenventory GmbH \\
-    Georges-Köhler-Allee 302 \\
-    Freiburg , 79110 \\
+    Novo AI \\
+    Hollerithallee 17 \\
+    Hannover , 30419 \\
     Germany 
 \end{minipage}%
 \hfill
@@ -49,7 +49,8 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Werkstudent (m/w/d) Regulatory Reporting Job ID 13058280}
+\textbf{Application for the Position of 
+Data Engineer Intern (Mandatory/Pflichtpraktikum) (w/m/d)}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -60,23 +61,18 @@ Date : 09/dec/2024
 
 Dear Hiring Manager,
 
+I am excited to apply for the Data Engineer Intern position at NOVO AI. With one years of hands-on experience in data analytics, software development, and data engineering, I am eager to contribute to your machine learning projects while expanding my skills within a dynamic and innovative environment.
 
-I am excited to apply for the Internship position in the Data and Analytics team, as advertised. With 1.5 years of hands-on experience in data analytics and a strong academic foundation in software development, I am eager to bring my technical expertise and passion for data science to support Greenventory's innovative projects in energy analytics.
+During my academic journey in Global Software Development at Hochschule Fulda, I gained a solid foundation in Python programming, data processing, and Linux systems. As a Google Professional Certified Data Analyst, I have worked extensively with Python (including libraries like Pandas and NumPy), SQL, and data pipelines. My experience includes tasks such as:
 
-As a Google Professional Certified Data Analyst, I have honed my skills in Python (emphasizing clean, efficient code), SQL, Pandas, and NumPy, alongside experience in machine learning, statistical analysis, and energy modeling. My academic journey, including my current Master’s studies in Global Software Development at Hochschule Fulda, complements this expertise with a strong focus on problem-solving and the ability to ideate, plan, and implement complex analytics projects.
+Data preprocessing and cleaning for efficient modeling.
+Developing and maintaining automated data workflows.
+Troubleshooting data issues and optimizing processes for performance.
+In one notable project, I led the creation of an analytics dashboard that streamlined decision-making by providing actionable insights. Additionally, my experience in data engineering extends to working with environmental datasets, where I optimized resources for sustainable outcomes.
 
-In my professional journey, I have worked on diverse tasks including data preprocessing, cleaning, modeling, and dashboard creation. For example, I led the development of an analytics dashboard in a project where actionable insights streamlined decision-making. Additionally, my experience extends to environmental data analysis, reflected in projects like AquaMetrics, where I optimized resources for sustainable outcomes.
+I am motivated by NOVO AI’s commitment to innovation and learning. With my proactive mindset and collaborative spirit, I am confident in my ability to support your engineering team, analyze and optimize data processes, and continuously improve through hands-on experience.
 
-Beyond technical skills, I bring a proactive mindset and a collaborative spirit, enabling me to work effectively in diverse teams. With B1-level proficiency in German and fluency in English, I can communicate seamlessly in multicultural settings, fostering strong professional relationships.
-
-Greenventory’s commitment to innovation resonates deeply with my own aspirations to leverage data science for impactful solutions. I am particularly inspired by the opportunity to collaborate with product owners, data scientists, and engineers, contributing to energy models and machine learning techniques to drive efficient decision-making.
-
-I would be thrilled to contribute my skills and enthusiasm to Greenventory’s data-driven journey and look forward to the possibility of discussing how I can add value to your team.
-
-Thank you for considering my application.
-
-
-
+I would welcome the opportunity to discuss how my skills and passion for data engineering can contribute to NOVO AI's success. Thank you for considering my application, and I look forward to the possibility of joining your team.
 \vspace{0.5cm}
 
 Thanks and Regards ,\\
@@ -91,7 +87,7 @@ Usama Tahir \\
 ----------------------------------------------------------------------------
 \documentclass{resume} % Use the custom resume.cls style
 
-\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\usepackage[left=0.2 in,top=0.1in,right=0.2 in,bottom=0.2in]{geometry} % Document margins
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Usama Tahir} % Add your full name here
@@ -107,7 +103,7 @@ Usama Tahir \\
 
 \begin{rSection}{OBJECTIVE}
 
-Detail-oriented Data Analyst with expertise in data preprocessing, energy modeling, and machine learning. Proficient in Python, statistical analysis, and visualization tools like Power BI and SQL. Seeking a Part-time Data Analyst role to analyze complex datasets, validate energy models, and drive sustainable, data-driven decision-making.
+Detail-oriented Data Engineer with experience in data preprocessing, process optimization, and machine learning pipelines. Proficient in Python, Linux, and SQL, with strong skills in data processing, troubleshooting, and automation. Seeking a Data Engineer Internship to support data-driven projects, optimize workflows, and contribute to innovative machine learning solutions.
 
 \end{rSection}
 
@@ -128,7 +124,7 @@ Detail-oriented Data Analyst with expertise in data preprocessing, energy modeli
 
 \begin{rSection}{Skills}
 
-\textbf{Technical Skills:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git, Excel \\
+\textbf{Technical Skills:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git, Linux \\
 \textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
 \textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
 
