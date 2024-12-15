@@ -1,21 +1,20 @@
-Company Name : Incuda GmbH
+Company Name : Grenzebach Maschinenbau GmbH
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
 \usepackage[empty]{fullpage}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{geometry}
 \usepackage{setspace}
-\usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+\geometry{top=1in, bottom=1in, left=0.7in, right=0.7in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -29,18 +28,25 @@ Date : 09/dec/2024
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
     
-    Incuda GmbH \\
-    Hansastraße 15 \\
-    80686 München \\
-    Germany 
+    Grenzebach Maschinenbau GmbH\\
+    Albanusstraße 1\\
+    86663 Asbach-Bäumenheim\\
+    Deutschland
+
+   
+
+
+
+    
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Romerstadter Strasse 3 \\
-    86199 Augsberg \\
-    Germany \\
+    Romerstadterstraße 3 \\
+    86199, Augsburg \\
+    Deutschland \\
+
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -49,7 +55,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Business Intelligence / Data Science Student}
+\textbf{Bewerbung auf die Stelle Werkstudent Data Science / Digitaler Zwilling (m/w/d) }
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -58,21 +64,18 @@ Date : 09/dec/2024
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-Dear Hiring Manager,
+Sehr geehrte Damen und Herren,
 
-I am excited to apply for the Business Intelligence / Data Science Student position at incuda GmbH. With 1.5 years of hands-on experience in data analytics, SQL development, and dashboard creation, combined with my academic background in Global Software Development at Hochschule Fulda, I am eager to contribute to your mission of driving data-driven success for e-commerce and multi-channel retail clients.
+mit 1,5 Jahren praktischer Erfahrung in der Datenanalyse und Datenverarbeitung sowie fundierten Kenntnissen in Python und SQL bewerbe ich mich mit Begeisterung für die Position als Werkstudent im Bereich Data Science / Simulation in Ihrem Team. Die Aussicht, an Forschungsprojekten mitzuwirken und spannende Technologien kennenzulernen, motiviert mich sehr.
 
-During my professional journey, I have developed strong skills in SQL, Power BI, and data modeling. In previous projects, I created dashboards and reports that delivered actionable insights, optimized data quality, and streamlined decision-making processes. My experience in data preprocessing, transformation, and analysis has equipped me with the ability to handle complex datasets and ensure high data integrity.
+Während meines Studiums im Bereich Global Software Development an der Hochschule Fulda habe ich Kenntnisse in statistischen Methoden, Modellentwicklung und der Arbeit mit Datenbanken erworben. In bisherigen Projekten habe ich eigenständig Datenanalysen durchgeführt, automatisierte Workflows entwickelt und Ergebnisse in verständlichen Berichten und Visualisierungen präsentiert. Die Nutzung von GitHub zur Versionskontrolle und Zusammenarbeit ist mir ebenfalls vertraut.
 
-I am particularly drawn to incuda’s focus on data-driven business strategies and the opportunity to support the evolution of your BI platform. My understanding of e-commerce data and online marketing analytics, coupled with my collaborative mindset and problem-solving skills, will enable me to consolidate and specify customer requirements effectively. Additionally, my fluency in English and B1-level proficiency in German allow me to communicate seamlessly in multicultural environments.
+Ich arbeite gerne eigeninitiativ und schätze die Zusammenarbeit im Team. Meine Deutschkenntnisse auf B1-Niveau (aktuell besuche ich einen B2-Kurs) sowie meine fließenden Englischkenntnisse ermöglichen mir eine klare Kommunikation in einem internationalen Umfeld.
 
-I am enthusiastic about the prospect of contributing to incuda’s innovative BI solutions and helping your clients achieve optimized, data-driven outcomes. I would welcome the opportunity to discuss how my skills and experience align with your needs.
-
-Thank you for considering my application. I look forward to the possibility of joining your team and supporting incuda’s mission to “DATA-DRIVE YOUR BUSINESS.”
-
+Ich freue mich darauf, meine Fähigkeiten in Ihrem Unternehmen einzubringen, an innovativen Projekten mitzuwirken und von Ihrem erfahrenen Team zu lernen. Über die Gelegenheit zu einem persönlichen Gespräch würde ich mich sehr freuen.
 \vspace{0.5cm}
 
-Thanks and Regards ,\\
+Mit freundlichen Grüßen,\\
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
 \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
@@ -90,97 +93,101 @@ Usama Tahir \\
 
 
 
-
 \documentclass{resume} % Use the custom resume.cls style
 
-\usepackage[left=0.2 in,top=0.2in,right=0.2 in,bottom=0.2in]{geometry} % Document margins
+\usepackage[left=0.5in, top=0.5in, right=0.5in, bottom=0.5in]{geometry} % Page margins
+\usepackage{hyperref} % For hyperlinks
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir} % Add your full name here
-\address{+49 17684973934 \\  Germany}
-\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{Linked In} \\ 
-\href{https://github.com/Usama00004}{Git}} 
+
+\name{Usama Tahir} % Full name
+\address{+49 176 84973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ \href{https://github.com/Usama00004}{GitHub}}
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	OBJECTIVE
+%	ZIEL
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{OBJECTIVE}
+\begin{rSection}{ZIEL}
 
-Detail-oriented Data Analyst with experience in SQL, data preprocessing, and dashboard development. Proficient in Python, Power BI, and data modeling within BI and Data Warehouse contexts. Seeking a part-time role to support BI platform development, create insightful reports, and optimize data-driven decision-making for e-commerce and multi-channel retail businesses.
+Detailorientierter Softwareentwickler mit Erfahrung in Datenanalyse, Datenverarbeitung und Simulation. Kompetent in Python, SQL, Power BI und Datenbanken. Suche eine Teilzeitstelle im Bereich Data Science / Simulation, um datengetriebene Prozesse zu optimieren und an Forschungsprojekten mitzuwirken.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
+%	AUSBILDUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Education}
+\begin{rSection}{AUSBILDUNG}
 
-{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026}\\
-{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026} \\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% TECHNICAL STRENGTHS
+% FÄHIGKEITEN
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Skills}
+\begin{rSection}{FÄHIGKEITEN}
 
-\textbf{Technical Skills:} SQL, Power BI, Python, Data Modeling, Data Preprocessing, Excel, Git, Data Warehousing, Dashboards, Reporting \\
-
-\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
-\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
+\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, Pandas, NumPy, Git, Datenbanken, Simulation, Datenmodellierung \\
+\textbf{Soft Skills:} Kommunikation, Problemlösung, Eigeninitiative, Teamarbeit \\
+\textbf{Sprachen:} Deutsch (B1, aktuell B2-Kurs), Englisch (C1), Urdu, Punjabi, Hindi
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	EXPERIENCE
+%	BERUFSERFAHRUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{EXPERIENCE}
+\begin{rSection}{BERUFSERFAHRUNG}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
-Systems Limited \hfill \textit{Lahore, Pakistan}
+\textbf{Junior Data Analyst} \hfill \textit{Jan 2021 - Juli 2022} \\
+\textit{Systems Limited, Lahore, Pakistan}
 \begin{itemize}
-    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium).
-    \item Implemented real-time streaming workflows with Kafka for efficient data ingestion and processing.
-    \item Utilized SQL for data transformation and integration across pipelines.
-    \item Leveraged Power BI for data visualization and reporting, enabling actionable insights
-     \item Improved data availability by 30\% and reduced processing time by 20\% enhancing decision-making accuracy.
+    \item Entwickelte automatisierte ETL-Prozesse und Datenpipelines mit Python (Pandas, BeautifulSoup, Selenium).
+    \item Implementierte Echtzeit-Datenströme mit Apache Kafka für effiziente Datenaufnahme und -verarbeitung.
+    \item Erstellte SQL-Abfragen zur Datentransformation und Integration in Datenpipelines.
+    \item Visualisierte Analyseergebnisse mit Power BI zur Unterstützung datengetriebener Entscheidungen.
+    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	PROJECTS
+%	PROJEKTE
 %----------------------------------------------------------------------------------------
-\begin{rSection}{PROJECTS}
 
-\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
-(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\begin{rSection}{PROJEKTE}
 
+\textbf{Datenanalyse-Dashboard} \\
+Erstellte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten mit Python (Pandas). Optimierte die Datenverarbeitung und reduzierte die Verarbeitungszeit um 20\%.  
+\href{https://github.com/Usama00004/SalesReport}{GitHub-Link}
 
-\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
-(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+\textbf{Simulation eines digitalen Zwillings} \\
+Entwickelte eine Simulation zur Analyse von Systemverhalten mit Python und SQL. Validierte die Datenqualität und optimierte Modelle zur Verbesserung der Simulationsergebnisse.  
+\href{https://github.com/Usama00004/StreamAnalysis}{GitHub-Link}
 
-\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
-(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
-
-
-
-\end{rSection}
-
-\begin{rSection}{Publication}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies to optimize resource utilization and minimize energy consumption in cloud environments 
-(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+\textbf{Sentiment-Analyse} \\
+Automatisierte die Datenerfassung mit BeautifulSoup und Selenium. Verarbeitete und analysierte die Daten mit Pandas und SQL, um Echtzeitanalysen mit Scikit-Learn-Modellen durchzuführen.  
+\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub-Link}
 
 \end{rSection}
 
+%----------------------------------------------------------------------------------------
+%	VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
 
+\begin{rSection}{VERÖFFENTLICHUNGEN}
 
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} \\
+Veröffentlicht im MDPI Energies Journal: Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen.  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}
+
+\end{rSection}
 
 \end{document}
+
