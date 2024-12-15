@@ -1,5 +1,5 @@
-Company Name : Grenzebach Maschinenbau GmbH
-Date : 09/dec/2024
+Company Name : QUEO GmbH
+Date : 15/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
@@ -14,7 +14,7 @@ Date : 09/dec/2024
 \usepackage{setspace}
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.7in, right=0.7in}
+\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -27,25 +27,23 @@ Date : 09/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    
-    Grenzebach Maschinenbau GmbH\\
-    Albanusstraße 1\\
-    86663 Asbach-Bäumenheim\\
+    QUEO GmbH\\
+    Harandter Str. 13\\
+    01159 Dresden\\
     Deutschland
 
-   
 
-
-
-    
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Romerstadterstraße 3 \\
-    86199, Augsburg \\
+    Fritz-Löffler-Str. 18 \\
+    01069 Dresden \\
     Deutschland \\
+
+    
+
 
     \vspace{1cm} % Adjust the space as needed
     \today
@@ -55,7 +53,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Bewerbung auf die Stelle Werkstudent Data Science / Digitaler Zwilling (m/w/d) }
+\textbf{Bewerbung auf die Stelle Werkstudent Data Science }
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -66,13 +64,16 @@ Date : 09/dec/2024
 
 Sehr geehrte Damen und Herren,
 
-mit 1,5 Jahren praktischer Erfahrung in der Datenanalyse und Datenverarbeitung sowie fundierten Kenntnissen in Python und SQL bewerbe ich mich mit Begeisterung für die Position als Werkstudent im Bereich Data Science / Simulation in Ihrem Team. Die Aussicht, an Forschungsprojekten mitzuwirken und spannende Technologien kennenzulernen, motiviert mich sehr.
+mit 1,5 Jahren praktischer Erfahrung in Datenanalyse, Datenverarbeitung und Prozessautomatisierung bewerbe ich mich mit Begeisterung für die Position als Werkstudent im Bereich Data Science bei queo. Besonders motiviert mich die Aussicht, zur Optimierung von Datenmanagement-Prozessen beizutragen und automatisierte Lösungen zu entwickeln.
 
-Während meines Studiums im Bereich Global Software Development an der Hochschule Fulda habe ich Kenntnisse in statistischen Methoden, Modellentwicklung und der Arbeit mit Datenbanken erworben. In bisherigen Projekten habe ich eigenständig Datenanalysen durchgeführt, automatisierte Workflows entwickelt und Ergebnisse in verständlichen Berichten und Visualisierungen präsentiert. Die Nutzung von GitHub zur Versionskontrolle und Zusammenarbeit ist mir ebenfalls vertraut.
+Während meines Studiums im Bereich Global Software Development an der Hochschule Fulda habe ich fundierte Kenntnisse in Python, SQL und Power BI erworben. In bisherigen Projekten habe ich Datenbereinigungsprozesse optimiert, interaktive Dashboards entwickelt und datengetriebene Analysen durchgeführt. Zudem verfüge ich über erste Erfahrungen mit NoCode-/LowCode-Plattformen und bin hoch motiviert, meine Fähigkeiten mit Tools wie n8n weiter auszubauen.
 
-Ich arbeite gerne eigeninitiativ und schätze die Zusammenarbeit im Team. Meine Deutschkenntnisse auf B1-Niveau (aktuell besuche ich einen B2-Kurs) sowie meine fließenden Englischkenntnisse ermöglichen mir eine klare Kommunikation in einem internationalen Umfeld.
+Mein analytisches Denkvermögen und meine strukturierte Arbeitsweise helfen mir dabei, Workflows zu entwickeln und Daten effizient zu visualisieren. Ich bringe Begeisterung für Data Governance und die Einhaltung von Sicherheitsstandards mit. Durch meine Sprachkenntnisse in Deutsch (B1, aktuell B2-Kurs) und Englisch (fließend) bin ich in der Lage, in einem internationalen Team klar zu kommunizieren.
 
-Ich freue mich darauf, meine Fähigkeiten in Ihrem Unternehmen einzubringen, an innovativen Projekten mitzuwirken und von Ihrem erfahrenen Team zu lernen. Über die Gelegenheit zu einem persönlichen Gespräch würde ich mich sehr freuen.
+Ich schätze das dynamische und flexible Arbeitsumfeld, das queo bietet, und freue mich darauf, in einem engagierten Team zu arbeiten, das Wert auf Zusammenarbeit und persönliche Weiterentwicklung legt. Es reizt mich besonders, an anspruchsvollen Projekten mitzuarbeiten und gemeinsam mit erfahrenen Kolleg*innen datengetriebene Prozesse zu optimieren.
+
+Über die Gelegenheit zu einem persönlichen Gespräch, in dem ich Sie von meiner Motivation und Eignung überzeugen kann, würde ich mich sehr freuen.
+
 \vspace{0.5cm}
 
 Mit freundlichen Grüßen,\\
@@ -88,21 +89,21 @@ Usama Tahir \\
 
 
 
+
 ---------------------------------------------------------------------------------------
 
 
 
 
-\documentclass{resume} % Use the custom resume.cls style
+\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
 
-\usepackage[left=0.5in, top=0.5in, right=0.5in, bottom=0.5in]{geometry} % Page margins
-\usepackage{hyperref} % For hyperlinks
+\usepackage[left=0.2 in,top=0.2in,right=0.2 in,bottom=0.2in]{geometry} % Seitenränder
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-
-\name{Usama Tahir} % Full name
-\address{+49 176 84973934 \\ Deutschland}
-\address{\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ \href{https://github.com/Usama00004}{GitHub}}
+\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}} 
 
 \begin{document}
 
@@ -112,7 +113,8 @@ Usama Tahir \\
 
 \begin{rSection}{ZIEL}
 
-Detailorientierter Softwareentwickler mit Erfahrung in Datenanalyse, Datenverarbeitung und Simulation. Kompetent in Python, SQL, Power BI und Datenbanken. Suche eine Teilzeitstelle im Bereich Data Science / Simulation, um datengetriebene Prozesse zu optimieren und an Forschungsprojekten mitzuwirken.
+Detailorientierter Data-Science-Student mit Erfahrung in Datenanalyse, Automatisierung und Visualisierung. Kompetent in Python, SQL, Power BI. Suche eine Teilzeitstelle, um Datenprozesse zu optimieren und datengetriebene Entscheidungen zu unterstützen.
+
 
 \end{rSection}
 
@@ -122,7 +124,7 @@ Detailorientierter Softwareentwickler mit Erfahrung in Datenanalyse, Datenverarb
 
 \begin{rSection}{AUSBILDUNG}
 
-{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026} \\
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
 {\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
@@ -133,9 +135,10 @@ Detailorientierter Softwareentwickler mit Erfahrung in Datenanalyse, Datenverarb
 
 \begin{rSection}{FÄHIGKEITEN}
 
-\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, Pandas, NumPy, Git, Datenbanken, Simulation, Datenmodellierung \\
-\textbf{Soft Skills:} Kommunikation, Problemlösung, Eigeninitiative, Teamarbeit \\
-\textbf{Sprachen:} Deutsch (B1, aktuell B2-Kurs), Englisch (C1), Urdu, Punjabi, Hindi
+\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, n8n, Pandas, NumPy, Git, Datenvisualisierung, Datenmanagement, Prozessautomatisierung \\
+
+\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Zeitmanagement \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
 
@@ -145,14 +148,13 @@ Detailorientierter Softwareentwickler mit Erfahrung in Datenanalyse, Datenverarb
 
 \begin{rSection}{BERUFSERFAHRUNG}
 
-\textbf{Junior Data Analyst} \hfill \textit{Jan 2021 - Juli 2022} \\
-\textit{Systems Limited, Lahore, Pakistan}
+\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
+Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Entwickelte automatisierte ETL-Prozesse und Datenpipelines mit Python (Pandas, BeautifulSoup, Selenium).
-    \item Implementierte Echtzeit-Datenströme mit Apache Kafka für effiziente Datenaufnahme und -verarbeitung.
-    \item Erstellte SQL-Abfragen zur Datentransformation und Integration in Datenpipelines.
-    \item Visualisierte Analyseergebnisse mit Power BI zur Unterstützung datengetriebener Entscheidungen.
-    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%.
+    \item Automatisierte ETL-Prozesse und Datenpipelines mit Python (Beautiful Soup, Selenium).
+    \item Implementierte Echtzeit-Datenströme mit Kafka für effiziente Datenaufnahme und -verarbeitung.
+    \item Nutzte Power BI für Datenvisualisierung und Berichterstellung, um umsetzbare Erkenntnisse zu ermöglichen.
+    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%, wodurch die Entscheidungsfindung verbessert wurde.
 \end{itemize}
 
 \end{rSection}
@@ -160,20 +162,16 @@ Detailorientierter Softwareentwickler mit Erfahrung in Datenanalyse, Datenverarb
 %----------------------------------------------------------------------------------------
 %	PROJEKTE
 %----------------------------------------------------------------------------------------
-
 \begin{rSection}{PROJEKTE}
 
-\textbf{Datenanalyse-Dashboard} \\
-Erstellte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten mit Python (Pandas). Optimierte die Datenverarbeitung und reduzierte die Verarbeitungszeit um 20\%.  
-\href{https://github.com/Usama00004/SalesReport}{GitHub-Link}
+\item \textbf{Datenanalyse-Dashboard:} Entwickelte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten (Python, Pandas). Sicherte Datenintegrität mit Vorverarbeitungspipelines, bereitgestellt in der Cloud für Echtzeitanalysen, und reduzierte die Datenverarbeitungszeit durch Fehlerbehandlung um 20%. 
+(verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\textbf{Simulation eines digitalen Zwillings} \\
-Entwickelte eine Simulation zur Analyse von Systemverhalten mit Python und SQL. Validierte die Datenqualität und optimierte Modelle zur Verbesserung der Simulationsergebnisse.  
-\href{https://github.com/Usama00004/StreamAnalysis}{GitHub-Link}
+\item \textbf{Echtzeit-Datenströme:} Entwickelte und implementierte eine Pipeline für Echtzeit-Datenströme, um hochfrequente Daten mit Apache Kafka und Apache Flink zu verarbeiten und zu analysieren. Daten wurden in Echtzeit aufgenommen, transformiert und in PostgreSQL für die weitere Analyse gespeichert, was latenzarme Einblicke und effiziente Datenverarbeitung für groß angelegte Systeme ermöglichte 
+(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
-\textbf{Sentiment-Analyse} \\
-Automatisierte die Datenerfassung mit BeautifulSoup und Selenium. Verarbeitete und analysierte die Daten mit Pandas und SQL, um Echtzeitanalysen mit Scikit-Learn-Modellen durchzuführen.  
-\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub-Link}
+\item \textbf{Sentiment-Analyse:} Entwickelte eine Datenpipeline, die Web-Scraping und Sentiment-Analyse integriert. Automatisierte die Datenerfassung mit BeautifulSoup und Selenium, wodurch der manuelle Aufwand um 40\% reduziert wurde. Bereinigte und validierte Daten mit Pandas, speicherte sie in SQL und setzte Scikit-learn-Modelle für Echtzeitanalysen ein, wodurch die Verarbeitungseffizienz um 25\% verbessert wurde 
+(verfügbar auf \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
 
 \end{rSection}
 
@@ -182,12 +180,9 @@ Automatisierte die Datenerfassung mit BeautifulSoup und Selenium. Verarbeitete u
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{VERÖFFENTLICHUNGEN}
-
-\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} \\
-Veröffentlicht im MDPI Energies Journal: Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen.  
-\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Erforschung und Entwicklung eines neuartigen Ansatzes zur hotspotbewussten Arbeitslastplanung und Serverplatzierung in heterogenen Cloud-Rechenzentren. Veröffentlicht im MDPI Energies Journal, schlägt das Papier innovative Algorithmen und Methoden zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen vor 
+(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
 
 \end{rSection}
 
 \end{document}
-
