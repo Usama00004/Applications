@@ -1,4 +1,4 @@
-Company Name : ODDO BHF
+Company Name : Infineon Technologies AG
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
 
@@ -30,22 +30,19 @@ Date : 09/dec/2024
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
     
-    ODDO BHF SE \\
-     Gallusanlage 8 \\
-    Frankfurt am Main , 60329 \\
-    Germany 
-
- 
+    Infineon Technologies AG \\
+    Am Campeon 1-15 \\
+    Neubiberg  85579  \\
+    Bavaria,Germany \\
+     
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Hedderichstraße 47A \\
-    Frankfurt am Main, 60594 \\
-    Germany \\
-
-    
+    Wiesendorfer Strasse 28 \\
+    Erlangen, 91056 \\
+    Bavaria,Germany \\
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -54,7 +51,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Working Student (m/w/d) - Data Analytics}
+\textbf{Application for the Position of Working Student  Automation and Data Analysis Job ID : HRC1096646}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -65,19 +62,16 @@ Date : 09/dec/2024
 
 Dear Hiring Manager,
 
-I am excited to apply for the position of Work student Data Analyst within your Data Excellence Team. With 1.5 years of experience in data analysis and governance, combined with a passion for fostering data-driven decision-making, I am eager to contribute to your mission of advancing data culture and driving meaningful transformation within your organization.
+I am excited to apply for the Internship position in your Data and Analytics team. With 1.5 years of hands-on experience in data analytics and a strong academic background in software development, I am eager to contribute my technical expertise and passion for data-driven solutions to support your innovative projects. As a Google Professional Certified Data Analyst, I have developed skills in Python (focusing on clean, efficient code), SQL, Pandas, and NumPy, with experience in data preprocessing, cleaning, analysis, and visualization. In a recent project, I created an analytics dashboard that delivered actionable insights, leading to more efficient decision-making processes.
 
-In my professional journey, I have successfully collaborated with cross-functional teams to analyze data trends, develop insightful reports, and empower stakeholders with actionable insights. My technical expertise includes Python, SQL, Power BI, and data visualization, enabling me to construct dynamic dashboards that align with business needs. I have also delivered technical training sessions and supported teams in adopting best practices for data documentation and quality assurance, ensuring data integrity and consistency across projects.
+Currently pursuing my Master’s in Global Software Development at Hochschule Fulda, I have gained experience in web-based development using XML, HTML, and Flask. I am familiar with tools like GitLab, Jira, and Tableau and have a strong desire to continuously learn and adapt to new technologies. My proactive mindset, problem-solving abilities, and collaborative spirit enable me to work effectively in diverse teams. With B1-level German proficiency and fluency in English, I can clearly communicate in multicultural settings and convey complex information to various audiences.
 
-Your focus on enhancing data culture resonates strongly with my professional ethos. I have experience engaging analytics communities through knowledge-sharing content and promoting data excellence initiatives within organizations. Furthermore, I have worked on evaluating and implementing modern data tools to streamline processes and improve analytics outcomes, aligning perfectly with your emphasis on innovation and tool modernization.
-
-I am particularly drawn to this role’s connection to the financial sector, as it offers an opportunity to deepen my understanding of data challenges within diverse business contexts. My ability to quickly adapt to complex regulatory environments and my proactive approach to resolving data discrepancies make me well-suited to contribute to your data governance initiatives.
-
-Based in Frankfurt, I am excited by the opportunity to work closely with IT professionals, business experts, and data analysts to foster a culture of data-driven excellence. I am confident that my technical expertise, collaborative spirit, and passion for analytics innovation align with the needs of your team.
-
-Thank you for considering my application. I look forward to the possibility of discussing how I can support your team in driving impactful data transformations.
+I am particularly drawn to the opportunity to analyze diverse data sources, develop automation solutions, and visualize insights using Tableau. I am confident that my background aligns well with the responsibilities outlined, and I am eager to contribute to your team's success. Thank you for considering my application—I look forward to the possibility of discussing how my skills and enthusiasm can add value to your organization.
 
 
+
+
+Thank you for considering my application.
 
 
 
@@ -90,6 +84,7 @@ Usama Tahir \\
 \href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
 
 \end{document}
+
 
 ----------------------------------------------------------------------------
 
@@ -111,7 +106,7 @@ Usama Tahir \\
 
 \begin{rSection}{OBJECTIVE}
 
-Detail-oriented Data Analyst with expertise in data preprocessing, energy modeling, and machine learning. Proficient in Python, statistical analysis, and visualization tools like Power BI and SQL. Seeking a Part-time Data Analyst role to analyze complex datasets, validate energy models, and drive sustainable, data-driven decision-making.
+Data Analyst with experience in Python, data preprocessing, SQL, and Power BI. Skilled in automation, data analysis and reporting. Pursuing a degree in Global Software Development and seeking a part-time role to deliver efficient, data-driven solutions.
 
 \end{rSection}
 
@@ -132,7 +127,7 @@ Detail-oriented Data Analyst with expertise in data preprocessing, energy modeli
 
 \begin{rSection}{Skills}
 
-\textbf{Technical Skills:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git, Excel \\
+\textbf{Technical Skills:} Python, Django, Flask, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git \\
 \textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
 \textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
 
@@ -185,4 +180,5 @@ Systems Limited \hfill \textit{Lahore, Pakistan}
 
 
 \end{document}
+
 
