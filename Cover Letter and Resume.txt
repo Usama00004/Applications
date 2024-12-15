@@ -1,4 +1,4 @@
-Company Name :Novo
+Company Name : Infineeon
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
@@ -29,18 +29,19 @@ Date : 09/dec/2024
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
     
-    Novo AI \\
-    Hollerithallee 17 \\
-    Hannover , 30419 \\
-    Germany 
+    Infineon Technologies AG \\
+    Am Campeon 1-15 \\
+    Neubiberg  85579  \\
+    Bavaria,Germany \\
+     
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Moltke Strasse 35 \\
-    Fulda, 36035 \\
-    Germany \\
+    Wiesendorfer Strasse 28 \\
+    Erlangen, 91056 \\
+    Bavaria,Germany \\
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -49,8 +50,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of 
-Data Engineer Intern (Mandatory/Pflichtpraktikum) (w/m/d)}
+\textbf{Working Student: Python based Automation solutions Job id : HRC0989324\_1}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -61,18 +61,16 @@ Data Engineer Intern (Mandatory/Pflichtpraktikum) (w/m/d)}
 
 Dear Hiring Manager,
 
-I am excited to apply for the Data Engineer Intern position at NOVO AI. With one years of hands-on experience in data analytics, software development, and data engineering, I am eager to contribute to your machine learning projects while expanding my skills within a dynamic and innovative environment.
+I am excited to apply for the Working Student position in your CAD infrastructure team. With 1.5 years of experience in Python development, data analytics, and automation—coupled with my current Master’s studies in Global Software Development at Hochschule Fulda—I am eager to contribute to optimizing and enhancing your CAD tools and workflows.
 
-During my academic journey in Global Software Development at Hochschule Fulda, I gained a solid foundation in Python programming, data processing, and Linux systems. As a Google Professional Certified Data Analyst, I have worked extensively with Python (including libraries like Pandas and NumPy), SQL, and data pipelines. My experience includes tasks such as:
+During my academic and professional journey, I have developed strong Python programming skills for automating data processing tasks, maintaining code documentation, and creating efficient workflows. My familiarity with version control systems (Git) and collaborative coding practices ensures that I can work effectively within a team-oriented environment. Additionally, I am comfortable working with both Linux and Windows operating systems and have experience troubleshooting and optimizing scripts for cross-platform compatibility.
 
-Data preprocessing and cleaning for efficient modeling.
-Developing and maintaining automated data workflows.
-Troubleshooting data issues and optimizing processes for performance.
-In one notable project, I led the creation of an analytics dashboard that streamlined decision-making by providing actionable insights. Additionally, my experience in data engineering extends to working with environmental datasets, where I optimized resources for sustainable outcomes.
+In my previous role as a Junior Data Analyst, I automated ETL processes, developed real-time data pipelines, and implemented dashboards for actionable insights, improving processing efficiency by 20%. This experience honed my ability to analyze and optimize processes, maintain documentation, and automate workflows—skills directly aligned with the responsibilities of this role.
 
-I am motivated by NOVO AI’s commitment to innovation and learning. With my proactive mindset and collaborative spirit, I am confident in my ability to support your engineering team, analyze and optimize data processes, and continuously improve through hands-on experience.
+I am enthusiastic about the opportunity to contribute to building and improving your CAD infrastructure and ensuring smooth and efficient software deployments. With fluent English and B1-level German proficiency, I am confident in my ability to collaborate effectively in a multicultural setting.
 
-I would welcome the opportunity to discuss how my skills and passion for data engineering can contribute to NOVO AI's success. Thank you for considering my application, and I look forward to the possibility of joining your team.
+I would welcome the chance to discuss how my skills and passion for automation and infrastructure support can add value to your team. Thank you for considering my application, and I look forward to the possibility of joining your innovative organization.
+
 \vspace{0.5cm}
 
 Thanks and Regards ,\\
@@ -84,97 +82,97 @@ Usama Tahir \\
 \end{document}
 
 
-----------------------------------------------------------------------------
-\documentclass{resume} % Use the custom resume.cls style
 
-\usepackage[left=0.2 in,top=0.1in,right=0.2 in,bottom=0.2in]{geometry} % Document margins
+----------------------------------------------------------------------------
+\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry} % Seitenränder
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir} % Add your full name here
-\address{+49 17684973934 \\  Germany}
-\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{Linked In} \\ 
-\href{https://github.com/Usama00004}{Git}} 
+\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}} 
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	OBJECTIVE
+%	ZIEL
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{OBJECTIVE}
+\begin{rSection}{ZIEL}
 
-Detail-oriented Data Engineer with experience in data preprocessing, process optimization, and machine learning pipelines. Proficient in Python, Linux, and SQL, with strong skills in data processing, troubleshooting, and automation. Seeking a Data Engineer Internship to support data-driven projects, optimize workflows, and contribute to innovative machine learning solutions.
+Detailorientierter Softwareingenieur mit Erfahrung in Datenanalyse, Web-Scraping und Visualisierung. Kompetent in Python, Power BI und SQL, suche eine Teilzeitstelle als Data Analyst, um datengetriebene Entscheidungen zu fördern.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
+%	AUSBILDUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Education}
+\begin{rSection}{AUSBILDUNG}
 
-{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026}\\
-{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% TECHNICAL STRENGTHS
+% FÄHIGKEITEN
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Skills}
+\begin{rSection}{FÄHIGKEITEN}
 
-\textbf{Technical Skills:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git, Linux \\
-\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
-\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
+\textbf{Technische Fähigkeiten:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git, Excel \\
+\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Zeitmanagement \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	EXPERIENCE
+%	BERUFSERFAHRUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{EXPERIENCE}
+\begin{rSection}{BERUFSERFAHRUNG}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
+\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium).
-    \item Implemented real-time streaming workflows with Kafka for efficient data ingestion and processing.
-    \item Utilized SQL for data transformation and integration across pipelines.
-    \item Leveraged Power BI for data visualization and reporting, enabling actionable insights
-     \item Improved data availability by 30\% and reduced processing time by 20\% enhancing decision-making accuracy.
+    \item Automatisierte ETL-Prozesse und Datenpipelines mit Python (Beautiful Soup, Selenium).
+    \item Implementierte Echtzeit-Datenströme mit Kafka für effiziente Datenaufnahme und -verarbeitung.
+    \item Verwendete SQL zur Datentransformation und -integration in Pipelines.
+    \item Nutzte Power BI für Datenvisualisierung und Berichterstellung, um umsetzbare Erkenntnisse zu ermöglichen.
+    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%, wodurch die Entscheidungsfindung verbessert wurde.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	PROJECTS
+%	PROJEKTE
 %----------------------------------------------------------------------------------------
-\begin{rSection}{PROJECTS}
+\begin{rSection}{PROJEKTE}
 
-\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
-(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Datenanalyse-Dashboard:} Entwickelte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten (Python, Pandas). Sicherte Datenintegrität mit Vorverarbeitungspipelines, bereitgestellt in der Cloud für Echtzeitanalysen, und reduzierte die Datenverarbeitungszeit durch Fehlerbehandlung um 20%. 
+(verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
+\item \textbf{Echtzeit-Datenströme:} Entwickelte und implementierte eine Pipeline für Echtzeit-Datenströme, um hochfrequente Daten mit Apache Kafka und Apache Flink zu verarbeiten und zu analysieren. Daten wurden in Echtzeit aufgenommen, transformiert und in PostgreSQL für die weitere Analyse gespeichert, was latenzarme Einblicke und effiziente Datenverarbeitung für groß angelegte Systeme ermöglichte 
+(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
-\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
-(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
-
-\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
-(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
-
-
+\item \textbf{Sentiment-Analyse:} Entwickelte eine Datenpipeline, die Web-Scraping und Sentiment-Analyse integriert. Automatisierte die Datenerfassung mit BeautifulSoup und Selenium, wodurch der manuelle Aufwand um 40\% reduziert wurde. Bereinigte und validierte Daten mit Pandas, speicherte sie in SQL und setzte Scikit-learn-Modelle für Echtzeitanalysen ein, wodurch die Verarbeitungseffizienz um 25\% verbessert wurde 
+(verfügbar auf \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
 
 \end{rSection}
 
-\begin{rSection}{Publication}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies to optimize resource utilization and minimize energy consumption in cloud environments 
-(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+%----------------------------------------------------------------------------------------
+%	VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Erforschung und Entwicklung eines neuartigen Ansatzes zur hotspotbewussten Arbeitslastplanung und Serverplatzierung in heterogenen Cloud-Rechenzentren. Veröffentlicht im MDPI Energies Journal, schlägt das Papier innovative Algorithmen und Methoden zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen vor 
+(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
 
 \end{rSection}
-
-
-
 
 \end{document}
+
 
