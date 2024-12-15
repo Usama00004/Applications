@@ -1,4 +1,4 @@
-Company Name : Infineeon
+Company Name : Wolfel
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
@@ -29,19 +29,19 @@ Date : 09/dec/2024
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
     
-    Infineon Technologies AG \\
-    Am Campeon 1-15 \\
-    Neubiberg  85579  \\
-    Bavaria,Germany \\
-     
+    Wölfel-Gruppe \\
+    Max-Planck-Straße 15 \\
+    Höchberg,97204 \\
+    Germany 
+
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Wiesendorfer Strasse 28 \\
-    Erlangen, 91056 \\
-    Bavaria,Germany \\
+    Moltke Strasse 35 \\
+    Fulda, 36035 \\
+    Germany \\
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -50,7 +50,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Working Student: Python based Automation solutions Job id : HRC0989324\_1}
+\textbf{Application for the Position of Internship Backend Development - IIoT / Data Engineering (m/w/d)}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -61,15 +61,18 @@ Date : 09/dec/2024
 
 Dear Hiring Manager,
 
-I am excited to apply for the Working Student position in your CAD infrastructure team. With 1.5 years of experience in Python development, data analytics, and automation—coupled with my current Master’s studies in Global Software Development at Hochschule Fulda—I am eager to contribute to optimizing and enhancing your CAD tools and workflows.
 
-During my academic and professional journey, I have developed strong Python programming skills for automating data processing tasks, maintaining code documentation, and creating efficient workflows. My familiarity with version control systems (Git) and collaborative coding practices ensures that I can work effectively within a team-oriented environment. Additionally, I am comfortable working with both Linux and Windows operating systems and have experience troubleshooting and optimizing scripts for cross-platform compatibility.
+I am excited to apply for the Backend Development - IIoT / Data Engineering Internship position at Wölfel in Höchberg. With 1.5 years of hands-on experience in data engineering, backend development, and a strong academic background in Global Software Development at Hochschule Fulda, I am eager to contribute to your innovative solutions in structural dynamics, vibration technology, and acoustics.
 
-In my previous role as a Junior Data Analyst, I automated ETL processes, developed real-time data pipelines, and implemented dashboards for actionable insights, improving processing efficiency by 20%. This experience honed my ability to analyze and optimize processes, maintain documentation, and automate workflows—skills directly aligned with the responsibilities of this role.
+During my studies, I have gained experience with key technologies such as Python, Docker, REST APIs, Git, and CI/CD pipelines. I have implemented data pipelines, automated processes, and maintained backend applications. In a recent project, I developed an end-to-end data streaming pipeline using Apache Kafka and Docker containers, optimizing data flow efficiency and ensuring seamless deployment. Additionally, I am familiar with Linux environments and have a basic understanding of Kubernetes (k3s) for container orchestration.
 
-I am enthusiastic about the opportunity to contribute to building and improving your CAD infrastructure and ensuring smooth and efficient software deployments. With fluent English and B1-level German proficiency, I am confident in my ability to collaborate effectively in a multicultural setting.
+I am enthusiastic about researching new technologies and continuously improving backend solutions for IIoT monitoring systems. My proactive mindset, ability to work independently, and collaborative spirit enable me to effectively tackle challenges and support the team’s goals. I am confident that my technical skills, combined with my passion for renewable energy and innovative solutions, align well with Wölfel's commitment to progress and excellence.
 
-I would welcome the chance to discuss how my skills and passion for automation and infrastructure support can add value to your team. Thank you for considering my application, and I look forward to the possibility of joining your innovative organization.
+I would welcome the opportunity to further discuss how my skills and enthusiasm can contribute to Wölfel’s success. Thank you for considering my application, and I look forward to the possibility of joining your team and driving innovation together.
+
+Thank you for considering my application.
+
+
 
 \vspace{0.5cm}
 
@@ -80,99 +83,104 @@ Usama Tahir \\
 \href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
 
 \end{document}
+\documentclass{resume} % Use the custom resume.cls style
 
+\usepackage[left=0.4in, top=0.2in, right=0.4in, bottom=0.2in]{geometry} % Document margins
+\usepackage{hyperref} % For hyperlinks
 
-
-----------------------------------------------------------------------------
-\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
-
-\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry} % Seitenränder
-\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
-\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
-\address{+49 17684973934 \\ Deutschland}
-\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
-\href{https://github.com/Usama00004}{GitHub}} 
+\name{Usama Tahir} % Full name
+\address{+49 17684973934 \\ Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	ZIEL
+%	OBJECTIVE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{ZIEL}
+\begin{rSection}{OBJECTIVE}
 
-Detailorientierter Softwareingenieur mit Erfahrung in Datenanalyse, Web-Scraping und Visualisierung. Kompetent in Python, Power BI und SQL, suche eine Teilzeitstelle als Data Analyst, um datengetriebene Entscheidungen zu fördern.
+Detail-oriented and motivated Backend Developer and Data Engineer with hands-on experience in Python, Docker, REST APIs, and CI/CD workflows. Proficient in developing and optimizing backend systems, data pipelines, and deployment processes. Seeking an internship in Backend Development and Data Engineering to contribute to IIoT solutions, automation, and innovative backend infrastructure.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	AUSBILDUNG
+%	EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{AUSBILDUNG}
+\begin{rSection}{Education}
 
-{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
-{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Expected March 2026} \\
+Focus: Backend Development, Data Engineering, DevOps
+
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020} \\
+Focus: Software Engineering, Data Processing, Automation
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% FÄHIGKEITEN
+%	TECHNICAL STRENGTHS
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{FÄHIGKEITEN}
+\begin{rSection}{Skills}
 
-\textbf{Technische Fähigkeiten:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git, Excel \\
-\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Zeitmanagement \\
-\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
+\textbf{Technical Skills:} Python, Docker, REST APIs, Git, CI/CD, Bash, SQL, Pandas, NumPy, Linux, Windows \\
+\textbf{DevOps Tools:} Docker, Kubernetes (k3s), GitLab CI/CD \\
+\textbf{Soft Skills:} Team Collaboration, Problem Solving, Adaptability, Communication \\
+\textbf{Languages:} English (Fluent), German (B1 CEFR), Urdu, Punjabi, Hindi
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	BERUFSERFAHRUNG
+%	EXPERIENCE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{BERUFSERFAHRUNG}
+\begin{rSection}{Experience}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
-Systems Limited \hfill \textit{Lahore, Pakistan}
+\textbf{Junior Data Analyst} \hfill \textit{Jan 2021 - July 2022} \\
+\textit{Systems Limited, Lahore, Pakistan}
 \begin{itemize}
-    \item Automatisierte ETL-Prozesse und Datenpipelines mit Python (Beautiful Soup, Selenium).
-    \item Implementierte Echtzeit-Datenströme mit Kafka für effiziente Datenaufnahme und -verarbeitung.
-    \item Verwendete SQL zur Datentransformation und -integration in Pipelines.
-    \item Nutzte Power BI für Datenvisualisierung und Berichterstellung, um umsetzbare Erkenntnisse zu ermöglichen.
-    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%, wodurch die Entscheidungsfindung verbessert wurde.
+    \item Developed and maintained automated ETL processes and data pipelines using Python (Pandas, Beautiful Soup, Selenium).
+    \item Built and optimized backend workflows with Docker and CI/CD pipelines for efficient data processing.
+    \item Implemented real-time data streaming using Apache Kafka, improving data ingestion and processing efficiency.
+    \item Created and deployed REST APIs to streamline data access and integration across applications.
+    \item Utilized SQL for data transformation, ensuring accuracy and consistency in data handling.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	PROJEKTE
+%	PROJECTS
 %----------------------------------------------------------------------------------------
-\begin{rSection}{PROJEKTE}
 
-\item \textbf{Datenanalyse-Dashboard:} Entwickelte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten (Python, Pandas). Sicherte Datenintegrität mit Vorverarbeitungspipelines, bereitgestellt in der Cloud für Echtzeitanalysen, und reduzierte die Datenverarbeitungszeit durch Fehlerbehandlung um 20%. 
-(verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\begin{rSection}{Projects}
 
-\item \textbf{Echtzeit-Datenströme:} Entwickelte und implementierte eine Pipeline für Echtzeit-Datenströme, um hochfrequente Daten mit Apache Kafka und Apache Flink zu verarbeiten und zu analysieren. Daten wurden in Echtzeit aufgenommen, transformiert und in PostgreSQL für die weitere Analyse gespeichert, was latenzarme Einblicke und effiziente Datenverarbeitung für groß angelegte Systeme ermöglichte 
-(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+\textbf{Real-Time Data Streaming Pipeline} \\
+Designed and implemented a real-time data pipeline using Apache Kafka and Docker. Processed and analyzed high-velocity data, storing it in PostgreSQL for further analysis. Enabled low-latency insights and efficient data handling for large-scale systems.  
+\href{https://github.com/Usama00004/StreamAnalysis}{View on GitHub}
 
-\item \textbf{Sentiment-Analyse:} Entwickelte eine Datenpipeline, die Web-Scraping und Sentiment-Analyse integriert. Automatisierte die Datenerfassung mit BeautifulSoup und Selenium, wodurch der manuelle Aufwand um 40\% reduziert wurde. Bereinigte und validierte Daten mit Pandas, speicherte sie in SQL und setzte Scikit-learn-Modelle für Echtzeitanalysen ein, wodurch die Verarbeitungseffizienz um 25\% verbessert wurde 
-(verfügbar auf \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+\textbf{Backend Development for Sentiment Analysis} \\
+Developed a backend system integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\%.  
+\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{View on GitHub}
+
+\textbf{Data Analysis Dashboard} \\
+Developed a backend data preprocessing pipeline using Python (Pandas) and created a Power BI dashboard to visualize trends. Implemented error handling to reduce data processing time by 20\%.  
+\href{https://github.com/Usama00004/SalesReport}{View on GitHub}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	VERÖFFENTLICHUNGEN
+%	PUBLICATION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{VERÖFFENTLICHUNGEN}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Erforschung und Entwicklung eines neuartigen Ansatzes zur hotspotbewussten Arbeitslastplanung und Serverplatzierung in heterogenen Cloud-Rechenzentren. Veröffentlicht im MDPI Energies Journal, schlägt das Papier innovative Algorithmen und Methoden zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen vor 
-(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+\begin{rSection}{Publication}
+
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+Developed a novel approach for workload scheduling and server placement in cloud data centers. Published in MDPI Energies Journal.  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{View Publication}
 
 \end{rSection}
 
 \end{document}
-
-
