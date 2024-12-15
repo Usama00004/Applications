@@ -1,20 +1,21 @@
-Company Name : QUEO GmbH
+Company Name :Trivago
 Date : 15/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
-\usepackage{fontspec}
-\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[empty]{fullpage}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{geometry}
 \usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -27,10 +28,15 @@ Date : 15/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    QUEO GmbH\\
-    Harandter Str. 13\\
-    01159 Dresden\\
-    Deutschland
+    
+    trivago N.V. \\
+    Kesselstra\ss e 5–7 \\
+    40221 Düsseldorf \\
+    Germany 
+
+
+    
+
 
 
 \end{minipage}%
@@ -38,13 +44,9 @@ Date : 15/dec/2024
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Fritz-Löffler-Str. 18 \\
-    01069 Dresden \\
-    Deutschland \\
-
-    
-
-
+    Haupstra\ss e 43\\
+    Bochum, 44894 \\
+    Germany \\
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -53,7 +55,7 @@ Date : 15/dec/2024
 
 % Subject line
 \noindent
-\textbf{Bewerbung auf die Stelle Werkstudent Data Science }
+\textbf{Application for the Position of Working Student - Core Data QA Engineering}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -62,21 +64,21 @@ Date : 15/dec/2024
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-Sehr geehrte Damen und Herren,
+Dear Hiring Manager,
 
-mit 1,5 Jahren praktischer Erfahrung in Datenanalyse, Datenverarbeitung und Prozessautomatisierung bewerbe ich mich mit Begeisterung für die Position als Werkstudent im Bereich Data Science bei queo. Besonders motiviert mich die Aussicht, zur Optimierung von Datenmanagement-Prozessen beizutragen und automatisierte Lösungen zu entwickeln.
+I am excited to apply for the Quality Assurance Engineer working student  position at trivago. With 1.5 years of hands-on experience in data analytics in my homeland and a strong academic background in software development, I am eager to contribute my skills to ensure the quality and reliability of trivago’s innovative hotel metasearch engine.
 
-Während meines Studiums im Bereich Global Software Development an der Hochschule Fulda habe ich fundierte Kenntnisse in Python, SQL und Power BI erworben. In bisherigen Projekten habe ich Datenbereinigungsprozesse optimiert, interaktive Dashboards entwickelt und datengetriebene Analysen durchgeführt. Zudem verfüge ich über erste Erfahrungen mit NoCode-/LowCode-Plattformen und bin hoch motiviert, meine Fähigkeiten mit Tools wie n8n weiter auszubauen.
+As a Google Professional Certified Data Analyst, I have developed a solid foundation in SQL, Python, and data analysis. My experience includes data preprocessing, cleaning, modeling, and creating dashboards to facilitate data-driven decisions. In a recent project, I led the development of an analytics dashboard that delivered actionable insights to streamline decision-making processes. This role sharpened my attention to detail, analytical skills, and ability to ensure data integrity — qualities essential for maintaining high data quality standards.
 
-Mein analytisches Denkvermögen und meine strukturierte Arbeitsweise helfen mir dabei, Workflows zu entwickeln und Daten effizient zu visualisieren. Ich bringe Begeisterung für Data Governance und die Einhaltung von Sicherheitsstandards mit. Durch meine Sprachkenntnisse in Deutsch (B1, aktuell B2-Kurs) und Englisch (fließend) bin ich in der Lage, in einem internationalen Team klar zu kommunizieren.
+Currently pursuing my Master's in Global Software Development at Hochschule Fulda, I am deepening my knowledge of software engineering principles and collaborative development. I am enthusiastic about working closely with developers, data engineers, and data analysts in an international team, learning to maintain and enhance the quality of complex data systems.
 
-Ich schätze das dynamische und flexible Arbeitsumfeld, das queo bietet, und freue mich darauf, in einem engagierten Team zu arbeiten, das Wert auf Zusammenarbeit und persönliche Weiterentwicklung legt. Es reizt mich besonders, an anspruchsvollen Projekten mitzuarbeiten und gemeinsam mit erfahrenen Kolleg*innen datengetriebene Prozesse zu optimieren.
+I am particularly drawn to trivago’s commitment to cutting-edge technology and continuous innovation. The opportunity to contribute to the integrity of trivago's data assets and support millions of travelers in making informed choices aligns perfectly with my passion for data quality and user-focused solutions.
 
-Über die Gelegenheit zu einem persönlichen Gespräch, in dem ich Sie von meiner Motivation und Eignung überzeugen kann, würde ich mich sehr freuen.
+I would welcome the chance to discuss how my skills and enthusiasm can contribute to trivago’s mission. Thank you for considering my application, and I look forward to the possibility of joining your dynamic team.
 
 \vspace{0.5cm}
 
-Mit freundlichen Grüßen,\\
+Thanks and Regards ,\\
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
 \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
@@ -85,104 +87,154 @@ Usama Tahir \\
 \end{document}
 
 
-
-
-
-
-
 ---------------------------------------------------------------------------------------
 
 
 
 
-\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
+\documentclass{resume} % Use the custom resume.cls style
 
-\usepackage[left=0.2 in,top=0.2in,right=0.2 in,bottom=0.2in]{geometry} % Seitenränder
+\usepackage[left=0.3 in,top=0.2in,right=0.3 in,bottom=0.2in]{geometry} % Document margins
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
-\address{+49 17684973934 \\ Deutschland}
-\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
-\href{https://github.com/Usama00004}{GitHub}} 
+\name{Usama Tahir} % Add your full name here
+\address{+49 17684973934 \\  Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{Linked In} \\ 
+\href{https://github.com/Usama00004}{Git}} 
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	ZIEL
+%	OBJECTIVE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{ZIEL}
+\begin{rSection}{OBJECTIVE}
 
-Detailorientierter Data-Science-Student mit Erfahrung in Datenanalyse, Automatisierung und Visualisierung. Kompetent in Python, SQL, Power BI. Suche eine Teilzeitstelle, um Datenprozesse zu optimieren und datengetriebene Entscheidungen zu unterstützen.
+Detail-oriented Data Analyst with expertise in data validation, QA, SQL, and Python. Proven experience ensuring data integrity through manual and automated testing. Seeking a Working Student Data Analyst QA role to validate complex datasets and support data-driven decision-making.
+
 
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	AUSBILDUNG
+%	EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{AUSBILDUNG}
+\begin{rSection}{Education}
 
-{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
-{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026}\\
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% FÄHIGKEITEN
+% TECHNICAL STRENGTHS
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{FÄHIGKEITEN}
-
-\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, n8n, Pandas, NumPy, Git, Datenvisualisierung, Datenmanagement, Prozessautomatisierung \\
-
-\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Zeitmanagement \\
-\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
+\begin{rSection}{Skills}
+\textbf{Technical Skills:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, SQL, PowerBI, Automated Testing, Data Quality Assurance, Data Analysis, Git \\
+\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	BERUFSERFAHRUNG
+%	EXPERIENCE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{BERUFSERFAHRUNG}
+\begin{rSection}{EXPERIENCE}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Automatisierte ETL-Prozesse und Datenpipelines mit Python (Beautiful Soup, Selenium).
-    \item Implementierte Echtzeit-Datenströme mit Kafka für effiziente Datenaufnahme und -verarbeitung.
-    \item Nutzte Power BI für Datenvisualisierung und Berichterstellung, um umsetzbare Erkenntnisse zu ermöglichen.
-    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%, wodurch die Entscheidungsfindung verbessert wurde.
+\item Conducted manual and automated testing to ensure data integrity and quality across ETL processes.
+\item Developed and maintained data validation checks using Python (Beautiful Soup, Selenium) to ensure accurate and reliable data ingestion.
+\item Utilized SQL to analyze, transform, and verify data within complex data pipelines.
+\item Created data quality reports and dashboards using Power BI to support data-driven decision-making.
+\item Improved data availability by 30\% and reduced processing time by 20\%, enhancing the reliability and accuracy of business decisions.
 \end{itemize}
 
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	PROJEKTE
-%----------------------------------------------------------------------------------------
-\begin{rSection}{PROJEKTE}
-
-\item \textbf{Datenanalyse-Dashboard:} Entwickelte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten (Python, Pandas). Sicherte Datenintegrität mit Vorverarbeitungspipelines, bereitgestellt in der Cloud für Echtzeitanalysen, und reduzierte die Datenverarbeitungszeit durch Fehlerbehandlung um 20%. 
-(verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
-
-\item \textbf{Echtzeit-Datenströme:} Entwickelte und implementierte eine Pipeline für Echtzeit-Datenströme, um hochfrequente Daten mit Apache Kafka und Apache Flink zu verarbeiten und zu analysieren. Daten wurden in Echtzeit aufgenommen, transformiert und in PostgreSQL für die weitere Analyse gespeichert, was latenzarme Einblicke und effiziente Datenverarbeitung für groß angelegte Systeme ermöglichte 
-(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
-
-\item \textbf{Sentiment-Analyse:} Entwickelte eine Datenpipeline, die Web-Scraping und Sentiment-Analyse integriert. Automatisierte die Datenerfassung mit BeautifulSoup und Selenium, wodurch der manuelle Aufwand um 40\% reduziert wurde. Bereinigte und validierte Daten mit Pandas, speicherte sie in SQL und setzte Scikit-learn-Modelle für Echtzeitanalysen ein, wodurch die Verarbeitungseffizienz um 25\% verbessert wurde 
-(verfügbar auf \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	VERÖFFENTLICHUNGEN
+%	PROJECTS
 %----------------------------------------------------------------------------------------
+\begin{rSection}{PROJECTS}
 
-\begin{rSection}{VERÖFFENTLICHUNGEN}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Erforschung und Entwicklung eines neuartigen Ansatzes zur hotspotbewussten Arbeitslastplanung und Serverplatzierung in heterogenen Cloud-Rechenzentren. Veröffentlicht im MDPI Energies Journal, schlägt das Papier innovative Algorithmen und Methoden zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen vor 
-(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
+(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+
+
+\item \textbf{Data Quality Assurance Pipeline:} Designed and implemented a data validation pipeline to ensure the accuracy and reliability of high-velocity data using Python and SQL. Data was ingested, transformed, and validated in real-time before being stored in databse, ensuring low-latency insights and maintaining data integrity for large-scale systems.
+
+
+\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
+(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+
+
 
 \end{rSection}
+
+\begin{rSection}{Publication}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies to optimize resource utilization and minimize energy consumption in cloud environments 
+(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+
+
 
 \end{document}
+---------------------------------------------------------------------------
+About the job
+When travelers are searching for a hotel, we want the obvious choice to be trivago! Our leading metasearch engine is super fast and constantly optimized - enabling millions of travelers to compare hotel prices from hundreds of booking sites and find great deals in just a few clicks. We use cutting-edge technology, real-time auction, and machine learning techniques with petabytes of data to create an experience - time and money saved! In the lively city of Düsseldorf, we seize opportunities to learn everyday, innovate, and make an enduring mark on the travel industry. At trivago you will find those who aren’t afraid of change but rather embrace it, turning every challenge into a pathway for growth. Join trivago, work with a great team, and grow with us!
+
+Join us in making a difference
+
+
+At the core of our mission to simplify hotel search and booking lies an experienced engineering team that drives innovation to take our metasearch engine to the next level. We're looking for a motivated student to join us as a Quality Assurance Engineer. You'll be an essential part of our engineering team, ensuring the quality and reliability of our software products. In this role, you'll learn how to embrace challenges, grow from feedback, and adapt to changes, ultimately making a significant impact on our business. Read more and apply today!
+
+How you’ll make an impact:
+
+
+Evaluate and synthesize information from various sources provided by different advertisers
+Ensure systems function correctly and that the retrieved data is accurate and reliable
+Enable and maintain business and technical data quality checks on data assets built by data engineers
+Conduct manual and automated tests on data assets to ensure the highest data quality
+
+
+What you'll learn:
+
+How a data-driven company functions internally and how decisions are made based on data
+How to work closely with an international team of experienced developers, data engineers, and data analysts
+How to work with cutting-edge data pipelines and data infrastructure
+
+
+What you'll need to thrive:
+
+
+Foundational knowledge of SQL and databases
+Proven ability to make informed decisions through data analysis
+Basic understanding of at least one programming language (experience not required)
+
+
+Stand out with:
+
+
+Familiarity with data engineering, data quality, and data management
+
+
+---------------------------------------------------------------------------
+
+
+I am excited about the Quality Assurance Engineer Working Student position at trivago because it aligns perfectly with my passion for ensuring data accuracy and integrity. trivago’s mission to simplify hotel search through cutting-edge technology resonates with my desire to contribute to data-driven solutions that have a real-world impact. The opportunity to work with a diverse and international team, applying QA methodologies to large datasets, is an ideal environment for me to learn and grow.
+
+I bring technical skills in SQL, Python, data validation, and automated testing using tools like Selenium. My experience with manual testing, data preprocessing, and data quality assurance equips me to identify and resolve discrepancies efficiently. Additionally, I am proficient in data visualization tools like Power BI and version control systems like Git, which help ensure seamless collaboration and reporting.
+
+I am eager to support trivago’s commitment to continuous improvement and innovation by ensuring the reliability of the data powering the platform.
+
+=========
+How do you believe AI is currently influencing and will continue to impact the tasks associated with this role?
+AI is playing a significant role in enhancing Quality Assurance processes by automating data validation, anomaly detection, and testing workflows. In this role, AI-driven tools can improve the efficiency of identifying inconsistencies and errors in data assets. As AI continues to evolve, it will enable more sophisticated real-time validation and predictive insights, helping to proactively detect issues before they impact users. By integrating AI into QA tasks, trivago can maintain high data quality standards, streamline processes, and provide users with more accurate hotel search results, ultimately enhancing user satisfaction and trust in the platform.
+
