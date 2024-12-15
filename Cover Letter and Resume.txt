@@ -1,22 +1,20 @@
-Company Name : Infineon Technologies AG
+Company Name :Loy&Co Corporate Finance GmbH
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
-
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
 \usepackage[empty]{fullpage}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{geometry}
 \usepackage{setspace}
-\usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -29,20 +27,19 @@ Date : 09/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    
-    Infineon Technologies AG \\
-    Am Campeon 1-15 \\
-    Neubiberg  85579  \\
-    Bavaria,Germany \\
-     
+    Loy\&Co Corporate Finance GmbH\\
+    Bilker Str. 11\\
+    40213 Düsseldorf\\
+    NRW , Deutschland
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Wiesendorfer Strasse 28 \\
-    Erlangen, 91056 \\
-    Bavaria,Germany \\
+    Haupt Str 43 \\
+    44894, Bochum \\
+    NRW, Deutschland \\
+
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -51,7 +48,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Working Student  Automation and Data Analysis Job ID : HRC1096646}
+\textbf{Bewerbung auf die Stelle WerkstudentIn Informatik \& Data Science}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -60,24 +57,24 @@ Date : 09/dec/2024
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-Dear Hiring Manager,
+Sehr geehrte Damen und Herren,
 
-I am excited to apply for the Internship position in your Data and Analytics team. With 1.5 years of hands-on experience in data analytics and a strong academic background in software development, I am eager to contribute my technical expertise and passion for data-driven solutions to support your innovative projects. As a Google Professional Certified Data Analyst, I have developed skills in Python (focusing on clean, efficient code), SQL, Pandas, and NumPy, with experience in data preprocessing, cleaning, analysis, and visualization. In a recent project, I created an analytics dashboard that delivered actionable insights, leading to more efficient decision-making processes.
+mit 1,5 Jahren praktischer Erfahrung in der Datenanalyse und Softwareentwicklung bewerbe ich mich mit Begeisterung für die Position als Werkstudent bei Loy\&Co Corporate Finance GmbH. Besonders fasziniert mich die Möglichkeit, Ihre digitalen Prozesse zu strukturieren und durch KI-gestützte Tools aktiv zur Optimierung von Unternehmensanalysen beizutragen.
 
-Currently pursuing my Master’s in Global Software Development at Hochschule Fulda, I have gained experience in web-based development using XML, HTML, and Flask. I am familiar with tools like GitLab, Jira, and Tableau and have a strong desire to continuously learn and adapt to new technologies. My proactive mindset, problem-solving abilities, and collaborative spirit enable me to work effectively in diverse teams. With B1-level German proficiency and fluency in English, I can clearly communicate in multicultural settings and convey complex information to various audiences.
+Während meines Studiums im Bereich Global Software Development an der Hochschule Fulda habe ich fundierte Kenntnisse in den Bereichen Datenbankmanagement, künstlicher Intelligenz und Programmierung erworben. Mit Python, SQL und Tools wie Power BI habe ich erfolgreich Datenanalysen durchgeführt, Prozesse automatisiert und Datenvisualisierungen entwickelt, um komplexe Sachverhalte verständlich zu präsentieren.
 
-I am particularly drawn to the opportunity to analyze diverse data sources, develop automation solutions, and visualize insights using Tableau. I am confident that my background aligns well with the responsibilities outlined, and I am eager to contribute to your team's success. Thank you for considering my application—I look forward to the possibility of discussing how my skills and enthusiasm can add value to your organization.
+In meinen bisherigen Projekten habe ich Datenbankstrukturen optimiert und automatisierte Workflows implementiert, um Effizienzgewinne zu erzielen. Mein analytisches Denkvermögen und meine strukturierte Arbeitsweise helfen mir, technische Herausforderungen zielgerichtet zu lösen. Zudem arbeite ich gerne im Team und kommuniziere sicher auf Englisch sowie auf Deutsch (B1). Aktuell besuche ich einen Deutsch-B2-Kurs, um meine Sprachkenntnisse weiter zu verbessern.
 
+Weitere Informationen zu meinen Projekten und Erfahrungen finden Sie in meinem persönlichen Portfolio unter:
+\href{https://usama00004.github.io/portfolio/}{usama00004.github.io/portfolio}
 
+Die Aussicht, in einem professionellen Umfeld wie dem Ihren zu arbeiten, reizt mich sehr. Ich freue mich darauf, meine Fähigkeiten einzubringen und von den spannenden Projekten bei Loy \& Co Corporate Finance GmbH zu lernen.
 
-
-Thank you for considering my application.
-
-
+Über die Gelegenheit, Sie in einem persönlichen Gespräch von meiner Motivation und Eignung zu überzeugen, würde ich mich sehr freuen.
 
 \vspace{0.5cm}
 
-Thanks and Regards ,\\
+Mit freundlichen Grüßen,\\
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
 \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
@@ -86,99 +83,97 @@ Usama Tahir \\
 \end{document}
 
 
+
 ----------------------------------------------------------------------------
+\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
 
-\documentclass{resume} % Use the custom resume.cls style
-
-\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\usepackage[left=0.3 in,top=0.1in,right=0.3 in,bottom=0.2in]{geometry} % Seitenränder
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir} % Add your full name here
-\address{+49 17684973934 \\  Germany}
-\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{Linked In} \\ 
-\href{https://github.com/Usama00004}{Git}} 
+\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}} 
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	OBJECTIVE
+%	ZIEL
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{OBJECTIVE}
+\begin{rSection}{ZIEL}
 
-Data Analyst with experience in Python, data preprocessing, SQL, and Power BI. Skilled in automation, data analysis and reporting. Pursuing a degree in Global Software Development and seeking a part-time role to deliver efficient, data-driven solutions.
+Detailorientierter Softwareentwickler mit Erfahrung in Datenanalyse, Datenbankmanagement und Prozessautomatisierung. Versiert in Python, SQL und der Entwicklung KI-gestützter Tools. Suche eine Teilzeitstelle als Werkstudent für digitale Strukturierung und technische Plattformen, um Unternehmensanalysen zu optimieren und datengetriebene Entscheidungen zu unterstützen.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
+%	AUSBILDUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Education}
+\begin{rSection}{AUSBILDUNG}
 
-{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026}\\
-{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% TECHNICAL STRENGTHS
+% FÄHIGKEITEN
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Skills}
+\begin{rSection}{FÄHIGKEITEN}
 
-\textbf{Technical Skills:} Python, Django, Flask, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git \\
-\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
-\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
+\textbf{Technische Fähigkeiten:} Python, SQL, Datenbankmanagement, KI-gestützte Tools, Automatisierung, Pandas, NumPy, Scrapy, Power BI, Git, Django, Excel
+
+\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Zeitmanagement \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	EXPERIENCE
+%	BERUFSERFAHRUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{EXPERIENCE}
+\begin{rSection}{BERUFSERFAHRUNG}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
+\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium).
-    \item Implemented real-time streaming workflows with Kafka for efficient data ingestion and processing.
-    \item Utilized SQL for data transformation and integration across pipelines.
-    \item Leveraged Power BI for data visualization and reporting, enabling actionable insights
-     \item Improved data availability by 30\% and reduced processing time by 20\% enhancing decision-making accuracy.
+    \item Automatisierte ETL-Prozesse und Datenpipelines mit Python (Beautiful Soup, Selenium).
+    \item Implementierte Echtzeit-Datenströme mit Kafka für effiziente Datenaufnahme und -verarbeitung.
+    \item Verwendete SQL zur Datentransformation und -integration in Pipelines.
+    \item Nutzte Power BI für Datenvisualisierung und Berichterstellung, um umsetzbare Erkenntnisse zu ermöglichen.
+    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%, wodurch die Entscheidungsfindung verbessert wurde.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	PROJECTS
+%	PROJEKTE
 %----------------------------------------------------------------------------------------
-\begin{rSection}{PROJECTS}
+\begin{rSection}{PROJEKTE}
 
-\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
-(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Datenanalyse-Dashboard:} Entwickelte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten (Python, Pandas). Sicherte Datenintegrität mit Vorverarbeitungspipelines, bereitgestellt in der Cloud für Echtzeitanalysen, und reduzierte die Datenverarbeitungszeit durch Fehlerbehandlung um 20%. 
+(verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
+\item \textbf{Echtzeit-Datenströme:} Entwickelte und implementierte eine Pipeline für Echtzeit-Datenströme, um hochfrequente Daten mit Apache Kafka und Apache Flink zu verarbeiten und zu analysieren. Daten wurden in Echtzeit aufgenommen, transformiert und in PostgreSQL für die weitere Analyse gespeichert, was latenzarme Einblicke und effiziente Datenverarbeitung für groß angelegte Systeme ermöglichte 
+(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
-\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
-(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
-
-\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
-(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
-
-
+\item \textbf{Sentiment-Analyse:} Entwickelte eine Datenpipeline, die Web-Scraping und Sentiment-Analyse integriert. Automatisierte die Datenerfassung mit BeautifulSoup und Selenium, wodurch der manuelle Aufwand um 40\% reduziert wurde. Bereinigte und validierte Daten mit Pandas, speicherte sie in SQL und setzte Scikit-learn-Modelle für Echtzeitanalysen ein, wodurch die Verarbeitungseffizienz um 25\% verbessert wurde 
+(verfügbar auf \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
 
 \end{rSection}
 
-\begin{rSection}{Publication}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies to optimize resource utilization and minimize energy consumption in cloud environments 
-(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+%----------------------------------------------------------------------------------------
+%	VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Erforschung und Entwicklung eines neuartigen Ansatzes zur hotspotbewussten Arbeitslastplanung und Serverplatzierung in heterogenen Cloud-Rechenzentren. Veröffentlicht im MDPI Energies Journal, schlägt das Papier innovative Algorithmen und Methoden zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen vor 
+(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
 
 \end{rSection}
-
-
-
 
 \end{document}
-
 
