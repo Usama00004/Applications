@@ -1,20 +1,21 @@
-Company Name : naturstrom AG
+Company Name : TK Elevator GmbH
 Date : 09/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
-\usepackage{fontspec}
-\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[empty]{fullpage}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{geometry}
 \usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -27,19 +28,20 @@ Date : 09/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    naturstrom AG\\
-    Parsevalstrasse 11\\
-    40468 Düsseldorf\\
-    NRW, Deutschland
+    
+    TK Elevator GmbH\\
+    E-Plus-Strasse 1 \\
+    40472, Düsseldorf\\
+    Germany 
+    
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Hauptstraße 43 \\
-    44894, Bochum \\
-    NRW, Deutschland \\
-
+    HauptStrasse 43 \\
+    44894, Bochum\\
+    Germany \\
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -48,7 +50,7 @@ Date : 09/dec/2024
 
 % Subject line
 \noindent
-\textbf{Bewerbung auf die Stelle Studentische Hilfskraft im Bereich Daten, SQL, Entwicklung und Qualität  Stellen-ID YF-16511}
+\textbf{Application for the Position of Working Student Business Development \& Marketing Strategy (d/f/m)- Global Field}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -57,18 +59,21 @@ Date : 09/dec/2024
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-mit 1,5 Jahren praktischer Erfahrung in der Datenanalyse sowie fundierten Kenntnissen in der Softwareentwicklung bewerbe ich mich mit Begeisterung für die Position als Studentische Hilfskraft in Ihrem Team. Die Aussicht, durch Datenanalysen und SQL-Entwicklung aktiv zur Optimierung Ihrer Datenprozesse beizutragen, motiviert mich sehr.
+Dear Hiring Manager,
 
-Während meines Studiums im Bereich Global Software Development an der Hochschule Fulda habe ich umfassende Kenntnisse in Datenbankmodellen, SQL und PL/SQL erworben. In bisherigen Projekten habe ich Daten bereinigt, analysiert und Reports erstellt sowie interaktive Dashboards mit Python (Pandas, NumPy) und Power BI entwickelt. Zudem habe ich Erfahrung in der Dokumentenpflege und Workflow-Entwicklung gesammelt und konnte durch gezieltes SQL-Tuning die Performance von Abfragen verbessern.
 
-Meine Stärken liegen in der strukturierten Arbeitsweise, dem analytischen Denken und der Fähigkeit, komplexe Sachverhalte verständlich darzustellen. Ich arbeite gerne im Team und kann mit meiner B1-Stufe in Deutsch sowie fließendem Englisch reibungslos in diversen Teams kommunizieren. Die Möglichkeit, an der Entwicklung einer teilautomatisierten Qualitätssicherung mitzuwirken und meine Fähigkeiten im Bereich Oracle, MS SQL, LaTeX und Visual Basic weiter auszubauen, spricht mich besonders an.
+I am excited to apply for the Internship position in Business Development and Marketing Strategy within your Global Field function. With 1.5 years of hands-on experience in data analytics, reporting tools, and stakeholder coordination, combined with my academic background in Global Software Development at Hochschule Fulda, I am eager to contribute to your mission of advancing mobility solutions worldwide.
 
-Ich bin zeitlich flexibel und kann Sie mit bis zu 20 Stunden pro Woche unterstützen. Eine langfristige Zusammenarbeit über die nächsten ein bis zwei Jahre sowie die Option zur Betreuung meiner Abschlussarbeit wären für mich sehr attraktiv.
+As a Google Professional Certified Data Analyst, I have developed strong skills in Excel, Power BI, Python, and SQL. In my previous role as a Junior Data Analyst, I optimized reporting processes, created interactive dashboards, and ensured the timely submission of high-quality performance data to support strategic decision-making. These experiences have honed my ability to analyze complex datasets and deliver actionable insights.
 
-Ich freue mich darauf, Teil Ihres Teams zu werden und gemeinsam an der Energiewende mitzuwirken. Über die Gelegenheit, meine Motivation und Qualifikationen in einem persönlichen Gespräch zu vertiefen, würde ich mich sehr freuen.
+I thrive in international environments and have collaborated with diverse teams to align global strategies with regional market needs. My proactive mindset, sense of ownership, and ability to communicate effectively in English (fluent) and German (B1 level) enable me to act as a vital link between global and regional teams. I am enthusiastic about supporting transformation projects, enhancing customer engagement strategies, and driving continuous improvement in business development practices.
+
+I am available to work 20 hours per week for at least six months and would welcome the opportunity to discuss how my skills and passion for innovation can add value to TK Elevator’s mission. Thank you for considering my application, and I look forward to the possibility of joining your team.
+
+
 \vspace{0.5cm}
 
-Mit freundlichen Grüßen,\\
+Thanks and Regards ,\\
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
 \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
@@ -79,90 +84,103 @@ Usama Tahir \\
 
 
 
+
 ---------------------------------------------------------------------------------------
 
 
 
 
 
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.2 in,top=0.2in,right=0.2 in,bottom=0.2in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir} % Add your full name here
+\address{+49 17684973934 \\  Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{Linked In} \\ 
+\href{https://github.com/Usama00004}{Git}} 
+
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	ZIEL
+%	OBJECTIVE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{ZIEL}
+\begin{rSection}{OBJECTIVE}
 
-Detailorientierter Softwareentwickler mit Erfahrung in Datenanalyse, SQL-Entwicklung und Automatisierung. Kompetent in Python, PL/SQL, Oracle und Power BI. Suche eine Teilzeitstelle als studentische Hilfskraft, um Datenprojekte durch Analysen und Prozessoptimierung zu verbessern.
+Data Analyst skilled in Python, SQL, Excel, Power BI, and CI/CD workflows. Experienced in reporting, data visualization, and stakeholder coordination. Pursuing a degree in Global Software Development and seeking a part-time internship to deliver data-driven insights, optimize reporting processes, and support business development strategies.
+
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	AUSBILDUNG
+%	EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{AUSBILDUNG}
+\begin{rSection}{Education}
 
-{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
-{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026}\\
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% FÄHIGKEITEN
+% TECHNICAL STRENGTHS
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{FÄHIGKEITEN}
+\begin{rSection}{Skills}
 
-\textbf{Technische Fähigkeiten:} Python, SQL (PL/SQL), Oracle, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, Power BI, Git, Excel \\
-
-\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Zeitmanagement \\
-\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
+\textbf{Technical Skills:} Excel, Power BI, SQL, Python, Data Visualization, Reporting Automation, MS Office Suite, Git, Stakeholder Management \\
+\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	BERUFSERFAHRUNG
+%	EXPERIENCE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{BERUFSERFAHRUNG}
+\begin{rSection}{EXPERIENCE}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Automatisierte ETL-Prozesse und Datenpipelines mit Python (Beautiful Soup, Selenium).
-    \item Implementierte Echtzeit-Datenströme mit Kafka für effiziente Datenaufnahme und -verarbeitung.
-    \item Verwendete SQL zur Datentransformation und -integration in Pipelines.
-    \item Nutzte Power BI für Datenvisualisierung und Berichterstellung, um umsetzbare Erkenntnisse zu ermöglichen.
-    \item Steigerte die Datenverfügbarkeit um 30\% und reduzierte die Verarbeitungszeit um 20\%, wodurch die Entscheidungsfindung verbessert wurde.
+    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium).
+    \item Implemented real-time streaming workflows with Kafka for efficient data ingestion and processing.
+    \item Utilized SQL for data transformation and integration across pipelines.
+    \item Leveraged Power BI for data visualization and reporting, enabling actionable insights
+     \item Improved data availability by 30\% and reduced processing time by 20\% enhancing decision-making accuracy.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	PROJEKTE
+%	PROJECTS
 %----------------------------------------------------------------------------------------
-\begin{rSection}{PROJEKTE}
+\begin{rSection}{PROJECTS}
 
-\item \textbf{Datenanalyse-Dashboard:} Entwickelte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten (Python, Pandas). Sicherte Datenintegrität mit Vorverarbeitungspipelines, bereitgestellt in der Cloud für Echtzeitanalysen, und reduzierte die Datenverarbeitungszeit durch Fehlerbehandlung um 20%. 
-(verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
+(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\item \textbf{Echtzeit-Datenströme:} Entwickelte und implementierte eine Pipeline für Echtzeit-Datenströme, um hochfrequente Daten mit Apache Kafka und Apache Flink zu verarbeiten und zu analysieren. Daten wurden in Echtzeit aufgenommen, transformiert und in PostgreSQL für die weitere Analyse gespeichert, was latenzarme Einblicke und effiziente Datenverarbeitung für groß angelegte Systeme ermöglichte 
-(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
-\item \textbf{Sentiment-Analyse:} Entwickelte eine Datenpipeline, die Web-Scraping und Sentiment-Analyse integriert. Automatisierte die Datenerfassung mit BeautifulSoup und Selenium, wodurch der manuelle Aufwand um 40\% reduziert wurde. Bereinigte und validierte Daten mit Pandas, speicherte sie in SQL und setzte Scikit-learn-Modelle für Echtzeitanalysen ein, wodurch die Verarbeitungseffizienz um 25\% verbessert wurde 
-(verfügbar auf \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
+(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
+(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+
+
 
 \end{rSection}
 
-%----------------------------------------------------------------------------------------
-%	VERÖFFENTLICHUNGEN
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{VERÖFFENTLICHUNGEN}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Erforschung und Entwicklung eines neuartigen Ansatzes zur hotspotbewussten Arbeitslastplanung und Serverplatzierung in heterogenen Cloud-Rechenzentren. Veröffentlicht im MDPI Energies Journal, schlägt das Papier innovative Algorithmen und Methoden zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen vor 
-(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+\begin{rSection}{Publication}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies to optimize resource utilization and minimize energy consumption in cloud environments 
+(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
 
 \end{rSection}
+
+
+
 
 \end{document}
