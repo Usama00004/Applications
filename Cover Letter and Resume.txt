@@ -1,5 +1,5 @@
-Company Name :Trivago
-Date : 15/dec/2024
+Company Name : Phonix
+Date : 16/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
@@ -27,26 +27,21 @@ Date : 15/dec/2024
 
 % Sender and recipient addresses
 \noindent
-\begin{minipage}[t]{0.45\textwidth}
-    
-    trivago N.V. \\
-    Kesselstra\ss e 5–7 \\
-    40221 Düsseldorf \\
+\begin{minipage}[t]{0.45\textwidth} 
+    PHOENIX Pharma SE \\
+    Pfingstweidstra\ss e 10-12 \\
+    68199 Mannheim \\
     Germany 
-
-
-    
-
-
-
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
+    
     Usama Tahir \\
-    Haupstra\ss e 43\\
-    Bochum, 44894 \\
+    Adelungstra\ss e 25 \\
+    64283 Darmstadt \\
     Germany \\
+
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -55,7 +50,7 @@ Date : 15/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Working Student - Core Data QA Engineering}
+\textbf{Application for the Position of Operational Controlling Analytics}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -66,15 +61,17 @@ Date : 15/dec/2024
 
 Dear Hiring Manager,
 
-I am excited to apply for the Quality Assurance Engineer working student  position at trivago. With 1.5 years of hands-on experience in data analytics in my homeland and a strong academic background in software development, I am eager to contribute my skills to ensure the quality and reliability of trivago’s innovative hotel metasearch engine.
+I am excited to apply for the Operational Controlling Analytics Internship position, as advertised. With a solid academic background in software development and over 1.5 years of hands-on experience in data analytics, I am eager to contribute to your team's mission of leveraging data-driven insights to enhance business performance.
 
-As a Google Professional Certified Data Analyst, I have developed a solid foundation in SQL, Python, and data analysis. My experience includes data preprocessing, cleaning, modeling, and creating dashboards to facilitate data-driven decisions. In a recent project, I led the development of an analytics dashboard that delivered actionable insights to streamline decision-making processes. This role sharpened my attention to detail, analytical skills, and ability to ensure data integrity — qualities essential for maintaining high data quality standards.
+As a Google Professional Certified Data Analyst, I have developed strong skills in Python, SQL, Power BI, and data visualization libraries such as Pandas and NumPy. My experience includes developing and maintaining interactive dashboards, conducting both quantitative and qualitative analyses, and automating data workflows to optimize efficiency. For instance, I recently designed a Power BI dashboard that monitored key performance indicators and provided actionable insights, streamlining decision-making processes for stakeholders.
 
-Currently pursuing my Master's in Global Software Development at Hochschule Fulda, I am deepening my knowledge of software engineering principles and collaborative development. I am enthusiastic about working closely with developers, data engineers, and data analysts in an international team, learning to maintain and enhance the quality of complex data systems.
+Currently pursuing a Master’s degree in Global Software Development at Hochschule Fulda, I have honed my ability to manage complex projects, prioritize tasks, and collaborate effectively in multicultural environments. I am also currently enrolled in German B2 to further enhance my language proficiency. With B1-level German proficiency and fluency in English, I am comfortable coordinating with both technical and business stakeholders across European subsidiaries.
 
-I am particularly drawn to trivago’s commitment to cutting-edge technology and continuous innovation. The opportunity to contribute to the integrity of trivago's data assets and support millions of travelers in making informed choices aligns perfectly with my passion for data quality and user-focused solutions.
+I am enthusiastic about the opportunity to support your organization by maintaining and enhancing Power BI reports, optimizing data processes, and collaborating with internal and external partners to ensure data quality and completeness. My proactive mindset and commitment to continuous improvement align with your team's goals.
 
-I would welcome the chance to discuss how my skills and enthusiasm can contribute to trivago’s mission. Thank you for considering my application, and I look forward to the possibility of joining your dynamic team.
+I would welcome the opportunity to discuss how my skills and experience can contribute to your business objectives. Thank you for considering my application, and I look forward to the possibility of joining your dynamic team.
+
+Thank you for considering my application.
 
 \vspace{0.5cm}
 
@@ -87,14 +84,12 @@ Usama Tahir \\
 \end{document}
 
 
+
 ---------------------------------------------------------------------------------------
-
-
-
 
 \documentclass{resume} % Use the custom resume.cls style
 
-\usepackage[left=0.3 in,top=0.2in,right=0.3 in,bottom=0.2in]{geometry} % Document margins
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.2in]{geometry} % Document margins
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Usama Tahir} % Add your full name here
@@ -110,10 +105,7 @@ Usama Tahir \\
 
 \begin{rSection}{OBJECTIVE}
 
-Detail-oriented Data Analyst with expertise in data validation, QA, SQL, and Python. Proven experience ensuring data integrity through manual and automated testing. Seeking a Working Student Data Analyst QA role to validate complex datasets and support data-driven decision-making.
-
-
-
+Detail-oriented Data Analyst with experience in Power BI, Python, SQL, and statistical analysis. Skilled in creating dashboards, automating workflows, and collaborating with stakeholders to deliver actionable insights. Seeking a Data Analytics Internship to support performance analysis, reporting, and data-driven decision-making.
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
@@ -132,8 +124,9 @@ Detail-oriented Data Analyst with expertise in data validation, QA, SQL, and Pyt
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{Skills}
-\textbf{Technical Skills:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, SQL, PowerBI, Automated Testing, Data Quality Assurance, Data Analysis, Git \\
-\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
+
+\textbf{Technical Skills:} PowerBI , SQL , Python, Django , Selenium , Data Visualization, Scrapy, Beautiful Soup , NumPy, Statistical Analysis, Pandas, Git, Data Processing , Data Cleaning \\
+\textbf{Soft Skills:} Communication , Problem Solving , Adaptability , Coordination Skills , Time Management \\
 \textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
@@ -147,13 +140,12 @@ Detail-oriented Data Analyst with expertise in data validation, QA, SQL, and Pyt
 \textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-\item Conducted manual and automated testing to ensure data integrity and quality across ETL processes.
-\item Developed and maintained data validation checks using Python (Beautiful Soup, Selenium) to ensure accurate and reliable data ingestion.
-\item Utilized SQL to analyze, transform, and verify data within complex data pipelines.
-\item Created data quality reports and dashboards using Power BI to support data-driven decision-making.
-\item Improved data availability by 30\% and reduced processing time by 20\%, enhancing the reliability and accuracy of business decisions.
+    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium).
+    \item Implemented real-time streaming workflows with Kafka for efficient data ingestion and processing.
+    \item Utilized SQL for data transformation and integration across pipelines.
+    \item Leveraged Power BI for data visualization and reporting, enabling actionable insights
+     \item Improved data availability by 30\% and reduced processing time by 20\% enhancing decision-making accuracy.
 \end{itemize}
-
 
 \end{rSection}
 
@@ -166,8 +158,8 @@ Systems Limited \hfill \textit{Lahore, Pakistan}
 (available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
 
-\item \textbf{Data Quality Assurance Pipeline:} Designed and implemented a data validation pipeline to ensure the accuracy and reliability of high-velocity data using Python and SQL. Data was ingested, transformed, and validated in real-time before being stored in databse, ensuring low-latency insights and maintaining data integrity for large-scale systems.
-
+\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
+(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
 \item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
 (available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
@@ -186,55 +178,6 @@ Systems Limited \hfill \textit{Lahore, Pakistan}
 
 
 \end{document}
----------------------------------------------------------------------------
-About the job
-When travelers are searching for a hotel, we want the obvious choice to be trivago! Our leading metasearch engine is super fast and constantly optimized - enabling millions of travelers to compare hotel prices from hundreds of booking sites and find great deals in just a few clicks. We use cutting-edge technology, real-time auction, and machine learning techniques with petabytes of data to create an experience - time and money saved! In the lively city of Düsseldorf, we seize opportunities to learn everyday, innovate, and make an enduring mark on the travel industry. At trivago you will find those who aren’t afraid of change but rather embrace it, turning every challenge into a pathway for growth. Join trivago, work with a great team, and grow with us!
-
-Join us in making a difference
 
 
-At the core of our mission to simplify hotel search and booking lies an experienced engineering team that drives innovation to take our metasearch engine to the next level. We're looking for a motivated student to join us as a Quality Assurance Engineer. You'll be an essential part of our engineering team, ensuring the quality and reliability of our software products. In this role, you'll learn how to embrace challenges, grow from feedback, and adapt to changes, ultimately making a significant impact on our business. Read more and apply today!
-
-How you’ll make an impact:
-
-
-Evaluate and synthesize information from various sources provided by different advertisers
-Ensure systems function correctly and that the retrieved data is accurate and reliable
-Enable and maintain business and technical data quality checks on data assets built by data engineers
-Conduct manual and automated tests on data assets to ensure the highest data quality
-
-
-What you'll learn:
-
-How a data-driven company functions internally and how decisions are made based on data
-How to work closely with an international team of experienced developers, data engineers, and data analysts
-How to work with cutting-edge data pipelines and data infrastructure
-
-
-What you'll need to thrive:
-
-
-Foundational knowledge of SQL and databases
-Proven ability to make informed decisions through data analysis
-Basic understanding of at least one programming language (experience not required)
-
-
-Stand out with:
-
-
-Familiarity with data engineering, data quality, and data management
-
-
----------------------------------------------------------------------------
-
-
-I am excited about the Quality Assurance Engineer Working Student position at trivago because it aligns perfectly with my passion for ensuring data accuracy and integrity. trivago’s mission to simplify hotel search through cutting-edge technology resonates with my desire to contribute to data-driven solutions that have a real-world impact. The opportunity to work with a diverse and international team, applying QA methodologies to large datasets, is an ideal environment for me to learn and grow.
-
-I bring technical skills in SQL, Python, data validation, and automated testing using tools like Selenium. My experience with manual testing, data preprocessing, and data quality assurance equips me to identify and resolve discrepancies efficiently. Additionally, I am proficient in data visualization tools like Power BI and version control systems like Git, which help ensure seamless collaboration and reporting.
-
-I am eager to support trivago’s commitment to continuous improvement and innovation by ensuring the reliability of the data powering the platform.
-
-=========
-How do you believe AI is currently influencing and will continue to impact the tasks associated with this role?
-AI is playing a significant role in enhancing Quality Assurance processes by automating data validation, anomaly detection, and testing workflows. In this role, AI-driven tools can improve the efficiency of identifying inconsistencies and errors in data assets. As AI continues to evolve, it will enable more sophisticated real-time validation and predictive insights, helping to proactively detect issues before they impact users. By integrating AI into QA tasks, trivago can maintain high data quality standards, streamline processes, and provide users with more accurate hotel search results, ultimately enhancing user satisfaction and trust in the platform.
 
