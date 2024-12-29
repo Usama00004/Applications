@@ -1,4 +1,4 @@
-Company Name : Aura
+Company Name : Spora Steria, Cover letter is not updated in this file
 Date : 28/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
@@ -88,99 +88,93 @@ Usama Tahir \\
 
 ---------------------------------------------------------------------------------------
 
-\documentclass{resume} % Use the custom resume.cls style
+\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
 
-\usepackage[left=0.1 in,top=0.1in,right=0.1 in,bottom=0.1in]{geometry} % Document margins
+\usepackage[left=0.2 in,top=0.1in,right=0.2 in,bottom=0.1in]{geometry} % Seitenränder
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir}
-\address{usamatahir00004@gmail.com}
-\address{+49 17684973934} 
-\address{Berlin, Brandenburg, Germany}
-
+\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}} 
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	OBJECTIVE
+%\u0009ZIEL
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Summary}
+\begin{rSection}{ZIEL}
 
-
-Detail-oriented Data Analyst with expertise in Python, Pandas, and data analysis tools (Power BI, Excel). Skilled in data collection, cleansing, and validation, as well as trend analysis and actionable insights. Seeking to contribute to data analysis and quality assurance in dynamic, team-oriented environments.
-
+Detailorientierter Datenanalyst mit Erfahrung in der Entwicklung moderner Datenmanagement-Lösungen, Datenmodellierung und Visualisierung. Kompetent in Python, Power BI und SQL, suche eine Teilzeitstelle im Bereich Data und Analytics, um nachhaltige analytische Ökosysteme zu gestalten und datengetriebene Entscheidungen zu fördern.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
+%\u0009AUSBILDUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Education}
+\begin{rSection}{AUSBILDUNG}
 
-{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026}\\
-{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% SKILLS
+% F\u00c4HIGKEITEN
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Skills}
+\begin{rSection}{F\u00c4HIGKEITEN}
 
-\textbf{Technical Skills:} Python, Pandas, NumPy, SQL, Power BI, Excel, Selenium, Data Modeling, ETL, Data Cleansing, Data Validation, Jira, Git,\\
-\textbf{Soft Skills:} Critical Thinking, Problem Solving, Adaptability, Team Collaboration, Adaptability,Willingness to Learn \\
-\textbf{Languages:} English (C1 CEFR), German (B1 CEFR), Hindi, Punjabi\\
+\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, Pandas, NumPy, ETL, Datenmodellierung, Apache Kafka, Cloud-Dienste, Excel, Git \\
+\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Teamarbeit, Zeitmanagement \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	EXPERIENCE
+%\u0009BERUFSERFAHRUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{EXPERIENCE}
+\begin{rSection}{BERUFSERFAHRUNG}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
+\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium).
-    \item Implemented real-time streaming workflows with Kafka for efficient data ingestion and processing.
-    \item Utilized SQL for data transformation and integration across pipelines.
-    \item Leveraged Power BI for data visualization and reporting, enabling actionable insights
-     \item Improved data availability by 30\% and reduced processing time by 20\% enhancing decision-making accuracy.
+    \item Entwickelte und optimierte ETL-Prozesse sowie Datenpipelines mit Python und SQL, um qualitativ hochwertige Datenanalysen zu ermöglichen.
+    \item Konzipierte und implementierte nachhaltige Datenbewirtschaftungsprozesse, einschließlich der Integration von Echtzeit-Datenströmen mit Apache Kafka.
+    \item Entwickelte interaktive Dashboards in Power BI zur Visualisierung von Datenmustern, wodurch geschäftskritische Einblicke ermöglicht wurden.
+    \item Reduzierte die Datenverarbeitungszeit um 20\% und erhöhte die Datenverfügbarkeit um 30\%, was die Entscheidungsfindung erheblich verbesserte.
+    \item Führte Anforderungsanalysen durch und arbeitete eng mit Kunden zusammen, um personalisierte Datenlösungen bereitzustellen.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	PROJECTS
+%\u0009PROJEKTE
 %----------------------------------------------------------------------------------------
-\begin{rSection}{PROJECTS}
+\begin{rSection}{PROJEKTE}
 
-\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
-(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Modernes Datenökosystem:} Entwickelte ein Cloud-basiertes analytisches Ökosystem, das Daten aus heterogenen Quellen integriert. Optimierte die Datenpipelines mit Python und SQL, wodurch die Verarbeitungszeit um 25\% reduziert wurde (\href{https://github.com/Usama00004/DataEcosystem}{GitHub}).
 
+\item \textbf{Datenanalyse-Dashboard:} Implementierte ein Power BI-Dashboard zur Visualisierung von KPI-Trends aus bereinigten Daten (Python, Pandas). Bereitgestellt für Echtzeitanalysen, verbesserte Fehlerbehandlung und Datenpräzision (\href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
-(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+\item \textbf{Echtzeit-Datenbewirtschaftung:} Entwickelte eine Datenpipeline mit Apache Kafka zur Aufnahme und Transformation von Echtzeitdaten. Speicherte und analysierte diese in PostgreSQL, wodurch hochfrequente Daten effizient verarbeitet wurden (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
-\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
-(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
-
-
+\item \textbf{Sentiment-Analyse:} Automatisierte die Datenerfassung mit Web-Scraping (Beautiful Soup, Selenium) und integrierte maschinelles Lernen für die Sentiment-Analyse. Verbessert die Pipeline-Effizienz um 25\% (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
 
 \end{rSection}
 
-\begin{rSection}{Publication}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies that improved resource utilization by 20\% and reduced energy consumption by 25\% in cloud environments 
-(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+%----------------------------------------------------------------------------------------
+%\u0009VER\u00d6FFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VER\u00d6FFENTLICHUNGEN}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Veröffentlicht im MDPI Energies Journal, beschreibt das Papier innovative Ansätze zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen (\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
 
 \end{rSection}
-
-
-
 
 \end{document}
+
 
