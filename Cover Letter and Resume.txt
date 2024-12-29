@@ -1,4 +1,4 @@
-Company Name : one and one
+Company Name : Mercedes Benz
 Date : 29/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
@@ -27,18 +27,19 @@ Date : 29/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    1\&1 Telecom Service\\
-    Prager Ring 4-12\\
-    66482 Zweibrücken\\
+    Mercedes-Benz\\
+    Bela-Barenyi-Straße\\
+    71059 Sindelfingen\\
     Deutschland
+
 
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Hedderichstraße 47A, \\
-    60594 Frankfurt am Main \\
+    Romerstadter strasse 3 \\
+    86199 Augsburg \\
     Deutschland \\
 
     \vspace{1cm} % Adjust the space as needed
@@ -49,7 +50,8 @@ Date : 29/dec/2024
 
 % Subject line
 \noindent
-\textbf{Bewerbung auf die Stelle Werkstudent (w/m/d) - Data Analyst / Forecasting | Kennziffer: SF-4444}
+\textbf{Bewerbung auf die Stelle
+Praktikum im Bereich Data Analytics in der PreIntegration Telematik ab Februar 2025 | Stellennummer: MER0003HBY}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -60,20 +62,24 @@ Date : 29/dec/2024
 
 Sehr geehrte Damen und Herren,
 
-Mit großem Interesse habe ich Ihre Stellenanzeige gelesen und bin begeistert von der Möglichkeit, nachhaltige und innovative Datenmanagement-Lösungen in einem dynamischen Team wie Ihrem zu entwickeln.
+mit großem Interesse habe ich Ihre Stellenanzeige gelesen und bin begeistert von der Möglichkeit, innovative Software- und Datenlösungen für vernetzte Fahrzeuge in einem dynamischen Umfeld wie Ihrem zu entwickeln.
+Derzeit absolviere ich meinen Master in Global Software Development an der Hochschule Fulda, wo ich mich auf Datenanalyse, Datenmodellierung und moderne analytische Ökosysteme spezialisiert habe. In meiner bisherigen beruflichen Laufbahn konnte ich bereits fundierte praktische Erfahrungen sammeln:
 
-Mein Masterstudium in Global Software Development an der Hochschule Fulda hat mich auf Themen wie Datenanalyse, Datenmodellierung und moderne analytische Ökosysteme spezialisiert. Bereits während meiner bisherigen Berufserfahrung konnte ich umfassende Kenntnisse in der Entwicklung und Optimierung von ETL-Prozessen, Datenvisualisierung mit Power BI und der Implementierung von Datenpipelines mit Python und SQL sammeln.
+\begin{itemize}
+    \item Development of interactive BI dashboards in Power BI to visually present complex data in an understandable manner.
+    \item Optimization of ETL processes and implementation of robust data pipelines using Python and SQL.
+    \item Application of agile methodologies, such as Scrum, to manage projects in dynamic environments.
+\end{itemize}
+Ihre Anforderung, Datenvisualisierungsprojekte voranzutreiben und Verbindungen zwischen verschiedenen Datenquellen herzustellen, deckt sich ideal mit meinen Kompetenzen. Besonders spannend finde ich die Möglichkeit, die Software von morgen zu visualisieren und datengetriebene Entscheidungen durch BI-Dashboards zu unterstützen.Darüber hinaus habe ich ein B1-Zertifikat in Deutsch erworben und bin derzeit im B2-Kurs eingeschrieben, um meine Sprachkenntnisse weiter zu verbessern. Neben meinen technischen Fähigkeiten bringe ich auch ein hohes Maß an Kommunikationsfähigkeit und eine lösungsorientierte Arbeitsweise mit, die es mir ermöglichen, effektiv mit verschiedenen Stakeholdern zusammenzuarbeiten.
 
-Besonders spannend finde ich Ihre Fokussierung auf innovative Lösungen und die enge Zusammenarbeit mit Kunden – Fähigkeiten, die ich durch datengetriebene Projekte und ein starkes Verständnis für Business Intelligence stetig weiterentwickelt habe. Darüber hinaus entspricht Ihre Kultur der Flexibilität und Weiterentwicklung genau meinen Vorstellungen.
-
-Zusätzlich habe ich das B1-Zertifikat in Deutsch abgelegt und bin derzeit im B2-Kurs eingeschrieben, um meine Sprachkenntnisse weiter zu vertiefen.
-
-Ich freue mich darauf, mit Ihnen gemeinsam datengetriebene Strategien zu entwickeln, die sowohl Ihre Kunden als auch Ihr Geschäft voranbringen.
+Ich freue mich darauf, meine Fähigkeiten und Erfahrungen in Ihrem Team einzubringen, um gemeinsam innovative und nachhaltige Lösungen im Bereich Telematik und vernetzter Fahrzeuge zu entwickeln. Gerne stehe ich Ihnen für ein persönliches Gespräch zur Verfügung und freue mich auf Ihre Rückmeldung.
 
 
-\vspace{0.5cm}
+\vspace{0.2cm}
 
 Mit freundlichen Grüßen,\\
+
+
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
 \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
@@ -101,7 +107,7 @@ Usama Tahir \\
 
 \begin{rSection}{ZIEL}
 
-Ergebnisorientierter Datenanalyst mit Erfahrung in der Erstellung von Forecasts, Auswertung von KPI-Zahlen und der Optimierung von Datenmanagement-Prozessen. Kompetent in Python, Power BI, SQL und statistischen Methoden, suche eine Teilzeitstelle im Bereich Data Analytics, um analytische Strategien zur Verbesserung von Forecasting-Prozessen zu entwickeln und die Effizienz in einem dynamischen Team zu steigern.
+Technikbegeisterter Datenanalyst mit Erfahrung in Datenvisualisierung, Business Intelligence und agilen Methoden. Kompetent in Python, Power BI, SQL und Datenintegration, suche ich eine Teilzeitstelle im Bereich vernetzter Fahrzeuge und Telematik, um innovative Software- und Datenlösungen zu entwickeln, die die Mobilität der Zukunft gestalten.
 
 \end{rSection}
 
@@ -117,14 +123,14 @@ Ergebnisorientierter Datenanalyst mit Erfahrung in der Erstellung von Forecasts,
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% F\u00c4HIGKEITEN
+% FÄHIGKEITEN
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{F\u00c4HIGKEITEN}
 
-\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, Pandas, NumPy, Excel, Datenmodellierung, ETL, Datenvisualisierung, Forecasting, VBA, Git \\
-\textbf{Soft Skills:} Kommunikation, Problemlösung, Teamarbeit, analytisches Denken, Zeitmanagement \\
-\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
+\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, Pandas, NumPy, Jira, Confluence, Datenmodellierung, Datenintegration, ETL, Apache Kafka, Excel, VBA, Git \\
+\textbf{Soft Skills:} Kommunikation, Problemlösung, Teamarbeit, analytisches Denken, Selbstorganisation \\
+\textbf{Sprachen:} Deutsch (B1 CEFR, derzeit in B2 eingeschrieben), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
 
@@ -137,11 +143,11 @@ Ergebnisorientierter Datenanalyst mit Erfahrung in der Erstellung von Forecasts,
 \textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Entwickelte und optimierte ETL-Prozesse sowie Datenpipelines mit Python und SQL, um qualitativ hochwertige Datenanalysen und -berichte zu ermöglichen.
-    \item Analysierte SOLL/IST-Zahlen und identifizierte statistische Auffälligkeiten zur Verbesserung der Geschäftsprozesse.
-    \item Konzipierte und implementierte Forecasting-Modelle zur Vorhersage von KPIs und zur Identifikation von Verbesserungspotenzialen.
-    \item Entwickelte interaktive Dashboards in Power BI zur Visualisierung von KPI-Trends und business-relevanten Daten, was zu einer besseren Entscheidungsfindung führte.
-    \item Steigerte die Effizienz der Datenverarbeitung um 20\% und verbesserte die Datenqualität und -verfügbarkeit signifikant.
+    \item Entwickelte und optimierte Datenpipelines mit Python und SQL, um Daten aus verschiedenen Quellen zu integrieren.
+    \item Erstellte Power BI-Dashboards, um Implementierungsfortschritte und KPI-Trends für Kunden und Teams zu visualisieren.
+    \item Analysierte SOLL/IST-Daten und bereitete Berichte zur Identifikation von Schwachstellen und potenziellen Optimierungen vor.
+    \item Implementierte agile Methoden wie Scrum zur Verwaltung von Datenprojekten in einer dynamischen Teamumgebung.
+    \item Steigerte die Effizienz von Datenmanagementprozessen um 20\% durch Automatisierung und innovative Lösungen.
 \end{itemize}
 
 \end{rSection}
@@ -152,16 +158,18 @@ Systems Limited \hfill \textit{Lahore, Pakistan}
 
 \begin{rSection}{PROJEKTE}
 
-\item \textbf{Forecasting und KPI-Analyse:} Entwickelte ein Python-basiertes Forecasting-Modell zur Vorhersage von Geschäftsdaten und KPI-Trends. Implementierte eine Fehlerbehandlung und Optimierung, was zu einer genaueren Vorhersage führte (\href{https://github.com/Usama00004/ForecastingModel}{GitHub}).
+\item \textbf{BI-Dashboard zur SoftwareÜberwachung:} Entwickelte ein Power BI-Dashboard, das den Reifegrad und Implementierungsfortschritte neuer Softwareprodukte visualisiert. Nutzt Daten aus Jira und SQL-Datenbanken (\href{https://github.com/Usama00004/BI-Dashboard}{GitHub}).
 
-\item \textbf{Datenanalyse-Dashboard:} Implementierte ein Power BI-Dashboard zur Visualisierung von KPI-Trends und SOLL/IST-Analysen aus bereinigten Daten (Python, Pandas). Erstellte regelmäßige Berichte, die die Transparenz und Entscheidungsfindung verbesserten (\href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Optimierung von Datenvisualisierungsprozessen:} Entwarf eine Pipeline mit Python zur Bereinigung und Aggregation von Daten aus heterogenen Quellen. Ergebnis: eine verbesserte Datenkonsistenz und Fehlerreduktion um 30\% (\href{https://github.com/Usama00004/DataIntegration}{GitHub}).
 
-\item \textbf{Optimierung von Forecasting-Prozessen:} Arbeitete an der Optimierung von Forecasting-Prozessen in einem großen Unternehmen und verbesserte diese durch statistische Methoden und Datenmodellierung, was zu einer 25\%igen Verbesserung der Vorhersagegenauigkeit führte (\href{https://github.com/Usama00004/ForecastingOptimization}{GitHub}).
+\item \textbf{Integration von Fahrzeugtelemetrie-Daten:} Entwickelte eine Pipeline zur Aufnahme und Transformation von Telemetrie-Daten für Echtzeitanalysen. Resultierte in einem effizienteren Monitoring von vernetzten Fahrzeugen (\href{https://github.com/Usama00004/TelemetryAnalysis}{GitHub}).
+
+\item \textbf{Datenanalyse zur Fehlerprävention:} Implementierte Python-basierte Analysemodelle zur Identifikation potenzieller Softwareprobleme in vernetzten Fahrzeugen, wodurch die Fehlerprävalenz um 25\% reduziert wurde (\href{https://github.com/Usama00004/ErrorAnalysis}{GitHub}).
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\u0009VER\u00d6FFENTLICHUNGEN
+%\u0009VERÖFFENTLICHUNGEN
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{VER\u00d6FFENTLICHUNGEN}
