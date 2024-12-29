@@ -1,21 +1,20 @@
-Company Name : Spora Steria, Cover letter is not updated in this file
-Date : 28/dec/2024
+Company Name : one and one
+Date : 29/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
 \usepackage[empty]{fullpage}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{geometry}
 \usepackage{setspace}
-\usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -28,20 +27,20 @@ Date : 28/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    AURA Health Technologies GmbH\\
-    Kurfürstendamm 188/189 \\
-    10707 Berlin \\
-    Germany
+    1\&1 Telecom Service\\
+    Prager Ring 4-12\\
+    66482 Zweibrücken\\
+    Deutschland
+
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Hardenbergstrasse 34 \\
-    10623 Berlin\\
-    Germany\\
+    Hedderichstraße 47A, \\
+    60594 Frankfurt am Main \\
+    Deutschland \\
 
-    
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -50,7 +49,7 @@ Date : 28/dec/2024
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Working Student Data Analyst (x/f/m) Job ID: 13176485}
+\textbf{Bewerbung auf die Stelle Werkstudent (w/m/d) - Data Analyst / Forecasting | Kennziffer: SF-4444}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -59,32 +58,28 @@ Date : 28/dec/2024
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-Dear Hiring Manager,
+Sehr geehrte Damen und Herren,
 
-I am excited to apply for the Working Student Data Analyst position at your innovative FinTech company. With a strong foundation in data analysis and a passion for leveraging technology to drive impactful solutions, I am eager to contribute to your mission of revolutionizing SME financing through your Pulsproject platform.
+Mit großem Interesse habe ich Ihre Stellenanzeige gelesen und bin begeistert von der Möglichkeit, nachhaltige und innovative Datenmanagement-Lösungen in einem dynamischen Team wie Ihrem zu entwickeln.
 
-Currently pursuing a Master’s degree in Global Software Development at Hochschule Fulda, I have honed my skills in Python, Pandas, and Power BI, alongside data cleansing, validation, and trend analysis techniques. My academic journey and practical experiences have equipped me to collect, organize, and analyze data from diverse sources, ensuring quality and completeness. Notably, my ability to derive actionable insights has supported teams in making informed decisions and driving project success.
+Mein Masterstudium in Global Software Development an der Hochschule Fulda hat mich auf Themen wie Datenanalyse, Datenmodellierung und moderne analytische Ökosysteme spezialisiert. Bereits während meiner bisherigen Berufserfahrung konnte ich umfassende Kenntnisse in der Entwicklung und Optimierung von ETL-Prozessen, Datenvisualisierung mit Power BI und der Implementierung von Datenpipelines mit Python und SQL sammeln.
 
-Beyond technical expertise, I bring strong problem-solving abilities, attention to detail, and a collaborative spirit. Fluent in English (C1) and currently at German B1 while learning B2, I am well-prepared to communicate effectively in your dynamic, international environment. My adaptability and commitment to high-quality work make me a strong fit for the fast-paced challenges of your team.
+Besonders spannend finde ich Ihre Fokussierung auf innovative Lösungen und die enge Zusammenarbeit mit Kunden – Fähigkeiten, die ich durch datengetriebene Projekte und ein starkes Verständnis für Business Intelligence stetig weiterentwickelt habe. Darüber hinaus entspricht Ihre Kultur der Flexibilität und Weiterentwicklung genau meinen Vorstellungen.
 
-What excites me most about this opportunity is the chance to work at the intersection of data analysis and financial innovation, contributing to a company that values creativity and technological breakthroughs. I am particularly drawn to your emphasis on personal and professional development, and I am confident that my skills and dedication align with your vision.
+Zusätzlich habe ich das B1-Zertifikat in Deutsch abgelegt und bin derzeit im B2-Kurs eingeschrieben, um meine Sprachkenntnisse weiter zu vertiefen.
 
-I would welcome the opportunity to discuss how my qualifications align with your needs and explore how I can contribute to your team’s success. Thank you for considering my application. I look forward to the possibility of joining your pioneering company.
+Ich freue mich darauf, mit Ihnen gemeinsam datengetriebene Strategien zu entwickeln, die sowohl Ihre Kunden als auch Ihr Geschäft voranbringen.
 
 
 \vspace{0.5cm}
 
-Thanks and Regards\\
+Mit freundlichen Grüßen,\\
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
 \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
 \href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
 
 \end{document}
-
-
-
-
 
 ---------------------------------------------------------------------------------------
 
@@ -106,7 +101,7 @@ Usama Tahir \\
 
 \begin{rSection}{ZIEL}
 
-Detailorientierter Datenanalyst mit Erfahrung in der Entwicklung moderner Datenmanagement-Lösungen, Datenmodellierung und Visualisierung. Kompetent in Python, Power BI und SQL, suche eine Teilzeitstelle im Bereich Data und Analytics, um nachhaltige analytische Ökosysteme zu gestalten und datengetriebene Entscheidungen zu fördern.
+Ergebnisorientierter Datenanalyst mit Erfahrung in der Erstellung von Forecasts, Auswertung von KPI-Zahlen und der Optimierung von Datenmanagement-Prozessen. Kompetent in Python, Power BI, SQL und statistischen Methoden, suche eine Teilzeitstelle im Bereich Data Analytics, um analytische Strategien zur Verbesserung von Forecasting-Prozessen zu entwickeln und die Effizienz in einem dynamischen Team zu steigern.
 
 \end{rSection}
 
@@ -127,8 +122,8 @@ Detailorientierter Datenanalyst mit Erfahrung in der Entwicklung moderner Datenm
 
 \begin{rSection}{F\u00c4HIGKEITEN}
 
-\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, Pandas, NumPy, ETL, Datenmodellierung, Apache Kafka, Cloud-Dienste, Excel, Git \\
-\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Teamarbeit, Zeitmanagement \\
+\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, Pandas, NumPy, Excel, Datenmodellierung, ETL, Datenvisualisierung, Forecasting, VBA, Git \\
+\textbf{Soft Skills:} Kommunikation, Problemlösung, Teamarbeit, analytisches Denken, Zeitmanagement \\
 \textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
 
 \end{rSection}
@@ -142,11 +137,11 @@ Detailorientierter Datenanalyst mit Erfahrung in der Entwicklung moderner Datenm
 \textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Entwickelte und optimierte ETL-Prozesse sowie Datenpipelines mit Python und SQL, um qualitativ hochwertige Datenanalysen zu ermöglichen.
-    \item Konzipierte und implementierte nachhaltige Datenbewirtschaftungsprozesse, einschließlich der Integration von Echtzeit-Datenströmen mit Apache Kafka.
-    \item Entwickelte interaktive Dashboards in Power BI zur Visualisierung von Datenmustern, wodurch geschäftskritische Einblicke ermöglicht wurden.
-    \item Reduzierte die Datenverarbeitungszeit um 20\% und erhöhte die Datenverfügbarkeit um 30\%, was die Entscheidungsfindung erheblich verbesserte.
-    \item Führte Anforderungsanalysen durch und arbeitete eng mit Kunden zusammen, um personalisierte Datenlösungen bereitzustellen.
+    \item Entwickelte und optimierte ETL-Prozesse sowie Datenpipelines mit Python und SQL, um qualitativ hochwertige Datenanalysen und -berichte zu ermöglichen.
+    \item Analysierte SOLL/IST-Zahlen und identifizierte statistische Auffälligkeiten zur Verbesserung der Geschäftsprozesse.
+    \item Konzipierte und implementierte Forecasting-Modelle zur Vorhersage von KPIs und zur Identifikation von Verbesserungspotenzialen.
+    \item Entwickelte interaktive Dashboards in Power BI zur Visualisierung von KPI-Trends und business-relevanten Daten, was zu einer besseren Entscheidungsfindung führte.
+    \item Steigerte die Effizienz der Datenverarbeitung um 20\% und verbesserte die Datenqualität und -verfügbarkeit signifikant.
 \end{itemize}
 
 \end{rSection}
@@ -154,15 +149,14 @@ Systems Limited \hfill \textit{Lahore, Pakistan}
 %----------------------------------------------------------------------------------------
 %\u0009PROJEKTE
 %----------------------------------------------------------------------------------------
+
 \begin{rSection}{PROJEKTE}
 
-\item \textbf{Modernes Datenökosystem:} Entwickelte ein Cloud-basiertes analytisches Ökosystem, das Daten aus heterogenen Quellen integriert. Optimierte die Datenpipelines mit Python und SQL, wodurch die Verarbeitungszeit um 25\% reduziert wurde (\href{https://github.com/Usama00004/DataEcosystem}{GitHub}).
+\item \textbf{Forecasting und KPI-Analyse:} Entwickelte ein Python-basiertes Forecasting-Modell zur Vorhersage von Geschäftsdaten und KPI-Trends. Implementierte eine Fehlerbehandlung und Optimierung, was zu einer genaueren Vorhersage führte (\href{https://github.com/Usama00004/ForecastingModel}{GitHub}).
 
-\item \textbf{Datenanalyse-Dashboard:} Implementierte ein Power BI-Dashboard zur Visualisierung von KPI-Trends aus bereinigten Daten (Python, Pandas). Bereitgestellt für Echtzeitanalysen, verbesserte Fehlerbehandlung und Datenpräzision (\href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Datenanalyse-Dashboard:} Implementierte ein Power BI-Dashboard zur Visualisierung von KPI-Trends und SOLL/IST-Analysen aus bereinigten Daten (Python, Pandas). Erstellte regelmäßige Berichte, die die Transparenz und Entscheidungsfindung verbesserten (\href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\item \textbf{Echtzeit-Datenbewirtschaftung:} Entwickelte eine Datenpipeline mit Apache Kafka zur Aufnahme und Transformation von Echtzeitdaten. Speicherte und analysierte diese in PostgreSQL, wodurch hochfrequente Daten effizient verarbeitet wurden (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
-
-\item \textbf{Sentiment-Analyse:} Automatisierte die Datenerfassung mit Web-Scraping (Beautiful Soup, Selenium) und integrierte maschinelles Lernen für die Sentiment-Analyse. Verbessert die Pipeline-Effizienz um 25\% (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+\item \textbf{Optimierung von Forecasting-Prozessen:} Arbeitete an der Optimierung von Forecasting-Prozessen in einem großen Unternehmen und verbesserte diese durch statistische Methoden und Datenmodellierung, was zu einer 25\%igen Verbesserung der Vorhersagegenauigkeit führte (\href{https://github.com/Usama00004/ForecastingOptimization}{GitHub}).
 
 \end{rSection}
 
