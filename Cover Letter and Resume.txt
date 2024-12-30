@@ -1,20 +1,21 @@
-Company Name : Mercedes Benz
+Company Name : Continental
 Date : 29/dec/2024
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
-\usepackage{fontspec}
-\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[empty]{fullpage}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{geometry}
 \usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -27,21 +28,20 @@ Date : 29/dec/2024
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    Mercedes-Benz\\
-    Bela-Barenyi-Straße\\
-    71059 Sindelfingen\\
-    Deutschland
-
-
+    Continental AG\\
+    Peter-Dornier-Stra\ss e 10 \\
+    88131 Lindau \\
+    Germany
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Romerstadter strasse 3 \\
+    Romerstadterstra\ss e 3\\
     86199 Augsburg \\
-    Deutschland \\
+    Germany\\
 
+    
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -50,8 +50,7 @@ Date : 29/dec/2024
 
 % Subject line
 \noindent
-\textbf{Bewerbung auf die Stelle
-Praktikum im Bereich Data Analytics in der PreIntegration Telematik ab Februar 2025 | Stellennummer: MER0003HBY}
+\textbf{Application for the Position of Internship - Application Engineering Excellence – Power BI and efficiency expert | Job ID : REF70716U}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -60,26 +59,23 @@ Praktikum im Bereich Data Analytics in der PreIntegration Telematik ab Februar 2
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-Sehr geehrte Damen und Herren,
+Dear Hiring Manager,
 
-mit großem Interesse habe ich Ihre Stellenanzeige gelesen und bin begeistert von der Möglichkeit, innovative Software- und Datenlösungen für vernetzte Fahrzeuge in einem dynamischen Umfeld wie Ihrem zu entwickeln.
-Derzeit absolviere ich meinen Master in Global Software Development an der Hochschule Fulda, wo ich mich auf Datenanalyse, Datenmodellierung und moderne analytische Ökosysteme spezialisiert habe. In meiner bisherigen beruflichen Laufbahn konnte ich bereits fundierte praktische Erfahrungen sammeln:
+I am excited to apply for the internship position at your esteemed organization in Lindau. With a strong academic foundation, practical experience in data analysis, and a Microsoft Power BI Data Analyst certification, I am eager to contribute to your team’s mission of enhancing Key Performance Indicators (KPIs) reporting and transparency.
 
-\begin{itemize}
-    \item Development of interactive BI dashboards in Power BI to visually present complex data in an understandable manner.
-    \item Optimization of ETL processes and implementation of robust data pipelines using Python and SQL.
-    \item Application of agile methodologies, such as Scrum, to manage projects in dynamic environments.
-\end{itemize}
-Ihre Anforderung, Datenvisualisierungsprojekte voranzutreiben und Verbindungen zwischen verschiedenen Datenquellen herzustellen, deckt sich ideal mit meinen Kompetenzen. Besonders spannend finde ich die Möglichkeit, die Software von morgen zu visualisieren und datengetriebene Entscheidungen durch BI-Dashboards zu unterstützen.Darüber hinaus habe ich ein B1-Zertifikat in Deutsch erworben und bin derzeit im B2-Kurs eingeschrieben, um meine Sprachkenntnisse weiter zu verbessern. Neben meinen technischen Fähigkeiten bringe ich auch ein hohes Maß an Kommunikationsfähigkeit und eine lösungsorientierte Arbeitsweise mit, die es mir ermöglichen, effektiv mit verschiedenen Stakeholdern zusammenzuarbeiten.
+Currently pursuing a Master’s degree in Global Software Development at Hochschule Fulda, I have developed expertise in Power BI and MS Office programs, complemented by a Bachelor’s degree in Computer Science. My one year of professional experience in data analysis involved creating and refining dashboards, optimizing ETL processes, and enabling data-driven decision-making. My certification in Power BI has equipped me with advanced skills in designing intuitive KPI environments and conducting detailed trend analyses, aligning with the requirements of this role.
 
-Ich freue mich darauf, meine Fähigkeiten und Erfahrungen in Ihrem Team einzubringen, um gemeinsam innovative und nachhaltige Lösungen im Bereich Telematik und vernetzter Fahrzeuge zu entwickeln. Gerne stehe ich Ihnen für ein persönliches Gespräch zur Verfügung und freue mich auf Ihre Rückmeldung.
+In addition to technical skills, I bring a strong ability to coordinate cross-functional teams, analytical thinking, and a proactive approach to problem-solving. My multilingual capabilities in English (C1) and German (B1, currently advancing to B2) allow me to thrive in diverse, collaborative settings.
 
+What excites me most about this opportunity is the chance to support the creation and improvement of monthly KPI reports, collaborate with improvement teams, and propose efficiency ideas to drive organizational success. The prospect of contributing to the seamless HC and Budget handling through eWPS is particularly appealing, as it matches my interest in combining technical and business strategies.
 
-\vspace{0.2cm}
+I am confident that my academic background, hands-on experience, and enthusiasm for continuous improvement make me a strong candidate for this role. I have attached the required documents, including my certificate of enrollment, transcripts, and internship certificate, to support my application.
 
-Mit freundlichen Grüßen,\\
+I look forward to the opportunity to discuss how my skills and experiences align with the needs of your team. Thank you for considering my application.
 
+\vspace{0.5cm}
 
+Thanks and Regards\\
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
 \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
@@ -89,94 +85,104 @@ Usama Tahir \\
 
 ---------------------------------------------------------------------------------------
 
-\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
+\documentclass{resume} % Use the custom resume.cls style
 
-\usepackage[left=0.2 in,top=0.1in,right=0.2 in,bottom=0.1in]{geometry} % Seitenränder
+\usepackage[left=0.1in,top=0.1in,right=0.1in,bottom=0.1in]{geometry} % Document margins
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
-\address{+49 17684973934 \\ Deutschland}
-\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
-\href{https://github.com/Usama00004}{GitHub}} 
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 17684973934} 
+\address{Augsburg, Bavaria, Germany}
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%\u0009ZIEL
+%\tOBJECTIVE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{ZIEL}
+\begin{rSection}{Summary}
 
-Technikbegeisterter Datenanalyst mit Erfahrung in Datenvisualisierung, Business Intelligence und agilen Methoden. Kompetent in Python, Power BI, SQL und Datenintegration, suche ich eine Teilzeitstelle im Bereich vernetzter Fahrzeuge und Telematik, um innovative Software- und Datenlösungen zu entwickeln, die die Mobilität der Zukunft gestalten.
+Detail-oriented Data Analyst and certified Microsoft Power BI Data Analyst with experience in developing ETL processes, data visualization, and KPI reporting. Proficient in Power BI, Python, and MS Office programs, with strong analytical and coordination skills for enhancing data transparency and efficiency. Seeking to leverage my expertise in KPI reporting and process improvement as part of the Application Engineering Excellence team.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\u0009AUSBILDUNG
+%\tEDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{AUSBILDUNG}
+\begin{rSection}{Education}
 
-{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
-{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Expected March 2026}\\
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% FÄHIGKEITEN
+% SKILLS
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{F\u00c4HIGKEITEN}
+\begin{rSection}{Skills}
 
-\textbf{Technische Fähigkeiten:} Python, SQL, Power BI, Pandas, NumPy, Jira, Confluence, Datenmodellierung, Datenintegration, ETL, Apache Kafka, Excel, VBA, Git \\
-\textbf{Soft Skills:} Kommunikation, Problemlösung, Teamarbeit, analytisches Denken, Selbstorganisation \\
-\textbf{Sprachen:} Deutsch (B1 CEFR, derzeit in B2 eingeschrieben), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
+\textbf{Technical Skills:} Power BI (Certified), Python, Pandas, NumPy, SQL, Tableau, Power Automate, Excel, Selenium, ETL, Data Modeling, Data Cleansing, Jira, Git \\
+\textbf{Soft Skills:} Quick Comprehension, Analytical Thinking, Creativity, Problem Solving, Team Collaboration, Coordination\\
+\textbf{Languages:} English (C1 CEFR), German (B1 CEFR, currently learning B2), Hindi, Punjabi\\
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\u0009BERUFSERFAHRUNG
+%\tEXPERIENCE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{BERUFSERFAHRUNG}
+\begin{rSection}{EXPERIENCE}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Entwickelte und optimierte Datenpipelines mit Python und SQL, um Daten aus verschiedenen Quellen zu integrieren.
-    \item Erstellte Power BI-Dashboards, um Implementierungsfortschritte und KPI-Trends für Kunden und Teams zu visualisieren.
-    \item Analysierte SOLL/IST-Daten und bereitete Berichte zur Identifikation von Schwachstellen und potenziellen Optimierungen vor.
-    \item Implementierte agile Methoden wie Scrum zur Verwaltung von Datenprojekten in einer dynamischen Teamumgebung.
-    \item Steigerte die Effizienz von Datenmanagementprozessen um 20\% durch Automatisierung und innovative Lösungen.
+    \item Developed and optimized KPI reporting dashboards using Power BI, improving data transparency and decision-making by 30\%.
+    \item Designed ETL processes for data extraction and transformation using Python (Beautiful Soup, Selenium).
+    \item Coordinated cross-functional teams to streamline workflows and ensure accurate KPI alignment.
+    \item Enhanced data integration workflows through real-time processing with Apache Kafka.
+    \item Led automation initiatives with Power Automate, reducing reporting time by 20\%.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\u0009PROJEKTE
+%\tPROJECTS
 %----------------------------------------------------------------------------------------
+\begin{rSection}{PROJECTS}
 
-\begin{rSection}{PROJEKTE}
+\item \textbf{Interactive Data Dashboard:} Created a Power BI dashboard to visualize trends from processed data. Deployed the dashboard on the cloud for real-time analytics, improving operational transparency by 25\% 
+(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\item \textbf{BI-Dashboard zur SoftwareÜberwachung:} Entwickelte ein Power BI-Dashboard, das den Reifegrad und Implementierungsfortschritte neuer Softwareprodukte visualisiert. Nutzt Daten aus Jira und SQL-Datenbanken (\href{https://github.com/Usama00004/BI-Dashboard}{GitHub}).
+\item \textbf{KPI Environment Creation:} Built new KPI reporting structures using Power BI, enhancing report clarity and accessibility for diverse stakeholders.Automated reporting processes using Power Automate, reducing manual effort and ensuring data accuracy
 
-\item \textbf{Optimierung von Datenvisualisierungsprozessen:} Entwarf eine Pipeline mit Python zur Bereinigung und Aggregation von Daten aus heterogenen Quellen. Ergebnis: eine verbesserte Datenkonsistenz und Fehlerreduktion um 30\% (\href{https://github.com/Usama00004/DataIntegration}{GitHub}).
-
-\item \textbf{Integration von Fahrzeugtelemetrie-Daten:} Entwickelte eine Pipeline zur Aufnahme und Transformation von Telemetrie-Daten für Echtzeitanalysen. Resultierte in einem effizienteren Monitoring von vernetzten Fahrzeugen (\href{https://github.com/Usama00004/TelemetryAnalysis}{GitHub}).
-
-\item \textbf{Datenanalyse zur Fehlerprävention:} Implementierte Python-basierte Analysemodelle zur Identifikation potenzieller Softwareprobleme in vernetzten Fahrzeugen, wodurch die Fehlerprävalenz um 25\% reduziert wurde (\href{https://github.com/Usama00004/ErrorAnalysis}{GitHub}).
+\item \textbf{Real-Time Data Analytics:} Designed a streaming pipeline using Apache Kafka for low-latency processing and real-time insights, stored in PostgreSQL 
+(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\u0009VERÖFFENTLICHUNGEN
+%\tPUBLICATION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{VER\u00d6FFENTLICHUNGEN}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Veröffentlicht im MDPI Energies Journal, beschreibt das Papier innovative Ansätze zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen (\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+\begin{rSection}{Publication}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, presenting algorithms to optimize resource utilization and reduce energy consumption in cloud environments 
+(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%\tADDITIONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Additional Information}
+
+\textbf{Availability:} Full-time internship starting immediately, as required.\\
+\textbf{Portfolio:} GitHub repositories showcasing dashboards, ETL pipelines, and data-driven projects available at \href{https://github.com/Usama00004}{Link to portfolio}.\\
+\textbf{Interests:} KPI Reporting, Data Transparency, Process Optimization, Sustainable Solutions.
 
 \end{rSection}
 
 \end{document}
-
-
