@@ -1,4 +1,4 @@
-Company Name :  GRIMME GmbH \& Co. KG
+Company Name : Siemens Energie)  
 Date : 1/jan/2025
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
@@ -27,21 +27,21 @@ Date : 1/jan/2025
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-
-    GRIMME GmbH \& Co. KG\\
-    Hunteburger Str. 32\\
-    49401 Damme\\
+    Siemens Healthineers AG\\
+    Siemensstr. 3\\
+    91301 Forchheim\\
     Deutschland
-    
+
+   
+
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Hedderichstraße 47A \\
-    60594, Frankfurt \\
+    Weisendorfer Str. 8 B\\
+    91056 Erlangen \\
     Deutschland \\
-
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -50,7 +50,7 @@ Date : 1/jan/2025
 
 % Subject line
 \noindent
-\textbf{Bewerbung auf die Stelle Praktikum / Abschlussarbeit im Bereich Data Science (m/w/d)}
+\textbf{Bewerbung als Werkstudent für Datenanalyse und Dashboardentwicklung | Stellen-ID 233207}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -59,15 +59,20 @@ Date : 1/jan/2025
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-mit 1,5 Jahren praktischer Erfahrung in der Datenanalyse sowie fundierten Kenntnissen in der Anwendung maschineller Lernverfahren freue ich mich, mich für die Position im Bereich Data Science (Praktikum / Abschlussarbeit) in Ihrem Unternehmen zu bewerben. Besonders reizt mich die Möglichkeit, aktiv an der Analyse und Aufbereitung von Maschinen- und Nutzerdaten mitzuwirken und durch innovative Datenlösungen die Effizienz und Zukunftsfähigkeit Ihrer Landmaschinen zu fördern.
+Sehr geehrte Damen und Herren,
 
-Als zertifizierter Data Analyst verfüge ich über umfassende Kenntnisse in der Verarbeitung und Analyse von Daten mit Tools wie Python (Pandas, NumPy), SQL sowie in der Visualisierung mit Power BI. In vergangenen Projekten habe ich erfolgreich maschinelle Lernmodelle implementiert, statistische Analysen durchgeführt und die Ergebnisse in Form interaktiver Dashboards für strategische Entscheidungen aufbereitet. Meine Fähigkeit, komplexe Daten verständlich und praxisorientiert zu präsentieren, zeichnet mich aus.
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Werkstudent im Bereich Datenanalyse und Dashboardentwicklung bei Siemens Healthineers gelesen. Als Masterstudent der Global Software Development und zertifizierter Power BI Data Analyst bringe ich die nötigen Fähigkeiten und die Motivation mit, um Ihr Team tatkräftig zu unterstützen.
 
-Derzeit absolviere ich ein Masterstudium im Bereich Global Software Development an der Hochschule Fulda, das meinen Schwerpunkt auf Datenmodellierung, maschinelles Lernen und datengetriebene Entscheidungsprozesse weiter vertieft. Meine Sprachkenntnisse – Deutsch auf B1-Niveau und fließendes Englisch – ermöglichen eine effektive Zusammenarbeit in internationalen und multidisziplinären Teams.
+In meinem bisherigen Werdegang habe ich durch ein Jahr Berufserfahrung in der Datenanalyse umfangreiche Kenntnisse in der Arbeit mit Power BI, SQL und Excel gesammelt. Die Entwicklung interaktiver Dashboards, die Datenmodellierung sowie die Durchführung von ETL-Prozessen gehörten dabei zu meinen Hauptaufgaben. Meine Fähigkeit, komplexe Datensätze zu strukturieren und aussagekräftige Berichte zu erstellen, hilft mir, datenbasierte Entscheidungen zu fördern. Zusätzlich habe ich während meines Studiums Projekte wie "AquaMetrics" entwickelt, das sich mit der Analyse von Abwasserdaten beschäftigt – eine wertvolle Erfahrung, die auch im Gesundheitssektor von Nutzen sein kann.
 
-Ich schätze die innovative Ausrichtung von GRIMME und die Möglichkeit, im Bereich Data@Grimme mit einem visionären Team zusammenzuarbeiten, um den Mehrwert Ihrer Datenlösungen weiter zu steigern. Meine analytische Denkweise, Eigeninitiative und Begeisterung für technologische Entwicklungen qualifizieren mich, einen Beitrag zu Ihren Datenprojekten zu leisten und gemeinsam Lösungen für reale Herausforderungen zu entwickeln.
+Ich verfüge über sehr gute Kenntnisse in SQL, einschließlich der Erstellung von Views und Stored Procedures, und bin erfahren im Umgang mit Pivot-Tabellen in Excel. Die Kombination aus technischer Expertise und analytischem Denken ermöglicht es mir, Daten effektiv aufzubereiten und visuell ansprechend darzustellen.
 
-Vielen Dank, dass Sie meine Bewerbung in Betracht ziehen. Ich freue mich darauf, meine Qualifikationen und meine Begeisterung für die Arbeit in Ihrem Unternehmen in einem persönlichen Gespräch näher zu erläutern.
+Neben meinen fachlichen Qualifikationen bringe ich Sprachkenntnisse mit, die mich für die Arbeit in einem internationalen und deutschsprachigen Umfeld qualifizieren. Ich habe das Deutschzertifikat B1 erfolgreich abgeschlossen und bin derzeit in einem B2-Kurs eingeschrieben, um meine Sprachkenntnisse weiter auszubauen.
+
+Siemens Healthineers bietet ein innovatives Umfeld, in dem ich meine Fähigkeiten in der Datenanalyse einbringen und weiterentwickeln kann. Ihre Mission, die Zukunft des Gesundheitswesens mitzugestalten, inspiriert mich, Teil Ihres Teams zu werden.
+
+Ich freue mich, Sie in einem persönlichen Gespräch davon zu überzeugen, dass ich sowohl fachlich als auch persönlich eine Bereicherung für Ihr Team bin. Vielen Dank für Ihre Zeit und die Möglichkeit, mich bei Ihnen vorzustellen.
+
 \vspace{0.5cm}
 
 Mit freundlichen Grüßen,\\
@@ -78,93 +83,96 @@ Usama Tahir \\
 
 \end{document}
 
+
 ---------------------------------------------------------------------------------------
 
-\documentclass{resume} % Use the custom resume.cls style
+\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
 
-\usepackage[left=0.4in,top=0.2in,right=0.4in,bottom=0.3in]{geometry} % Page margins
-\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry} % Seitenränder
+\newcommand{\tab}[2]{\hspace{.2667\textwidth}\rlap{#2}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
-\address{+49 17684973934 \\ Deutschland}
-\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
-\href{https://github.com/Usama00004}{GitHub}} 
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 17684973934} 
+\address{Erlangen, Nuremberg, Deutschland} 
+\address{Erlangen, Nuremberg, Deutschland} 
+
+
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-% OBJECTIVE
+%	ZIEL
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Objective}
-Aspiring data scientist with a strong foundation in data analysis, statistical modeling, and machine learning. Experienced in Python, Power BI, and SQL, seeking an internship or thesis position to contribute to innovative solutions for machine and user data analysis at GRIMME.
-\end{rSection}
+\begin{rSection}{ZIEL}
 
-%----------------------------------------------------------------------------------------
-% EDUCATION
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Education}
-
-{\bf Master in Global Software Development}, Hochschule Fulda \hfill {Expected March 2026}\\
-{\bf Bachelor in Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
+Zertifizierter Power BI Data Analyst und Masterstudent der Global Software Development, motiviert, datenbasierte Entscheidungen im Gesundheitssektor zu fördern. Kompetent in Datenanalyse, SQL, und Dashboard-Entwicklung, suche ich eine Werkstudentenstelle, um mein Wissen in einem innovativen Umfeld wie Siemens Healthineers anzuwenden und auszubauen.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% SKILLS
+%	AUSBILDUNG
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Skills}
+\begin{rSection}{AUSBILDUNG}
 
-\textbf{Technical Skills:} Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Power BI, R, Apache Kafka, Excel\\
-\textbf{Machine Learning:} Regression, Classification, Clustering, Time-Series Analysis\\
-\textbf{Soft Skills:} Communication, Problem-solving, Adaptability, Time management\\
-\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi 
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026 (laufend)}\\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% PROFESSIONAL EXPERIENCE
+% FÄHIGKEITEN
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Professional Experience}
+\begin{rSection}{FÄHIGKEITEN}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
+\textbf{Technische Fähigkeiten:} Power BI, SQL (Queries/Views/Stored Procedures), Python (Pandas, NumPy, Scrapy ,Selenium), Microsoft Excel \\
+\textbf{Sprachen:} Deutsch (B1 CEFR, B2 laufend), Englisch (C1 CEFR), Urdu, Punjabi, Hindi \\
+\textbf{Soft Skills:} Analytisches Denken, Kommunikation, Problemlösung, Selbstmotivation 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Analyzed machine and user data using Python (Pandas, NumPy) to identify actionable insights.
-    \item Automated ETL processes and developed pipelines for data collection from field operations.
-    \item Created dashboards in Power BI to visualize key trends and validated insights with real-world scenarios.
-    \item Collaborated with cross-functional teams to implement machine learning models for predictive analysis.
-    \item Improved data processing efficiency by 20\%, reducing analysis turnaround time.
+    \item Entwickelte Power BI-Dashboards zur Visualisierung komplexer Datensätze und identifizierte Trends für bessere Entscheidungen.
+    \item Bereitete Daten mit SQL (Views, Queries, Stored Procedures) auf und integrierte diese in ETL-Pipelines.
+    \item Optimierte Datenprozesse, reduzierte die Verarbeitungszeit um 20\%, und steigerte die Datenverfügbarkeit um 30\%.
+    \item Automatisierte ETL-Prozesse mit Python und führte Datenbereinigung sowie Fehlerbehandlung durch.
+    \item Erstellte Benutzeranleitungen und Dokumentation für Power BI-Dashboards und SQL-Prozesse.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% PROJECTS
+%	PROJEKTE
 %----------------------------------------------------------------------------------------
-\begin{rSection}{Projects}
+\begin{rSection}{PROJEKTE}
 
-\item \textbf{Field Data Visualization Dashboard:} Developed an interactive Power BI dashboard to visualize trends from machine data collected during field operations. Preprocessed data using Python and optimized pipelines for real-time analysis, reducing data processing time by 20\%.
-(verf\"ugbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Power BI-Dashboard für Verkaufsanalyse:} Entwickelte ein interaktives Power BI-Dashboard zur Visualisierung von Verkaufsdaten. Bereinigte und transformierte Daten mit Python und SQL, wodurch die Datenverarbeitungszeit um 20\% reduziert wurde (verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\item \textbf{Machine Learning for Efficiency Optimization:} Implemented clustering algorithms to group machine usage patterns and regression models to predict maintenance needs. Results led to a 15\% improvement in operational efficiency.
-(verf\"ugbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
-
-\item \textbf{Sentiment Analysis of User Feedback:} Automated data collection using BeautifulSoup and Selenium, applied NLP techniques to analyze sentiment trends in user reviews, and visualized results with Python.
-(verf\"ugbar auf \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+\item \textbf{Datenpipeline für Echtzeit-Datenanalyse:} Implementierte eine Pipeline für Echtzeit-Daten mit SQL und Apache Kafka. Speicherte transformierte Daten in einer relationalen Datenbank (PostgreSQL) und ermöglichte latenzarme Einblicke in hochfrequente Datensätze 
+(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% PUBLICATIONS
+%	VERÖFFENTLICHUNGEN
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Publications}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Research focusing on energy-efficient workload scheduling and server placement in cloud environments. Published in \textit{MDPI Energies}, the study contributes to sustainable and optimized resource utilization in data centers.
-(verf\"ugbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Forschungsarbeit im Bereich Green Energy mit dem Ziel, die Ressourcennutzung zu optimieren und den Energieverbrauch in Cloud-Umgebungen zu minimieren. Der Schwerpunkt liegt auf energieeffizienten Algorithmen zur Arbeitslastplanung und Serverplatzierung, um die Nachhaltigkeit von Rechenzentren zu fördern 
+(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+\end{rSection}
+
 
 \end{rSection}
 
