@@ -1,20 +1,21 @@
-Company Name : Siemens Energie)  
+Company Name : Imfusion 
 Date : 1/jan/2025
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
-\usepackage{fontspec}
-\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage[empty]{fullpage}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{ragged2e}
 \usepackage{geometry}
 \usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -27,21 +28,19 @@ Date : 1/jan/2025
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    Siemens Healthineers AG\\
-    Siemensstr. 3\\
-    91301 Forchheim\\
-    Deutschland
-
-   
-
+    ImFusion GmbH\\
+    Agnes-Pockels-Bogen 1\\ 
+    80992 München \\
+    Germany
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Weisendorfer Str. 8 B\\
-    91056 Erlangen \\
-    Deutschland \\
+    Romerstadterstraße 3\\
+    86199 Augsburg\\
+    Germany\\
+    
     \vspace{1cm} % Adjust the space as needed
     \today
 \end{minipage}
@@ -50,7 +49,7 @@ Date : 1/jan/2025
 
 % Subject line
 \noindent
-\textbf{Bewerbung als Werkstudent für Datenanalyse und Dashboardentwicklung | Stellen-ID 233207}
+\textbf{Application for the Position of Working Student (Data Science, Spine)}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -59,23 +58,25 @@ Date : 1/jan/2025
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-Sehr geehrte Damen und Herren,
+Dear Hiring Manager,
 
-mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Werkstudent im Bereich Datenanalyse und Dashboardentwicklung bei Siemens Healthineers gelesen. Als Masterstudent der Global Software Development und zertifizierter Power BI Data Analyst bringe ich die nötigen Fähigkeiten und die Motivation mit, um Ihr Team tatkräftig zu unterstützen.
+I am writing to express my interest in the working student position within the Machine Learning group at ImFusion GmbH. As a current Master's student in Global Software Development at Hochschule Fulda, with a solid foundation in data analysis, Python programming, and machine learning, I am excited about the opportunity to contribute to groundbreaking research in medical imaging and be part of the team that enhances the quality of datasets for real medical applications.
 
-In meinem bisherigen Werdegang habe ich durch ein Jahr Berufserfahrung in der Datenanalyse umfangreiche Kenntnisse in der Arbeit mit Power BI, SQL und Excel gesammelt. Die Entwicklung interaktiver Dashboards, die Datenmodellierung sowie die Durchführung von ETL-Prozessen gehörten dabei zu meinen Hauptaufgaben. Meine Fähigkeit, komplexe Datensätze zu strukturieren und aussagekräftige Berichte zu erstellen, hilft mir, datenbasierte Entscheidungen zu fördern. Zusätzlich habe ich während meines Studiums Projekte wie "AquaMetrics" entwickelt, das sich mit der Analyse von Abwasserdaten beschäftigt – eine wertvolle Erfahrung, die auch im Gesundheitssektor von Nutzen sein kann.
+My academic experience has provided me with proficiency in Python and hands-on experience with machine learning frameworks. I have worked on several data-related projects, including my recent project on wastewater analysis, which involved data cleaning, feature engineering, and building predictive models. I am particularly excited by the chance to apply my skills in a field that directly impacts medical technology, especially in the context of automating the segmentation of the spine, which aligns with my passion for both software development and data science.
 
-Ich verfüge über sehr gute Kenntnisse in SQL, einschließlich der Erstellung von Views und Stored Procedures, und bin erfahren im Umgang mit Pivot-Tabellen in Excel. Die Kombination aus technischer Expertise und analytischem Denken ermöglicht es mir, Daten effektiv aufzubereiten und visuell ansprechend darzustellen.
+In addition to my technical skills, I am a detail-oriented and creative problem solver, eager to tackle challenges such as detecting and correcting dataset issues, automating processes, and evaluating models to improve overall performance. I am also highly motivated to learn and contribute to the machine learning models used in your Spine plugin.
 
-Neben meinen fachlichen Qualifikationen bringe ich Sprachkenntnisse mit, die mich für die Arbeit in einem internationalen und deutschsprachigen Umfeld qualifizieren. Ich habe das Deutschzertifikat B1 erfolgreich abgeschlossen und bin derzeit in einem B2-Kurs eingeschrieben, um meine Sprachkenntnisse weiter auszubauen.
+Regarding language skills, I am fluent in English (C1) and have achieved a B1 level in German, currently enrolled in a B2 course. I am confident that my language proficiency will allow me to effectively contribute to your team and communicate with colleagues.
 
-Siemens Healthineers bietet ein innovatives Umfeld, in dem ich meine Fähigkeiten in der Datenanalyse einbringen und weiterentwickeln kann. Ihre Mission, die Zukunft des Gesundheitswesens mitzugestalten, inspiriert mich, Teil Ihres Teams zu werden.
+I am confident that my background in software development and data science, combined with my strong motivation to contribute to the field of medical imaging, would allow me to make meaningful contributions to your team. I look forward to the possibility of discussing how my skills can align with your team’s goals.
 
-Ich freue mich, Sie in einem persönlichen Gespräch davon zu überzeugen, dass ich sowohl fachlich als auch persönlich eine Bereicherung für Ihr Team bin. Vielen Dank für Ihre Zeit und die Möglichkeit, mich bei Ihnen vorzustellen.
+Thank you for considering my application. I look forward to the opportunity to discuss my application in more detail.
+
+
 
 \vspace{0.5cm}
 
-Mit freundlichen Grüßen,\\
+Thanks and Regards\\
 Usama Tahir \\ 
 (+49)-176-84973934 \\ 
 \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
@@ -86,95 +87,92 @@ Usama Tahir \\
 
 ---------------------------------------------------------------------------------------
 
-\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
+\documentclass{resume} % Use the custom resume.cls style
 
-\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry} % Seitenränder
-\newcommand{\tab}[2]{\hspace{.2667\textwidth}\rlap{#2}} 
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Usama Tahir}
 \address{usamatahir00004@gmail.com}
 \address{+49 17684973934} 
-\address{Erlangen, Nuremberg, Deutschland} 
-\address{Erlangen, Nuremberg, Deutschland} 
-
-
+\address{Augsburg, Bavaria, Germany}
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%	ZIEL
+%\OBJECTIVE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{ZIEL}
+\begin{rSection}{OBJECTIVE}
 
-Zertifizierter Power BI Data Analyst und Masterstudent der Global Software Development, motiviert, datenbasierte Entscheidungen im Gesundheitssektor zu fördern. Kompetent in Datenanalyse, SQL, und Dashboard-Entwicklung, suche ich eine Werkstudentenstelle, um mein Wissen in einem innovativen Umfeld wie Siemens Healthineers anzuwenden und auszubauen.
+Detail-oriented Software Engineer with expertise in Python, data analysis, and machine learning frameworks. Skilled in dataset curation, automation, and problem-solving, seeking to contribute to impactful projects in medical imaging and machine learning.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	AUSBILDUNG
+%\EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{AUSBILDUNG}
+\begin{rSection}{Education}
 
-{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026 (laufend)}\\
-{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026}\\
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% FÄHIGKEITEN
+% TECHNICAL STRENGTHS
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{FÄHIGKEITEN}
+\begin{rSection}{Skills}
 
-\textbf{Technische Fähigkeiten:} Power BI, SQL (Queries/Views/Stored Procedures), Python (Pandas, NumPy, Scrapy ,Selenium), Microsoft Excel \\
-\textbf{Sprachen:} Deutsch (B1 CEFR, B2 laufend), Englisch (C1 CEFR), Urdu, Punjabi, Hindi \\
-\textbf{Soft Skills:} Analytisches Denken, Kommunikation, Problemlösung, Selbstmotivation 
+\textbf{Technical Skills:} Python, Selenium, Pandas, NumPy, SQL, Power BI, Jira, Perforce, Git, Excel, TensorFlow, PyTorch\\
+\textbf{Data Science:} Data Analysis, Machine Learning, Dataset Curation, ETL, Data Visualization\\
+\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management\\
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	BERUFSERFAHRUNG
+%\EXPERIENCE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{BERUFSERFAHRUNG}
+\begin{rSection}{EXPERIENCE}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Entwickelte Power BI-Dashboards zur Visualisierung komplexer Datensätze und identifizierte Trends für bessere Entscheidungen.
-    \item Bereitete Daten mit SQL (Views, Queries, Stored Procedures) auf und integrierte diese in ETL-Pipelines.
-    \item Optimierte Datenprozesse, reduzierte die Verarbeitungszeit um 20\%, und steigerte die Datenverfügbarkeit um 30\%.
-    \item Automatisierte ETL-Prozesse mit Python und führte Datenbereinigung sowie Fehlerbehandlung durch.
-    \item Erstellte Benutzeranleitungen und Dokumentation für Power BI-Dashboards und SQL-Prozesse.
+    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium).
+    \item Curated and cleaned datasets, improving data quality for machine learning models.
+    \item Utilized SQL for data transformation and integration across pipelines.
+    \item Leveraged Power BI for data visualization and reporting, enabling actionable insights.
+    \item Enhanced data availability by 30\% and reduced processing time by 20\%, streamlining decision-making processes.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%	PROJEKTE
+%\PROJECTS
 %----------------------------------------------------------------------------------------
-\begin{rSection}{PROJEKTE}
+\begin{rSection}{PROJECTS}
 
-\item \textbf{Power BI-Dashboard für Verkaufsanalyse:} Entwickelte ein interaktives Power BI-Dashboard zur Visualisierung von Verkaufsdaten. Bereinigte und transformierte Daten mit Python und SQL, wodurch die Datenverarbeitungszeit um 20\% reduziert wurde (verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
+(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\item \textbf{Datenpipeline für Echtzeit-Datenanalyse:} Implementierte eine Pipeline für Echtzeit-Daten mit SQL und Apache Kafka. Speicherte transformierte Daten in einer relationalen Datenbank (PostgreSQL) und ermöglichte latenzarme Einblicke in hochfrequente Datensätze 
-(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
+(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\item \textbf{Medical Image Segmentation:} Worked on creating Python workflows to analyze and improve medical imaging datasets. Curated large-scale datasets for model training, implemented quality control processes, and evaluated the performance of segmentation models.
+
+\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
+(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
 
 \end{rSection}
 
-%----------------------------------------------------------------------------------------
-%	VERÖFFENTLICHUNGEN
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{VERÖFFENTLICHUNGEN}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Forschungsarbeit im Bereich Green Energy mit dem Ziel, die Ressourcennutzung zu optimieren und den Energieverbrauch in Cloud-Umgebungen zu minimieren. Der Schwerpunkt liegt auf energieeffizienten Algorithmen zur Arbeitslastplanung und Serverplatzierung, um die Nachhaltigkeit von Rechenzentren zu fördern 
-(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
-\end{rSection}
-
+\begin{rSection}{Publication}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies to optimize resource utilization and minimize energy consumption in cloud environments 
+(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
 
 \end{rSection}
 
 \end{document}
-
