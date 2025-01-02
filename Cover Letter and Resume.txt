@@ -1,5 +1,5 @@
-Company Name : Imfusion 
-Date : 1/jan/2025
+Company Name : Cloover 
+Date : 2/jan/2025
 ----------------------------------------------------------------------------
 \documentclass[11pt,a4paper]{article}
 
@@ -15,7 +15,7 @@ Date : 1/jan/2025
 \usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+\geometry{top=0.8in, bottom=0.8in, left=0.8in, right=0.8in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -28,18 +28,21 @@ Date : 1/jan/2025
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    ImFusion GmbH\\
-    Agnes-Pockels-Bogen 1\\ 
-    80992 München \\
-    Germany
+    Cloover\\
+    Hussitenstraße 32-33 \\
+    13355 Berlin \\
+    Germany\\
+
+   
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Romerstadterstraße 3\\
-    86199 Augsburg\\
+    HardenbergStrasse 34 \\
+    10623 Berlin\\
     Germany\\
+
     
     \vspace{1cm} % Adjust the space as needed
     \today
@@ -49,7 +52,7 @@ Date : 1/jan/2025
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Working Student (Data Science, Spine)}
+\textbf{Application for the Position of Data Science Intern}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -60,18 +63,19 @@ Date : 1/jan/2025
 
 Dear Hiring Manager,
 
-I am writing to express my interest in the working student position within the Machine Learning group at ImFusion GmbH. As a current Master's student in Global Software Development at Hochschule Fulda, with a solid foundation in data analysis, Python programming, and machine learning, I am excited about the opportunity to contribute to groundbreaking research in medical imaging and be part of the team that enhances the quality of datasets for real medical applications.
+I am excited to apply for the Data Scientist position at Cloover. With a strong background in data analysis, machine learning, and data-driven decision-making, coupled with a passion for advancing climate solutions, I am eager to contribute to your mission of accelerating the global transition to renewable energy.
 
-My academic experience has provided me with proficiency in Python and hands-on experience with machine learning frameworks. I have worked on several data-related projects, including my recent project on wastewater analysis, which involved data cleaning, feature engineering, and building predictive models. I am particularly excited by the chance to apply my skills in a field that directly impacts medical technology, especially in the context of automating the segmentation of the spine, which aligns with my passion for both software development and data science.
+During my tenure as a Junior Data Analyst at Systems Limited, I honed my skills in developing automated ETL pipelines using Python and SQL, optimizing workflows that improved data availability by 30\% and reduced processing times by 20\%. Leveraging tools like Power BI, I transformed complex datasets into actionable insights, enabling cross-functional teams to make informed decisions. My experience aligns seamlessly with Cloover’s focus on building and maintaining dashboards in Metabase and analyzing large datasets in Google BigQuery.
 
-In addition to my technical skills, I am a detail-oriented and creative problem solver, eager to tackle challenges such as detecting and correcting dataset issues, automating processes, and evaluating models to improve overall performance. I am also highly motivated to learn and contribute to the machine learning models used in your Spine plugin.
+In academic and professional projects, I have explored real-time data streaming solutions using Apache Kafka, developed credit risk models for financial decision-making, and built predictive models that enhanced customer engagement strategies. These experiences have equipped me with the statistical foundation and machine learning expertise needed to support Cloover’s renewable energy financing initiatives.
 
-Regarding language skills, I am fluent in English (C1) and have achieved a B1 level in German, currently enrolled in a B2 course. I am confident that my language proficiency will allow me to effectively contribute to your team and communicate with colleagues.
+Fluent in English and German (B1 certified), I am adept at collaborating in multicultural environments. My problem-solving mindset and attention to detail have been key in driving impactful outcomes, such as deploying dashboards that monitor key performance metrics and optimizing data pipelines for large-scale analytics.
 
-I am confident that my background in software development and data science, combined with my strong motivation to contribute to the field of medical imaging, would allow me to make meaningful contributions to your team. I look forward to the possibility of discussing how my skills can align with your team’s goals.
+Joining Cloover represents an opportunity to align my professional expertise with my passion for climate action. I am inspired by your commitment to empowering individuals and businesses to adopt sustainable energy solutions. I am eager to contribute to innovative projects that make renewable energy accessible and affordable, ensuring a tangible impact on the global energy transition.
 
-Thank you for considering my application. I look forward to the opportunity to discuss my application in more detail.
+I would welcome the opportunity to discuss how my skills and experiences align with Cloover’s goals. Thank you for considering my application. I look forward to the possibility of contributing to your impactful mission.
 
+Best regards,
 
 
 \vspace{0.5cm}
@@ -85,93 +89,96 @@ Usama Tahir \\
 \end{document}
 
 
+
 ---------------------------------------------------------------------------------------
 
 \documentclass{resume} % Use the custom resume.cls style
 
-\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\usepackage[left=0.2 in,top=0.2in,right=0.2 in,bottom=0.2in]{geometry} % Document margins
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Usama Tahir}
 \address{usamatahir00004@gmail.com}
 \address{+49 17684973934} 
-\address{Augsburg, Bavaria, Germany}
+\address{ Berlin, Berlin, Germany}
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%\OBJECTIVE
+%\tOBJECTIVE
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{OBJECTIVE}
 
-Detail-oriented Software Engineer with expertise in Python, data analysis, and machine learning frameworks. Skilled in dataset curation, automation, and problem-solving, seeking to contribute to impactful projects in medical imaging and machine learning.
+Detail-oriented Data Scientist with expertise in Python, SQL, and data visualization, driven to support cross-functional teams by providing actionable insights and enabling data-driven decision-making. Passionate about leveraging analytical skills to contribute to renewable energy financing and climate goals.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\EDUCATION SECTION
+%\tEDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{Education}
 
-{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026}\\
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026 (Expected)}\\
 {\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-% TECHNICAL STRENGTHS
+%\tSKILLS
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{Skills}
 
-\textbf{Technical Skills:} Python, Selenium, Pandas, NumPy, SQL, Power BI, Jira, Perforce, Git, Excel, TensorFlow, PyTorch\\
-\textbf{Data Science:} Data Analysis, Machine Learning, Dataset Curation, ETL, Data Visualization\\
-\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management\\
+\textbf{Technical Skills:} Python, SQL, Pandas, NumPy, Power BI, Google BigQuery, Metabase, Apache Kafka, ETL Processes, Data Modeling, Machine Learning (Scikit-learn, TensorFlow), Data Visualization\\
+\textbf{Financial and Renewable Energy Expertise:} Credit Risk Modeling, Portfolio Analytics, Renewable Energy Systems, Debt Instruments\\
+\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Collaboration\\
 \textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\EXPERIENCE
+%\tEXPERIENCE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{EXPERIENCE}
+\begin{rSection}{Experience}
 
 \textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium).
-    \item Curated and cleaned datasets, improving data quality for machine learning models.
-    \item Utilized SQL for data transformation and integration across pipelines.
-    \item Leveraged Power BI for data visualization and reporting, enabling actionable insights.
-    \item Enhanced data availability by 30\% and reduced processing time by 20\%, streamlining decision-making processes.
+    \item Designed and automated ETL processes and data pipelines using Python (BeautifulSoup, Selenium).
+    \item Utilized SQL and Google BigQuery for efficient data storage, transformation, and integration.
+    \item Developed Power BI dashboards for real-time analytics, streamlining decision-making processes.
+    \item Enhanced data availability by 30\% and reduced processing time by 20\% through optimized workflows.
+    \item Collaborated with cross-functional teams to identify actionable insights from large datasets.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\PROJECTS
+%\tPROJECTS
 %----------------------------------------------------------------------------------------
-\begin{rSection}{PROJECTS}
+\begin{rSection}{Projects}
 
-\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
-(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Credit Risk Modeling:} Designed a prototype for credit risk assessment leveraging machine learning (Scikit-learn) and historical financial data to predict loan default probabilities, aiding renewable energy financing decisions.
 
-\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
-(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+\item \textbf{Renewable Energy Analytics Dashboard:} Built an interactive dashboard in Power BI to track key performance metrics (KPIs) related to renewable energy projects. Deployed it on the cloud for real-time monitoring and insights.
 
-\item \textbf{Medical Image Segmentation:} Worked on creating Python workflows to analyze and improve medical imaging datasets. Curated large-scale datasets for model training, implemented quality control processes, and evaluated the performance of segmentation models.
+\item \textbf{Real-Time Data Streaming:} Implemented a real-time pipeline with Apache Kafka and Flink to process large-scale data, enabling low-latency insights and efficient handling of renewable energy datasets. Stored processed data in PostgreSQL for further analysis.
 
-\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
-(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+\item \textbf{Sentiment Analysis for Marketing Insights:} Created a sentiment analysis tool to analyze customer feedback on renewable energy services. Automated data extraction and sentiment scoring using Python, improving campaign performance by 25\%.
 
 \end{rSection}
 
+%----------------------------------------------------------------------------------------
+%\tPUBLICATION
+%----------------------------------------------------------------------------------------
+
 \begin{rSection}{Publication}
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies to optimize resource utilization and minimize energy consumption in cloud environments 
-(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, presenting innovative algorithms to optimize resource utilization and minimize energy consumption in cloud environments 
+(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
 
 \end{rSection}
 
