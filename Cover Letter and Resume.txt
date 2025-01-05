@@ -1,6 +1,7 @@
-Company Name : Cloover 
-Date : 2/jan/2025  
-----------------------------------------------------------------------------
+Company Name : Simens Mobility 
+Date : 5/jan/2025  
+
+
 \documentclass[11pt,a4paper]{article}
 
 %%%% Include Packages
@@ -15,7 +16,7 @@ Date : 2/jan/2025
 \usepackage{mathpazo} % Palatino font for a professional look
 
 %%%% Set Margins
-\geometry{top=0.8in, bottom=0.8in, left=0.8in, right=0.8in}
+\geometry{top=0.5in, bottom=0.5in, left=0.8in, right=0.8in}
 
 %%%% Define Colors
 \definecolor{UI_blue}{RGB}{32, 64, 151}
@@ -28,19 +29,17 @@ Date : 2/jan/2025
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    Cloover\\
-    Hussitenstraße 32-33 \\
-    13355 Berlin \\
-    Germany\\
-
-   
+    Simens Mobility\\
+    Krauss-Maffei-Straße 2\\
+    80997 München \\
+    Germany
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    HardenbergStrasse 34 \\
-    10623 Berlin\\
+    Weisendorfer Str. 8 B \\
+    91056 Erlangen\\
     Germany\\
 
     
@@ -52,7 +51,7 @@ Date : 2/jan/2025
 
 % Subject line
 \noindent
-\textbf{Application for the Position of Data Science Intern}
+\textbf{Application for the Working Student Position in Operational Excellence for Production Planning JOB ID : 447952}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -61,21 +60,23 @@ Date : 2/jan/2025
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{12pt}
 
-Dear Hiring Manager,
 
-I am excited to apply for the Data Scientist position at Cloover. With a strong background in data analysis, machine learning, and data-driven decision-making, coupled with a passion for advancing climate solutions, I am eager to contribute to your mission of accelerating the global transition to renewable energy.
+Dear Hiring Team at Siemens,
 
-During my tenure as a Junior Data Analyst at Systems Limited, I honed my skills in developing automated ETL pipelines using Python and SQL, optimizing workflows that improved data availability by 30\% and reduced processing times by 20\%. Leveraging tools like Power BI, I transformed complex datasets into actionable insights, enabling cross-functional teams to make informed decisions. My experience aligns seamlessly with Cloover’s focus on building and maintaining dashboards in Metabase and analyzing large datasets in Google BigQuery.
+I am writing to express my enthusiasm for the Working Student position in Operational Excellence for Production Planning at Siemens Mobility. As a Master's student in Global Software Development at Hochschule Fulda, with a strong foundation in Data Science, Data Analytics, and Industrial Data Processes, I am excited about the opportunity to contribute to your mission of shaping the future of mobility.
 
-In academic and professional projects, I have explored real-time data streaming solutions using Apache Kafka, developed credit risk models for financial decision-making, and built predictive models that enhanced customer engagement strategies. These experiences have equipped me with the statistical foundation and machine learning expertise needed to support Cloover’s renewable energy financing initiatives.
+My academic and professional experiences have equipped me with the skills and passion to excel in this role. I hold a Bachelor’s degree in Computer Science from COMSATS University and a Diploma in Software Development from the University of Punjab. Over the past year, I have gained hands-on experience in Data Analytics, utilizing tools such as Python (Pandas), Power BI, and ETL techniques, complemented by my Microsoft Power BI Data Analyst certification. Furthermore, my exposure to ArcGIS and my GitHub project, AquaMetrics, which focuses on wastewater analysis, reflect my ability to manage diverse datasets and generate actionable insights.
 
-Fluent in English and German (B1 certified), I am adept at collaborating in multicultural environments. My problem-solving mindset and attention to detail have been key in driving impactful outcomes, such as deploying dashboards that monitor key performance metrics and optimizing data pipelines for large-scale analytics.
+What truly excites me about this role is the prospect of contributing to Siemens Mobility’s vision of using digitalization to enhance intelligent infrastructure. As a detail-oriented and analytical thinker, I have honed my skills in creating dashboards, identifying optimization opportunities, and implementing data-driven solutions that drive operational efficiency. My experience with project management and resource planning further positions me to support your team in achieving world-class production standards.
 
-Joining Cloover represents an opportunity to align my professional expertise with my passion for climate action. I am inspired by your commitment to empowering individuals and businesses to adopt sustainable energy solutions. I am eager to contribute to innovative projects that make renewable energy accessible and affordable, ensuring a tangible impact on the global energy transition.
+In addition to my technical capabilities, my language skills in English, Urdu, and Hindi, combined with my B1 German certification and ongoing B2 studies, allow me to adapt seamlessly to international teams and foster effective communication.
 
-I would welcome the opportunity to discuss how my skills and experiences align with Cloover’s goals. Thank you for considering my application. I look forward to the possibility of contributing to your impactful mission.
+Siemens Mobility’s commitment to addressing global challenges such as climate change and population growth through innovative mobility solutions resonates deeply with me. I am eager to bring my skills, energy, and dedication to your team and contribute meaningfully to your projects.
 
-Best regards,
+I would welcome the opportunity to discuss how my qualifications align with your needs and how I can contribute to Siemens Mobility's continued success. Thank you for considering my application.
+
+I look forward to the possibility of joining your team and contributing to shaping the future of mobility with passion and innovation.
+
 
 
 \vspace{0.5cm}
@@ -100,85 +101,88 @@ Usama Tahir \\
 \name{Usama Tahir}
 \address{usamatahir00004@gmail.com}
 \address{+49 17684973934} 
-\address{ Berlin, Berlin, Germany}
+\address{Erlangen, Germany}
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
-%\tOBJECTIVE
+%\ OBJECTIVE
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{OBJECTIVE}
 
-Detail-oriented Data Scientist with expertise in Python, SQL, and data visualization, driven to support cross-functional teams by providing actionable insights and enabling data-driven decision-making. Passionate about leveraging analytical skills to contribute to renewable energy financing and climate goals.
+Master's student in Global Software Development with expertise in Data Analytics, Python, Power BI, and industrial data processes. Seeking to contribute to Siemens Mobility's Operational Excellence team by leveraging data analysis, dashboard development, and process optimization skills to ensure world-class production standards and enhance decision-making.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\tEDUCATION SECTION
+%\ EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{Education}
 
-{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2026 (Expected)}\\
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Expected March 2026}\\
 {\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\tSKILLS
+% TECHNICAL STRENGTHS
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{Skills}
 
-\textbf{Technical Skills:} Python, SQL, Pandas, NumPy, Power BI, Google BigQuery, Metabase, Apache Kafka, ETL Processes, Data Modeling, Machine Learning (Scikit-learn, TensorFlow), Data Visualization\\
-\textbf{Financial and Renewable Energy Expertise:} Credit Risk Modeling, Portfolio Analytics, Renewable Energy Systems, Debt Instruments\\
-\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Collaboration\\
-\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi
+\textbf{Technical Skills:} Python, Pandas, NumPy, SQL, Power BI, ETL, Excel, Selenium, Beautiful Soup, Apache Kafka, Jira\\
+\textbf{Data Visualization:} Power BI, Spotfire\\
+\textbf{Simulation Tools:} ArcGIS, Siemens Plant Simulation (familiar)\\
+\textbf{Soft Skills:} Analytical Thinking, Problem Solving, Adaptability, Time Management\\
+\textbf{Languages:} German (B1 CEFR, pursuing B2), English (C1 CEFR), Urdu, Hindi, Punjabi
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\tEXPERIENCE
+%\ EXPERIENCE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Experience}
+\begin{rSection}{EXPERIENCE}
 
 \textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Designed and automated ETL processes and data pipelines using Python (BeautifulSoup, Selenium).
-    \item Utilized SQL and Google BigQuery for efficient data storage, transformation, and integration.
-    \item Developed Power BI dashboards for real-time analytics, streamlining decision-making processes.
-    \item Enhanced data availability by 30\% and reduced processing time by 20\% through optimized workflows.
-    \item Collaborated with cross-functional teams to identify actionable insights from large datasets.
+    \item Analyzed production data to identify trends and optimization opportunities, improving operational efficiency by 20%.
+    \item Automated ETL workflows using Python (Pandas, Beautiful Soup, Selenium), ensuring data accuracy and reducing manual effort.
+    \item Designed and implemented Power BI dashboards for monitoring key performance metrics, enhancing decision-making processes.
+    \item Utilized SQL to integrate and transform data across multiple sources, enabling streamlined data workflows.
+\end{itemize}
+
+\textbf{Research Assistant} \hfill Aug 2020 - Dec 2020\\
+COMSATS University \hfill \textit{Lahore, Pakistan}
+\begin{itemize}
+    \item Conducted data analysis for a cloud resource optimization project, resulting in a peer-reviewed publication.
+    \item Applied advanced algorithms to model and simulate server workload distribution, achieving a 15% reduction in energy usage.
 \end{itemize}
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\tPROJECTS
+%\ PROJECTS
 %----------------------------------------------------------------------------------------
-\begin{rSection}{Projects}
+\begin{rSection}{PROJECTS}
 
-\item \textbf{Credit Risk Modeling:} Designed a prototype for credit risk assessment leveraging machine learning (Scikit-learn) and historical financial data to predict loan default probabilities, aiding renewable energy financing decisions.
+\item \textbf{Production Planning Dashboard:} Developed a Power BI dashboard for visualizing production KPIs, incorporating real-time data processed through Python (Pandas). Streamlined reporting processes, reducing manual data handling by 25% (available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\item \textbf{Renewable Energy Analytics Dashboard:} Built an interactive dashboard in Power BI to track key performance metrics (KPIs) related to renewable energy projects. Deployed it on the cloud for real-time monitoring and insights.
+\item \textbf{Real-Time Data Pipeline:} Designed a real-time data pipeline using Apache Kafka for data ingestion and Apache Flink for transformation, enabling low-latency insights and efficient handling of high-volume data streams (available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
-\item \textbf{Real-Time Data Streaming:} Implemented a real-time pipeline with Apache Kafka and Flink to process large-scale data, enabling low-latency insights and efficient handling of renewable energy datasets. Stored processed data in PostgreSQL for further analysis.
-
-\item \textbf{Sentiment Analysis for Marketing Insights:} Created a sentiment analysis tool to analyze customer feedback on renewable energy services. Automated data extraction and sentiment scoring using Python, improving campaign performance by 25\%.
+\item \textbf{Material Flow Simulation (Concept):} Gained familiarity with Siemens Plant Simulation to model and optimize material flow processes in manufacturing environments.
 
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
-%\tPUBLICATION
+%\ PUBLICATION
 %----------------------------------------------------------------------------------------
-
 \begin{rSection}{Publication}
 
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, presenting innovative algorithms to optimize resource utilization and minimize energy consumption in cloud environments 
-(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, this paper proposes novel algorithms for optimizing resource utilization and reducing energy consumption in cloud environments (see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
 
 \end{rSection}
 
