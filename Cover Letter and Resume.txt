@@ -1,6 +1,5 @@
-Company Name : Simens Mobility 
-Date : 5/jan/2025  
-
+Company Name : ODDO 
+Date : 9/jan/2025  
 
 \documentclass[11pt,a4paper]{article}
 
@@ -29,19 +28,19 @@ Date : 5/jan/2025
 % Sender and recipient addresses
 \noindent
 \begin{minipage}[t]{0.45\textwidth}
-    Simens Mobility\\
-    Krauss-Maffei-Straße 2\\
-    80997 München \\
-    Germany
+    ODDO BHF SE\\
+    Gallusanlage 8\\
+    60329 Frankfurt am Main \\
+  
 \end{minipage}%
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
     \raggedleft
     Usama Tahir \\
-    Weisendorfer Str. 8 B \\
-    91056 Erlangen\\
+    Hedderichstraße 47A\\
+    60594 Frankfurt am Main\\
     Germany\\
-
+ 
     
     \vspace{1cm} % Adjust the space as needed
     \today
@@ -51,7 +50,8 @@ Date : 5/jan/2025
 
 % Subject line
 \noindent
-\textbf{Application for the Working Student Position in Operational Excellence for Production Planning JOB ID : 447952}
+\textbf{Application for the Position Working Student (m/w/d) - Data Analytics
+ JOB ID : 39890816}
 
 \vspace{0.2cm} % Space between subject line and main content
 
@@ -61,22 +61,19 @@ Date : 5/jan/2025
 \setlength{\parskip}{12pt}
 
 
-Dear Hiring Team at Siemens,
+Dear Hiring Team,
 
-I am writing to express my enthusiasm for the Working Student position in Operational Excellence for Production Planning at Siemens Mobility. As a Master's student in Global Software Development at Hochschule Fulda, with a strong foundation in Data Science, Data Analytics, and Industrial Data Processes, I am excited about the opportunity to contribute to your mission of shaping the future of mobility.
+I am excited to apply for the Data \& Transformation Analyst position within your Data Excellence Team in Frankfurt. With a solid foundation in data analytics, a passion for fostering data-driven cultures, and a global perspective developed through my academic and professional experiences, I am eager to contribute to your mission of driving strategic data development.
 
-My academic and professional experiences have equipped me with the skills and passion to excel in this role. I hold a Bachelor’s degree in Computer Science from COMSATS University and a Diploma in Software Development from the University of Punjab. Over the past year, I have gained hands-on experience in Data Analytics, utilizing tools such as Python (Pandas), Power BI, and ETL techniques, complemented by my Microsoft Power BI Data Analyst certification. Furthermore, my exposure to ArcGIS and my GitHub project, AquaMetrics, which focuses on wastewater analysis, reflect my ability to manage diverse datasets and generate actionable insights.
+Currently pursuing a Master’s degree in Global Software Development at Hochschule Fulda, I have honed my analytical and technical skills, particularly in SQL, Power BI, and data governance. My recent certification as a Microsoft Power BI Data Analyst and over a year of hands-on experience in data modeling, ETL processes, and dashboard creation position me well to support and train data analysts in constructing actionable insights.
 
-What truly excites me about this role is the prospect of contributing to Siemens Mobility’s vision of using digitalization to enhance intelligent infrastructure. As a detail-oriented and analytical thinker, I have honed my skills in creating dashboards, identifying optimization opportunities, and implementing data-driven solutions that drive operational efficiency. My experience with project management and resource planning further positions me to support your team in achieving world-class production standards.
+In my academic and professional journey, I have embraced opportunities to bridge technical expertise with business needs. For instance, during a recent project, I collaborated with cross-functional teams to develop a data visualization dashboard that optimized resource allocation for environmental initiatives. This experience sharpened my ability to communicate complex technical concepts to diverse stakeholders—a skill I am eager to bring to your team as an ambassador for data excellence.
 
-In addition to my technical capabilities, my language skills in English, Urdu, and Hindi, combined with my B1 German certification and ongoing B2 studies, allow me to adapt seamlessly to international teams and foster effective communication.
+What particularly draws me to this role is the emphasis on fostering a robust data culture and modernizing the analytics stack. My proficiency in identifying tools to streamline workflows, coupled with my curiosity and adaptability, ensures I can actively contribute to tool evaluation and implementation. Additionally, my multilingual capabilities in English, Urdu, Hindi, and German (B1 certified, pursuing B2) equip me to thrive in your international and diverse environment.
 
-Siemens Mobility’s commitment to addressing global challenges such as climate change and population growth through innovative mobility solutions resonates deeply with me. I am eager to bring my skills, energy, and dedication to your team and contribute meaningfully to your projects.
+Joining your team presents an exciting opportunity to grow my expertise in the financial sector and tackle complex data challenges alongside seasoned professionals. I am confident that my proactive mindset, technical acumen, and commitment to fostering collaboration align well with the expectations of this role.
 
-I would welcome the opportunity to discuss how my qualifications align with your needs and how I can contribute to Siemens Mobility's continued success. Thank you for considering my application.
-
-I look forward to the possibility of joining your team and contributing to shaping the future of mobility with passion and innovation.
-
+I would welcome the chance to discuss how my background and aspirations align with your vision for the Data Excellence Team. Thank you for considering my application. I look forward to the possibility of contributing to your team’s success.
 
 
 \vspace{0.5cm}
@@ -92,7 +89,6 @@ Usama Tahir \\
 
 
 ---------------------------------------------------------------------------------------
-
 \documentclass{resume} % Use the custom resume.cls style
 
 \usepackage[left=0.2 in,top=0.2in,right=0.2 in,bottom=0.2in]{geometry} % Document margins
@@ -101,7 +97,7 @@ Usama Tahir \\
 \name{Usama Tahir}
 \address{usamatahir00004@gmail.com}
 \address{+49 17684973934} 
-\address{Erlangen, Germany}
+\address{Frankfurt, Germany}
 
 \begin{document}
 
@@ -111,7 +107,7 @@ Usama Tahir \\
 
 \begin{rSection}{OBJECTIVE}
 
-Master's student in Global Software Development with expertise in Data Analytics, Python, Power BI, and industrial data processes. Seeking to contribute to Siemens Mobility's Operational Excellence team by leveraging data analysis, dashboard development, and process optimization skills to ensure world-class production standards and enhance decision-making.
+Master's student in Global Software Development with expertise in Data Analytics, Python, SQL, and Power BI. Aspiring Data \& Transformation Analyst with a strong analytical mindset and experience in designing dashboards, implementing ETL workflows, and enhancing data governance practices. Ready to contribute to the Data Excellence Team by transforming data into actionable insights and promoting data culture across stakeholders.
 
 \end{rSection}
 
@@ -132,11 +128,11 @@ Master's student in Global Software Development with expertise in Data Analytics
 
 \begin{rSection}{Skills}
 
-\textbf{Technical Skills:} Python, Pandas, NumPy, SQL, Power BI, ETL, Excel, Selenium, Beautiful Soup, Apache Kafka, Jira\\
+\textbf{Technical Skills:} Python, Pandas, NumPy, SQL, Power BI, ETL, Excel, Selenium, Beautiful Soup, Tableau (familiar), Apache Kafka\\
 \textbf{Data Visualization:} Power BI, Spotfire\\
-\textbf{Simulation Tools:} ArcGIS, Siemens Plant Simulation (familiar)\\
-\textbf{Soft Skills:} Analytical Thinking, Problem Solving, Adaptability, Time Management\\
-\textbf{Languages:} German (B1 CEFR, pursuing B2), English (C1 CEFR), Urdu, Hindi, Punjabi
+\textbf{Governance Tools:} Familiar with data catalog tools\\
+\textbf{Soft Skills:} Analytical Thinking, Problem Solving, Adaptability, Team Collaboration\\
+\textbf{Languages:} English (C1 CEFR), French (Beginner), German (B1 CEFR, pursuing B2), Urdu, Hindi, Punjabi
 
 \end{rSection}
 
@@ -149,17 +145,19 @@ Master's student in Global Software Development with expertise in Data Analytics
 \textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
 Systems Limited \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Analyzed production data to identify trends and optimization opportunities, improving operational efficiency by 20%.
-    \item Automated ETL workflows using Python (Pandas, Beautiful Soup, Selenium), ensuring data accuracy and reducing manual effort.
-    \item Designed and implemented Power BI dashboards for monitoring key performance metrics, enhancing decision-making processes.
-    \item Utilized SQL to integrate and transform data across multiple sources, enabling streamlined data workflows.
+    \item Provided technical training and support for business teams, enabling the creation of dynamic dashboards and reports.
+    \item Automated ETL workflows using Python, ensuring high-quality data availability for analysis and reducing manual effort.
+    \item Designed and implemented Power BI dashboards for monitoring KPIs, empowering stakeholders with actionable insights.
+    \item Advised teams on data governance practices, ensuring compliance and improving data integrity.
+    \item Utilized SQL to streamline data integration and resolve discrepancies across systems.
 \end{itemize}
 
 \textbf{Research Assistant} \hfill Aug 2020 - Dec 2020\\
 COMSATS University \hfill \textit{Lahore, Pakistan}
 \begin{itemize}
-    \item Conducted data analysis for a cloud resource optimization project, resulting in a peer-reviewed publication.
-    \item Applied advanced algorithms to model and simulate server workload distribution, achieving a 15% reduction in energy usage.
+    \item Conducted data analysis for a cloud optimization project, resulting in a peer-reviewed publication.
+    \item Modeled algorithms to enhance workload distribution, achieving a 15% reduction in energy consumption.
+    \item Improved data documentation processes, increasing transparency for stakeholders.
 \end{itemize}
 
 \end{rSection}
@@ -169,11 +167,13 @@ COMSATS University \hfill \textit{Lahore, Pakistan}
 %----------------------------------------------------------------------------------------
 \begin{rSection}{PROJECTS}
 
-\item \textbf{Production Planning Dashboard:} Developed a Power BI dashboard for visualizing production KPIs, incorporating real-time data processed through Python (Pandas). Streamlined reporting processes, reducing manual data handling by 25% (available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+\item \textbf{Dashboard Creation for Business Insights:} Developed Power BI dashboards with real-time updates for production KPIs using Python for data processing. Improved report generation efficiency by 25% (available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
 
-\item \textbf{Real-Time Data Pipeline:} Designed a real-time data pipeline using Apache Kafka for data ingestion and Apache Flink for transformation, enabling low-latency insights and efficient handling of high-volume data streams (available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+\item \textbf{Data Integrity Monitoring Tool:} Designed a SQL-based tool for monitoring data integrity, highlighting discrepancies for resolution.
 
-\item \textbf{Material Flow Simulation (Concept):} Gained familiarity with Siemens Plant Simulation to model and optimize material flow processes in manufacturing environments.
+\item \textbf{Real-Time Data Pipeline:} Built a pipeline with Apache Kafka for data ingestion and transformation, enabling low-latency insights for high-volume data streams (available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\item \textbf{Knowledge Sharing Platform:} Collaborated on a knowledge-sharing platform to assist teams in adopting best practices for data analysis and visualization.
 
 \end{rSection}
 
@@ -182,8 +182,10 @@ COMSATS University \hfill \textit{Lahore, Pakistan}
 %----------------------------------------------------------------------------------------
 \begin{rSection}{Publication}
 
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, this paper proposes novel algorithms for optimizing resource utilization and reducing energy consumption in cloud environments (see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, this paper proposes algorithms for optimizing resource utilization and reducing energy consumption in cloud environments (see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
 
 \end{rSection}
 
 \end{document}
+
+
