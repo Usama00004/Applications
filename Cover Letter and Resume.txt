@@ -1,197 +1,78 @@
-Company Name : Algea Care 
-Date : 15/jan/2025   
-
-\documentclass[11pt,a4paper]{article}
-
-%%%% Include Packages
+\documentclass[letter,11pt]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage[empty]{fullpage}
-\usepackage[hidelinks]{hyperref}
-\usepackage{xcolor}
-\usepackage{ragged2e}
-\usepackage{geometry}
-\usepackage{setspace}
-\usepackage{mathpazo} % Palatino font for a professional look
+\usepackage{TLCresume}
 
-%%%% Set Margins
-\geometry{top=0.3in, bottom=0.2in, left=0.5in, right=0.5in}
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst | BI Analyst }
 
-%%%% Define Colors
-\definecolor{UI_blue}{RGB}{32, 64, 151}
-
-%%%% Document Content
-\begin{document}
-
-\vspace{1cm} % Space between header and addresses
-
-% Sender and recipient addresses
-\noindent
-\begin{minipage}[t]{0.45\textwidth}
-    Algea Care\\
-    Bockenheimer Land str 33-35 \\
-    60325 Frankfurt\\
-    Hessen Germany\\
-
-\end{minipage}%
-\hfill
-\begin{minipage}[t]{0.45\textwidth}
-    \raggedleft
-
-
-    Usama Tahir \\
-    Hedderich str  47A \\
-    60594 Frankfurt \\
-    Hessen Germany\\
-
-
-
-
-    \vspace{1cm} % Adjust the space as needed
-    \today
-\end{minipage}
-
-\vspace{1cm} % Space between addresses and subject line
-
-% Subject line
-\noindent
-\textbf{ Application for the position Working Student Data \& Analytics (m/w/d) }
-
-\vspace{0.2cm} % Space between subject line and main content
-
-% Main letter content
-\justify
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{12pt}
-
-Dear Hiring Manager,
-
-I am excited to apply for the Working Student Data \& Analytics role at Algea Care. With a strong foundation in data analysis, programming, and a passion for creating reliable and efficient data processes, I am eager to contribute to your team’s mission of developing a modern cloud data warehouse and microservice-based data processes.
-
-During my academic and professional journey, I have developed the skills and experience required to excel in this position:
-
-
-
-\begin{itemize}
-    \item \textbf{Data Processing and ETL Development}: Over a year of experience in implementing ETL processes, data modeling, and quality assurance workflows using Python and Power BI. Skilled in data gathering, cleaning, and preparation to ensure accuracy and reliability.
-
-    \item \textbf{Technical Expertise}: Proficient in Python, SQL, and databases, with hands-on experience in data manipulation and pipelining. Familiar with Git and GitHub for version control and collaboration, as well as Snowflake’s architecture and benefits.
-
-    \item \textbf{Visualization and Reporting}: Expertise in creating meaningful visualizations and reports that align with stakeholder requirements. Certified as a Microsoft Power BI Data Analyst, further demonstrating strong capabilities in this domain.
-
-    \item \textbf{Enthusiasm for Learning}: Currently pursuing a Master’s degree in Software Development, with a commitment to continuous skill enhancement. Gained initial exposure to AWS and Docker and motivated to deepen knowledge in these areas.
-\end{itemize}
-
-
-What sets me apart is my combination of technical expertise, analytical mindset, and a strong service orientation. I thrive in collaborative environments and am committed to delivering data-driven solutions that empower decision-making.
-
-I am fluent in English and hold a B1 certification in German, with ongoing studies to reach B2 proficiency. This multilingual ability enables me to adapt effectively in diverse teams and client-facing roles.
-
-I am enthusiastic about the opportunity to bring my skills and passion for data to [Company Name]. I would welcome the chance to discuss how my background aligns with your team’s goals. Thank you for considering my application.
-
-Best regards,
-
-
-\vspace{0.5cm}
-
-Thanks and Regards\\
-Usama Tahir \\ 
-(+49)-176-84973934 \\ 
-\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
-\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
-
-\end{document}
-
----------------------------------------------------------------------------------------
-\documentclass{resume} % Use the custom resume.cls style
-
-\usepackage[left=0.2 in,top=0.2in,right=0.2 in,bottom=0.2in]{geometry} % Document margins
-\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
-\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
-\name{Usama Tahir}
-\address{usamatahir00004@gmail.com}
-\address{+49 17684973934} 
-\address{Frankfurt, Hessen, Germany}
+\input{_header}
 
 \begin{document}
 
-%----------------------------------------------------------------------------------------
-%	OBJECTIVE
-%----------------------------------------------------------------------------------------
+\section{Summary}  
+Detail-oriented Data Analyst with expertise in Python, Power BI, and SQL. Experienced in ETL, data modeling, and automation, with a focus on creating dashboards, scalable pipelines, and actionable insights. 
 
-\begin{rSection}{OBJECTIVE}
+\section{Skills}  
+\textbf{Technical Skills:} Python, Pandas, NumPy, SQL, Power BI, Snowflake, AWS S3, Selenium, Kafka, Git, Excel, DAX  \\  
+\textbf{Data Engineering Tools:} ETL Processes, Data Modeling, Data Visualization, Snow pipe, Data Pipelines  \\  
+\textbf{Soft Skills:} Communication, Analytical Thinking, Problem Solving, Adaptability, Time Management  \\  
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi  
 
-Detail-oriented Data Analyst and Software Engineer with expertise in Python, SQL, and Power BI. Skilled in ETL development, data modeling, and cloud data processes. Seeking to contribute to the design and implementation of modern cloud data warehouses and microservice-based data processes in a fast-paced environment.
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
 
-\end{rSection}
+\section{Professional Experience}  
 
-%----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
-%----------------------------------------------------------------------------------------
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Prepared and integrated data from various internal and external sources, ensuring high-quality and consistent datasets.  
+    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium), improving efficiency and reliability.  
+    \item Implemented real-time streaming workflows using Kafka, enabling low-latency data ingestion and transformation.  
+    \item Utilized SQL and Snowflake for data transformation, integration, and storage across scalable pipelines.  
+    \item Developed Power BI dashboards to provide actionable insights and enhance decision-making for stakeholders.  
+    \item Enhanced data availability by 30\% and reduced processing time by 20\%, contributing to efficient workflows.  
+    \item Collaborated with cross-functional teams to support data literacy and foster a data-driven culture.  
+\end{itemize}  
 
-\begin{rSection}{Education}
+\section{Projects}  
 
-{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Expected: March 2026}\\
-{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
+\textbf{Real Estate Data Pipeline Project:} Built an end-to-end data pipeline to process real estate data from Redfin, showcasing modern data engineering practices (available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}). Extracted raw data and stored it in AWS S3 for further processing. The datasets were transformed and cleaned to ensure they were analysis-ready. Used Snowpipe to load the transformed data into Snowflake and connected Snowflake to Power BI to deliver actionable visualizations.
 
-\end{rSection}
 
-%----------------------------------------------------------------------------------------
-% SKILLS
-%----------------------------------------------------------------------------------------
 
-\begin{rSection}{Skills}
 
-\textbf{Technical Skills:} Python, SQL, Pandas, NumPy, Power BI, Selenium, ETL/ELT Processes, Git, GitHub, Data Modeling, Docker (Basic) \\
-\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
-\textbf{Languages:} English (C1 CEFR), German (B1 CEFR), Urdu, Punjabi, Hindi
+\textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from processed data using Python (Pandas). Reduced data processing time by 20\% through preprocessing and error handling pipelines (available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).  
 
-\end{rSection}
+\textbf{Real Estate Data Pipeline Project:} This project demonstrates an ETL (Extract, Transform, Load) pipeline that fetches weather data from an API, processes the data using Python Pandas, and loads the transformed data into a Snowflake table. The data in Snowflake is further used in Power BI to create actionable visualizations and analyses, showcasing end-to-end data engineering practices (available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
 
-%----------------------------------------------------------------------------------------
-%	EXPERIENCE
-%----------------------------------------------------------------------------------------
+\textbf{Mobile Sales Data Visualization Dashboard:} This project is a data visualization dashboard that provides insights into mobile sales and orders for the years 2021, 2022, 2023, and 2024. The dashboard helps users explore sales trends, order patterns, and other key metrics to better understand performance over time, enabling data-driven decision-making and strategic planning (available on \href{https://github.com/Usama00004/DAX}{GitHub}).
 
-\begin{rSection}{EXPERIENCE}
 
-\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022\\
-Systems Limited \hfill \textit{Lahore, Pakistan}
+\textbf{Sentiment Analysis Pipeline:} Automated web scraping and sentiment analysis using BeautifulSoup, Selenium, and Scikit-learn. Enhanced efficiency by 25\% and reduced manual effort by 40\% through automation (available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).  
+
+\section{Publications}  
+
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, this research proposes algorithms for optimizing resource utilization and minimizing energy consumption in cloud environments (see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).  
+
+
+\section{Certifications}  
 \begin{itemize}
-    \item Developed and automated ETL pipelines using Python (Beautiful Soup, Selenium), improving efficiency by 20\%.
-    \item Implemented real-time data streaming workflows using Apache Kafka for large-scale data ingestion.
-    \item Utilized SQL for data transformation, integration, and preparation for analysis.
-    \item Designed interactive Power BI dashboards, enabling actionable business insights and reducing data reporting time by 30\%.
-    \item Collaborated with cross-functional teams to ensure data quality and accessibility across platforms.
+    \item \textbf{German Language B2.1:} Certified in German B2.1, demonstrating advanced skills for professional communication in German-speaking settings (\href{https://github.com/Usama00004/Certifications/blob/main/Germnan%20B2_1.pdf}{view certificate}).
+    \item \textbf{Microsoft Power BI:} Certified in Power BI, with expertise in transforming data into impactful visual insights (\href{https://github.com/Usama00004/Certifications/blob/main/PowerBI_DataAnalyst.pdf}{view certificate}).
+    \item \textbf{German Language B1:} Certified in German B1, showcasing intermediate proficiency in understanding and speaking German (\href{https://github.com/Usama00004/Certifications/blob/main/German%20B1%20Certificate.pdf}{view certificate}).
+    \item \textbf{Google Data Analytics:} Certified in Google Data Analytics, with skills in analyzing and deriving insights from data ( \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view certificate}).
+    \item \textbf{Microsoft Azure:} Certified in Azure Fundamentals, with a solid understanding of cloud computing and Microsoft Azure services ( \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view certificate}).
+    \item \textbf{IBM Datastage:} Certified in IBM Datastage, skilled in efficient data integration and management using ETL tools (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view certificate}).
 \end{itemize}
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	PROJECTS
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{PROJECTS}
-
-\item \textbf{Cloud-Based Data Analysis Dashboard:} Built a Power BI dashboard using cleaned and transformed data from Python (Pandas). Integrated Snowflake database for scalable data storage and enabled real-time analytics on the cloud. Streamlined error handling, reducing data processing time by 20\% 
-(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
-
-\item \textbf{Real-Time Data Streaming Pipeline:} Designed a data pipeline with Apache Kafka and Flink for processing high-velocity data. Stored and transformed data in PostgreSQL for low-latency analysis, improving system performance for large-scale workflows 
-(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
-
-\item \textbf{Sentiment Analysis with Web Scraping:} Automated web scraping using BeautifulSoup and Selenium, reducing manual data collection by 40\%. Applied sentiment analysis with Scikit-learn on cleaned data and visualized insights using Python libraries 
-(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
-
-\end{rSection}
-
-%----------------------------------------------------------------------------------------
-%	PUBLICATIONS
-%----------------------------------------------------------------------------------------
-
-\begin{rSection}{Publications}
-
-\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, this research proposed innovative methods to optimize resource utilization and minimize energy consumption in cloud environments 
-(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
-
-\end{rSection}
 
 \end{document}
