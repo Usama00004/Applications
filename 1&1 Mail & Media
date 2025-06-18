@@ -1,0 +1,178 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTDATEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Engineer - BI}
+
+\input{_header}
+
+\begin{document}
+
+\section{Profil}  
+Detailorientierter Data Engineer mit praktischer Erfahrung in ETL-Prozessen, Datenintegration und dem Aufbau skalierbarer Datenarchitekturen. Versiert in Python, SQL und Power BI, mit nachweislicher Fähigkeit, Datenpipelines zu entwickeln, Prozesse zu automatisieren und BI-Dashboards zur Gewinnung verwertbarer Erkenntnisse zu erstellen. Erfahrung in der Zusammenarbeit mit technischen und fachlichen Stakeholdern zur Unterstützung datengetriebener Entscheidungen.
+
+\section{Fähigkeiten}  
+\textbf{Technische Fertigkeiten:} Python, Pandas, NumPy, SQL, Power BI, Snowflake, AWS S3, Selenium, Airflow, Git, Excel, DAX  \\  
+\textbf{Data Engineering & BI-Tools:} ETL‑Prozesse, Datenintegration, Datenmodellierung, Datenvisualisierung, CRM‑Datenflüsse, Snowpipe, Kafka, Datenpipelines  \\  
+\textbf{Soziale Kompetenzen:} Kommunikation, Analytisches Denken, Problemlösung, Zusammenarbeit mit Stakeholdern, Anpassungsfähigkeit, Zeitmanagement  \\  
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi  
+
+\section{Ausbildung}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (voraussichtlich)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 – 2020}  
+
+\section{Berufserfahrung}  
+
+\textbf{Werkstudent – Data Analyst} \hfill Mär 2025 – heute \\  
+Siemens Healthineers \hfill \textit{Forchheim, Deutschland}  
+\begin{itemize}  
+    \item Integration und Transformation umfangreicher, heterogener Datensätze aus internen und externen Quellen für Analyse und Reporting  
+    \item Konzeption und Wartung skalierbarer Data‑Warehouse‑ und Streaming‑Architekturen mit Kafka und Snowflake  
+    \item Entwicklung SQL-basierter Datenmodelle und ETL‑Pipelines zur Sicherstellung hoher Datenverfügbarkeit und Performance  
+    \item Unterstützung interner Stakeholder durch automatisierte Dashboards und Ad‑hoc‑Auswertungen  
+\end{itemize}  
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – Juli 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Extraktion, Bereinigung und Konsolidierung von CRM‑ und API‑Daten zur Unterstützung von Business‑Reportings  
+    \item Automatisierung von ETL‑Workflows mit Python (BeautifulSoup, Selenium) zur Effizienz- und Qualitätssteigerung  
+    \item Entwicklung von Power BI‑Dashboards für strategische und operative Entscheidungen  
+    \item Durchführung von Datenqualitätsprüfungen und enge Zusammenarbeit mit Fachbereichen zur Feinabstimmung der Anforderungen  
+\end{itemize}  
+
+\section{Projekte}  
+
+\textbf{Real Estate Data Pipeline Project:}  
+End-to-End‑Datenpipeline für Immobiliendaten von Redfin. Daten wurden in AWS S3 gespeichert, mit Snowpipe in Snowflake geladen und über Power BI analysiert (siehe \url{https://github.com/Usama00004/StreamAnalysis}).
+
+\textbf{Data Analysis Dashboard:}  
+Power BI‑Dashboard zur Visualisierung von Trends mit Python (Pandas). Durch Preprocessing und Fehlerbehandlung Zeitersparnis von 20\% erreicht (siehe \url{https://github.com/Usama00004/SalesReport}).
+
+\textbf{Weather Data ETL Pipeline:}  
+ETL‑Pipeline, die Wetterdaten per API abruft, mit Python/Pandas verarbeitet und in Snowflake lädt. Ergebnisdaten dienen Power BI‑Visualisierungen (siehe \url{https://github.com/Usama00004/StreamAnalysis}).
+
+\textbf{Sentiment‑Analyse Pipeline:}  
+Automatisiertes Scraping und Sentiment‑Analyse mit BeautifulSoup, Selenium und Scikit‑learn. Effizienzsteigerung um 25\%, manueller Aufwand um 40 % reduziert (siehe \url{https://github.com/Usama00004/Twitter-Sentiment-Analysis}).
+
+\section{Publikationen}  
+
+\textbf{Hotspot‑Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:}  
+Veröffentlicht in MDPI Energies. Optimierung von Ressourcenauslastung und Energieverbrauch durch neue Algorithmen (\url{https://www.mdpi.com/1996-1073/15/7/2541}).
+
+\section{Zertifikate}  
+\begin{itemize}  
+    \item \textbf{Deutsch B2.2:} Fortgeschrittene Kommunikationsfähigkeiten im Deutschen (\url{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf})  
+    \item \textbf{Microsoft Power BI:} Power BI‑Zertifizierung für aussagekräftige Datenvisualisierung (\url{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf})  
+    \item \textbf{Deutsch B1:} Zertifizierte Mittelstufe im Deutschen (\url{https://github.com/Usama00004/Certifications/blob/main/German%20B1%20Certificate.pdf})  
+    \item \textbf{Google Data Analytics:} Zertifikat für Datenanalyse und Ableitung verwertbarer Erkenntnisse (\url{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf})  
+    \item \textbf{Microsoft Azure Fundamentals:} Zertifizierung in Cloud‑Computing und Azure‑Services (\url{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf})  
+    \item \textbf{IBM DataStage:} ETL‑Toolspezialist mit IBM DataStage‑Zertifikat (\url{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf})  
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+cover letter
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    1\&1 Mail & Media Applications SE\\
+    Elgendorfer Straße 57\\
+    56410, Montabaur
+
+ 
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+ 
+    Usama Tahir \\
+    Romerstadter Straße 3 \\
+    86199, Augsburg\\
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Appkication for the position of Data Engineer - BI (w/m/d) }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Sehr geehrtes Recruiting-Team,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Data Engineer gelesen. Als Masterstudent im Studiengang Global Software Development an der Hochschule Fulda bringe ich fundierte praktische Erfahrungen im Bereich Datenintegration, ETL, BI-Visualisierung und datengetriebene Analyse mit – Fähigkeiten, die ich gern bei Ihnen einbringen und weiterentwickeln möchte.
+
+In meiner aktuellen Tätigkeit als Werkstudent bei Siemens Healthineers in Forchheim unterstütze ich die Entwicklung skalierbarer Datenarchitekturen und ETL-Pipelines mit SQL, Python und Snowflake. Ich habe aktiv an der Integration großer Datenmengen sowie der Automatisierung datengetriebener Prozesse mit Kafka und Airflow gearbeitet. Zudem entwickle ich Dashboards mit Power BI, um komplexe KPIs für Fachabteilungen übersichtlich aufzubereiten.
+
+Meine vorherige Tätigkeit bei Systems Limited umfasste die Extraktion und Bereinigung von CRM- und Webdatenquellen sowie den Aufbau automatisierter ETL-Prozesse mit Python (Selenium, BeautifulSoup). Darüber hinaus habe ich Big-Data-Werkzeuge in Projekten eingesetzt und arbeite routiniert mit Git und SQL Server.
+
+Was mich besonders an Ihrer Stelle reizt, ist die Möglichkeit, in einem interdisziplinären Team mit starkem Produktbezug zu arbeiten. Meine analytischen Fähigkeiten, mein technisches Know-how und meine ausgeprägte Kommunikationsstärke machen mich zu einem geeigneten Kandidaten, um fachliche Anforderungen in skalierbare Datenlösungen zu überführen. Die Aussicht, innovative Lösungen in Tableau umzusetzen und so über 42 Millionen Nutzende zu erreichen, motiviert mich besonders.
+
+Ich freue mich sehr über die Gelegenheit, mich persönlich bei Ihnen vorzustellen. Gerne erläutere ich Ihnen in einem Gespräch, wie ich zur Weiterentwicklung Ihrer datengetriebenen Produkte beitragen kann.
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
