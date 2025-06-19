@@ -1,0 +1,165 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir}
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004}
+\def\github{Usama00004}
+\def\role{Data Analyst | BI Analyst }
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}
+Analytical and results-driven Data Analyst with over 2 years of experience in data analytics, automation, and dashboard development. Skilled in transforming raw data into actionable business insights. Strong background in Power BI, SQL, and Python. Adept at supporting commercial decision-making through scalable dashboards and predictive insights. Proven ability to collaborate cross-functionally with sales, marketing, data science, and engineering teams.
+
+\section{Skills}
+\textbf{Tools/Technologies:} Power BI, Python, Pandas, NumPy, SQL, Snowflake, Excel, DAX, Git, Selenium, Airflow, AWS S3 \\
+\textbf{Analytics & Engineering:} Data Analysis, ETL Pipelines, Data Modeling, KPI Dashboards, Workflow Automation, Predictive Analytics \\
+\textbf{Soft Skills:} Communication, Analytical Thinking, Problem Solving, Collaboration, Adaptability \\
+\textbf{Languages:} English (C1 CEFR), German (B1 CEFR), Urdu, Punjabi, Hindi
+
+\section{Education}
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}
+
+\section{Professional Experience}
+
+\textbf{Working Student – Data Analyst} \hfill Mar 2025 – Present \\
+Siemens Healthineers \hfill \textit{Forchheim, Germany}
+\begin{itemize}
+    \item Built and maintained Power BI dashboards to support decision-making for commercial teams.
+    \item Conducted in-depth data analysis using SQL and Python to identify trends and optimize performance.
+    \item Worked with streaming data (Kafka) and Snowflake to develop scalable and efficient data pipelines.
+    \item Supported collaboration between business and technical teams to transform stakeholder needs into data-driven insights.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – July 2022 \\
+Systems Limited \hfill \textit{Lahore, Pakistan}
+\begin{itemize}
+    \item Automated ETL workflows using Python (Selenium, BeautifulSoup), improving reporting efficiency.
+    \item Created dashboards and visualizations to monitor KPIs and track customer behavior.
+    \item Collaborated with sales and service departments to tailor analytics for improved lead and customer management.
+    \item Built reusable scripts and tools for periodic reporting and ad hoc analysis.
+\end{itemize}
+
+\section{Projects}
+\textbf{Commercial Insights Dashboard:} Developed Power BI dashboard for mobile sales (2021–2024), enabling sales managers to analyze trends, performance, and product insights. (\href{https://github.com/Usama00004/DAX}{GitHub})
+
+\textbf{Real Estate Data Pipeline:} Built end-to-end ETL pipeline using Python and Snowflake for real estate and weather data. Automated ingestion from Redfin and public APIs; dashboards built in Power BI for decision-making. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\textbf{Sales Trends Dashboard:} Visualized e-commerce sales data with Power BI. Optimized backend using Python (Pandas) preprocessing scripts, reducing latency by 20\%. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\textbf{Sentiment Analysis Pipeline:} Scraped Twitter data, applied NLP classification with Scikit-learn to derive customer sentiment insights. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\section{Certifications}
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Data Analyst} (\href{https://github.com/Usama00004/Certifications/blob/main/PowerBI_DataAnalyst.pdf}{view certificate})
+    \item \textbf{Google Data Analytics} (\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view certificate})
+    \item \textbf{Microsoft Azure Fundamentals} (\href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view certificate})
+    \item \textbf{IBM Datastage (ETL)} (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view certificate})
+    \item \textbf{German Language B2.2} (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view certificate})
+\end{itemize}
+
+\section{Publications}
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} – Published in MDPI Energies. Proposed resource optimization algorithms for cloud environments. (\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{document}
+
+
+
+============
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Stepstone\\
+    Völklinger Str 1 \\
+    40219 Düsseldorf \\
+    NRW Germany\\
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Haupt Str 43 \\
+    44894 Bochum\\
+    NRW Germany\\
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for Data Analyst – Commercial Analytics Team }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Data Analyst position within your Commercial Analytics team. With over two years of experience in data analysis, business intelligence, and dashboard development, I bring a proven ability to transform raw data into meaningful insights that drive commercial decisions. The opportunity to work in a cross-functional, data-driven environment that empowers sales, lead management, and customer service aligns perfectly with both my technical capabilities and professional goals.
+
+In my current role at Siemens Healthineers, I design and manage Power BI dashboards that provide real-time insights to business stakeholders. I’ve developed scalable data pipelines using Python and SQL, and implemented Snowflake and Kafka-based workflows to ensure efficient and high-quality data integration. These efforts directly support internal commercial and operational teams, enabling them to make informed, data-backed decisions.
+
+Previously at Systems Limited, I collaborated closely with sales and service teams to automate reporting processes and uncover customer behavior trends. I also led a variety of projects involving automated data extraction, preprocessing, and visualization using Power BI—skills that directly align with your requirement for actionable dashboards and process automation.
+
+What excites me most about this role is the collaborative nature of the work—interfacing with both commercial and technical teams to build analytical solutions that have a tangible business impact. I thrive in such environments and am eager to contribute my technical skills and business mindset to support your mission.
+
+I hold certifications in Power BI, Azure, Google Data Analytics, and IBM Datastage, and I am currently advancing my knowledge of German (B2 level). My portfolio of Power BI dashboards and data pipeline projects is available on GitHub and showcases the type of work I look forward to bringing to your team.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my background and passion for data can add value to your team. I am available for an interview at your convenience and look forward to hearing from you.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
