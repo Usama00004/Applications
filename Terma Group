@@ -1,0 +1,173 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Processing Engineer}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Detail-oriented Data Processing Engineer with hands-on experience in ETL pipelines, real-time data streaming, and system integration. Skilled in Python, SQL, Kafka, Snowflake, and shell scripting. Strong knowledge of Linux environments, software testing, and version control. Proven ability to build robust data pipelines and support operational data processing systems.
+
+\section{Skills}  
+\textbf{Languages \& Tools:} Python, Bash, SQL, Git, GitLab, Airflow, Selenium, Snowflake, CMake, Linux (Ubuntu), Excel, VS Code \\
+\textbf{Data Engineering:} ETL Pipelines, Data Modeling, Data Integration, Data Transformation, Automation \\
+\textbf{Platforms:} Snowflake, AWS S3, Linux (Ubuntu, RHEL), Git, GitLab, AIX (familiar), Windows \\
+\textbf{Scripting \& Debugging:} Bash/Shell, Python scripting, Automated Data Scraping \\
+\textbf{Soft Skills:} Communication, Analytical Thinking, Documentation, Adaptability \\
+\textbf{Languages:} English (C1 CEFR), German (B1 CEFR), Urdu, Punjabi, Hindi
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Expected Sept 2026} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst / Engineer} \hfill Mar 2025 – Present \\  
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+    \item Developed and optimized scalable data warehousing and ETL pipelines using Python and SQL in a Snowflake environment.  
+    \item Maintained streaming data architecture using Kafka for near real-time ingestion and transformation of critical health datasets.  
+    \item Implemented monitoring solutions and automation scripts (Bash/Python) to improve system stability and alerting.  
+    \item Collaborated with DevOps teams for version control using Git and GitLab; participated in integration testing and CI workflows.  
+\end{itemize}  
+ 
+\textbf{Junior Data Analyst / Engineer} \hfill Jan 2021 – July 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Automated data extraction and integration from multiple internal/external sources using Python (BeautifulSoup, Selenium).  
+    \item Created and maintained robust ETL workflows, handling high-volume transactional data for reporting and analytics.  
+    \item Built Python-based validation and transformation modules to ensure data quality before ingestion into databases.  
+    \item Supported QA and I&V testing campaigns through unit tests and performance benchmarks.  
+\end{itemize}  
+
+\section{Projects}  
+
+\textbf{Weather ETL Pipeline:} Designed a complete data processing pipeline to fetch, clean, and transform weather data from public APIs, and load into Snowflake using Snowpipe. Integrated into Power BI for visual reporting. \href{https://github.com/Usama00004/StreamAnalysis}{(GitHub)}  
+
+\textbf{Streaming Real Estate Pipeline:} Built a streaming architecture using Python, AWS S3, and Kafka. Automated ingestion, cleaning, and transformation of real estate listings. Data stored in Snowflake and used for analytics dashboards. \href{https://github.com/Usama00004/StreamAnalysis}{(GitHub)}  
+
+\textbf{Sentiment Analysis Pipeline:} Automated news and social media sentiment analysis using Python, Selenium, and Scikit-learn. Enhanced efficiency through robust scraping and classification modules. \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{(GitHub)}  
+
+\section{Certifications}  
+\begin{itemize}
+     \item \textbf{Google Data Analytics:} End-to-end data analysis, visualization, and communication. \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view certificate}
+    \item \textbf{Power BI Data Analyst (PL-300):} Data modeling and DAX (for complementary reporting work). \href{https://github.com/Usama00004/Certifications/blob/main/PowerBI_DataAnalyst.pdf}{view certificate}
+    \item \textbf{German B1/B2 Language Certification:} Language fluency for professional settings. \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view certificate}
+     \item \textbf{Microsoft Azure Fundamentals:} Cloud computing, virtualization, and Azure core services. \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view certificate}
+    \item \textbf{IBM DataStage:} Proficient in enterprise-grade ETL tool for complex data flows. \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view certificate}
+  
+\end{itemize}
+
+\section{Publications}  
+
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal. Proposed algorithms to optimize workload and minimize energy usage. \href{https://www.mdpi.com/1996-1073/15/7/2541}{Read on MDPI}  
+
+\end{document}
+
+
+
+
+
+==========
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Terma Group\\
+    Bratu str 7 \\
+    64293 Darmstadt\\
+    Hessen, Germany
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Hedderich str  47A \\
+    60594 Frankfurt\\
+    Hessen, Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for Data Processing Engineer Position EUMETSAT Project}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+
+I am writing to express my interest in the Data Processing Engineer position supporting EUMETSAT in Darmstadt. With a strong foundation in data engineering, real-time processing, and systems integration, I am excited about the opportunity to contribute to the mission-critical development and maintenance of ground segment components.
+
+Currently pursuing my Master’s in Global Software Development at Hochschule Fulda, I bring over three years of hands-on experience in data pipeline development, ETL, and operational data systems. At Siemens Healthineers, I have built and optimized scalable data workflows, integrated real-time streaming pipelines using Kafka, and managed data modeling tasks in Snowflake. My experience extends to scripting in Python and Bash, automating workflows, and maintaining software in Linux environments—skills that align closely with the requirements of this role.
+
+I am comfortable working in production environments and contributing to all stages of the software lifecycle, including requirement analysis, test planning, documentation, and formal reviews. Familiarity with version control systems such as Git and GitLab, along with exposure to tools like CMake, makes me confident in contributing to the evolution and stability of complex processing systems.
+
+Beyond the technical skills, I bring an analytical mindset, strong documentation habits, and a proactive, team-oriented approach. I am excited by the prospect of working on high-impact Earth Observation missions such as MTG-I2 or MicroCarb and supporting end-to-end data workflows from Level 0 to Level 2.
+
+Thank you for considering my application. I welcome the opportunity to further discuss how I can contribute to your team’s success. Please find my CV attached, and feel free to contact me to schedule an interview.
+
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
