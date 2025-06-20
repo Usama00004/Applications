@@ -192,9 +192,27 @@ While my title hasn’t been "Data Architect," my role and responsibilities invo
 * **Airflow**: Built multiple ETL pipelines orchestrated via **Apache Airflow**, where I defined DAGs for data extraction, transformation, and loading, and incorporated retry logic and monitoring.
 * **Looker**: Familiar with LookML and building semantic models in Looker; while Power BI has been my primary visualization tool, I’ve worked with Looker in sandbox environments for proof-of-concept dashboards.
 
----
 
-Would you like me to embed this information into your **resume or cover letter**?
+
+
+
+
+
+Yes, I have worked on optimizing data processing in DBT as part of a real estate data pipeline project.
+
+In this project:
+
+I used DBT to transform large, raw Redfin datasets stored in Snowflake into analytics-ready models.
+
+To improve performance, I:
+
+Refactored DBT models by breaking down monolithic SQL scripts into reusable, modular models using CTEs and Jinja macros.
+
+Implemented incremental models in DBT to reduce processing time by only updating new or changed data, rather than reprocessing the entire dataset.
+
+Tuned Snowflake warehouse configurations and leveraged DBT's materializations (e.g., table vs. view) for optimal performance.
+
+This optimization reduced model run time by ~40%, significantly improving dashboard refresh performance in Power BI.
 
 
 
