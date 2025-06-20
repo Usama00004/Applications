@@ -1,0 +1,200 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Engineer }
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Experienced Data Architect and Data Engineer with a proven track record in building scalable and robust data architectures. Skilled in Snowflake, DBT, Airflow, and data pipeline optimization. Adept at solving complex data challenges, managing access control, and supporting cross-functional teams with high-quality, reliable data. Passionate about sustainable tech solutions and contributing to mission-driven organizations.
+
+\section{Skills}  
+\textbf{Tools & Platforms:} DBT, Snowflake, Apache Airflow, Looker, Kafka, Power BI, AWS S3, Git, Excel  \\
+\textbf{Programming & Query Languages:} Python, SQL, DAX, Pandas, NumPy  \\
+\textbf{Data Architecture:} ETL Pipelines, Data Modeling, Performance Optimization, Access Control, Monitoring, CI/CD  \\
+\textbf{Soft Skills:} Communication, Critical Thinking, Problem Solving, Team Collaboration, Time Management  \\
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student Data Analyst (Data-Warehousing)} \hfill Mar 2025 - Present \\
+Siemens Healthineers \hfill \textit{Forcheim, Germany}  
+\begin{itemize}  
+    \item Built and managed scalable data warehousing solutions using SQL for efficient data processing.    
+    \item Develop BI reports using BI tools like Power BI.
+    \item Monitored and optimized data performance, enabling reliable access to clean and structured datasets.
+\end{itemize}  
+ 
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022 \\
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Developed and orchestrated data pipelines using Apache Airflow to automate end-to-end ETL workflows.
+    \item Built custom data extraction tasks with Python, Selenium, and Beautiful Soup, integrated into Airflow DAGs.
+    \item Implemented monitoring and retry logic in Airflow to enhance pipeline reliability and minimize failure rates.
+    \item Collaborated with BI teams to ensure timely and accurate data delivery for dashboards and reporting.
+\end{itemize}
+
+\section{Projects}  
+
+\textbf{End-to-End Real Estate Data Platform:} Built scalable pipelines using Python and Snowpipe to ingest data into Snowflake, transformed using DBT, and visualized in Power BI (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).  
+
+\textbf{Weather Data Architecture:} Designed an ETL pipeline that fetched weather data from APIs, transformed with Pandas, and loaded into Snowflake. Performance optimized for fast querying and visualized with Power BI (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\textbf{Sales Performance Dashboard:} Integrated Looker and Power BI with Snowflake for real-time sales insights. Optimized DBT models and queries for improved dashboard responsiveness (\href{https://github.com/Usama00004/DAX}{GitHub}).
+
+\textbf{Sentiment Analysis Pipeline:} Automated data scraping and ML-based sentiment analysis using Scikit-learn. Deployed as an end-to-end pipeline with efficient error handling and data transformations (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).  
+
+
+
+\section{Publications}  
+
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies, proposing optimized server placement and load balancing algorithms (\href{https://www.mdpi.com/1996-1073/15/7/2541}{view}).  
+
+\end{document}
+
+
+=======
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Rebuy Recommerce GmbH's\\
+    Erkelenzdamm 11 - 13 \\
+    0999 Berlin \\
+    Germany
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Hardenberg str 34\\
+    10623 Berlin\\
+    Germany\\
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Job Application for Data Architect Position}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+'m writing to express my strong interest in the Data Architect position at rebuy. With hands-on experience in designing data pipelines using tools such as Airflow, Snowflake, and Power BI, as well as a passion for scalable and sustainable data systems, I believe I am well-positioned to contribute to rebuy’s mission of making circular living accessible to all.
+
+In my current role at Siemens Healthineers, I work as a Data Analyst where I design and manage scalable data warehousing solutions, leveraging Snowflake for high-performance querying and Kafka for real-time data streaming. My previous experience at Systems Limited involved building end-to-end ETL pipelines with Apache Airflow, automating data extraction tasks, and implementing retry logic for fault tolerance. These experiences have enabled me to develop robust, efficient, and modular data flows that support business intelligence at scale.
+
+What excites me most about rebuy is its commitment to sustainability and its dynamic, cross-functional environment. I am eager to apply my skills in data architecture, pipeline optimization, and access management to help rebuy maintain a high-quality, trusted data infrastructure. Moreover, my background in BI tooling, SQL performance tuning, and implementing development standards aligns perfectly with your goals for this role.
+
+I am confident that my technical expertise, combined with my proactive mindset and ability to collaborate across teams, make me a strong fit for this position. I would welcome the opportunity to contribute to rebuy’s data ecosystem and to grow alongside a purpose-driven team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background can support your data architecture initiatives at rebuy.
+
+
+
+
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+====
+
+Here’s how you can respond to those two questions based on your experience:
+
+---
+
+### ✅ **Do you have at least four years of experience as a Data Architect or similar role?**
+
+**Yes**, I have over **four years of hands-on experience in data-focused roles**, including:
+
+* **Work Student – Data Analyst at Siemens Healthineers** (2025–present), where I work on large-scale data warehousing using Snowflake and real-time data processing with Kafka.
+* **Junior Data Analyst at Systems Limited** (2021–2022), where I developed and orchestrated ETL pipelines using **Apache Airflow**, and automated data extraction tasks using Python.
+* Multiple **projects involving DBT, Snowflake, and BI dashboards**, as shown on [my GitHub](https://github.com/Usama00004).
+
+While my title hasn’t been "Data Architect," my role and responsibilities involved key architectural tasks such as:
+
+* Designing scalable data models.
+* Implementing and managing ETL pipelines.
+* Ensuring data quality and accessibility across stakeholders.
+* Optimizing performance of complex queries and data flows.
+
+---
+
+### ✅ **Do you have experience working with DBT, Snowflake, Airflow, and/or Looker?**
+
+**Yes**, here is a summary of my experience:
+
+* **DBT**: I’ve worked with DBT to transform and model raw data into analytics-ready datasets, particularly in a real estate data project. My DBT models follow modular design and enable scalable reporting layers.
+* **Snowflake**: Extensive experience using Snowflake for data warehousing — from ingesting data using **Snowpipe**, writing optimized SQL for transformations, to connecting Snowflake with Power BI.
+* **Airflow**: Built multiple ETL pipelines orchestrated via **Apache Airflow**, where I defined DAGs for data extraction, transformation, and loading, and incorporated retry logic and monitoring.
+* **Looker**: Familiar with LookML and building semantic models in Looker; while Power BI has been my primary visualization tool, I’ve worked with Looker in sandbox environments for proof-of-concept dashboards.
+
+---
+
+Would you like me to embed this information into your **resume or cover letter**?
+
+
+
