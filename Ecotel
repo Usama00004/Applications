@@ -1,0 +1,163 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{BI Analyst}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Business Data Analyst with 2+ years of experience in BI environments and data-driven organizations. Skilled in SQL, Tableau, Power BI, and DWH modeling (Star/Snowflake schema). Proven record in delivering strategic dashboards, collaborating with stakeholders, and supporting data-driven decision-making through actionable insights and scalable data solutions.
+
+\section{Skills}  
+\textbf{BI Tools:} Tableau, Power BI, Qlik (basic), Excel \\  
+\textbf{Programming \& Query Languages:} SQL, Python (Pandas, NumPy), DAX \\  
+\textbf{Data Engineering:} ETL Processes, Snowflake, AWS S3, Snowpipe, Kafka, Selenium \\  
+\textbf{Data Warehousing:} Star/Snowflake Schema, Data Modeling, Data Pipelines \\  
+\textbf{Soft Skills:} Stakeholder Communication, KPI Interpretation, Business Acumen, Collaboration, Adaptability \\  
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst} \hfill Mar 2025 – Present \\  
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+    \item Designed and developed interactive dashboards in Power BI to visualize key business metrics for Controlling and Management teams.
+    \item Translated business requirements into meaningful visual reports and KPIs, enabling data-driven decision-making.
+    \item Built reusable data models in Power BI using Snowflake as the backend, leveraging Star and Snowflake schemas.
+    \item Automated data refresh pipelines and improved dashboard performance through optimized DAX measures and Power Query transformations.
+    \item Collaborated closely with stakeholders to iterate on visualizations, ensuring clarity, usability, and alignment with business objectives.
+\end{itemize}
+
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – Jul 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Designed and delivered interactive dashboards in Power BI for sales and operations teams.
+    \item Conducted ad-hoc and standard analyses to support business decisions across departments.
+    \item Automated ETL workflows and streamlined reporting pipelines using Python and SQL.
+    \item Participated in the transformation towards a data-driven culture through collaboration and documentation.
+\end{itemize}  
+
+\section{Key Projects}  
+
+\textbf{KPI Dashboard for Sales \& Orders:} Developed dynamic dashboards in Power BI visualizing multi-year sales and order trends. Supported business units with ad-hoc analytics and drill-down reporting (\href{https://github.com/Usama00004/DAX}{GitHub}).  
+
+\textbf{Real Estate Data Pipeline:} Designed an end-to-end ETL pipeline using Python, AWS S3, Snowpipe, and Snowflake; connected Snowflake to Power BI for real-time visualization (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\textbf{Data Warehouse Weather Analytics:} Implemented a weather-based data warehouse system using API ingestion, Python transformation, and Snowflake modeling. Built KPI dashboards to support environmental analytics.
+
+\textbf{Sentiment Analysis Pipeline:} Automated data collection and analysis using web scraping and machine learning for social media monitoring (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Power BI Data Analyst Certification} – Microsoft (\href{https://github.com/Usama00004/Certifications/blob/main/PowerBI_DataAnalyst.pdf}{view})
+    \item \textbf{Google Data Analytics Certification} – Coursera (\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view})
+    \item \textbf{IBM Datastage ETL Certification} – IBM (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view})
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} (\href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view})
+    \item \textbf{German Language Certification – B2.2 \& B1} (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view})
+\end{itemize}
+
+\end{document}
+
+
+========
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Ecotel Communication\\
+    Prinzenallee 11 \\
+    40549 Düsseldorf \\
+    NRW, Germany
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Haupt Str 43 \\
+    44894 Bochum\\
+    NRW Germany\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Business Data Analyst Position}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Business Data Analyst position at your company. With over two years of experience in data analysis and BI development—including my current role at Siemens Healthineers—I bring a strong background in building intuitive dashboards, transforming raw data into strategic insights, and supporting data-driven decision-making across departments.
+
+At Siemens Healthineers, I work closely with the Controlling and Data Warehouse teams to develop Power BI dashboards that deliver real-time insights to stakeholders. I have designed data models using Snowflake (Star and Snowflake schema) and integrated them into visual reports for finance and operations. My work has helped business users access KPIs and make informed decisions faster. Additionally, I’ve automated reporting workflows using SQL and DAX to improve efficiency and reduce manual overhead.
+
+Beyond technical proficiency, I thrive in collaborative settings and enjoy translating business requirements into impactful data solutions. My academic background in Global Software Development (MSc, Hochschule Fulda) and Computer Science (BSc, COMSATS) has provided me with both analytical and interdisciplinary communication skills. I am also certified in Power BI, Google Data Analytics, and IBM Datastage ETL tools, further supporting my ability to bridge business needs with technical execution.
+
+I am enthusiastic about contributing my skills to a team that values strategic BI development and stakeholder impact. I would welcome the opportunity to discuss how I can support your BI and data-driven transformation initiatives.
+
+Thank you for considering my application. I look forward to the possibility of speaking with you further.
+
+
+
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
