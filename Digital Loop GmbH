@@ -1,0 +1,82 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{BI Analyst}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Business Data Analyst with 3+ years of experience in BI environments and data-driven organizations. Skilled in SQL, Tableau, Power BI, and DWH modeling (Star/Snowflake schema). Proven record in delivering strategic dashboards, collaborating with stakeholders, and supporting data-driven decision-making through actionable insights and scalable data solutions.
+
+\section{Skills}  
+\textbf{BI Tools:} Tableau, Power BI, Qlik (basic), Excel \\  
+\textbf{Programming \& Query Languages:} SQL, Python (Pandas, NumPy), DAX \\  
+\textbf{Data Engineering:} ETL Processes, Snowflake, AWS S3, Snowpipe, Kafka, Selenium \\  
+\textbf{Data Warehousing:} Star/Snowflake Schema, Data Modeling, Data Pipelines \\  
+\textbf{Soft Skills:} Stakeholder Communication, KPI Interpretation, Business Acumen, Collaboration, Adaptability \\  
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst} \hfill Mar 2025 – Present \\  
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+    \item Designed and developed interactive dashboards in Power BI to visualize key business metrics for Controlling and Management teams.
+    \item Translated business requirements into meaningful visual reports and KPIs, enabling data-driven decision-making.
+    \item Built reusable data models in Power BI using Snowflake as the backend, leveraging Star and Snowflake schemas.
+    \item Automated data refresh pipelines and improved dashboard performance through optimized DAX measures and Power Query transformations.
+    \item Collaborated closely with stakeholders to iterate on visualizations, ensuring clarity, usability, and alignment with business objectives.
+\end{itemize}
+
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – Jul 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Designed and delivered interactive dashboards in Power BI for sales and operations teams.
+    \item Conducted ad-hoc and standard analyses to support business decisions across departments.
+    \item Automated ETL workflows and streamlined reporting pipelines using Python and SQL.
+    \item Participated in the transformation towards a data-driven culture through collaboration and documentation.
+\end{itemize}  
+
+\section{Key Projects}  
+
+\textbf{KPI Dashboard for Sales \& Orders:} Developed dynamic dashboards in Power BI visualizing multi-year sales and order trends. Supported business units with ad-hoc analytics and drill-down reporting (\href{https://github.com/Usama00004/DAX}{GitHub}).  
+
+\textbf{Real Estate Data Pipeline:} Designed an end-to-end ETL pipeline using Python, AWS S3, Snowpipe, and Snowflake; connected Snowflake to Power BI for real-time visualization (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\textbf{Data Warehouse Weather Analytics:} Implemented a weather-based data warehouse system using API ingestion, Python transformation, and Snowflake modeling. Built KPI dashboards to support environmental analytics.
+
+\textbf{Sentiment Analysis Pipeline:} Automated data collection and analysis using web scraping and machine learning for social media monitoring (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Power BI Data Analyst Certification} – Microsoft (\href{https://github.com/Usama00004/Certifications/blob/main/PowerBI_DataAnalyst.pdf}{view})
+    \item \textbf{Google Data Analytics Certification} – Coursera (\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view})
+    \item \textbf{IBM Datastage ETL Certification} – IBM (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view})
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} (\href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view})
+    \item \textbf{German Language Certification – B2.2 \& B1} (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view})
+\end{itemize}
+
+\end{document}
+
+
+=============
+
+
+
