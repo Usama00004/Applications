@@ -1,0 +1,161 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Engineer}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Junior Data Scientist with 3+ years of experience in BI, data analytics, and pipeline development. Skilled in Python, SQL, Power BI, and Machine Learning (supervised/unsupervised). Experienced in deploying ETL pipelines, building predictive models, and delivering insights through visualizations. Passionate about driving business value with data science and collaborating in cross-functional teams.
+
+\section{Skills}  
+\textbf{Languages/Tools:} Python (Pandas, NumPy, scikit-learn, Matplotlib), SQL, Git, Power BI \\  
+\textbf{ML \& Data Science:} Regression, Classification, Clustering, Forecasting, EDA, Model Evaluation \\  
+\textbf{Data Engineering:} ETL Pipelines, Snowflake, AWS S3, Snowpipe, Airflow, Selenium \\  
+\textbf{Cloud Platforms:} AWS (S3, Lambda), Azure (Fundamentals), Snowflake \\  
+\textbf{Soft Skills:} Problem-Solving, Communication, Stakeholder Collaboration, Agile Teamwork \\  
+\textbf{Languages:} English (C1), German (B1), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst} \hfill Mar 2025 – Present \\  
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+    \item Built and optimized Power BI dashboards and data models for management and controlling use cases using Snowflake (Star/Snowflake schema).
+    \item Automated data pipelines and optimized performance using Power Query and DAX, aligning with data engineering best practices.
+    \item Collaborated with cross-functional teams to translate KPIs and business logic into reusable data structures.
+    \item Contributed to model-readiness of data and supported integration with analytics infrastructure.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – Jul 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Conducted descriptive and predictive analyses to support business planning and performance monitoring.
+    \item Developed dashboards for sales and operations teams, incorporating actionable insights and visual storytelling.
+    \item Automated ETL workflows using Python, increasing reporting efficiency and data quality.
+    \item Supported migration to cloud-based architecture and contributed to data science readiness of internal datasets.
+\end{itemize}  
+
+\section{Key Projects}  
+
+\textbf{Demand Forecasting from Weather Data:} Built a forecasting pipeline using Python to analyze weather patterns and predict demand trends. ETL and modeling implemented using API ingestion, Snowflake DWH, and visualization in Power BI.  
+
+\textbf{Real Estate Data Pipeline:} Developed a production-ready data pipeline using Python, AWS S3, Snowpipe, and Snowflake. Enabled real-time market analysis via Power BI dashboards.  
+
+\textbf{Sentiment Analysis Engine:} Created an automated pipeline for social media sentiment monitoring using Selenium, Python (NLTK/sklearn), and classification models. Deployed reports for marketing impact analysis. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})  
+
+\textbf{Sales & Order Prediction Dashboard:} Built dashboards and analysis pipelines for multi-year trends, including regression-based sales forecasts and dynamic drilldowns. (\href{https://github.com/Usama00004/DAX}{GitHub})  
+
+\textbf{Recommendation Logic Prototype:} Implemented a basic content-based recommendation system for matching users with relevant items using pandas, cosine similarity, and scikit-learn.
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Power BI Data Analyst Certification} – Microsoft (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view})
+    \item \textbf{Google Data Analytics Certification} – Coursera (\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view})
+    \item \textbf{IBM Datastage ETL Certification} – IBM (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view})
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} (\href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view})
+    \item \textbf{German Language Certification – B2.2 \& B1} (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view})
+\end{itemize}
+
+\end{document}
+
+
+
+=========
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    AUTO1 Group\\
+    Bergmann str 72 \\
+    10961 Berlin \\
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hardenberg str 34\\
+    10623 Berlin\\
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Junior Data Scientist (f/m/d)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+Dear Hiring Manager,
+
+I am excited to apply for the Junior Data Scientist position within your Auto1.com team. With a strong foundation in data analytics, BI development, and emerging experience in machine learning, I am eager to contribute to your mission of optimizing dealer sales through innovative data science solutions.
+
+In my current role at Siemens Healthineers, I develop Power BI dashboards and build Snowflake-based data models that support Controlling and operational decision-making. I’ve automated reporting pipelines using SQL, Python, and DAX—skills that also translate well into developing and supporting machine learning workflows. My work has enabled teams to access insights in real time, improve data quality, and reduce manual reporting effort.
+
+I’m particularly drawn to AUTO1’s focus on applied machine learning—from dynamic pricing to personalized recommendations. I’ve led and contributed to projects involving sentiment analysis, demand forecasting from weather data, and real-time data pipelines using Python, scikit-learn, Snowflake, and AWS S3. These experiences have sharpened my ability to extract actionable insights from complex datasets and deploy data-driven solutions in production environments.
+
+Currently pursuing a Master’s in Global Software Development at Hochschule Fulda, I bring both technical acumen and cross-functional communication skills to collaborative projects. I’m confident in my ability to grow within a team of talented data scientists and contribute meaningfully to ongoing innovation.
+
+I would welcome the opportunity to discuss how my skill set and learning mindset align with AUTO1’s goals. Thank you for considering my application—I look forward to the possibility of joining your international and forward-thinking team.
+
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
