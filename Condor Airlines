@@ -1,0 +1,191 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Analytics Engineer}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Analytics Engineer with 3+ years of experience designing scalable data models, automating pipelines, and building semantic layers for enterprise reporting. Specialized in Power BI (DAX, semantic modeling), SQL, and Snowflake with a passion for KPI standardization, data quality, and enabling self-service analytics. Strong communicator with business acumen and a drive to empower data-driven decision-making in fast-paced environments.
+
+\section{Skills}  
+\textbf{Analytics & BI:} SQL, Power BI (DAX, semantic modeling, performance tuning), dbt (or equivalent ELT), KPI standardization, data modeling \\  
+\textbf{Data Engineering:} Snowflake, Azure Data Services (Data Factory, Blob Storage), Kafka, Snowpipe, Python, Git, ETL \\  
+\textbf{Tooling:} Git, CI/CD pipelines, Power Query, Selenium, Excel, GitHub Actions, Scikit-learn  \\  
+\textbf{Soft Skills:} Strategic Thinking, Communication, Documentation, Collaboration, Problem Solving \\  
+\textbf{Languages:} English (C1), German (B1), Urdu, Punjabi, Hindi
+
+\section{Education}  
+{\bf M.Sc. Global Software Development}, Hochschule Fulda \hfill {Expected Sept 2026} \\  
+{\bf B.Sc. Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst} \hfill Mar 2025 – Present \\  
+Siemens Healthineers, Forcheim, Germany  
+\begin{itemize}  
+    \item Built semantic models in Power BI to centralize business logic and KPI definitions, enabling reliable reporting across teams.  
+    \item Developed and documented production-grade data models in Snowflake using SQL and Git-based workflows.  
+    \item Integrated streaming data sources with Kafka, improving near real-time availability for critical dashboards.  
+    \item Partnered with business units to translate analytic needs into robust, scalable data solutions.  
+\end{itemize}  
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – July 2022 \\  
+Systems Limited, Lahore, Pakistan  
+\begin{itemize}  
+    \item Automated ETL pipelines and developed dashboards to support self-service analytics across departments.  
+    \item Used Python and SQL to extract, clean, and load high-volume datasets for Snowflake data warehouse.  
+    \item Created reusable logic layers and documentation to support metric governance and auditability.  
+    \item Implemented version control and CI practices using GitHub, improving deployment reliability and testing coverage.  
+\end{itemize}  
+
+\section{Projects}  
+
+\textbf{Real Estate Analytics Platform:}  
+End-to-end ELT pipeline processing Redfin data. Extracted data to AWS S3, transformed via Python, loaded to Snowflake with Snowpipe, and visualized in Power BI using optimized DAX and semantic models. Emphasis on business metric definition and performance tuning.  
+\href{https://github.com/Usama00004/StreamAnalysis}{[GitHub]}
+
+\textbf{Power BI KPI Dashboard:}  
+Designed and deployed a sales analysis dashboard in Power BI; standardized KPIs and optimized queries, reducing processing time by 20\%. Integrated custom DAX measures and documentation to enable self-service.  
+\href{https://github.com/Usama00004/SalesReport}{[GitHub]}
+
+\textbf{Weather API Pipeline:}  
+ETL pipeline fetching weather data, transforming it with Pandas, storing in Snowflake, and reporting via Power BI. Illustrated metric governance and documentation best practices.  
+\href{https://github.com/Usama00004/StreamAnalysis}{[GitHub]}
+
+\textbf{Sentiment Analysis Pipeline:}  
+Automated social media sentiment analysis using BeautifulSoup, Selenium, and Scikit-learn. Highlighted automation, text mining, and Python proficiency.  
+\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{[GitHub]}
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft PL-300:} Power BI Data Analyst Associate \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{[View]}
+    \item \textbf{Google Data Analytics Professional Certificate} \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{[View]}
+    \item \textbf{German Language Certification – B2.2} \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{[View]}
+    \item \textbf{IBM DataStage – ETL Tool Certification} \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{[View]}
+     \item \textbf{Microsoft Azure Fundamentals (AZ-900)} \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{[View]}
+\end{itemize}
+
+\section{Publications}  
+
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers}  
+Published in MDPI Energies. Proposed resource-efficient scheduling algorithms for heterogeneous cloud systems.  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[Read Publication]}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+   Condor Airlines \\
+   An d. Gehespitz 50 \\
+   63263 Neu-Isenburg \\
+   Germany
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderich str 47A\\
+    60594 Frankfurt \\
+    Germany\\
+    \vspace{1cm}
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Job Application for Analytics Engineer Position}
+
+\vspace{0.5cm}
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to apply for the Analytics Engineer position at Condor. With over three years of experience in data analytics and business intelligence, I am confident in my ability to contribute to your data infrastructure and reporting systems.
+
+Currently, I work as a Working Student Data Analyst at Siemens Healthineers, where I support the development of scalable data models using SQL and Snowflake. I also help build semantic layers and centralized KPI definitions for Power BI dashboards used across multiple teams. My responsibilities include data integration, transformation, and performance optimization for large datasets.
+
+In my previous role as a Junior Data Analyst at Systems Limited, I developed automated ETL pipelines using Python and worked on real-time data processing with Kafka. These experiences have given me a strong foundation in both data engineering and analytics.
+
+I have hands-on experience with Power BI (including DAX, semantic modeling, and performance tuning), Azure Data Services, Git, and version-controlled data modeling workflows similar to dbt. I also document metric logic and data flows clearly to ensure accuracy and reusability across reporting use cases.
+
+I am currently pursuing a Master's degree in Global Software Development at Hochschule Fulda and am available for either full-time or part-time opportunities. I am fluent in English and hold a B1 certification in German.
+
+Thank you for considering my application. I would welcome the opportunity to further discuss how my skills and experience align with your needs.
+
+\vspace{0.5cm}
+
+Thanks and regards,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com} \\
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
