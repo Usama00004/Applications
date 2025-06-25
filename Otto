@@ -1,0 +1,84 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst | BI Analyst }
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Detail-oriented Data Analyst with expertise in Python, Power BI, and SQL. Experienced in ETL, data modeling, and automation, with a focus on creating dashboards, scalable pipelines, and actionable insights. 
+
+\section{Skills}  
+\textbf{Technical Skills:} Python, Pandas, NumPy, SQL, Power BI, Snowflake, AWS S3, Selenium, Kafka, Git, Excel, DAX  \\  
+\textbf{Data Engineering Tools:} ETL Processes, Data Modeling, Data Visualization, Snow pipe, Data Pipelines  \\  
+\textbf{Soft Skills:} Communication, Analytical Thinking, Problem Solving, Adaptability, Time Management  \\  
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Work Student Data Analyst} \hfill Mar 2025 - Present \\  
+Siemens Healthineers \hfill \textit{Forcheim, Germany}  
+\begin{itemize}  
+    \item Designed and managed scalable data warehousing solutions for integrating and storing large datasets from internal and external sources.    
+    \item Implemented streaming data architectures with Kafka for real-time data processing and transformation.  
+    \item Utilized SQL and Snowflake for high-performance data modeling, transformation, and querying in large-scale pipelines.  
+\end{itemize}  
+ 
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Prepared and integrated data from various internal and external sources, ensuring high-quality and consistent datasets.  
+    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium), improving efficiency and reliability.  
+    \item Implemented real-time streaming workflows using Kafka, enabling low-latency data ingestion and transformation.  
+    \item Collaborated with cross-functional teams to support data literacy and foster a data-driven culture.  
+\end{itemize}  
+
+\section{Projects}  
+
+\textbf{Real Estate Data Pipeline Project:} Built an end-to-end data pipeline to process real estate data from Redfin, showcasing modern data engineering practices (available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}). Extracted raw data and stored it in AWS S3 for further processing. The datasets were transformed and cleaned to ensure they were analysis-ready. Used Snowpipe to load the transformed data into Snowflake and connected Snowflake to Power BI to deliver actionable visualizations.
+
+
+
+
+\textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from processed data using Python (Pandas). Reduced data processing time by 20\% through preprocessing and error handling pipelines (available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).  
+
+\textbf{Real Estate Data Pipeline Project:} This project demonstrates an ETL (Extract, Transform, Load) pipeline that fetches weather data from an API, processes the data using Python Pandas, and loads the transformed data into a Snowflake table. The data in Snowflake is further used in Power BI to create actionable visualizations and analyses, showcasing end-to-end data engineering practices (available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\textbf{Mobile Sales Data Visualization Dashboard:} This project is a data visualization dashboard that provides insights into mobile sales and orders for the years 2021, 2022, 2023, and 2024. The dashboard helps users explore sales trends, order patterns, and other key metrics to better understand performance over time, enabling data-driven decision-making and strategic planning (available on \href{https://github.com/Usama00004/DAX}{GitHub}).
+
+
+\textbf{Sentiment Analysis Pipeline:} Automated web scraping and sentiment analysis using BeautifulSoup, Selenium, and Scikit-learn. Enhanced efficiency by 25\% and reduced manual effort by 40\% through automation (available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).  
+
+\section{Publications}  
+
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, this research proposes algorithms for optimizing resource utilization and minimizing energy consumption in cloud environments (see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).  
+
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{German Language B2.2:} Certified in German B2.2, demonstrating advanced skills for professional communication in German-speaking settings (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view certificate}).
+    \item \textbf{Microsoft Power BI:} Certified in Power BI, with expertise in transforming data into impactful visual insights (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view certificate}).
+    \item \textbf{German Language B1:} Certified in German B1, showcasing intermediate proficiency in understanding and speaking German (\href{https://github.com/Usama00004/Certifications/blob/main/German%20B1%20Certificate.pdf}{view certificate}).
+    \item \textbf{Google Data Analytics:} Certified in Google Data Analytics, with skills in analyzing and deriving insights from data ( \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view certificate}).
+    \item \textbf{Microsoft Azure:} Certified in Azure Fundamentals, with a solid understanding of cloud computing and Microsoft Azure services ( \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view certificate}).
+    \item \textbf{IBM Datastage:} Certified in IBM Datastage, skilled in efficient data integration and management using ETL tools (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view certificate}).
+\end{itemize}
+
+\end{document}
