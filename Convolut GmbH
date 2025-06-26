@@ -1,0 +1,175 @@
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Munich,Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Microsoft Certified Power BI Analyst }
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Motivated and detail-oriented Data Analyst with strong proficiency in Power BI, DAX, SQL, and Python. Experienced in translating business requirements into actionable insights through dashboards and reports. Adept at working cross-functionally with business and IT teams, documenting processes, and conducting data analysis and user acceptance testing. Skilled in stakeholder communication, process improvement, and data-driven decision-making. 
+\section{Skills}  
+\textbf{Reporting \& BI Tools:} Power BI, DAX, Power Query, M language, Excel, Snowflake \\
+\textbf{Programming \& Data:} Python, SQL, Pandas, NumPy, Selenium, Airflow \\
+\textbf{Processes \& Methodologies:} ETL, Data Modeling, UAT, Requirements Analysis, Managing Projects \\
+\textbf{Soft Skills:} Communication Skills, Stakeholder Management, Problem-Solving Skills, Attention to Detail, Teamwork \\
+\textbf{Mathematics \& Statistics:} Statistical Analysis, Descriptive Statistics, Data Distributions, Probability \\
+\textbf{Languages:} German (B2.2 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill Sept 2026 (expected) \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill 2016 -- 2020  
+
+\section{Professional Experience}  
+\textbf{Work Student Power BI Data Analyst} \hfill Mar 2025 -- Present \\  
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+    \item Collaborated with business stakeholders to gather reporting requirements and translate them into scalable Power BI dashboards.  
+    \item Designed and developed interactive reports using DAX, Power Query (M), and optimized data models for key business metrics.  
+    \item Improved Power BI report loading performance by 40\% by optimizing DAX measures, reducing model size, and refining query folding.  
+    \item Conducted user acceptance testing (UAT), gathered feedback, and iteratively enhanced dashboard usability.  
+    \item Provided documentation and user training to support adoption of self-service BI tools across teams.  
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- July 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Prepared and integrated data from 10+ internal and 3 external sources, increasing data availability for stakeholders by 35\%.  
+    \item Automated ETL processes and data pipelines using Python (Beautiful Soup, Selenium), reducing manual effort by 50\% and improving data processing time by 40\%.  
+    \item Implemented real-time streaming workflows using Kafka, achieving data ingestion latency of less than 5 seconds for time-sensitive dashboards.  
+    \item Collaborated with 4 cross-functional teams to improve data literacy, resulting in a 25\% increase in internal adoption of BI tools.  
+    \item Ensured data quality and consistency by developing automated validation scripts, reducing data discrepancies by 30\%.
+\end{itemize}
+
+
+\section{Projects}  
+
+\textbf{Amazon Sales Analysis Dashboard:} Designed an interactive Power BI dashboard to analyze Amazon sales performance across regions, categories, and time periods. Utilized DAX and Power Query to model sales KPIs, identify high-performing products, and visualize revenue patterns. (\href{https://github.com/Usama00004/Amazon-Sales-Analysis}{GitHub})  
+
+\textbf{Mobile Sales Data Visualization Dashboard:} Built a Power BI dashboard to explore mobile sales and order trends from 2021 to 2024. Implemented time intelligence and advanced filtering using DAX to uncover business insights. Enabled identification of top-performing regions and products, contributi
+
+
+\textbf{Data Analysis Dashboard (Sales Report):} Created a Power BI report integrating preprocessed sales data using Python (Pandas). Optimized data refresh and reduced processing time by 20\% through effective data transformation and error handling. (\href{https://github.com/Usama00004/SalesReport}{GitHub})  
+
+\textbf{Real Estate Analytics Dashboard:} Connected Snowflake data warehouse to Power BI to visualize real estate market data. Built interactive visuals to display property trends and geographic breakdowns, enabling data-driven insights. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})  
+
+\section{Publications}  
+
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, this research proposes algorithms for optimizing resource utilization and minimizing energy consumption in cloud environments (see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).  
+
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI:} Certified in Power BI, with expertise in transforming data into impactful visual insights (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view certificate}).
+   \item \textbf{German Language B2.2:} Certified in German B2.2, demonstrating advanced skills for professional communication in German-speaking settings (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view certificate}).
+    
+    \item \textbf{German Language B1:} Certified in German B1, showcasing intermediate proficiency in understanding and speaking German (\href{https://github.com/Usama00004/Certifications/blob/main/German%20B1%20Certificate.pdf}{view certificate}).
+    \item \textbf{Google Data Analytics:} Certified in Google Data Analytics, with skills in analyzing and deriving insights from data ( \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view certificate}).
+    \item \textbf{Microsoft Azure:} Certified in Azure Fundamentals, with a solid understanding of cloud computing and Microsoft Azure services ( \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view certificate}).
+    \item \textbf{IBM Datastage:} Certified in IBM Datastage, skilled in efficient data integration and management using ETL tools (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view certificate}).
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+   Convolut GmbH \\
+   Radlkoferstr 2 \\
+   81373 München \\
+   Germany
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Germany\\
+    \vspace{1cm}
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Job Application for Analytics Engineer Position}
+
+\vspace{0.5cm}
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Power BI Data Analyst position at your Munich office. With hands-on experience in Power BI development, data modeling, and stakeholder collaboration, I am confident in my ability to contribute effectively to your cross-functional project team.
+
+In my current role at Siemens Healthineers as a Working Student Power BI Data Analyst, I work closely with business stakeholders to translate requirements into actionable dashboards. I have built and optimized several reports using DAX and Power Query, improving report load performance by 40%. This experience has sharpened my ability to identify data anomalies, streamline data models, and conduct thorough user acceptance testing (UAT).
+
+Previously, I held a Junior Data Analyst role at Systems Limited, where I focused on automating ETL pipelines using Python and SQL, and helped shape a data-driven culture across departments. My academic foundation in Computer Science, combined with a current Master’s in Global Software Development at Hochschule Fulda, gives me both a strong technical base and the agility to work in complex international environments.
+
+I am especially excited by your emphasis on continuous learning, variety, and cross-functional collaboration. These values resonate with my approach to data analytics — blending curiosity, adaptability, and precision to deliver meaningful insights.
+
+Fluent in English and proficient in German (B1–B2), I am ready to contribute to your team’s success in both technical and client-facing capacities. I would welcome the opportunity to further discuss how my background aligns with your goals.
+
+Thank you for considering my application. I look forward to the opportunity to speak with you.
+
+\vspace{0.5cm}
+
+Thanks and regards,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com} \\
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
