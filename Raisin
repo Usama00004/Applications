@@ -1,0 +1,170 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Engineer | Data Analyst}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Data Engineer with hands-on experience in building scalable data pipelines using Python, Snowflake, Airflow, and dbt. Skilled in orchestrating data workflows, automating ETL processes, and transforming complex datasets for business and regulatory needs. Passionate about data quality, observability, and continuous learning in dynamic environments.
+
+\section{Skills}  
+\textbf{Technical Skills:} Python, SQL, dbt, Airflow (MWAA), Snowflake, AWS (S3, EC2), Docker, Pandas, Git, Power BI, DAX  \\
+\textbf{Data Engineering Tools:} CI/CD (Harness), ETL Automation, Data Modeling, Snowpipe, Data Quality Monitoring  \\
+\textbf{Soft Skills:} Stakeholder Collaboration, Agile Methodologies, Analytical Thinking, Continuous Improvement  \\
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst} \hfill Mar 2025 - Present \\
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+    \item Designed and orchestrated scalable data pipelines with Python, Snowflake, and Airflow to integrate structured and semi-structured datasets.  
+    \item Implemented dbt models to manage data transformation logic and improve traceability.  
+    \item Ensured pipeline health through observability practices, logging, and alerts.  
+    \item Contributed to CI/CD pipeline maintenance using Harness for deployment automation.  
+    \item Liaised with business and regulatory stakeholders to align pipeline requirements with KPIs and compliance needs.
+\end{itemize}  
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022 \\
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Developed automated ETL workflows in Python for ingesting and transforming regulatory and financial data.  
+    \item Built real-time data streaming solutions using Kafka and ensured fault-tolerant data flow.  
+    \item Participated in cross-functional discussions to translate regulatory reporting needs into technical pipelines.  
+\end{itemize}  
+
+\section{Projects}  
+
+\textbf{Financial Data Pipeline (Snowflake + dbt + Airflow):} 
+Built a complete data pipeline that extracts data via Python scripts, applies transformations using dbt, and orchestrates using Airflow (MWAA). Loaded data into Snowflake using Snowpipe and modeled it for compliance KPIs and audit use cases. Implemented CI/CD integration to deploy changes using GitHub Actions and Harness.
+
+\textbf{Real Estate Data Pipeline:} 
+Orchestrated a batch data pipeline from Redfin using AWS S3, Snowpipe, and dbt. Data was cleaned and transformed with Python and made available in Snowflake for Power BI analysis.
+
+\textbf{Data Analysis Dashboard:} 
+Developed a Power BI dashboard to visualize trends and insights from processed data using Python (Pandas). Reduced data processing time by 20\% through preprocessing and error handling pipelines (\href{https://github.com/Usama00004/SalesReport}{GitHub}).
+
+\textbf{Sentiment Analysis Pipeline:} 
+Automated web scraping and sentiment analysis using BeautifulSoup, Selenium, and Scikit-learn. Enhanced efficiency by 25\% and reduced manual effort by 40\% through automation (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).  
+
+\section{Publications}  
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} 
+Published in MDPI Energies Journal, this research proposes algorithms for optimizing resource utilization and minimizing energy consumption in cloud environments (\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).  
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{German Language B2.2:} Certified in German B2.2 (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view certificate})
+    \item \textbf{Microsoft Power BI:} Certified in Power BI (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view certificate})
+    \item \textbf{Google Data Analytics:} Certified in Google Data Analytics (\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view certificate})
+    \item \textbf{Microsoft Azure:} Certified in Azure Fundamentals (\href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view certificate})
+    \item \textbf{IBM Datastage:} Certified in IBM Datastage (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view certificate})
+    \item \textbf{German Language B1:} Certified in German B1 (\href{https://github.com/Usama00004/Certifications/blob/main/German%20B1%20Certificate.pdf}{view certificate})
+\end{itemize}
+
+\end{document}
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Raisin SE\\
+    Schlesische Str. 33/34 \\
+    10997 Berlin \\
+    Germany \\
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Hardenberg str 34\\
+    10623 Berlin\\
+    Germany\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Data Engineer – Risk Controlling \& Regulatory Reporting}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team at Raisin,
+
+I am writing to express my strong interest in the Data Engineering position within the Risk Controlling \& Regulatory Reporting team at Raisin. With hands-on experience in data pipeline orchestration using Python, Snowflake, Airflow (MWAA), and dbt, I am excited about the opportunity to contribute to Raisin’s mission of delivering reliable and scalable financial data infrastructure for regulatory and risk reporting.
+
+Currently, I am a working student at Siemens Healthineers, where I am involved in designing scalable data warehousing solutions, modeling large datasets with Snowflake, and orchestrating real-time data flows using Kafka. My work focuses on data quality, automation, and continuous delivery—all critical aspects of robust regulatory data systems.
+
+In a previous role at Systems Limited, I developed automated ETL pipelines using Python (Selenium, Beautiful Soup) and deployed real-time data streaming frameworks. I also worked on end-to-end projects where Snowpipe, dbt, and Power BI were used to extract, transform, and visualize datasets, enabling cross-functional teams to make data-driven decisions.
+
+Raisin’s collaborative and multicultural environment is particularly appealing to me, as I thrive in dynamic settings where continuous learning and team knowledge sharing are encouraged. I hold a Bachelor’s in Computer Science and am currently pursuing a Master’s in Global Software Development from Hochschule Fulda, which has further strengthened my analytical and architectural understanding of distributed systems and data platforms.
+
+I am confident that my background in modern data engineering tools, passion for learning, and problem-solving mindset align well with Raisin’s technical stack and culture. I would welcome the chance to contribute to enhancing your pipeline reliability, CI/CD processes on Harness, and data observability practices.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how I can bring value to the Raisin team.
+
+
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
