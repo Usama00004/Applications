@@ -1,0 +1,82 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel} % For German typography
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+
+Arethia Services GmbH & Co\\
+Scholtzstraße 4 \\
+21465 Reinbek\\
+Deutschland\\
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Hauptstr. 43 \\
+    44894 Bochum\\
+    Deutschland\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Junior BI Analyst (m/w/d)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Sehr geehrte Damen und Herren,
+
+mit gro\ss em Interesse habe ich Ihre Stellenausschreibung für die Position als Junior BI Analyst/in gelesen. Als engagierter Datenanalyst mit einem Jahr praktischer Erfahrung in Power BI, Datenmodellierung, ETL-Prozessen sowie fundierten Kenntnissen in DAX und Power Query M sehe ich in dieser Rolle eine hervorragende Gelegenheit, meine Fähigkeiten weiterzuentwickeln und aktiv zum Erfolg Ihres BI-Teams beizutragen.
+
+Im Rahmen meiner bisherigen Tätigkeit konnte ich End-to-End Datenanalysen durchführen – von der Anforderungsaufnahme über die Datenaufbereitung bis hin zur Visualisierung mit Power BI. Dabei habe ich gelernt, komplexe Datenquellen zu konsolidieren, semantisch sinnvoll zu modellieren und in aussagekräftige Dashboards und KPIs zu überführen. Der direkte Austausch mit Fachabteilungen und die enge Zusammenarbeit mit IT-Teams gehörten zu meinem Tagesgeschäft, wodurch ich gelernt habe, technische Anforderungen mit unternehmerischen Zielen in Einklang zu bringen.
+
+Besonders reizvoll an Ihrer Position finde ich die strategische Weiterentwicklung Ihres Data Warehouses in Microsoft Fabric. Mein aktuelles Masterstudium im Bereich Global Software Development an der Hochschule Fulda ermöglicht es mir, neue Technologien schnell zu adaptieren – insbesondere im Microsoft-Ökosystem, mit dem ich durch die Nutzung von Power Platform und SQL bereits vertraut bin. Zudem bringe ich Erfahrungen im Second-Level-Support und der Schulung von Fachanwendern mit, wodurch ich den Wissenstransfer nachhaltig fördern kann.
+
+Die von Ihnen gebotenen Entwicklungsmöglichkeiten, das internationale Umfeld sowie die moderne Unternehmenskultur mit flexiblen Arbeitszeiten und Weiterbildungsmöglichkeiten sprechen mich sehr an. Ich bin überzeugt, dass meine analytische Denkweise, meine Kommunikationsstärke sowie mein technisches Verständnis gut in Ihr Team passen und ich einen wertvollen Beitrag zur erfolgreichen Migration und dem weiteren Ausbau Ihrer BI-Landschaft leisten kann.
+
+Gern überzeuge ich Sie in einem persönlichen Gespräch von meiner Motivation und Eignung. Ich freue mich auf Ihre Rückmeldung.
+
+
+\vspace{0.5cm}
+Mit freundlichen Grü\ss en\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
