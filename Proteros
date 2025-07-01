@@ -1,0 +1,84 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Proteros biostructures GmbH\\
+    Bunsenstr. 7a \\
+    82152 Martinsried \\
+    Germany
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Germany\\
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for Working Student Position in Business Intelligence (Power BI & SQL)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Working Student position in Business Intelligence. As a Master’s student in Global Software Development at Hochschule Fulda and a Microsoft Certified Power BI Data Analyst, I bring hands-on experience in dashboard development, SQL-based data processing, and data modeling.
+
+Currently, I am actively working in a student role focused on Power BI report and dashboard development at Siemens, where I support the creation of data-driven visualizations, write DAX measures, and help maintain data pipelines. My responsibilities include querying SQL databases, building and optimizing data models, and ensuring high data quality and documentation standards. This role has deepened my understanding of BI workflows and strengthened my ability to work independently and analytically.
+
+Previously, I also worked on an ETL project integrating weather data into Snowflake, which involved Python scripting, data transformation, and modeling. I am passionate about transforming raw data into clear, actionable insights and take pride in building visually compelling and user-friendly reports.
+
+I’m particularly excited about the opportunity to work in your innovative and international biotech environment. The chance to collaborate across IT, Controlling, and R&D aligns well with my interdisciplinary and technical background.
+
+Fluent in English and currently improving my German (B2 level), I am confident in my ability to contribute effectively in a diverse team setting.
+
+Thank you for considering my application. I would be delighted to further discuss how I can support your team’s goals.
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
