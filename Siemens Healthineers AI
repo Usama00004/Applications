@@ -1,0 +1,175 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 176 849 739 34}
+\def\city{Forchheim, Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Science | Machine Learning}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Proactive AI and Data Science student with hands-on experience in Python, machine learning, and data engineering. Skilled in building LLM-based prototypes, automating data workflows, and enhancing AI agents based on feedback. Adept at implementing scalable AI solutions, extracting insights from complex datasets, and applying NLP techniques. Passionate about using artificial intelligence to improve real-world systems in healthcare and beyond.
+
+\section{Skills}  
+\textbf{Programming Languages:} Python, SQL, M Language, DAX  \\
+\textbf{AI \& ML:} Scikit-learn, LLM Agents, NLP, Transformers, NLTK, Hugging Face, TensorFlow (basics)  \\
+\textbf{Data Tools:} Pandas, NumPy, Power BI, Snowflake, Selenium, BeautifulSoup, Air Flow, Git, Excel  \\
+\textbf{AI Concepts:} Large Language Models (LLMs), Agentic AI, Prompt Engineering, Statistical Analysis  \\
+\textbf{Soft Skills:} Communication, Collaboration, Problem Solving, Analytical Thinking  \\
+\textbf{Languages:} English (C1), German (B1), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)}  \\
+Relevant Courses: Artificial Intelligence, Machine Learning, NLP, Software Engineering
+
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience} 
+
+\textbf{Working Student Data Analyst} \hfill Mar 2025 - Present  \\
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+\item Designed and developed scalable data models and dashboards in Power BI, used across business units.
+\item Improved DAX calculations and data models, enhancing dashboard performance by 40\%.
+\item Extracted, transformed, and loaded large-scale datasets from diverse sources using Python and SQL.
+\item Collaborated with cross-functional teams to ensure data availability, integrity, and usability.
+\end{itemize}  
+
+\textbf{Junior Data Analyst – AI \& ML Projects} \hfill Jan 2021 – July 2022  \\
+Systems Limited \hfill \textit{Lahore, Pakistan} 
+\begin{itemize}
+\item Designed and implemented ML models using Scikit-learn to perform sentiment analysis on social media datasets.
+\item Built intelligent ETL pipelines using Python (BeautifulSoup, Selenium) with integrated NLP preprocessing (tokenization, stop-word removal, lemmatization).
+\item Developed automated classifiers for customer feedback categorization, improving business insight extraction by 40\%.
+\item Integrated real-time data streams using Kafka to support low-latency AI model inference and dashboard updates.
+\item Participated in model performance evaluation, feature engineering, and hyperparameter tuning for supervised learning tasks.
+\end{itemize}
+
+
+\section{AI Projects}  
+\textbf{COVID-19 Case Severity Classifier:} Developed a machine learning model to classify COVID-19 case severity (mild, moderate, severe) using Kaggle’s “COVID-19 Clinical Data” dataset. Performed data preprocessing, feature engineering, and handled class imbalance with SMOTE. Trained and evaluated Random Forest and XGBoost classifiers, achieving over 85\% accuracy. Visualized feature importance to highlight key clinical indicators (e.g., age, comorbidities, oxygen level).
+\textbf{AI Trend Detection Dashboard:} Built a Power BI dashboard with integrated Python scripts to visualize emerging AI trends using data extracted from multiple online sources.
+
+\textbf{Sentiment Analysis Pipeline:} Automated web scraping and sentiment analysis of Twitter data using BeautifulSoup, Selenium, and Scikit-learn. Improved efficiency by 25\%, reducing manual effort by 40\% \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{(GitHub)}.
+
+\textbf{Real Estate AI-Powered Data Pipeline:} Built an end-to-end ETL pipeline with AWS S3, Snowpipe, and Snowflake. Enriched the pipeline with data insights used in Power BI \href{https://github.com/Usama00004/StreamAnalysis}{(GitHub)}.
+
+
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI (PL-300):} \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view certificate}
+    \item \textbf{Google Data Analytics:} \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view certificate}
+    \item \textbf{Microsoft Azure Fundamentals:} \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view certificate}
+    \item \textbf{IBM Datastage ETL:} \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view certificate}
+    \item \textbf{German B2.2 Language Certificate:} \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view certificate}
+\end{itemize}
+
+\end{document}
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+   Siemens Healthineers\\
+   Henkestraße 127 \\
+  91052 Erlangen \\
+   Germany
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+
+
+    Usama Tahir \\
+    Wisendorfer str 28 \\
+    91056 Erlangen\\
+    Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for Working Student (f/m/d) in the field of AI development| JOB ID : 469094 }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Working Student (f/m/d) – AI Development position at Siemens Healthineers. As a current Master’s student in Global Software Development at Hochschule Fulda and a working student in Data Analytics at Siemens Healthineers, I am enthusiastic about contributing further to AI development within a company that is shaping the future of healthcare.
+
+In my current role, I work with Power BI, SQL, and Snowflake to build data models and generate actionable insights for business units. My responsibilities also involve automating data pipelines and improving reporting efficiency. Alongside this, I have pursued personal machine learning projects including a COVID-19 Case Severity Classifier, where I used a Kaggle dataset to train and evaluate models to predict patient outcomes. This project demonstrates my practical knowledge of classification algorithms, feature engineering, and explainable AI—aligning well with the expectations of this role.
+
+I bring:
+
+Proficiency in Python, including libraries like Pandas, Scikit-learn
+Practical experience in data collection, preprocessing, and statistical analysis.
+Hands-on exposure to LLMs and prompt engineering, along with a strong interest in improving AI systems through iterative feedback.
+A proactive mindset and proven ability to work across teams, backed by strong communication skills in English (C1) and intermediate German (B1-B2).
+I am passionate about leveraging AI to drive impactful healthcare solutions and would value the opportunity to support your AI prototyping efforts—whether through data processing, model iteration, or technology research.
+
+I would welcome the opportunity to discuss how I can contribute to your team. Thank you for considering my application.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
