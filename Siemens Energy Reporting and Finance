@@ -1,0 +1,162 @@
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{ Digitalization \& Reporting}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Analytical and proactive Working Student with a strong foundation in finance digitalization, data reporting, and business analytics. Experienced in Power BI, Excel, SQL, and Python for creating efficient reporting systems, automation tools, and insightful dashboards. Adept at financial data consolidation, ad-hoc analysis, and collaborating with cross-functional teams to improve digital processes and support data-driven decision-making.
+
+\section{Skills}  
+\textbf{Tools \& Technologies:} Excel (Advanced), Power BI, Power Query, DAX, SQL, Python (Pandas), Git, Snowflake, AWS S3 \\  
+\textbf{Data \& Reporting:} Financial Data Analysis, Management Reporting, Dashboard Design, Data Modeling, KPI Reporting \\  
+\textbf{Other:} Automation (Selenium, ETL), Stream Processing (Kafka), Cost Efficiency Analysis, Presentations (PowerPoint) \\  
+\textbf{Languages:} English (C1), German (B1), Urdu, Hindi, Punjabi  
+
+\section{Education}  
+{\bf M.Sc. Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf B.Sc. Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student - Data Analyst} \hfill Mar 2025 - Present \\  
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+    \item Supported reporting automation and dashboard creation for internal teams using Power BI and Snowflake.  
+    \item Coordinated system integrations and assisted in tool implementations with IT teams.  
+    \item Designed SQL-based data models for structured financial and operational analysis.  
+\end{itemize}  
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 - July 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Consolidated financial and operational datasets across departments to support ad-hoc and management reporting.  
+    \item Automated ETL pipelines and reporting workflows using Python, improving reliability and reducing manual effort.  
+    \item Developed dashboards with KPIs and cost-saving insights for internal presentations and audits.  
+\end{itemize}  
+
+\section{Projects}  
+
+\textbf{Financial Reporting Dashboard:} Designed a Power BI dashboard consolidating mobile sales data (2021–2024). Highlighted trends, growth metrics, and operational KPIs to assist strategic planning (\href{https://github.com/Usama00004/DAX}{GitHub}).
+
+\textbf{ETL Pipeline for Real Estate:} Automated a financial data pipeline: gathered Redfin housing data, transformed it via Pandas, loaded it into Snowflake, and visualized KPIs in Power BI (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\textbf{Sales Insights Dashboard:} Built a reporting tool in Power BI integrating Python-preprocessed data to optimize monthly sales reporting. Reduced processing time by 20\% (\href{https://github.com/Usama00004/SalesReport}{GitHub}).
+
+\textbf{Sentiment & Trend Analysis:} Created a pipeline for web scraping and market sentiment classification using Python and Scikit-learn to support product and finance decisions (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI:} PL-300 Certified (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view certificate})  
+    \item \textbf{Google Data Analytics:} Data cleaning, visualization, and business decision-making (\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view})  
+    \item \textbf{Microsoft Azure Fundamentals:} Cloud infrastructure for data and business systems (\href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view})  
+    \item \textbf{German Language B2.2:} Proficient in written and spoken German (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view})  
+\end{itemize}
+
+\end{document}
+
+======================
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Siemens Gamesa Renewable Energy\\
+    Beim Strohhause 17-31 \\
+    20097 Hamburg\\
+    Germany
+
+ 
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Armgart str 22 \\
+    22087  Hamburg\\
+     Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Working Student - Finance Digitalization \& Reporting}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Working Student position in Finance Digitalization & Reporting. As a Master's student in Global Software Development at Hochschule Fulda with a background in data analytics and digital reporting, I am enthusiastic about contributing to Siemens Gamesa's mission in renewable energy through data-driven financial transformation.
+
+Currently, I work as a Working Student Data Analyst at Siemens Healthineers, where I support data modeling, reporting automation, and system integration using Power BI, Excel, SQL, and Snowflake. This role has strengthened my ability to manage financial and operational datasets, automate dashboards, and collaborate closely with IT teams. My previous experience as a Junior Data Analyst at Systems Limited included building ETL pipelines, improving reporting workflows, and enabling cost-effective decision-making through automation and visualization.
+
+My academic and professional journey has equipped me with strong proficiency in Power BI, Power Query, and Excel, along with a deep understanding of reporting metrics and data modeling. I enjoy building impactful dashboards and streamlining processes to support strategic financial planning. Being fluent in English and certified at German B2.2 level, I feel confident in communicating across multicultural and cross-functional teams.
+
+What particularly excites me about this opportunity is the chance to apply my technical and analytical skills in a company leading the green energy transition. I am eager to support efficiency projects, reporting automation, and digital tool implementation in your finance department, while gaining practical experience in a global environment.
+
+I am available to work 20 hours per week and would welcome the opportunity to further discuss how I can support your team. Thank you for considering my application. I look forward to hearing from you.
+
+
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
