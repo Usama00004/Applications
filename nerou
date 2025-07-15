@@ -1,0 +1,92 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst \& ML}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Data Analyst with over 3 years of experience in data extraction, validation, and analysis across diverse domains. Strong foundation in Python, statistics, and machine learning. Experienced in handling large datasets, performing exploratory data analysis, and building end-to-end pipelines. Skilled at translating complex data into actionable insights and working independently within agile teams.
+
+\section{Skills}  
+\textbf{Languages \& Libraries:} Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, DAX \\  
+\textbf{Data Science:} EDA, Regression \& Classification, Clustering, Feature Engineering, Model Evaluation \\  
+\textbf{Machine Learning:} Supervised/Unsupervised Learning, Sentiment Analysis, Scikit-learn Pipelines \\  
+\textbf{Data Engineering:} ETL Processes, Snowflake, AWS S3, Snowpipe, Selenium \\  
+\textbf{Tools:} Jupyter, Power BI, Tableau, Excel, Git \\  
+\textbf{Soft Skills:} Self-organization, Problem Solving, Collaboration, Stakeholder Communication \\  
+\textbf{Languages:} German (B1 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst} \hfill Mar 2025 – Present \\  
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}  
+    \item Developed Power BI dashboards based on Snowflake data for financial and operational KPIs.
+    \item Automated data pipelines and applied data transformation logic using Power Query and DAX.
+    \item Collaborated cross-functionally to define KPIs and validate data consistency across systems.
+    \item Applied statistical methods to detect anomalies and improve reporting accuracy.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – Jul 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Extracted and validated large data sets from databases and APIs for business analysis.
+    \item Performed statistical analysis to derive trends, patterns, and actionable recommendations.
+    \item Built Python-based scripts for data cleaning and ETL automation.
+    \item Supported transition towards data-driven decision-making across multiple departments.
+\end{itemize}  
+
+\section{Key Projects}  
+
+\textbf{Machine Learning – Twitter Sentiment Analysis:} Collected and cleaned Twitter data using web scraping, applied NLP preprocessing, trained supervised models (Logistic Regression, SVM), and evaluated performance (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+
+\textbf{Weather Analytics Warehouse:} Built a Snowflake-based data warehouse sourcing weather data from APIs. Applied Python for transformation and analysis; created KPIs to support climate-related insights.
+
+\textbf{Real Estate ETL Pipeline:} Built an automated pipeline using Python, AWS S3, Snowpipe, and Snowflake to process property data and visualize trends in Power BI (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\textbf{KPI Dashboard for Sales \& Orders:} Designed Power BI dashboards analyzing multi-year trends with drill-down capabilities. Integrated DAX measures for custom KPIs (\href{https://github.com/Usama00004/DAX}{GitHub}).
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Google Data Analytics Professional Certificate} – Coursera (\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view})
+    \item \textbf{Power BI Data Analyst Associate} – Microsoft (\href{https://github.com/Usama00004/Certifications/blob/main/PowerBI_DataAnalyst.pdf}{view})
+    \item \textbf{IBM Datastage ETL Certification} – IBM (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view})
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} (\href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view})
+    \item \textbf{German Language Certification – B2.2 \& B1} (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view})
+\end{itemize}
+
+\end{document}
+
+
+
+Dear Hiring Team,
+
+I am writing to express my interest in the advertised working student position in the area of Data Science and Machine Learning. Currently pursuing my Master's in Global Software Development at Hochschule Fulda, I bring over three years of hands-on experience in data analytics, a strong foundation in Python, and a deep interest in machine learning and statistical methods.
+
+In my current role as a Working Student Data Analyst at Siemens Healthineers, I build Power BI dashboards connected to Snowflake, enabling data-driven insights for the Controlling and Management teams. I am responsible for data validation, automated data transformation, and KPI development. Previously, as a Junior Analyst at Systems Limited, I automated ETL processes using Python and SQL and provided ad-hoc analytical support across departments.
+
+Beyond business intelligence, I am particularly passionate about applying data science techniques to real-world problems. I have independently built and deployed machine learning pipelines, including a Twitter Sentiment Analysis project involving data scraping, NLP preprocessing, model training, and evaluation using Scikit-learn. You can find this and other projects on my GitHub profile.
+
+I am highly organized, able to work independently, and quick to grasp new concepts. With my analytical mindset and practical experience in handling large datasets and applying ML models, I am confident I can add value to your team.
+
+Thank you for considering my application. I would welcome the opportunity to discuss the role further in an interview.
+
+Sincerely,
+Usama Tahir
