@@ -1,0 +1,183 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+\usepackage[hidelinks]{hyperref}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Power BI Spezialist}
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Power BI-Spezialist mit umfassender Erfahrung in der Entwicklung skalierbarer BI-Lösungen von der Datenquelle bis zur finalen Visualisierung. Expertise in der Modelloptimierung (inkl. Composite Models), DAX-Performance, Aggregationen und Power BI Premium-Umgebungen. Routiniert in der Zusammenarbeit mit Fachbereichen sowie der technischen Betreuung und Administration von Power BI Workspaces, RLS und Deployment Pipelines.
+
+\section{Kernkompetenzen}  
+\textbf{Power BI & Visualisierung:} Power BI Desktop & Service, DAX, Power Query (M), Composite Models, KPI-Dashboards, Drillthrough, DirectQuery, Performanceanalyse, Aggregationsstrategien \\
+\textbf{Modellierung & ETL:} SQL, Python, Airflow, Snowpipe, REST APIs, Stern- & Schneeflockenschema \\
+\textbf{Plattform-Management:} Power BI Workspaces, RLS, Berechtigungen, Deployment Pipelines, Best Practices \\
+\textbf{Cloud & Datenbanken:} Snowflake, Microsoft Fabric, Azure Grundlagen, SSRS, SQL Server \\
+\textbf{Soft Skills:} Technische Kommunikation, Coaching, strukturiertes Arbeiten, lösungsorientierte Zusammenarbeit \\
+\textbf{Sprachen:} Deutsch (B1), Englisch (C1), Urdu, Hindi, Punjabi
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \hfill \textit{Erwartet Sept 2026} \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore \hfill \textit{2016 – 2020}  
+
+\section{Berufserfahrung}  
+
+\textbf{Werkstudent – Power BI Developer / Datenanalyst} \hfill März 2025 – Heute \\
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Erstellung ganzheitlicher Power BI-Lösungen (Modellierung bis Visualisierung) für Vertrieb, Controlling und Logistik.
+    \item Optimierung von Datenmodellen für DirectQuery-Leistung, Aggregationsbedarf und Speicherverhalten.
+    \item Integration von Snowflake-Datenquellen in Composite Models für Microsoft Fabric-Analysen.
+    \item Anwendung von Best Practices für Ladezeiten, Visualisierungen und Importstrategien.
+    \item Administration von Workspaces inkl. RLS und Berechtigungen; Unterstützung von Self-Service-Nutzern.
+    \item Entwicklung und Pflege von DAX-Maßnahmen, Measure Layers und strukturierter Metadaten.
+\end{itemize}
+
+\textbf{Junior BI-Entwickler – SQL & ETL-Pipelines} \hfill Jan 2021 – Juli 2022 \\
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item End-to-End-Entwicklung von Datenlösungen inkl. Web-API-Integration, SQL-Optimierung und Airflow-Workflows.
+    \item Erstellung modularer SSRS-Berichte und Power BI-Dashboards mit Drillthrough-Logik und KPIs.
+    \item Erfahrung mit Datenmodellgröße, Performancekennzahlen und Speicherverwaltung.
+    \item Zusammenarbeit mit Fachbereichen zur Entwicklung sinnvoller KPI-Konzepte.
+\end{itemize}
+
+\section{Projekte}  
+
+\textbf{Power BI & Immobilien-Dashboard}  
+\begin{itemize}
+    \item Composite Model mit Snowpipe, Power BI Service und DAX zur Marktanalyse mit Aggregationen.
+    \item Optimiertes Modellverhalten durch gezielte Measure Groups, Custom Tooltips und KPI-Visuals.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}
+\end{itemize}
+
+\textbf{Sales Intelligence mit Power BI Premium}  
+\begin{itemize}
+    \item Aufbau eines DirectQuery-Dashboards mit Optimierung der Ladezeiten durch Aggregationsstrategien.
+    \item Einsatz von RLS, Workspace-Strukturierung und Deployment Pipelines.
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}
+\end{itemize}
+
+\textbf{Wetterdaten-ETL & Visualisierung}  
+\begin{itemize}
+    \item Stündliche Aktualisierung über REST API, ETL mit Python + Snowflake, Visualisierung in Power BI.
+    \item Darstellung regionaler Klimamuster, Vorhersagen und Anomalien.
+\end{itemize}
+
+\section{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen}
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Data Analytics} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+    \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Marc O'Polo SE\\
+    Hofgartenstraße 1\\
+    83071 Stephanskirchen\\
+    Deutschland
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Alexanderstrasse 146\\
+    70180 Stuttgart\\
+    Deutschland \\
+    
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Power BI Spezialist – Datenmodellierung & Reporting}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+Sehr geehrtes Team,
+
+mit gro\ss er Begeisterung habe ich Ihre Stellenausschreibung für die Position als Power BI Spezialist gelesen – insbesondere Ihre moderne Arbeitskultur, der Teamgeist und der Fokus auf technologische Exzellenz haben mich sofort angesprochen. Als zertifizierter Power BI Analyst (PL-300) mit praktischer Erfahrung in der Entwicklung, Optimierung und Administration umfangreicher BI-Lösungen bin ich überzeugt, Ihr Team wirkungsvoll unterstützen zu können.
+
+Derzeit arbeite ich als Werkstudent im BI-Bereich bei Siemens Healthineers. Dort entwickle ich Power BI Dashboards für Bereiche wie Vertrieb und Logistik, optimiere Datenmodelle auf Basis von DirectQuery und Aggregationen und arbeite eng mit Data Engineers und Fachabteilungen zusammen. Dank meines fundierten Verständnisses in DAX, Power Query (M), Composite Models und der Verwaltung von Workspaces inklusive RLS konnte ich wiederholt zur Verbesserung von Ladezeiten und Skalierbarkeit beitragen.
+
+Zuvor war ich als Junior BI-Entwickler bei Systems Limited tätig, wo ich ETL-Pipelines mit Python, SQL und Airflow entwickelte und Reportinglösungen mit Power BI und SSRS aufbaute. In beiden Rollen habe ich nicht nur technische Lösungen umgesetzt, sondern auch aktiv zur methodischen Weiterentwicklung des BI-Stacks beigetragen – sei es durch Coaching, Dokumentation oder den Aufbau wiederverwendbarer Templates.
+
+Was mich besonders motiviert: Sie setzen auf moderne Tools, fördern fachlichen Austausch und legen Wert auf Eigenverantwortung – das entspricht exakt meiner Arbeitsweise. Ich bringe eine Hands-on-Mentalität mit, arbeite strukturiert und lösungsorientiert, und schätze teamübergreifende Zusammenarbeit. Mit meinen sehr guten Englischkenntnissen und fortgeschrittenen Deutschkenntnissen (B2-Niveau) bin ich kommunikationsstark in internationalen wie lokalen Teams.
+
+Ich freue mich darauf, mein Wissen in Ihr Team einzubringen und gemeinsam mit Ihnen an innovativen BI-Lösungen zu arbeiten. Gerne überzeuge ich Sie in einem persönlichen Gespräch von meiner Motivation und fachlichen Eignung.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grü\ss en,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
