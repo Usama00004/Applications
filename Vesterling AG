@@ -1,0 +1,177 @@
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Frankfurt}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZIEL}
+
+Engagierter Junior BI Consultant mit Erfahrung in Datenmodellierung, Power BI, SQL und ETL-Prozessen. Ich strebe eine Position an, in der ich meine Fähigkeiten in OLAP-Tools, Controlling-Lösungen und Kundenprojekten im Rhein-Main-Gebiet einsetzen kann. Ich bringe erste Projekterfahrung sowie ausgeprägte Analyse- und Kommunikationsfähigkeiten mit.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+
+\textbf{Technische Fähigkeiten:} Power BI, Datenmodellierung (Star-/Snowflake-Schema), SQL (MS SQL Server, MySQL), Python, Pandas, ETL-Prozesse, OLAP-Konzepte, Git, Excel \\
+\textbf{Soft Skills:} Kundenkommunikation, Problemlösung, Eigenverantwortung, Projektmitarbeit \\
+\textbf{Sprachen:} Deutsch (B1 CEFR, aktiv in B2), Englisch (C1 CEFR), Urdu, Hindi, Punjabi
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 - Juli 2022\\
+Systems Limited \hfill \textit{Lahore, Pakistan}
+\begin{itemize}
+    \item Mitwirkung an BI-Projekten zur Unterstützung von Controlling-Teams mit automatisierten Berichten und Dashboards.
+    \item Umsetzung von ETL-Prozessen für OLAP-Analysen mit Python und SQL, inklusive Datenbereinigung und -transformation.
+    \item Gestaltung und Veröffentlichung interaktiver Dashboards mit Power BI zur Unterstützung datenbasierter Geschäftsentscheidungen.
+    \item Enge Zusammenarbeit mit Stakeholdern zur Analyse von Anforderungen und Schulung in BI-Reports.
+    \item Erfolgreiche Reduktion der manuellen Berichtserstellung um 30\% durch Automatisierung und Datenmodellierung.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Sales Controlling Dashboard:} Entwicklung eines Power BI-Dashboards zur Analyse von Verkaufs- und Budgetdaten auf Basis von SQL-Abfragen und OLAP-konformer Modellierung (GitHub: \href{https://github.com/Usama00004/SalesReport}{SalesReport}).
+
+\item \textbf{Datenpipeline für Echtzeitberichte:} Aufbau einer Streaming-Datenpipeline mit Kafka, Flink und PostgreSQL zur Erstellung von zeitnahen Finanz- und Betriebsdatenberichten (GitHub: \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}).
+
+\item \textbf{Sentiment-Analyse für Kundenfeedback:} Umsetzung einer Web-Scraping- und Analysepipeline mit BeautifulSoup, Selenium, Pandas und Scikit-learn zur automatisierten Auswertung von Kundenmeinungen (GitHub: \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{Twitter-Sentiment-Analysis}).
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Forschung zur effizienten Ressourcennutzung in Cloud-Systemen mit Fokus auf Performance- und Energieoptimierung (MDPI Energies Journal, \href{https://www.mdpi.com/1996-1073/15/7/2541}{Link}).
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    
+    Vesterling AG\\
+    Deutschland
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderichstraße 47A\\
+    60594 Frankfurt\\
+    Deutschland \\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Junior Consultant BI (m/w/d)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Stellenanzeige für die Position als Junior Consultant BI (m/w/d) in Wiesbaden gelesen. Aufgrund meiner praktischen Erfahrung in der Datenanalyse, dem Aufbau von BI-Dashboards und meiner aktuellen Tätigkeit im Bereich Datenintegration und -modellierung bin ich überzeugt, einen wertvollen Beitrag zu Ihrem Team leisten zu können.
+
+Während meiner Tätigkeit als Junior Data Analyst bei Systems Limited war ich aktiv an der Umsetzung von BI-Lösungen beteiligt. Dazu gehörten unter anderem die Entwicklung automatisierter ETL-Prozesse, die Erstellung interaktiver Power BI-Dashboards sowie die Modellierung von Daten zur Unterstützung des Managements bei der Entscheidungsfindung. Meine Kenntnisse im Umgang mit SQL-Datenbanken (insbesondere MS SQL Server und PostgreSQL), Power BI sowie grundlegenden OLAP-Konzepten konnte ich durch verschiedene Projekte vertiefen.
+
+Derzeit befinde ich mich im Masterstudium „Global Software Development“ an der Hochschule Fulda, das ich voraussichtlich im März 2026 abschließen werde. Ich bringe nicht nur fundiertes technisches Wissen mit, sondern auch eine schnelle Auffassungsgabe und eine hohe Motivation, mich in neue Tools wie Cognos oder Cubeware einzuarbeiten. Darüber hinaus verfüge ich über gute Deutschkenntnisse (B1 zertifiziert, aktuell in B2-Kurs) und bin gerne bereit, im Rahmen von Kundenprojekten zu reisen.
+
+Die Aussicht, Kunden bei der Konzeption und Umsetzung von Controlling-Werkzeugen zu unterstützen und dabei sowohl technisch als auch kommunikativ tätig zu sein, motiviert mich besonders. Ich schätze es, komplexe Daten in verständliche Lösungen zu übersetzen und gemeinsam im Team Mehrwert zu schaffen.
+
+Gerne überzeuge ich Sie in einem persönlichen Gespräch von meiner Eignung für die Position. Ich freue mich auf Ihre Rückmeldung.
+
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
