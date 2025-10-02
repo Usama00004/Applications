@@ -1,0 +1,171 @@
+tell us about your self
+
+I am a Data Analyst with experience in Power BI, ETL, and data modeling, currently working at Bosch GmbH and previously at Siemens Healthineers. I specialize in building scalable Power BI dashboards, integrating data from systems like SAP BW/4HANA, and applying DAX and Power Query (M) to deliver actionable insights. I enjoy collaborating with stakeholders and driving a data-driven culture through clear and user-friendly BI solutions.
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Power BI Consultant / Developer}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Business Intelligence and Data Analytics professional with expertise in \textbf{Power BI, SQL, and Python}. Experienced in \textbf{migration strategies, scalable BI architecture, data modeling, and governance}. Proven ability to design dashboards, implement security models, and enable data-driven decision-making across business units.
+
+\section{Skills}  
+\textbf{BI & Analytics:} Power BI (DAX, Power Query M),Dataflows ,Data pipelines,Deployment pipelines, SQL,KQL,Snowflake, SAP, Data Modeling, Data Governance, Workspace governance, Report lifecycle management \\  
+\textbf{Data Engineering:} Microsoft Fabric, ETL Pipelines, Event Houses,Note books,Python (Pandas, NumPy), AWS S3,  Selenium \\  
+\textbf{Other Tools:} Git, Jira,  Excel, Microsoft Azure Fundamentals \\  
+\textbf{Soft Skills:} Communication, Stakeholder Collaboration, Analytical Thinking, Governance & Compliance \\  
+\textbf{Languages:} German (B2 CEFR), English (C1 CEFR), Urdu, Hindi, Punjabi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Internship Data Analyst} \hfill Sep 2025 - Present \\  
+Bosch GmbH \hfill \textit{Reutlingen, Germany}  
+\begin{itemize}  
+    \item Designed and implemented \textbf{Power BI dashboards and reports}, driving adoption of BI solutions within business units.  
+    \item Developed and optimized \textbf{data models} and applied advanced \textbf{DAX measures} for accurate reporting.  
+    \item Automated ETL workflows using Python and integrated with enterprise systems for consistent data quality.  
+    \item Collaborated with stakeholders to define requirements, ensuring dashboards aligned with strategic goals.  
+\end{itemize}  
+
+\textbf{Work Student Data Analyst} \hfill Oct 2024 - Aug 2025 \\  
+Siemens Healthineers \hfill \textit{Forcheim, Germany}  
+\begin{itemize}  
+    \item Contributed to \textbf{BI transformation projects}, including \textbf{migration planning from Tableau to Power BI}.  
+    \item Built scalable data models in \textbf{Power BI and Snowflake}, ensuring performance and maintainability.  
+    \item Connected Power BI to \textbf{SAP BW/4HANA} for consistent enterprise reporting.  
+    \item Defined \textbf{workspace governance, dataset structures, and versioning guidelines}.  
+\end{itemize}  
+
+\section{Projects}  
+
+\textbf{Power BI Migration Strategy (Portfolio Project):} Designed a migration roadmap from Tableau to Power BI, defining workspace governance, dataset architecture, and deployment models. Showcased governance practices and authorization concepts (\href{https://github.com/Usama00004/DAX}{GitHub}).  
+
+\textbf{Real Estate Data Pipeline Project:} Developed an end-to-end ETL pipeline with AWS S3, Snowpipe, and Snowflake. Connected to Power BI for enterprise-grade dashboards. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).  
+
+\textbf{Mobile Sales BI Dashboard:} Created a multi-year sales performance dashboard in Power BI, including role-based access, KPIs, and forecasting features. (\href{https://github.com/Usama00004/DAX}{GitHub}).  
+
+\section{Publications}  
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, focusing on resource optimization and energy-efficient data-driven systems (\href{https://www.mdpi.com/1996-1073/15/7/2541}{view publication}).  
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI (PL-300):} Certified in transforming data into actionable insights (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view}).  
+    \item \textbf{German Language B2.2:} Advanced proficiency in professional communication (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view}).  
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900):} Understanding of cloud computing and Azure services.  
+    \item \textbf{Google Data Analytics:} Skilled in data analysis and visualization.  
+    \item \textbf{IBM Datastage:} Expertise in ETL processes and integration.  
+\end{itemize}
+
+\end{document}
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+   The Brainlab Tower\\
+   Olof-Palme str  9 \\
+   81829 Munich\\
+   Germany\\
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Power BI Consultant / Developer}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the position of Power BI Consultant / Developer within your Digital & IT Division. With hands-on experience in Power BI, data modeling, and BI governance, combined with a solid background in ETL, SAP integration, and analytics, I am confident in my ability to contribute to your company-wide BI transformation initiatives.
+
+In my current role as a Data Analyst at Bosch GmbH, I design and implement Power BI dashboards, optimized data models, and DAX-driven solutions that empower stakeholders with actionable insights. I also automated data pipelines and supported cross-functional teams in building a data-driven culture. Prior to this, I worked at Siemens Healthineers, where I contributed to connected Power BI to SAP and defined workspace governance and dataset structures. These experiences equipped me with both the technical expertise and the collaborative mindset needed to drive sustainable BI adoption.
+
+Beyond technical skills, I take pride in my ability to communicate complex topics in a clear and engaging way, enabling colleagues from non-technical backgrounds to embrace BI tools effectively.
+
+I am excited about the opportunity to contribute to your BI initiatives, particularly in shaping migration strategies, implementing scalable Power BI solutions, and driving a strong data culture. I would welcome the chance to discuss how my background and expertise align with your goals.
+
+Thank you for considering my application. I look forward to the opportunity to contribute to your team.
+
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
