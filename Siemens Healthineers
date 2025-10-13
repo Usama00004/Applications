@@ -1,0 +1,160 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Siemens Healthineers\\
+    Siemensstraße 3\\
+    91301 Forchheim\\
+    Deutschland
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Weisendorfer Str 3a \\
+    91056 Erlangen \\
+    Deutschland \\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung auf die Stelle Werkstudent Datenanalyse für Report\& Dashboard entwicklung Stellen-ID 
+477610}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Sehr geehrte Damen und Herren,
+
+mit großer Begeisterung bewerbe ich mich um die Position als Werkstudent (w/m/d) im Bereich  Datenanalyse für Report& Dashboard entwicklung  bei Siemens Healthineers, wie auf Ihrer Website ausgeschrieben.
+
+Ich studiere derzeit Global Software Development (M.Sc.) an der Hochschule Fulda und verfüge über fundierte Kenntnisse in Power BI, SQL und Datenanalytik, die ich sowohl in meinem aktuellen Praktikum bei Bosch GmbH als auch in früheren Projekten erfolgreich einsetzen konnte. Die Kombination aus Technik, Innovation und dem Ziel, die Zukunft des Gesundheitswesens aktiv mitzugestalten, motiviert mich besonders, Teil Ihres Teams zu werden.
+
+Zu meinen relevanten Erfahrungen zählen:
+
+Entwicklung und Visualisierung von Dashboards mit Power BI zur Ableitung geschäftsrelevanter Erkenntnisse
+
+Datenaufbereitung und -verarbeitung mittels SQL (Queries, Views, Stored Procedures)
+
+Erstellung automatisierter Datenpipelines mit modernen Tools wie Microsoft Fabric und Snowflake
+
+Dokumentation von Datenprozessen zur Sicherstellung der Benutzerfreundlichkeit
+
+Ich verfüge über eine ausgeprägte analytische Denkweise, arbeite strukturiert und eigenverantwortlich und bringe eine hohe Lern- und Einsatzbereitschaft mit. Der Umgang mit neuen Tools und komplexen Datenanforderungen ist mir ebenso vertraut wie die Arbeit im Team. Sehr gute Deutsch- und gute Englischkenntnisse runden mein Profil ab.
+
+Ich freue mich darauf, meine Fähigkeiten in Ihr Team einzubringen und gemeinsam an innovativen Lösungen für das Gesundheitswesen zu arbeiten.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Power BI Certified Data Analyst}
+
+\input{_header}
+
+\begin{document}
+
+\section{Zusammenfassung}  
+Detailorientierter Data Analyst mit Expertise in Python, Power BI und SQL. Erfahren in ETL-Prozessen, Datenmodellierung und Automatisierung, mit Fokus auf die Erstellung von Dashboards, skalierbaren Datenpipelines und umsetzbaren Erkenntnissen.
+
+
+\section{Fähigkeiten}  
+\textbf{Technische Fähigkeiten:} Power BI, DAX, Power Query, M-Sprache, Dataflows Gen2, Fabric Lakehouse, SQL Server, SQL-Abfragen, Views, Stored Procedures, SharePoint, Snowflake, AWS, Git, Excel\\  
+\textbf{Datenengineering-Tools:} ETL-Prozesse, Datenmodellierung, Datenvisualisierung, Snowpipe, Datenpipelines\\  
+\textbf{Soziale Kompetenzen:} Analytisches Denken, Problemlösungsfähigkeit, Anpassungsfähigkeit, Zeitmanagement\\  
+\textbf{Sprachen:} Deutsch (B1 GER), Englisch (C1 GER)
+
+\section{Bildung}  
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {voraussichtlich Sept. 2026} \\  
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 – 2020}
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikum als Data Analyst} \hfill Sep. 2025 – Heute \\  
+Bosch GmbH \hfill \textit{Reutlingen, Deutschland}  
+\begin{itemize}  
+    \item Aufbereitung und Integration von Daten aus verschiedenen internen und externen Quellen zur Sicherstellung hochwertiger und konsistenter Datensätze.  
+    \item Automatisierung von ETL-Prozessen und Datenpipelines mit Microsoft Fabric Data Pipelines.  
+    \item Erstellung von Power BI-Berichten und Bereitstellung in Power BI-Arbeitsbereichen.  
+    \item Zusammenarbeit mit funktionsübergreifenden Teams zur Förderung von Datenkompetenz und einer datengesteuerten Unternehmenskultur.  
+\end{itemize}  
+
+\textbf{Werkstudent als Data Analyst} \hfill Okt. 2024 – Aug. 2025 \\  
+Siemens Healthineers \hfill \textit{Forchheim, Deutschland}  
+\begin{itemize}  
+    \item Entwicklung und Wartung von Power BI-Berichten und Workflows.  
+    \item Umsetzung komplexer Datentransformationstechniken mit Dataflow Gen2.  
+    \item Nutzung von SQL und Snowflake für leistungsstarkes Datenmodellieren, Transformieren und Abfragen in großskaligen Pipelines.  
+\end{itemize}  
+
+\section{Projekte}  
+
+\textbf{Dashboard zur Visualisierung von Mobiltelefonverkäufen:} Dieses Dashboard bietet Einblicke in Mobiltelefonverkäufe und Bestellungen für die Jahre 2021 bis 2024. Es hilft Nutzern, Verkaufstrends, Bestellmuster und weitere wichtige Kennzahlen zu analysieren, um datenbasierte Entscheidungen und strategische Planung zu ermöglichen (verfügbar auf \href{https://github.com/Usama00004/DAX}{GitHub}).
+
+\textbf{Datenanalyse-Dashboard:} Entwicklung eines Power BI-Dashboards zur Visualisierung von Trends und Erkenntnissen aus verarbeiteten Daten mithilfe von Python (Pandas). Die Datenverarbeitungszeit wurde durch Preprocessing und Fehlerbehandlungspipelines um 20\,\% reduziert (verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+
+\textbf{Wetterdaten-ETL-Pipeline:} Dieses Projekt demonstriert eine ETL-Pipeline (Extract, Transform, Load), die Wetterdaten von einer API abruft, mit Python Pandas verarbeitet und in eine Snowflake-Tabelle lädt. Die Daten werden anschließend in Power BI visualisiert, um verwertbare Analysen zu ermöglichen. Das Projekt zeigt durchgängige Data-Engineering-Praktiken (verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\section{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Deutsch B2.2:} Zertifiziertes Niveau B2.2, welches fortgeschrittene Fähigkeiten für die professionelle Kommunikation in deutschsprachigen Umgebungen nachweist (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}).
+    
+    \item \textbf{Microsoft Power BI:} Zertifiziert in Power BI mit fundierten Kenntnissen in der Umwandlung von Daten in aussagekräftige visuelle Analysen (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}).
+    
+    \item \textbf{Deutsch B1:} Zertifiziertes Niveau B1, das mittlere Sprachkompetenz im Verstehen und Sprechen der deutschen Sprache belegt (\href{https://github.com/Usama00004/Certifications/blob/main/German%20B1%20Certificate.pdf}{Zertifikat ansehen}).
+\end{itemize}
+
+
+\end{document}
