@@ -1,0 +1,171 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    HSE24 (Home Shopping Europe GmbH)\\
+    Münchener Str. 101h \\
+    85737 Ismaning\\
+    Germany\\
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Romerstadter str \\
+    86199 Augsburg\\
+    Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Working Student Position – Data Science / Machine Learning}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Expert BI & Analytics (m/f/d) position at HSE. With a solid background in business intelligence, data engineering, and analytics, combined with hands-on experience in Power BI, DBT, Snowflake, and Git-based workflows, I am excited about the opportunity to contribute to your innovative digital teams and help shape the future of live commerce.
+
+In my current and previous roles, I have developed and managed end-to-end BI solutions, starting from raw data extraction, transformation, and loading to delivering insightful dashboards and reports that drive strategic business decisions. I have built scalable ELT pipelines using Snowflake and DBT, designed semantic models and dimensional data structures that optimize query performance, and implemented automated testing to ensure data quality and reliable BI delivery.
+
+My experience includes managing Power BI workspaces, creating deployment pipelines, and applying governance standards to maintain clean, maintainable, and high-performing BI solutions. I am proficient in Git for version control, using branching strategies and collaborative workflows to ensure efficient team collaboration and deployment consistency across BI projects.
+
+Working in agile, cross-functional teams has sharpened my communication skills and strengthened my proactive approach to solving complex data challenges. I am highly motivated to work in a dynamic environment like HSE’s, where innovation meets customer-centric digital commerce.
+
+I am available to work in the office twice a week and possess fluent English language skills for effective business communication. While my German is currently intermediate, I am actively improving it to better support team collaboration.
+
+I would welcome the opportunity to further discuss how my skills and experiences align with HSE’s vision and contribute to your continued success. Thank you for considering my application. I look forward to the possibility of joining your team.
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Power BI Consultant / Developer}
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+Business Intelligence and Data Analytics professional with expertise in \textbf{Power BI, SQL, and Python}. Experienced in \textbf{migration strategies, scalable BI architecture, data modeling, and governance}. Proven ability to design dashboards, implement security models, and enable data-driven decision-making across business units.
+
+\section{Skills}  
+\textbf{BI & Analytics:} Power BI (DAX, Power Query M),Dataflows ,Data pipelines,Deployment pipelines, SQL,KQL,Snowflake, SAP, Data Modeling, Data Governance, Workspace governance, Report lifecycle management \\  
+\textbf{Data Engineering:} Microsoft Fabric, ETL Pipelines, Event Houses,Note books,Python (Pandas, NumPy), AWS S3,  Selenium \\  
+\textbf{Other Tools:} Git, Jira,  Excel, Microsoft Azure Fundamentals \\  
+\textbf{Soft Skills:} Communication, Stakeholder Collaboration, Analytical Thinking, Governance & Compliance \\  
+\textbf{Languages:} German (B2 CEFR), English (C1 CEFR), Urdu, Hindi, Punjabi  
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Sept 2026 (expected)} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 - 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Internship Data Analyst} \hfill Sep 2025 - Present \\  
+Bosch GmbH \hfill \textit{Reutlingen, Germany}  
+\begin{itemize}  
+    \item Designed and implemented \textbf{Power BI dashboards and reports}, driving adoption of BI solutions within business units.  
+    \item Developed and optimized \textbf{data models} and applied advanced \textbf{DAX measures} for accurate reporting.  
+    \item Automated ETL workflows using Python and integrated with enterprise systems for consistent data quality.  
+    \item Collaborated with stakeholders to define requirements, ensuring dashboards aligned with strategic goals.  
+\end{itemize}  
+
+\textbf{Work Student Data Analyst} \hfill Oct 2024 - Aug 2025 \\  
+Siemens Healthineers \hfill \textit{Forcheim, Germany}  
+\begin{itemize}  
+    \item Contributed to \textbf{BI transformation projects}, including \textbf{migration planning from Tableau to Power BI}.  
+    \item Built scalable data models in \textbf{Power BI and Snowflake}, ensuring performance and maintainability.  
+    \item Connected Power BI to \textbf{SAP BW/4HANA} for consistent enterprise reporting.  
+    \item Defined \textbf{workspace governance, dataset structures, and versioning guidelines}.  
+\end{itemize}  
+
+\section{Projects}  
+
+\textbf{Power BI Migration Strategy (Portfolio Project):} Designed a migration roadmap from Tableau to Power BI, defining workspace governance, dataset architecture, and deployment models. Showcased governance practices and authorization concepts (\href{https://github.com/Usama00004/DAX}{GitHub}).  
+
+\textbf{Real Estate Data Pipeline Project:} Developed an end-to-end ETL pipeline with AWS S3, Snowpipe, and Snowflake. Connected to Power BI for enterprise-grade dashboards. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).  
+
+\textbf{Mobile Sales BI Dashboard:} Created a multi-year sales performance dashboard in Power BI, including role-based access, KPIs, and forecasting features. (\href{https://github.com/Usama00004/DAX}{GitHub}).  
+
+\section{Publications}  
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Published in MDPI Energies Journal, focusing on resource optimization and energy-efficient data-driven systems (\href{https://www.mdpi.com/1996-1073/15/7/2541}{view publication}).  
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI (PL-300):} Certified in transforming data into actionable insights (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view}).  
+    \item \textbf{German Language B2.2:} Advanced proficiency in professional communication (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view}).  
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900):} Understanding of cloud computing and Azure services.  
+    \item \textbf{Google Data Analytics:} Skilled in data analysis and visualization.  
+    \item \textbf{IBM Datastage:} Expertise in ETL processes and integration.  
+\end{itemize}
+
+\end{document}
