@@ -1,0 +1,148 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.6in, right=0.6in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Siemens Mobility\\
+    Siemenspromenade 5\\
+    91058 Erlangen\\
+    Deutschland
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Weisendorfer Str 3a \\
+    91056 Erlangen \\
+    Deutschland \\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung auf die Stelle Werkstudent Business Intelligence & Data Analytics | Stellen-ID 
+479293}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse bewerbe ich mich für die Position als Werkstudent im Bereich Business Intelligence/ Data Analytics . Der Aufgabenbereich – insbesondere die Entwicklung von aussagekräftigen Dashboards, die Sicherstellung der Datenqualität und die Optimierung digitaler Prozesse – entspricht genau meinem Profil und meiner Leidenschaft für datengetriebene Entscheidungsunterstützung.
+
+In meiner aktuellen Tätigkeit bei Bosch entwickle und pflege ich Power BI Dashboards, die dem Management Echtzeiteinblicke in operative Kennzahlen bieten. Dabei konnte ich die Performance bestehender Reports um etwa 35\% steigern, indem ich DAX-Formeln optimierte und Datenmodelle effizienter strukturierte. Zudem automatisiere ich ETL-Prozesse mit Microsoft Fabric Dataflows, was die Datenbereitstellung beschleunigt und die Datenqualität verbessert.
+
+Neben meiner praktischen Erfahrung bringe ich fundierte Kenntnisse in Power BI, SQL, Dataflows, Datenmodellierung und Business Reporting mit. Derzeit studiere ich Global Software Development (M.Sc.) an der Hochschule Fulda und verfüge über sehr gute Englischkenntnisse sowie solide Deutschkenntnisse auf B1/B2-Niveau.
+
+Ich bin überzeugt, dass ich durch meine analytische Denkweise, technische Kompetenz und meine Begeisterung für datengetriebene Prozessoptimierung einen wertvollen Beitrag zu Ihrem Team leisten kann.
+
+Ich freue mich auf die Möglichkeit, meine Fähigkeiten und Motivation in einem persönlichen Gespräch näher vorzustellen.
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+----
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Business Intelligence| Data Analyst}
+
+\input{_header}
+
+\begin{document}
+
+\section{Profil}  
+Motivierter Data Analyst mit fundierten Kenntnissen in MS-Office, Power BI sowie Datenbanken und Data Warehousing. Ich entwickle und optimiere Dashboards für Business Insights, um datengetriebene Entscheidungen zu unterstützen und Prozesse effizienter zu gestalten.
+
+
+\section{Fähigkeiten}  
+\textbf{Technische Kenntnisse:} Power BI, DAX, Power Query, M-Sprache, Dataflows Gen2, MS-Office,SQL (Abfragen, Views, Stored Procedures), Microsoft Fabric Lakehouse, SharePoint, Snowflake, Git,Datenbanken,Data Warehousing \\  
+\textbf{Analytische Fähigkeiten:} Datenmodellierung, ETL-Prozesse, Datenbereinigung, KPI-Entwicklung, Reporting-Automatisierung \\  
+\textbf{Soziale Kompetenzen:} Kommunikationsstärke, analytisches Denken, Eigeninitiative, strukturierte Arbeitsweise, Teamarbeit \\  
+\textbf{Sprachen:} Deutsch (B1 GER), Englisch (C1 GER)
+
+\section{Bildung}  
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {voraussichtlich Sept. 2026} \\  
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 – 2020}
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikum als Data Analyst} \hfill Sep. 2025 – Heute \\  
+Bosch GmbH \hfill \textit{Reutlingen, Deutschland}  
+\begin{itemize}  
+    \item Entwicklung und Pflege von interaktiven \textbf{Power BI-Dashboards} zur Unterstützung des Managements und operativer Prozesse.  
+    \item Sicherstellung der \textbf{Datenintegrität} durch Implementierung strukturierter ETL-Prozesse mit Microsoft Fabric Data Pipelines.  
+    \item Erstellung automatisierter \textbf{Berichtslösungen} zur Überwachung von Produktions- und Qualitätskennzahlen.  
+    \item Zusammenarbeit mit Fachbereichen, um neue Datenquellen zu identifizieren und datenbasierte Entscheidungen zu fördern.
+    \item Sicherstellung der \textbf{Datenintegrität} durch Implementierung strukturierter ETL-Prozesse mit Microsoft Fabric Data Pipelines, wodurch die \textbf{Datenverarbeitungszeit um 35\% reduziert} wurde.
+    \item Erstellung automatisierter \textbf{Berichtslösungen} zur Überwachung von Produktions- und Qualitätskennzahlen, was zu einer \textbf{Steigerung der Berichtsgeschwindigkeit um 40\%} führte.
+\end{itemize}  
+
+\section{Projekte}  
+
+\textbf{Mobile Sales Dashboard:} Entwicklung eines Power BI-Dashboards zur Analyse von Verkaufs- und Bestelldaten (2021–2024). Ermöglicht die Identifikation von Trends und Geschäftspotenzialen (siehe \href{https://github.com/Usama00004/DAX}{GitHub}).  
+
+\textbf{Data Analysis Dashboard:} Erstellung eines Dashboards zur Visualisierung von KPIs und Trends mit Power BI und Python. Durch optimierte Datenaufbereitung wurde die Analysegeschwindigkeit um 20\,\% verbessert (\href{https://github.com/Usama00004/SalesReport}{GitHub}).  
+
+\textbf{Wetterdaten-ETL-Pipeline:} Entwicklung einer ETL-Pipeline mit Python (Pandas) und Snowflake zur Integration von API-Daten in Power BI-Dashboards für Echtzeitanalysen (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).  
+
+\section{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI (PL-300):} Zertifiziert in der Entwicklung, Modellierung und Visualisierung von Daten in Power BI (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}).  
+    \item \textbf{Deutsch B2.2:} Fortgeschrittene Deutschkenntnisse für professionelle Kommunikation (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}).  
+    \item \textbf{Deutsch B1:} Nachweis mittlerer Sprachkompetenz (\href{https://github.com/Usama00004/Certifications/blob/main/German%20B1%20Certificate.pdf}{Zertifikat ansehen}).  
+\end{itemize}
+
+\end{document}
+
