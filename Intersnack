@@ -1,0 +1,169 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    
+    Intersnack Group GmbH & Co. KG\\
+    Klaus-Bungert-Straße 8A\\
+    40468 Düsseldorf \\
+    Germany\\
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Haupt Str 43 \\
+    44894 Bochum\\
+    Germany\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application forData Warehouse Developer (SQL/ETL) Position}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Data Warehouse Developer (SQL/ETL) position at Intersnack, as advertised. With over two years of hands-on experience in data analytics, ETL development, and business intelligence—combined with Microsoft Power BI PL-300 and Azure certifications—I am confident in my ability to contribute to your data engineering team and support end-to-end data solutions that drive business value.
+
+Currently, I am working as a Power BI Data Analyst at Siemens Healthineers, where I have led the development of data pipelines and reporting systems that integrate Snowflake, AWS S3, and SQL-based sources. I’ve designed and maintained data marts using dimensional modeling principles, improving report performance by 30\% and streamlining ETL workflows by 40\%. These solutions have directly supported strategic and operational decisions across logistics and production teams.
+
+In my previous role at Systems Limited, I built automated ETL pipelines using Python and Airflow, processed large-scale operational datasets, and collaborated with BI teams to deliver interactive dashboards using Power BI. This experience has given me a strong foundation in enterprise data integration and a keen understanding of performance optimization in high-volume environments.
+
+Your role’s focus on scalable data warehouse development, performance-tuned ETL workflows, and cross-functional collaboration aligns closely with my background. I am particularly drawn to your evaluation of modern platforms like Snowflake and Redshift, technologies I have hands-on experience with. Moreover, my academic background in software development, along with my experience in multicultural teams, prepares me well for contributing to your collaborative and international environment.
+
+I am currently based in Germany and hold a valid work and residence permit. I am fluent in English (C1) and hold B2 certifications in German.
+
+Thank you for considering my application. I would welcome the opportunity to further discuss how I can support your data warehousing initiatives. Please find my resume attached, and feel free to contact me to arrange an interview at your convenience.
+
+
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Warehouse Developer (SQL/ETL) }
+
+\input{_header}
+
+\begin{document}
+
+\section{Summary}  
+SQL/ETL-focused Data Analyst with 2+ years of experience developing scalable data pipelines, modeling enterprise data, and building efficient reporting systems. Proficient in SQL Server Management Studio (SSMS), Power BI, Python, and Snowflake, with hands-on experience designing ETL workflows and integrating data from multiple sources.
+
+\section{Skills}  
+\textbf{Data Engineering \& Warehouse Tools:} SQL, SSMS, Power Query, ETL Pipelines, Snowflake, Airflow, AWS S3 \\
+\textbf{Programming \& Analytics:} Python, MySQL, Power BI, DAX, Pandas, Selenium, Git \\
+\textbf{Data Modeling \& Optimization:} Dimensional Modeling, Data Marts, Star/Snowflake Schema, Performance Tuning \\
+\textbf{BI \& Reporting:} KPI Dashboards, Forecasting, Scenario Analysis, Cross-Platform Reporting \\
+\textbf{Soft Skills:} Problem Solving, Cross-Functional Collaboration, Structured Thinking, Adaptability \\
+\textbf{Languages:} English (Fluent - C1), German (Intermediate - B1/B2), Urdu, Punjabi, Hindi  
+
+
+\section{Education}  
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {Fulda,Germany} \\  
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {Lahore,Pakistan}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Power BI Data Analyst} \hfill Mar 2025 – Present \\  
+Siemens Healthineers \hfill \textit{Forchheim, Germany}  
+\begin{itemize}
+    \item Developed and optimized ETL workflows using SQL and Power Query to feed dashboards from Snowflake and AWS S3, improving pipeline efficiency by 40\%.
+    \item Modeled operational and logistics data into data marts; supported strategic reporting through dimensional schema design, reducing query time by 30\%.
+    \item Designed and maintained Power BI dashboards for operations and logistics; enhanced visibility into KPIs and SLA metrics, increasing stakeholder engagement by 25\%.
+    \item Collaborated with BI developers and business stakeholders to define metrics and ensure high-quality, scalable data models aligned with business needs.
+    \item Automated data refreshes and monitoring via Power BI Service, cutting manual reporting time by 60\% and ensuring near real-time data availability.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – Jul 2022 \\  
+Systems Limited \hfill \textit{Lahore, Pakistan}  
+\begin{itemize}  
+    \item Developed end-to-end data pipelines for operational and business data using Python (Selenium, Pandas) and Airflow.  
+    \item Designed real-time dashboards with Power BI, focusing on performance metrics and cost-efficiency across departments.  
+    \item Conducted root-cause analysis and A/B testing to recommend process improvements that led to reduced operational costs.  
+\end{itemize}  
+
+\section{Projects (Selected)}  
+
+\textbf{Real Estate Operations Dashboard:} Built an end-to-end ETL pipeline using Python and Snowflake to analyze real estate performance. Designed Power BI dashboards to track operational KPIs and historical trends. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})  
+
+\textbf{Amazon Sales & Forecasting Dashboard:} Analyzed sales trends and built Time Intelligence metrics (YTD, MTD, YoY) in Power BI to support demand forecasting and planning. (\href{https://github.com/Usama00004/Amazon-Sales-Analysis}{GitHub})  
+
+\textbf{Twitter Sentiment Analytics Pipeline:} Automated unstructured data collection from Twitter and applied machine learning models (Scikit-learn) to detect brand sentiment for marketing strategy. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})  
+
+\textbf{Mobile Sales Trend Analysis:} Created a multi-year Power BI dashboard with DAX metrics to visualize and optimize product sales across channels. (\href{https://github.com/Usama00004/DAX}{GitHub})  
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI PL-300} – Data Analysis and Visualization (\href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{view})  
+    \item \textbf{Google Data Analytics Certificate} – End-to-end data handling and insights (\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{view})  
+    \item \textbf{Microsoft Azure (AZ-900)} – Cloud Fundamentals (\href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{view})  
+    \item \textbf{IBM Datastage} – ETL and Data Integration Skills (\href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{view})  
+    \item \textbf{German Language – B1 and B2.2 Certified} (\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{view B2.2}, \href{https://github.com/Usama00004/Certifications/blob/main/German%20B1%20Certificate.pdf}{view B1})  
+\end{itemize}
+
+\section{Publications}  
+\textbf{Hotspot-Aware Workload Scheduling in Heterogeneous Cloud Data Centers:}  
+Published in MDPI Energies. Proposed optimization algorithms for cloud resource allocation and energy efficiency. (\href{https://www.mdpi.com/1996-1073/15/7/2541}{view})  
+
+\end{document}
