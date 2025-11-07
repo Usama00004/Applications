@@ -1,0 +1,209 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Power BI Entwickler}
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Power BI Entwickler und Datenanalyst mit praktischer Erfahrung in Data Warehousing, ETL-Pipelines und interaktiver Dashboard-Entwicklung. Nachgewiesene Fähigkeit, umsetzbare Erkenntnisse aus großen Datenmengen mithilfe von Python, SQL, Power BI und Snowflake zu gewinnen. Versiert im Aufbau automatisierter Pipelines und skalierbarer BI-Lösungen zur Unterstützung der Geschäftsanalytik und Entscheidungsfindung.
+
+\section{Kernkompetenzen}  
+\textbf{BI & Visualisierung:} Power BI, DAX, Power Query, Datenmodellierung, Drillthroughs \\   
+\textbf{Data Engineering:} Fabric data engineer, Python (Pandas, Numpy), Airflow, SQL\\  
+\textbf{Cloud & Tools:} Microsoft Fabrc, AWS S3, Git\\  
+\textbf{Soft Skills:} Problemlösung, Kommunikation, Zusammenarbeit mit Stakeholdern, Analytisches Denken \\  
+\textbf{Sprachen:} Englisch (C1), Deutsch (B2.2), Urdu, Hindi, Punjabi  
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \hfill \textit{2024 – 2026} \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore \hfill \textit{2016 – 2020}  
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Datenanalyst (Microsoft Power BI \& Microsoft Fabric)} \hfill September 2025 -- Heute \\
+
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item Entwicklung und Optimierung von interaktiven Power BI-Dashboards in Microsoft Fabric mit dynamischen Visualisierungen, DAX-Messgrößen und benutzerdefinierten KPIs zur datenbasierten Entscheidungsunterstützung.  
+    \item Aufbau leistungsstarker Datenmodelle auf Basis von Stern und Schneeflockenschemata, wodurch die Ladezeiten der Berichte um bis zu \textbf{40\%} reduziert wurden.  
+    \item Implementierung von Direct Lake und Dataflow Architekturen in Microsoft Fabric zur automatisierten, skalierbaren Datenbereitstellung.  
+    \item Integration von Snowflake und OneLake-Datenquellen in Power BI, inklusive Automatisierung der Datenaktualisierung über den Power BI Service und Fabric Data Pipelines.  
+    \item Nutzung von Power Query, DAX-Optimierungen und Performance Analyzer zur kontinuierlichen Verbesserung der Dashboard-Geschwindigkeit und -Effizienz.  
+\end{itemize}
+
+
+
+\textbf{Werkstudent – Datenanalyst (Power BI \& Microsoft Fabric)} \hfill März 2025 -- August 2025 \\  
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Entwicklung performanter Power BI-Dashboards in Microsoft Fabric mit Fokus auf Effizienz und Skalierbarkeit.  
+    \item Optimierung von DAX, Datenmodellen und Power Query zur Reduktion der Ladezeiten um bis zu 50\%.  
+    \item Implementierung von Direct Lake-Architekturen und automatisierten Dataflows zur Beschleunigung der Datenbereitstellung.  
+    \item Zusammenarbeit mit Fachabteilungen zur Umsetzung datengetriebener BI-Lösungen.  
+\end{itemize}
+
+
+\textbf{Junior Datenanalyst – Datenpipelines & Power BI} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Entwicklung und Orchestrierung von End-to-End-Datenpipelines mit Apache Airflow zur Planung und Überwachung von ETL-Workflows.  
+    \item Extraktion von Daten aus REST-APIs und Webquellen mittels Python (Requests, BeautifulSoup) zur zentralen Datenspeicherung.  
+    \item Transformation der Rohdaten in analytische Datensätze mit Python und SQL für Berichte und Visualisierung.  
+    \item Erstellung von Power BI-Dashboards mit DAX-Messgrößen, interaktiven Visuals und Filtern zur Darstellung von KPIs und Trends.  
+    \item Entwicklung semantischer Datenmodelle (Stern-/Schneeflockenschema) zur Optimierung der Power BI-Leistung.  
+    \item Automatisierung der Datenaktualisierung und Benachrichtigungsmechanismen zur Sicherstellung genauer und aktueller Berichte.  
+\end{itemize}
+
+\section{Veröffentlichungen}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[Veröffentlichung ansehen]} \\
+Vorgeschlagene energieoptimierte Algorithmen zur Ressourcenplatzierung in heterogenen Cloud-Umgebungen.
+
+\section{Projekte}  
+
+\textbf{1. Wetterdaten-ETL-Pipeline}  
+\begin{itemize}
+    \item Aufbau einer ETL-Pipeline zur Extraktion von Wetterdaten über APIs, Transformation mittels Python (Pandas), und Laden in Snowflake.  
+    \item Verbindung mit Power BI zur Visualisierung von Temperaturverläufen und Umweltmetriken.  
+    \item Stärkung der Datenaktualität durch stündliche Aktualisierung über Snowpipe.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{2. Mobile Verkaufsdashboard (Power BI)}  
+\begin{itemize}
+    \item Entwicklung eines Power BI-Dashboards zur Visualisierung von Verkaufs- und Bestelltrends (2021–2024).  
+    \item DAX-Anwendung zur Berechnung von KPIs wie jährliches Wachstum, Verkäufe nach Region und Leistung nach Produktkategorie.  
+    \item Reduktion der Entscheidungszeit um 30\% durch gezielte Darstellung relevanter Kennzahlen.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}  
+\end{itemize}
+
+\textbf{3. Automatisiertes Analyse-Dashboard (Sales Report)}  
+\begin{itemize}
+    \item Erstellung einer Datenvorverarbeitungspipeline mit Python zur Bereinigung und Fehlerbehandlung, integriert in Power BI.  
+    \item Reduktion der Datenverarbeitungszeit um 20\% und Steigerung der Datenqualität.  
+    \item Verwendung erweiterter Visualisierungen und Lesezeichen in Power BI für eine interaktive Nutzererfahrung.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/SalesReport}{SalesReport}  
+\end{itemize}
+
+\section{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}  
+    \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen}  
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen}  
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Obungi GmbH \\
+    Raboisen 8, \\
+    20095 Hamburg\\
+    Deutschland
+ 
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderich str  47A \\
+    60594 Frankfurt\\
+    Germany\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung für die Position
+Power BI Consultant (m/w/d)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+ich habe meinen Masterstudiengang Global Software Development an der Hochschule Fulda erfolgreich absolviert. Neben meinem Studium konnte ich als Praktikant Datenanalyst (Power BI & Microsoft Fabric) bei Bosch GmbH sowie als Werkstudent Datenanalyst bei Siemens Healthineers fundierte Praxiserfahrung in der Entwicklung, Optimierung und Automatisierung datengetriebener Prozesse sammeln.
+
+Während meiner Zeit bei Bosch entwickelte ich Power BI-Dashboards mit optimierten DAX-Messgrößen und dynamischen Visualisierungen, wodurch die Ladezeiten signifikant verkürzt wurden. Durch den Einsatz von Microsoft Fabric und automatisierten Pipelines konnte die Datenbereitstellung nachhaltig verbessert werden.
+
+Bei Siemens Healthineers unterstützte ich die Weiterentwicklung von Power BI-Reports und Microsoft-Fabric-Datenstrukturen. Durch die Optimierung komplexer Datenmodelle, die Implementierung von Direct Lake-Architekturen und den Aufbau automatisierter Dataflows konnte ich die Performance und Aktualität der Dashboards deutlich steigern. Zudem übersetze ich Fachanforderungen in skalierbare, performante BI-Lösungen.
+
+Ich bin Microsoft-zertifiziert in Power BI und Microsoft Fabric und verfüge über ein B2-Zertifikat in Deutsch. Meine analytische Denkweise, strukturierte Arbeitsweise und hohe Lernbereitschaft ermöglichen es mir, komplexe Datenanforderungen in effiziente und anwenderfreundliche BI-Lösungen umzusetzen. Darüber hinaus arbeite ich gerne im Team und schätze den offenen, interdisziplinären Austausch, um gemeinsam innovative Lösungen zu entwickeln.
+
+Ich freue mich darauf, meine Erfahrung und Begeisterung für Business Intelligence, Power BI und Microsoft Fabric in Ihr Team einzubringen und gemeinsam an zukunftsorientierten BI-Lösungen zu arbeiten. Über die Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+Mit freundlichen Grüßen
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
