@@ -1,0 +1,221 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Bosch\\
+    Robert-Bosch-Platz 1 \\
+    70839 Gerlingen\\
+    Germany\\
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Heusteigstrasse 66 \\
+    70180 Stuttgart\\
+    Germany\\
+
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Junior Managers Program - Business Intelligence und Analytics}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Business Intelligence and Analytics JMP position at Bosch. The opportunity to contribute to the digitalization of business and product areas while generating actionable insights from complex datasets strongly aligns with my professional skills and career aspirations.
+
+I have completed Master’s in Global Software Development at Hochschule Fulda, where I have gained hands-on experience in Power BI, Microsoft Fabric, Python, SQL, and data modeling. During my working student and internship roles at Bosch eBike Systems and Siemens Healthineers, I developed interactive dashboards, automated ETL pipelines, and performance-optimized data models, improving reporting efficiency and operational decision-making by up to 45\%. These experiences have strengthened my ability to transform large volumes of data into meaningful insights and drive business process improvements.
+
+I am particularly drawn to Bosch’s rotational trainee program, which offers exposure to multiple business units, cross-functional collaboration, and international experience. The program’s focus on entrepreneurial thinking, leadership development, and data-driven innovation resonates strongly with my professional values. I thrive in international, collaborative environments and am motivated by opportunities to inspire others, solve complex problems, and create measurable impact.
+
+With my combination of technical expertise, analytical skills, and international exposure, I am confident in my ability to support Bosch’s specialist departments in delivering statistically sound, model-based analyses and developing innovative micro-solutions using machine learning and modern BI tools. I am enthusiastic about contributing to Bosch’s mission of improving quality of life through meaningful technologies.
+
+Thank you for considering my application. I would welcome the opportunity to further discuss how my skills and experience align with Bosch’s vision and the JMP program.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.3 in,top=0.3in,right=0.3 in,bottom=0.3in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{Stuttgart, Baden Württemberg, Germany}
+\address{usamatahir00004@gmail.com}
+\address{+49 17684973934} 
+
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+Passionate and entrepreneurial data professional dedicated to driving the digitalization of business and product areas through data analytics, data science, and machine learning. Skilled in transforming large and complex datasets into valuable insights using Python, SQL, and modern BI tools. Eager to contribute to an international and collaborative environment that values courage, openness, tolerance, and mindfulness, while continuously inspiring others through data-driven innovation.
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Master of Global Software Development}, Hochschule Fulda \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHNICAL STRENGTHS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills}
+
+\textbf{Business Intelligence and Analytics:} Power BI, DAX, Power Query, Data Modeling, Drillthroughs, Business administration \\  
+\textbf{Data Warehousing:} Snowflake, Star/Snowflake Schema, Snowpipe, Dimensional Modeling \\  
+\textbf{ETL & Pipelines:} Python (Pandas, BeautifulSoup, Selenium), Airflow, SQL, Data Integration, Automation \\  
+\textbf{programming languages & Cloud Services:} Python, Pyspark, DAX, M language, AWS S3, Git\\  
+\textbf{Soft Skills:} Problem Solving, Communication, Stakeholder Collaboration, Analytical Thinking \\  
+\textbf{Languages:} English (C1), German (B2), Urdu, Hindi, Punjabi 
+
+\end{rSection}
+
+
+
+ 
+
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{EXPERIENCE} 
+
+
+\textbf{Internship – Data Analyst (Business Intelligence und Analytics)} \hfill Mar 2025 – Aug 2025 \\ \textit{Bosch eBike Systems, Reutlingen, Germany} 
+
+\begin{itemize}
+\item Built interactive Power BI dashboards with advanced DAX logic, custom KPIs, and drill-through capabilities, increasing data-driven decision-making efficiency across departments by 40\%.
+\item Modeled and optimized large datasets using Star and Snowflake schemas in Microsoft Fabric, improving query performance and dashboard responsiveness by 35\%.
+\item Automated data ingestion and transformation workflows using Microsoft Power Platform (Power Automate, Power Query) and SQL procedures, reducing manual reporting time by 45\%.
+\item Partnered with cross-functional teams to translate business needs into actionable analytical models and visually compelling insights for strategic planning.
+
+\end{itemize}
+
+\textbf{Working Student – Data Analyst (Power BI & DWH)} \hfill Mar 2025 – Aug 2025 \\ \textit{Siemens Healthineers, Forchheim, Germany}
+
+\begin{itemize}
+\item Developed enterprise-grade Power BI reports with parameterized visuals, row-level security, and KPI benchmarking, improving operational and financial monitoring efficiency by 20\%.
+\item Designed and implemented optimized data models and DAX measures within Microsoft Fabric, enhancing report performance and reducing data loading time.
+\item Integrated Power BI with Microsoft Fabric and SQL-based data warehouses using Power Query for automated data transformation and cleansing, cutting manual data preparation effort.
+\item Collaborated with data engineers and product owners to define metrics and enforce data quality standards, increasing KPI accuracy 
+\end{itemize}
+
+\end{rSection}
+\newpage
+%----------------------------------------------------------------------------------------
+%	PROJECTS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Data Analysis Dashboard:} Developed a Power BI dashboard to visualize trends and insights from cleaned data processed using Python (Pandas). Ensured data accuracy with preprocessing pipelines and deployed the dashboard to the cloud for real-time analytics. Enhanced reliability through error handling, reducing data processing time by 20\% 
+(available on \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+
+
+\item \textbf{Real-Time Data Streaming:} Designed and implemented a real-time data streaming pipeline to process and analyze high-velocity data using Apache Kafka and Apache Flink. Data was ingested, transformed in real-time, and stored in PostgreSQL for further analysis, enabling low-latency insights and efficient data handling for large-scale systems.
+(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\item \textbf{Sentiment Analysis:} Developed a data pipeline integrating web scraping and sentiment analysis. Automated data extraction with BeautifulSoup and Selenium, reducing manual effort by 40\%. Cleaned and validated data with Pandas, stored in SQL, and deployed Scikit-learn models for real-time insights, improving processing efficiency by 25\% 
+(available on \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+
+
+\begin{rSection}{Certifications} 
+
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{View Certificate}  
+    
+    \item \textbf{German Language B2 \& B1} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}
+
+    \item \textbf{Google Data Analytics} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{View Certificate}  
+
+\end{itemize}
+
+\end{rSection}
+
+\begin{rSection}{Publication}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers (Publication):} Researched and developed a novel approach for hotspot-aware workload scheduling and server placement in heterogeneous cloud data centers. Published in MDPI Energies Journal, the paper proposes innovative algorithms and methodologies to optimize resource utilization and minimize energy consumption in cloud environments 
+(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	LINKS & PORTFOLIO
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Links \& Portfolio}
+
+\begin{itemize}
+    \item \textbf{GitHub:} \href{https://github.com/Usama00004}{Link to github profile}  
+    \item \textbf{Portfolio Website:} \href{https://usama00004.github.io/portfolio/}{Link to personal portfolio}  
+    \item \textbf{LinkedIn:} \href{https://www.linkedin.com/in/usama-tahir-00004/}{Link to linked in profile}  
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
