@@ -1,0 +1,215 @@
+
+
+\documentclass{resume} % Custom resume class
+\usepackage[left=0.4in, top=0.4in, right=0.4in, bottom=0.4in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\
+\href{https://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%   ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZIEL}
+
+Ergebnisorientierter Data Analyst mit einem starken Hintergrund in Datenmodellierung, BI-Entwicklung und Automatisierung von ETL-Prozessen. Versiert in Power BI, Python und SQL mit einem ausgeprägten Verständnis für Geschäftsprozesse und Buchhaltung. Suche eine Position im Bereich Business Intelligence / Data Analytics, um datengetriebene Entscheidungen zu fördern und nachhaltige Lösungen für Kund:innen zu entwickeln.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+{\bf Master in Global Software Development}, Hochschule Fulda\\
+{\bf Bachelor in Informatik}, COMSATS University Lahore 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+
+\textbf{BI \& Datenanalyse:} Power BI (DAX, Datenmodellierung, Dashboards), Excel (Pivot, Power Query), SQL, ETL-Prozesse \\
+\textbf{Programmierung \& Tools:} Python (Pandas, NumPy, BeautifulSoup, Selenium), Git, Snowflake, Apache Kafka \\
+\textbf{DWH \& Modellierung:} Star-/Snowflake-Schema, Datenintegration, Datenqualitätssicherung \\
+\textbf{Soft Skills:} Kundenorientierte Kommunikation, analytisches Denken, Eigenverantwortung, Teamarbeit \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Hindi, Punjabi 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Data Analyst Praktikant} \hfill Okt 2025 -- laufend \\
+Bosch \hfill \textit{Reutlingen, Deutschland}
+\begin{itemize}
+    \item Entwickelte und optimierte Power BI-Dashboards für Finanz- und Vertriebsberichte, wodurch die Transparenz betrieblicher KPIs um 35\% verbessert wurde.
+    \item Automatisierte ETL-Prozesse mit Python (Pandas) und SQL zur Integration mehrerer Datenquellen, was den manuellen Aufwand um 30\% reduzierte.
+    \item Modellierte Daten im Star- und Snowflake-Schema für effiziente DWH-Architekturen und schnellere Abfragen (bis zu 25\% Performance-Steigerung).
+    \item Unterstützte Planungs- und Forecasting-Prozesse durch präzise Datenaufbereitung, Trendanalysen und KPI-Berechnungen in Power BI.
+
+    \item Verbessert die Berichtsautomatisierung und -aktualisierung, was die Reporting-Zeit um 20\% verkürzte.
+\end{itemize}
+
+\textbf{Power BI \& Data-Warehousing Werkstudent} \hfill März 2025 -- Sep 2025 \\
+Siemens Healthineers \hfill \textit{Forchheim, Deutschland}
+\begin{itemize}
+    \item Implementierte ETL-Strecken mit Python (Pandas) zur Datenübertragung in Snowflake und erhöhte dadurch die Datenkonsistenz um 40\%.
+    \item Erstellte Power BI-Berichte und DAX-Maßzahlen zur Überwachung von KPIs (Umsatz, Kosten, Budgetabweichungen) in Echtzeit.
+    \item Sicherstellung von Datenqualität und -validierung über verschiedene Quellsysteme hinweg, wodurch Datenfehler um 25\% reduziert wurden.
+    \item Unterstützte Fachbereiche mit Ad-hoc-Analysen und lieferte datengestützte Handlungsempfehlungen für Entscheidungsprozesse.
+
+\end{itemize}
+
+\end{rSection}
+
+\newpage
+%----------------------------------------------------------------------------------------
+%   PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Sales Performance Dashboard (Power BI):} Entwickelte ein BI-Dashboard zur Analyse von Umsatz- und Kostenkennzahlen. Modellierte Daten in einem Star-Schema, integrierte Excel- und SQL-Datenquellen und verbesserte die Berichtseffizienz um 25\%. 
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{AquaMetrics – Wastewater Data Analysis:} Erstellte ein Python-basiertes ETL-System zur Bereinigung und Analyse von Umweltdaten, visualisiert in Power BI für nachhaltige Entscheidungsprozesse.
+(\href{https://github.com/Usama00004/AquaMetrics}{GitHub})
+
+\item \textbf{Twitter Sentiment Analysis:} Entwickelte eine automatisierte Datenpipeline (Python, Pandas, Scikit-learn) für Textanalyse und Echtzeit-Stimmungsbewertung.
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} -- MDPI Energies Journal \\
+Entwicklung eines Algorithmus zur Optimierung der Ressourcennutzung und Energieeffizienz in Cloud-Systemen. 
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	LINKS & PORTFOLIO
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Links \& Portfolio}
+
+\begin{itemize}
+    \item \textbf{GitHub:} \href{https://github.com/Usama00004}{link zum github profil}  
+    \item \textbf{Portfolio-Website:} \href{https://usama00004.github.io/portfolio/}{link zur persönlichen portfolio website}  
+    \item \textbf{LinkedIn:} \href{https://www.linkedin.com/in/usama-tahir-00004/}{link zum linkedIn profil}  
+\end{itemize}
+
+\end{rSection}
+
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.4in, right=0.4in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Econio GmbH \\
+    Arnsburger Str. 76\\
+    60385 Frankfurt\\
+    Hessen Germany
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderich str  47 \\
+    60594 Frankfurt\\
+    Hessen Germany\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als BI Consultant}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.1cm}
+mit großem Interesse bewerbe ich mich für die Position als BI Consultant bei econio. Die Chance, datengetriebene Lösungen im Finanzumfeld zu entwickeln und aktiv an der Zukunft Ihres Unternehmens mitzuwirken, spricht mich besonders an.
+
+Ich habe meinen Master in Global Software Development an der Hochschule Fulda abgeschlossen und sammelte Praxiserfahrung als Data Analyst (Power BI & Microsoft Fabric) bei Bosch GmbH sowie als Werkstudent bei Siemens Healthineers. Dort entwickelte und optimierte ich Power BI-Dashboards, DAX-Messgrößen und Dataflows, wodurch die Performance und Datenaktualität signifikant verbessert wurden.
+
+Meine Stärken liegen in der Datenmodellierung, Automatisierung von BI-Prozessen und kundenorientierten Analyse. Ich bin Microsoft-zertifiziert in Power BI und Microsoft Fabric und verfüge über ein B2-Zertifikat in Deutsch. Neben meiner technischen Expertise zeichnen mich Teamfähigkeit, Kommunikationsstärke und eine lösungsorientierte Denkweise aus.
+
+Ich freue mich darauf, meine Kenntnisse und Begeisterung für Business Intelligence in Ihr Team einzubringen und zur Weiterentwicklung von econio beizutragen. Über eine Einladung zum persönlichen Gespräch freue ich mich sehr.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
