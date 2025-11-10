@@ -1,0 +1,231 @@
+
+Data Engineering (f/m/d) - Manufacturing Analytics
+
+
+
+
+\documentclass{resume}
+\usepackage[left=0.4in, top=0.4in, right=0.4in, bottom=0.4in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\
+\href{https://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%   ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZIEL}
+
+Datenanalyst mit starkem technischem Hintergrund in Informatik, ETL-Entwicklung und Datenvisualisierung. Erfahrung in der Erfassung, Bereinigung und Modellierung von Produktions- und Geschäftskennzahlen zur Prozessoptimierung. Versiert in Power BI, SQL und Python mit Fokus auf die Analyse von Fertigungsdaten (z. B. OEE, Ausschussquote, NVH-Daten) zur Effizienzsteigerung und Qualitätsverbesserung. Suche eine Position, in der datengetriebene Entscheidungen und Prozessverbesserungen im Mittelpunkt stehen.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+{\bf Master in Global Software Development}, Hochschule Fulda\\
+{\bf Bachelor in Informatik}, COMSATS University Lahore 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+
+\textbf{Datenanalyse \& BI:} Power BI (DAX, Datenmodellierung, KPI-Berichte), SQL (Abfrageoptimierung, Joins, Stored Procedures), Excel (Power Query, Pivot) \\
+\textbf{ETL \& Automatisierung:} Python (Pandas, NumPy, API-Integration, Automatisierung von Datenpipelines) \\
+\textbf{Fertigung \& KPI-Verständnis:} OEE, Ausschussquote, NVH-Datenanalyse, Prozesskennzahlen, Produktionsdatenaufbereitung \\
+\textbf{DWH \& Modellierung:} Star-/Snowflake-Schema, Datenqualitätssicherung, Integration mehrerer Datenquellen \\
+\textbf{Soft Skills:} Analytisches Denken, Kommunikation über Fachbereiche hinweg, Teamarbeit, Eigenverantwortung \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Hindi, Punjabi 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Data Analyst Praktikant} \hfill Okt 2025 -- laufend \\
+Bosch \hfill \textit{Reutlingen, Deutschland}
+\begin{itemize}
+    \item Erfassen, Bereinigen und Strukturieren von Produktions- und Sensordaten zur Erstellung aussagekräftiger Reports und Prozessanalysen.
+    \item Entwicklung von Power BI-Dashboards zur Überwachung von Fertigungskennzahlen (z. B. OEE, Ausschussquote, Stillstandszeiten).
+    \item Optimierung komplexer SQL-Abfragen und ETL-Prozesse, wodurch die Datenverarbeitung um 35\% und die Dashboard-Performance um 30\% verbessert wurden.
+    \item Zusammenarbeit mit Produktions- und Qualitäts-Teams zur Definition von Datenanforderungen und Ableitung datenbasierter Handlungsempfehlungen.
+    \item Automatisierung von Datenpipelines mit Python (Pandas, API-Anbindung), wodurch die manuelle Datenaufbereitung um 40\% reduziert wurde.
+\end{itemize}
+
+\textbf{Power BI \& Data-Warehousing Werkstudent} \hfill März 2025 -- Sep 2025 \\
+Siemens Healthineers \hfill \textit{Forchheim, Deutschland}
+\begin{itemize}
+    \item Aufbau und Pflege von Power BI-Berichten zur Überwachung von Produktions- und Prozess-KPIs.
+    \item Optimierte SQL-Abfragen und ETL-Pipelines, wodurch die Datenextraktion und Ladezeiten um 25\% verkürzt wurden.
+    \item Entwicklung von DAX-Maßzahlen zur Analyse von Qualitäts- und Leistungsdaten.
+    \item Enge Zusammenarbeit mit Engineering- und Controlling-Teams zur Verbesserung der Datenqualität und Entscheidungsgrundlagen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{NVH Analysis Project:} Sammlung, Transformation und Analyse von NVH-Daten (Noise, Vibration, Harshness) aus E-Bike-Motoren. Automatisierte ETL-Pipeline mit Python zur Bereinigung und Aggregation der Daten, anschließend Visualisierung der Ergebnisse in Power BI-Dashboards. Verbesserte Datenverarbeitungsgeschwindigkeit um 40\% und Reporting-Performance um 30\%. 
+(\href{https://github.com/Usama00004/NVH-Analysis-Report}{GitHub})
+
+\item \textbf{Production Performance Dashboard (Power BI):} Erstellung eines Dashboards zur Analyse von Produktions-KPIs (OEE, Ausschussquote, Auslastung). Optimierte SQL-Abfragen für schnellere Datenverarbeitung und integrierte Python-Skripte für automatisierte Datenaktualisierung. 
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{AquaMetrics Wastewater Data Analysis:} Python-basiertes ETL-System zur Bereinigung und Analyse von Umwelt- und Sensordaten. Darstellung von Prozesskennzahlen in Power BI zur Unterstützung nachhaltiger Entscheidungen. 
+(\href{https://github.com/Usama00004/AquaMetrics}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} -- MDPI Energies Journal \\
+Entwicklung eines Algorithmus zur Optimierung der Ressourcennutzung und Energieeffizienz in Cloud-Systemen. 
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	LINKS & PORTFOLIO
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Links \& Portfolio}
+
+\begin{itemize}
+    \item \textbf{GitHub:} \href{https://github.com/Usama00004}{github.com/Usama00004}  
+    \item \textbf{Portfolio-Website:} \href{https://usama00004.github.io/portfolio/}{usama00004.github.io/portfolio}  
+    \item \textbf{LinkedIn:} \href{https://www.linkedin.com/in/usama-tahir-00004/}{linkedin.com/in/usama-tahir-00004}  
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.4in, right=0.4in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Siemens Energy \\
+    Huttenstr 12\\
+    10553 Berlin\\
+    Germany
+
+
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Aristotelessteig 2 \\
+    10318 Berlin \\
+    Germany
+
+
+
+    
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Engineering (f/m/d) - Manufacturing Analytics}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.1cm}
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich die Stellenausschreibung für die Position Data Engineering (f/m/d) - Manufacturing Analytics bei Siemens Energy gelesen. Die Möglichkeit, durch datengetriebene Analysen direkt zur Optimierung von Produktionsprozessen und zur Steigerung der Effizienz beizutragen, spricht mich besonders an. Mit meinem Hintergrund in Data Analytics, SQL, Power BI und Python bringe ich die erforderlichen Kenntnisse mit, um Ihre Fertigungs und Produktionsprozesse nachhaltig zu verbessern.
+
+Während meiner Tätigkeit bei Bosch und Siemens Healthineers habe ich umfangreiche Erfahrung in der Erfassung, Bereinigung und Analyse komplexer Produktions- und Sensordaten gesammelt. Ich habe ETL-Pipelines mit Python automatisiert, SQL-Abfragen optimiert und Power BI-Dashboards entwickelt, die Fertigungs-KPIs wie OEE, Ausschussquote und Auslastung visualisieren. Durch die Optimierung von Datenpipelines konnte ich die Datenverarbeitungszeit um bis zu 40 \% reduzieren und die Reporting-Performance um 30\% steigern. Darüber hinaus habe ich eng mit Produktions-, Qualitäts- und Engineering-Teams zusammengearbeitet, um datenbasierte Handlungsempfehlungen abzuleiten und Entscheidungsprozesse zu unterstützen.
+
+Besonders hervorheben möchte ich mein NVH-Analyseprojekt, in dem ich Daten von E-Bike-Motoren gesammelt, transformiert und analysiert habe, um sie in Power BI-Dashboards zur Entscheidungsunterstützung zu visualisieren. Dieses Projekt zeigt meine Fähigkeit, komplexe technische Daten zu strukturieren und für operative Optimierungen nutzbar zu machen eine Kernanforderung für die Arbeit in Ihrem Gas Services-Team.
+
+Ich bin überzeugt, dass ich durch meine analytischen Fähigkeiten, meine Erfahrung in der Datenmodellierung sowie meine Begeisterung für die Energiewende einen wertvollen Beitrag zu Siemens Energy leisten kann. Die Verbindung von innovativer Datenanalyse mit der Optimierung von Fertigungsprozessen und der Dekarbonisierung der Energieerzeugung motiviert mich besonders.
+
+Über die Möglichkeit, meine Erfahrungen und Ideen in einem persönlichen Gespräch vorzustellen, würde ich mich sehr freuen. 
+
+Vielen Dank für Ihre Zeit und Ihr Interesse.
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
