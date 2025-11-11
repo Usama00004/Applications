@@ -1,0 +1,134 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[left=0.4in, top=0.4in, right=0.4in, bottom=0.4in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+\titleformat{\section}
+  {\large\bfseries\color{black}}
+  {}
+  {0pt}
+  {}
+
+\setlist[itemize]{noitemsep, topsep=0pt, leftmargin=1.5em}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \textbf{Usama Tahir}}\\[4pt]
+    +49 17684973934 \,|\, Deutschland\\
+    \href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com} \,|\, 
+    \href{https://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \,|\, 
+    \href{https://github.com/Usama00004}{GitHub}
+\end{center}
+
+\vspace{6pt}
+
+%----------------------------------------------------------------------------------------
+%   ZIEL
+%----------------------------------------------------------------------------------------
+
+\section*{Ziel}
+
+Junior BI Consultant mit solidem Hintergrund in Datenanalyse, ETL-Prozessen und Business Intelligence. Erfahrung in Power BI, SQL und Datenmodellierung mit Schwerpunkt auf der Entwicklung und Optimierung von BI-Reports und Controlling-Werkzeugen. Ich suche eine Position, in der ich meine analytischen und technischen Fähigkeiten zur Weiterentwicklung moderner BI-Lösungen in Kundenprojekten einbringen kann.
+
+%----------------------------------------------------------------------------------------
+%   AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\section*{Ausbildung}
+
+\textbf{Master in Global Software Development}, Hochschule Fulda \hfill vsl. März 2026\\
+\textbf{Bachelor in Informatik}, COMSATS University Lahore \hfill 2020
+
+%----------------------------------------------------------------------------------------
+%   FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\section*{Fähigkeiten}
+
+\textbf{Business Intelligence \& Controlling:} Power BI (DAX, Datenmodellierung, KPI-Berichte), Microsoft BI Stack, OLAP-Kenntnisse, KPI-Design\\
+\textbf{Datenbanken \& ETL:} SQL (MS SQL Server, MySQL, SQLite), Python (Pandas, API-Integration), Datenmodellierung (Star-/Snowflake-Schema)\\
+\textbf{Beratung \& Analyse:} Anforderungsaufnahme, Dashboard-Design, Datenqualitätssicherung, Reporting-Automatisierung\\
+\textbf{Soft Skills:} Kommunikationsstark, analytisches Denken, Kundenorientierung, Teamarbeit, eigenständige Problemlösung\\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Hindi, Punjabi
+
+%----------------------------------------------------------------------------------------
+%   BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\section*{Berufserfahrung}
+
+
+
+\textbf{Data Analyst Praktikant} \hfill Sep 2025 -- laufend\\
+\textit{Bosch, Reutlingen, Deutschland}
+\begin{itemize}
+    \item Erstellung von Power BI-Dashboards zur Auswertung von Produktions- und Qualitätsdaten (OEE, Ausschussquote).
+    \item Automatisierung von ETL-Prozessen mit Python und SQL, wodurch die manuelle Datenaufbereitung um 40\% reduziert wurde.
+    \item Zusammenarbeit mit interdisziplinären Teams zur Definition von Datenanforderungen.
+\end{itemize}
+
+
+\textbf{Werkstudent Power BI \& Data-Warehousing} \hfill März 2025 -- Sep 2025\\
+\textit{Siemens Healthineers, Forchheim, Deutschland}
+\begin{itemize}
+    \item Unterstützung bei der Konzeption und Entwicklung von BI-Dashboards zur Überwachung von Produktions- und Prozess-KPIs.
+    \item Implementierung von DAX-Maßzahlen und Datenmodellen zur Leistungs- und Qualitätsanalyse.
+    \item Optimierung von SQL-Abfragen und ETL-Prozessen zur Verbesserung der Datenqualität und Ladezeiten .
+    \item Zusammenarbeit mit Engineering- und Controlling-Teams zur Ableitung datenbasierter Handlungsempfehlungen.
+\end{itemize}
+
+
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textit{Systems Limited, Lahore, Pakistan}
+\begin{itemize}
+    \item Entwicklung und Automatisierung von Datenpipelines mit Python und SQL zur Datenintegration.
+    \item Erstellung von BI-Berichten mit Power BI zur Unterstützung des Controllings und der Geschäftssteuerung.
+    \item Verbesserung der Datenverfügbarkeit um 30\% und Reduktion der Verarbeitungszeit um 20\%.
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%   PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\newpage
+
+\section*{Projekte}
+
+\textbf{Production Performance Dashboard (Power BI):} Entwicklung eines BI-Dashboards zur Analyse von Produktions-KPIs (OEE, Ausschussquote). Optimierte SQL-Abfragen für schnellere Datenverarbeitung und integrierte Python-Skripte zur Datenaktualisierung.\\
+\href{https://github.com/Usama00004/SalesReport}{GitHub: Production Dashboard}
+
+\vspace{4pt}
+\textbf{AquaMetrics – Wastewater Data Analysis:} Python-basierte ETL-Pipeline zur Analyse von Umwelt- und Sensordaten. Integration in Power BI zur Visualisierung von Prozess- und Nachhaltigkeitskennzahlen.\\
+\href{https://github.com/Usama00004/AquaMetrics}{GitHub: AquaMetrics}
+
+%----------------------------------------------------------------------------------------
+%   VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\section*{Veröffentlichungen}
+
+\textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} -- MDPI Energies Journal\\
+Entwicklung eines Algorithmus zur Optimierung der Ressourcennutzung und Energieeffizienz in Cloud-Systemen.\\
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}
+
+%----------------------------------------------------------------------------------------
+%   LINKS & PORTFOLIO
+%----------------------------------------------------------------------------------------
+
+\section*{Links \& Portfolio}
+
+\begin{itemize}
+    \item \textbf{GitHub:} \href{https://github.com/Usama00004}{github.com/Usama00004}
+    \item \textbf{Portfolio-Website:} \href{https://usama00004.github.io/portfolio/}{usama00004.github.io/portfolio}
+    \item \textbf{LinkedIn:} \href{https://www.linkedin.com/in/usama-tahir-00004/}{linkedin.com/in/usama-tahir-00004}
+\end{itemize}
+
+\end{document}
