@@ -1,0 +1,211 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+   TK Elevator GmbH\\
+   E-Plus-Straße 1 \\
+   40472 Düsseldorf\\
+   Germany\\
+
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Haupt Str 43 \\
+    44894 Bochum\\
+    NRW Germany\\
+
+
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Working Student Data Analytics | Job number: DE\_ET-EG01247}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+Dear Hiring Team,
+
+I am writing to express my interest in the Working Student Data Analytics (Azure Data Platform) position at TK Elevator. Currently pursuing a Master’s in Global Software Development at Hochschule Fulda, I have gained practical experience in data engineering, analytics, and visualization through my work at Bosch and previous industry experience in Pakistan. I am eager to apply these skills in contributing to TK Elevator’s digital transformation initiatives.
+
+In my current role as a Working Student in Data Analytics at Bosch, I support the development of data pipelines in Azure Data Factory and Databricks, implement data validation logic in Python (Pandas), and build Power BI dashboards for internal reporting. This experience has strengthened my ability to collaborate in cross-functional teams, ensuring data accuracy and reliable insights for decision-making.
+
+Prior to Bosch, I worked as a Junior Data Analyst at Systems Limited, where I automated ETL workflows using Python and SQL and designed Power BI dashboards for business reporting. These experiences gave me a solid foundation in data modeling, transformation, and visualization, as well as an understanding of end-to-end data lifecycles.
+
+I am particularly drawn to TK Elevator’s focus on global Azure-based data platforms and IoT-driven solutions. The opportunity to work alongside experienced data architects while contributing to data governance, pipeline optimization, and analytical solutions aligns perfectly with my academic and professional aspirations.
+
+I am fluent in English and hold B1-level German certification, and I thrive in multicultural, data-driven environments. I would welcome the opportunity to discuss how my skills can contribute to TK Elevator’s mission to “Move Beyond.”
+
+Thank you for considering my application. I look forward to the possibility of contributing to your Data Platform team.
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+===
+
+\documentclass{resume}
+
+\usepackage[left=0.2 in,top=0.2in,right=0.2 in,bottom=0.2in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 17684973934} 
+\address{Bochum, NRW, Germany}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+
+Motivated Master's student in \textbf{Global Software Development} with hands-on experience in Python, SQL, and Power BI. Passionate about \textbf{data engineering, analytics, and Azure-based platforms}, seeking a Working Student position at TK Elevator to contribute to the development of scalable data pipelines, analytics dashboards, and digital transformation initiatives.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Master of Global Software Development}, Hochschule Fulda, Germany \hfill {Expected March 2026}\\
+{\bf Bachelor of Computer Science}, COMSATS University Lahore, Pakistan \hfill {2016 - 2020}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHNICAL STRENGTHS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills}
+
+\textbf{Data \& Analytics:} Python (Pandas, NumPy), SQL, Power BI, Data Modeling, ETL, Data Cleaning \\
+\textbf{Data Engineering:} Azure Data Factory, Databricks (basic), Snowflake, Data Lake Concepts \\
+\textbf{Tools:} Git, Jira, Excel, VS Code, Jupyter Notebook \\
+\textbf{Soft Skills:} Analytical Thinking, Communication, Team Collaboration, Proactiveness \\
+\textbf{Languages:} English (C1 CEFR), German (B1 CEFR), Urdu, Hindi
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Internship – Data Analytics} \hfill Sep 2025 – Present\\
+\textit{Bosch GmbH, Germany}
+\begin{itemize}
+    \item Contributed to the development and monitoring of data pipelines using \textbf{Azure Data Factory} and \textbf{Databricks}.
+    \item Assisted in building and maintaining \textbf{Power BI dashboards} for KPI visualization and business insights.
+    \item Supported data validation, cleaning, and transformation processes using \textbf{Python (Pandas)} and \textbf{SQL}.
+    \item Collaborated with cross-functional teams to document data lineage and improve data governance practices.
+    \item Automated recurring reporting tasks, improving data accessibility and reporting efficiency by 30\%.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 – July 2022\\
+\textit{Systems Limited, Lahore, Pakistan}
+\begin{itemize}
+    \item Developed and maintained \textbf{ETL pipelines} in Python using Pandas and BeautifulSoup to automate data collection and transformation.
+    \item Integrated data from multiple sources and implemented SQL queries for \textbf{data validation and consistency checks}.
+    \item Built and published \textbf{interactive Power BI dashboards} to visualize KPIs, supporting data-driven decisions.
+    \item Collaborated with data engineers to improve data quality and automate reporting workflows, reducing manual effort by 25\%.
+    \item Supported ad-hoc analysis and troubleshooting requests from business stakeholders.
+\end{itemize}
+
+\textbf{Data Analytics Intern} \hfill June 2020 – Dec 2020\\
+\textit{Venturenox, Lahore, Pakistan}
+\begin{itemize}
+    \item Assisted in creating data ingestion scripts for cloud-based data storage and visualization solutions.
+    \item Supported the deployment of data-driven applications in Azure environments.
+    \item Participated in data documentation and governance initiatives.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROJECTS
+%----------------------------------------------------------------------------------------
+\newpage
+\begin{rSection}{PROJECTS}
+
+\item \textbf{AquaMetrics – Wastewater Data Analysis (GitHub)}\\
+Developed an end-to-end data analysis pipeline to monitor wastewater metrics. Cleaned and modeled data in Python (Pandas), created visualizations in Power BI, and automated ETL workflows for continuous monitoring.
+
+\item \textbf{Data Analysis Dashboard}\\
+Designed a Power BI dashboard with backend data preparation in Python, improving reporting efficiency by 20\%. Implemented automated validation rules for ensuring data quality and reliability.
+(available on \href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Real-Time Data Streaming}\\
+Implemented a real-time data streaming solution using Apache Kafka and Flink, processing and storing transformed data in PostgreSQL for analytical use cases.
+(available on \href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Publication}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+Published in MDPI Energies Journal. Proposed an algorithmic framework to optimize resource utilization and energy efficiency in large-scale cloud systems.
+(see publication on \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
+
