@@ -1,0 +1,227 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}} 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSZIEL}
+
+Datenorientierter Analyst mit Erfahrung in Power BI, Datenmodellierung und ETL-Prozessen. Fundierte Kenntnisse in Python, SQL und API-Integration. Suche eine Teilzeitstelle als \textbf{Data Analyst bei der Husqvarna Group (Gardena)}, um datengetriebene Entscheidungen zu unterstützen, Logistikprozesse zu optimieren und skalierbare Reportinglösungen zu entwickeln.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {vorauss. März 2026}\\
+{\bf Bachelor in Informatik}, COMSATS University Lahore \hfill {2016 -- 2020}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+
+\textbf{Technische Kompetenzen:} Power BI, DAX, Python (Pandas, NumPy), SQL, Datenmodellierung, API-Integration, ETL-Prozesse, Excel, Git \\
+\textbf{BI- und Datenkompetenz:} Dashboard-Entwicklung, KPI-Definition, Datenanalyse, Datenaufbereitung, Visualisierung, Prozessverständnis \\
+\textbf{Soft Skills:} Teamarbeit, Kommunikation, analytisches Denken, strukturierte Arbeitsweise \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Hindi, Punjabi
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- laufand\\
+\textbf{Bosch GmbH} \hfill \textit{Reutlingen, Deutschland}
+\begin{itemize}
+    \item Entwicklung interaktiver Power BI-Dashboards für operative Teams und das Management zur Optimierung von Produktions- und Logistikprozessen.
+    \item Modellierung leistungsfähiger Datenmodelle und Implementierung von DAX-Messungen zur präzisen KPI-Berechnung.
+    \item Integration und Automatisierung von Datenquellen (SQL, API) zur Verbesserung der Datenverfügbarkeit und Reduzierung manueller Arbeit um 30\%.
+    \item Enge Zusammenarbeit mit Fachbereichen, um datenbasierte Prozessverbesserungen zu identifizieren und umzusetzen – u.a. Senkung von Reporting-Zeiten um 25\%.
+    \item Sicherstellung technischer Stabilität und Wartbarkeit der BI-Lösungen durch strukturierte Architektur und Versionskontrolle (Git).
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill 
+Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG} \hfill \textit{Forcheim, Deutschland}
+\begin{itemize}
+    \item Mitwirkung an Analytics-Projekten von der Anforderungsaufnahme bis zur technischen Umsetzung im Data-Warehouse-Umfeld (Snowflake, ETL).
+    \item Entwicklung performanter Power BI-Reports zur Visualisierung von Geschäfts- und Logistikkennzahlen für das Controlling-Team.
+    \item Umsetzung einer robusten Datenmodellierung und API-Anbindung zur Integration heterogener Quellsysteme.
+    \item Verbesserung der Datenverarbeitungszeit um 20\% durch Optimierung von SQL-Abfragen und Transformationsprozessen.
+    \item Etablierung klar definierter Kennzahlenlösungen zur Steigerung der Transparenz in der Datenanalyse.
+\end{itemize}
+
+\newpage
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited} \hfill \textit{Lahore, Pakistan}
+\begin{itemize}
+    \item Aufbau und Betreuung von ETL-Prozessen zur Datenintegration und Transformation mit Python (Pandas, BeautifulSoup) und SQL.
+    \item Entwicklung interaktiver Power BI-Dashboards für operative Einheiten und das Management mit Fokus auf Performance und Skalierbarkeit.
+    \item Erstellung und Implementierung automatisierter API-Anbindungen zur Datenbeschaffung und -aktualisierung.
+    \item Verbesserung der Datenqualität und Reduktion von Berechnungszeiten um 20\% durch optimierte Datenmodellierung.
+    \item Förderung einer datengetriebenen Unternehmenskultur durch klare, visuell ansprechende und zukunftssichere Reportinglösungen.
+\end{itemize}
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Logistik-Dashboard (Power BI):} Entwicklung eines Dashboards zur Visualisierung von Lieferzeiten, Lagerbeständen und Prozesskennzahlen. Daten aus mehreren Quellen (API, CSV, SQL) integriert, um Entscheidungsprozesse zu beschleunigen. 
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenintegration:} Entwicklung einer Datenpipeline mit Python, Kafka und PostgreSQL zur Erfassung und Transformation von Echtzeitdaten für Analysezwecke. 
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{AquaMetrics – Umweltanalyse:} Entwicklung eines Analysemodells zur Überwachung von Abwasserdaten. Datenverarbeitung, Bereinigung und Visualisierung in Power BI zur Unterstützung nachhaltiger Ressourcenplanung.
+(\href{https://github.com/Usama00004/AquaMetrics}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} 
+Forschung zu effizienten Ressourcenzuteilungs- und Energiemanagement-Methoden in Cloud-Umgebungen. 
+Veröffentlicht im MDPI Energies Journal. 
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Husqvarna Group \\
+    Hans-Lorenser-Straße 40\\
+    89079 Ulm\\
+    Deutschland\\
+
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    James-Franck-Ring 8\\
+    89081 Ulm\\
+    Deutschland\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Logistics Data Analyst (m/w/d) }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+Sehr geehrtes Husqvarna-Team,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Data Analyst gelesen. Die Kombination aus moderner Datenanalyse, technischer Architektur und der Möglichkeit, Logistikprozesse durch datenbasierte Entscheidungen aktiv zu gestalten, entspricht genau meinem beruflichen Profil und meiner Leidenschaft für innovative, nachhaltige Lösungen.
+
+Während meiner aktuellen Tätigkeit bei Bosch entwickle ich interaktive Power BI-Dashboards, die Produktions- und Logistikdaten in klare Entscheidungsgrundlagen für operative Teams und das Management übersetzen. Durch gezielte Datenmodellierung, DAX-Messungen und API-Anbindungen konnte ich die Datenverfügbarkeit um 30\% steigern und die Reportingzeiten um 25 \% verkürzen.
+
+Zuvor unterstützte ich bei Siemens den Aufbau einer modernen Data-Warehouse-Architektur auf Basis von Snowflake. Dabei war ich an der gesamten Prozesskette beteiligt – von der Anforderungsaufnahme über die Konzeption bis zur technischen Umsetzung – und konnte durch SQL-Optimierungen die Datenverarbeitung um 20 \% beschleunigen. Bei Systems Limited sammelte ich zudem fundierte Erfahrung im Aufbau von ETL-Pipelines, der Integration heterogener Datenquellen und der Automatisierung von Analyseprozessen mit Python und Power BI.
+
+Ich bringe ein ausgeprägtes analytisches Denkvermögen, ein gutes Prozessverständnis und eine strukturierte, lösungsorientierte Arbeitsweise mit. Besonders reizt mich an Gardena die Verbindung von technischer Exzellenz und nachhaltiger Innovationskraft – Werte, mit denen ich mich stark identifiziere.
+
+Gerne möchte ich meine Erfahrung im Bereich Datenanalyse, Power BI und technischer Architektur in Ihr Team einbringen und mit meiner Hands-on-Mentalität dazu beitragen, Ihre Logistik- und Reportinglösungen noch effizienter und zukunftssicherer zu gestalten.
+
+Ich freue mich auf die Möglichkeit, mich in einem persönlichen Gespräch näher vorzustellen.
+
+
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
