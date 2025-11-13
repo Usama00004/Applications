@@ -1,0 +1,204 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}} 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSZIEL}
+
+Analytischer \textbf{Data Analyst / BI Specialist} mit fundierter Erfahrung in Power BI, Datenmodellierung und Prozessautomatisierung. Nachweisliche Erfolge in der Entwicklung moderner Reportinglandschaften, der Integration von ERP- und CRM-Datenquellen sowie der Bereitstellung datengestützter Insights für Management und Controlling. Ziel ist es, datenbasierte Entscheidungsprozesse, Planung und Forecasting aktiv mitzugestalten und durch innovative BI-Lösungen die digitale Transformation von Unternehmen nachhaltig zu fördern.
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {vorauss. März 2026}\\
+{\bf Bachelor in Informatik}, COMSATS University Lahore \hfill {2016 -- 2020}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+
+\textbf{Technische Kompetenzen:} Power BI, DAX, Python (Pandas, NumPy), SQL, Datenmodellierung, API-Integration, ETL, Excel, Snowflake, Git \\
+\textbf{BI- und Datenkompetenz:} Dashboard-Entwicklung, KPI-Definition, Forecasting, Self-Service BI, Datenanalyse, Automatisierung, Datenqualitätssicherung \\
+\textbf{Soft Skills:} Strukturierte und lösungsorientierte Arbeitsweise, Teamfähigkeit, Kommunikationsstärke, Hands-on-Mentalität \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Hindi, Punjabi
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sep 2025 -- Heute\\
+\textbf{Bosch GmbH} \hfill \textit{Reutlingen, Deutschland}
+\begin{itemize}
+    \item Konzeption, Entwicklung und Optimierung interaktiver Power BI-Reports und Dashboards für das Management und operative Teams.
+    \item Automatisierung von Berichtsprozessen und Aufbau leistungsfähiger Datenmodelle zur Unterstützung datengetriebener Entscheidungen.
+    \item Integration von ERP- und Produktionsdatenquellen (SQL, API) zur Verbesserung der Datenqualität und Reduktion manueller Aufwände um 30\%.
+    \item Enge Zusammenarbeit mit Controlling- und Finanzteams bei Planung, Forecasting und Abweichungsanalysen.
+    \item Etablierung einer nachhaltigen BI-Architektur und Self-Service-Reportingstrukturen für Fachbereiche.
+\end{itemize}
+
+\textbf{Werkstudent Data-Warehousing} \hfill Mar 2025 -- Aug 2025\\
+\textbf{Siemens AG} \hfill \textit{Forcheim, Deutschland}
+\begin{itemize}
+    \item Unterstützung beim Aufbau und der Optimierung von Data-Warehouse-Strukturen (Snowflake, ETL, SQL).
+    \item Erstellung und Pflege von Power BI-Dashboards zur Visualisierung von Geschäftskennzahlen und Forecast-Daten.
+    \item Integration heterogener Datenquellen (ERP, CRM, Excel) und Sicherstellung einer hohen Datenqualität.
+    \item Entwicklung und Pflege von DAX-Messungen und KPI-Modellen zur verbesserten Steuerung der Geschäftsprozesse.
+    \item Beitrag zur digitalen Transformation durch Automatisierung von Reportingprozessen und Standardisierung von Schnittstellen.
+\end{itemize}
+
+\newpage
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited} \hfill \textit{Lahore, Pakistan}
+\begin{itemize}
+    \item Aufbau von ETL-Prozessen mit Python und SQL zur Integration und Transformation von ERP- und CRM-Daten.
+    \item Entwicklung moderner Power BI-Dashboards zur Analyse von Finanz-, Vertriebs- und Betriebskennzahlen.
+    \item Einführung automatisierter Schnittstellen für Echtzeitdaten und Verbesserung der Datenverfügbarkeit um 25\%.
+    \item Zusammenarbeit mit Controlling-Teams zur Identifikation datenbasierter Optimierungspotenziale.
+    \item Verbesserung der Reporting-Effizienz durch Implementierung klar strukturierter Datenmodelle und KPIs.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Controlling-Dashboard (Power BI):} Entwicklung eines Power BI-Dashboards zur Visualisierung von Umsatz, Forecasts und Budgetabweichungen. Integration von ERP- und Excel-Datenquellen zur Unterstützung des Management-Reportings. 
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Automatisiertes Reporting-System:} Entwicklung eines Python-gestützten ETL-Workflows zur automatisierten Datenextraktion, -transformation und -aktualisierung für BI-Dashboards. 
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{AquaMetrics Umweltanalyse:} Entwicklung eines Analysemodells zur Überwachung von Abwasserdaten mit Power BI. Fokus auf Datenqualität, Nachhaltigkeit und Entscheidungsunterstützung.
+(\href{https://github.com/Usama00004/AquaMetrics}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} 
+Forschung zu effizienten Ressourcenzuteilungs- und Energiemanagement-Methoden in Cloud-Umgebungen. 
+Veröffentlicht im MDPI Energies Journal. 
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    OVB Holding AG \\
+    Heumarkt 1\\
+    50667 Cologne\\
+    Deutschland\\
+
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Haupt Str 43 \\
+    44894 Bochum\\
+    NRW Germany\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Analyst / BI Specialist (m/f/d) Controlling \& Reporting }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+mit großem Interesse habe ich Ihre Ausschreibung für die Position als Data Analyst / BI Specialist im Group Controlling gelesen. Die Möglichkeit, moderne Reporting- und Steuerungsprozesse mitzugestalten und datenbasierte Entscheidungen aktiv voranzutreiben, spricht mich besonders an. Als Data Analyst mit fundierter Erfahrung in Power BI, Datenmodellierung und Automatisierung bringe ich das technische und analytische Know-how mit, um die digitale Transformation des Controllings bei OVB wirkungsvoll zu unterstützen.
+
+In meiner aktuellen Tätigkeit bei Bosch entwickle ich interaktive Power BI-Dashboards, die operative und Management-Teams bei datenbasierten Entscheidungen unterstützen. Durch die Implementierung optimierter Datenmodelle, DAX-Messungen und automatisierter Schnittstellen konnte ich die Reportingzeiten um 25 \% reduzieren und die Datenqualität signifikant verbessern.
+
+Während meiner Zeit bei Siemens arbeitete ich an der Weiterentwicklung moderner Data-Warehouse-Architekturen (Snowflake, ETL, SQL) und unterstützte das Controlling bei der Erstellung effizienter Reporting- und Forecasting-Prozesse. Bei Systems Limited legte ich den Grundstein für meine BI-Expertise, indem ich ETL-Pipelines entwickelte und automatisierte, um Daten aus ERP-, CRM- und externen Systemen zu integrieren.
+
+Ich begeistere mich dafür, komplexe Daten in klare Insights zu übersetzen und Geschäftsprozesse messbar zu verbessern. Mein Ziel ist es, bei OVB innovative Visualisierungen, stabile Datenmodelle und automatisierte Reportinglösungen zu entwickeln, die transparente, nachhaltige und fundierte Entscheidungen ermöglichen.
+
+Ich arbeite strukturiert, lösungsorientiert und mit einer ausgeprägten Hands-on-Mentalität. Besonders schätze ich die bereichsübergreifende Zusammenarbeit, um Controllingprozesse effizienter, transparenter und zukunftssicher zu gestalten.
+
+Ich freue mich darauf, meine Erfahrungen und Ideen in einem persönlichen Gespräch näher vorzustellen und gemeinsam mit Ihnen die datengetriebene Zukunft des Controllings bei OVB zu gestalten.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
