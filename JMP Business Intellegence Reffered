@@ -1,0 +1,210 @@
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Bosch\\
+    Robert-Bosch-Platz 1 \\
+    70839 Gerlingen\\
+    Germany\\
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Heusteigstrasse 66 \\
+    70180 Stuttgart\\
+    Germany\\
+
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for Junior Managers Program - Business Intelligence und Analytics}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Business Intelligence and Analytics JMP position at Bosch. The opportunity to contribute to the digitalization of business and product areas while generating actionable insights from complex datasets strongly aligns with my professional skills and career aspirations.
+
+I have completed Master’s in Global Software Development at Hochschule Fulda, where I have gained hands-on experience in Power BI, Microsoft Fabric, Python, SQL, and data modeling. During my working student and internship roles at Bosch eBike Systems and Siemens Healthineers, I developed interactive dashboards, automated ETL pipelines, and performance-optimized data models, improving reporting efficiency and operational decision-making by up to 45\%. These experiences have strengthened my ability to transform large volumes of data into meaningful insights and drive business process improvements.
+
+I am particularly drawn to Bosch’s rotational trainee program, which offers exposure to multiple business units, cross-functional collaboration, and international experience. The program’s focus on entrepreneurial thinking, leadership development, and data-driven innovation resonates strongly with my professional values. I thrive in international, collaborative environments and am motivated by opportunities to inspire others, solve complex problems, and create measurable impact.
+
+With my combination of technical expertise, analytical skills, and international exposure, I am confident in my ability to support Bosch’s specialist departments in delivering statistically sound, model-based analyses and developing innovative micro-solutions using machine learning and modern BI tools. I am enthusiastic about contributing to Bosch’s mission of improving quality of life through meaningful technologies.
+
+Thank you for considering my application. I would welcome the opportunity to further discuss how my skills and experience align with Bosch’s vision and the JMP program.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+% Tailored CV for Bosch Junior Managers Program - Business Intelligence & Analytics
+\documentclass{resume}
+\usepackage[left=0.3 in,top=0.1in,right=0.3 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{Stuttgart, Baden Württemberg, Germany}
+\address{usama.tahir.contact@gmail.com}
+\address{+49 17684973934}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% OBJECTIVE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{OBJECTIVE}
+Aspiring Business Intelligence \& Analytics leader with strong analytical, entrepreneurial, and data-driven mindset. Experienced in translating complex datasets into actionable insights and developing ML-based micro-solutions that optimize business processes. Highly motivated to contribute to Bosch's digital transformation and support data-driven making decisions while building international leadership capabilities through the Junior Managers Program.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Education}
+{\bf Master of Global Software Development}, Hochschule Fulda (Germany) \\
+{\small Focus: Software Engineering, Data Engineering, Business Analytics, Business Administration} \\
+
+{\bf Bachelor of Computer Science}, COMSATS University Lahore (Pakistan)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% SKILLS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Skills}
+\textbf{Business Intelligence:} Power BI, DAX, Power Query, Data Modeling, Row-Level Security, KPI design \\
+\textbf{Data Analytics \& Data Science:} Python (Pandas,Scikit-learn), Statistics, Machine Learning models, Forecasting \\
+\textbf{Data Engineering \& Warehousing:} Snowflake, Microsoft Fabric, ETL Pipelines, Star/Snowflake schema \\
+\textbf{Programming Languages:} R, Python, SQL, Java, Javascript \\
+\textbf{Soft Skills:} Leadership potential, Communication, Cross-functional collaboration, Global management, Problem solving, Acting as a mentor \\
+\textbf{Languages:} English (C1), German (B2), Urdu, Hindi, Punjabi
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Internship – Data Analyst (Business Intelligence & Analytics)} \hfill Mar 2025 – Aug 2025 \\
+\textit{Bosch eBike Systems, Reutlingen, Germany}
+\begin{itemize}
+    \item Performed deep-dive analytics, trend detection, and forecasting to support strategic business decisions across a product environment aligned with consumer goods markets.
+    \item Built interactive Power BI dashboards with statistical and ML-based KPIs, improving decision-making efficiency.
+    \item Modeled large datasets using star/snowflake schemas and optimized query performance by 35\%.
+    \item Automated data ingestion, cleansing, and reporting workflows and improve performance by 15\% .
+
+\end{itemize}
+
+\textbf{Working Student – Data Analyst (Power BI \& DWH)} \hfill Mar 2025 – Aug 2025 \\
+\textit{Siemens Healthineers, Forchheim, Germany}
+\begin{itemize}
+    \item Designed BI dashboards with benchmarking KPIs and row-level security for global stakeholders.
+    \item Improved data model efficiency in Microsoft Fabric, reducing report refresh time by 20\%.
+    \item Created automated ETL flows using SQL \& Power Query, minimizing manual preparation and reducing processing time by 30\%
+    \item Partnered with data engineers and controllers to maintain high data quality and enforce governance.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2022 – Present \\
+\textit{Systems Limited}
+\begin{itemize}
+    \item Conducted deep-dive data analyses to identify trends, business process inefficiencies, and optimization opportunities for internal and client-facing operations.
+    \item Applied machine learning and statistical techniques to support forecasting, anomaly detection (25\% faster identification), and business performance evaluations.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJECTS}
+\item \textbf{Market \& Sales Analytics Dashboard:} Built end-to-end data pipeline with Python preprocessing and Power BI visualization for trend analysis, forecasting, and KPI tracking.
+\item \textbf{Real-Time Data Streaming \& Forecasting:} Designed real-time pipeline using Kafka + Flink to detect patterns and support predictive analytics.
+\item \textbf{Sentiment Analysis with ML:} Automated web scraping, data cleaning, and ML classification pipeline with Scikit-learn for real-time insights.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Certifications}
+\begin{itemize}
+    \item Microsoft Certified Fabric Data Engineer (DP-700)
+    \item Microsoft Power BI Analyst (PL-300)
+    \item Microsoft Azure Fundamentals (AZ-900)
+    \item Google Data Analytics Certificate
+    \item German Language Certificates (B2)
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PUBLICATION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Publication}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement in Cloud Data Centers:} Published in MDPI Energies, presenting optimization methods for large-scale distributed systems.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% LINKS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Links}
+\begin{itemize}
+    \item GitHub: https://github.com/Usama00004
+    \item Portfolio: https://usama00004.github.io/portfolio/
+    \item LinkedIn: https://www.linkedin.com/in/usama-tahir-00004/
+\end{itemize}
+\end{rSection}
+
+\end{document}
