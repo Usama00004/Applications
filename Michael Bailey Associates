@@ -1,0 +1,226 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Michael Bailey Associates\\
+    Berlin \\
+    Germany\\
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+
+    Usama Tahir \\
+    Hardenberg str 34\\
+    10623 Berlin\\ 
+    Germany\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Application for POWER BI Developer and MS Fabric}
+
+\vspace{0.2cm}
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Power BI Developer (MS Fabric) position in Berlin. With hands-on experience in Power BI development, MS Fabric, data modeling, ETL automation, and stakeholder engagement, I am confident in my ability to deliver impactful BI solutions aligned with your company’s data strategy.
+
+In my BI roles at  Bosch and Siemens Healthineers, I designed and optimized end-to-end Power BI reporting solutions that supported operational and strategic decision-making across teams. I developed scalable semantic models, implemented efficient ETL workflows using Python, SQL, and Power Query, and introduced automation that significantly reduced manual reporting effort. I have consistently focused on performance tuning, KPI governance, and building intuitive dashboards that enhance data consumption for both technical and non-technical users.
+
+What excites me most about this role is the strong focus on MS Fabric. I have worked with Fabric components including Lakehouse, Pipelines, Dataflows Gen2, and semantic models, building unified data layers that support enterprise BI. I also developed automated trigger-based workflows and integrated Python validation scripts to enhance reliability and maintain clean, analytics-ready datasets. My work emphasizes not only technical excellence but also business alignment—ensuring reporting solutions truly address stakeholder needs.
+
+I thrive in agile environments, enjoy direct collaboration with business teams, and bring a proactive mindset to improving BI landscapes. I am also fully eligible to work in Germany and available to work onsite in Berlin as required.
+
+I would welcome the opportunity to bring my experience in Power BI, MS Fabric, and data-driven problem solving to your team. Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to your BI initiatives.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.1in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 176 84973934}
+\address{Berlin, Germany}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFILE}
+Senior Power BI Developer with strong hands-on experience in end-to-end BI development, MS Fabric, advanced data modelling, automation, and stakeholder engagement. Skilled in building scalable reporting landscapes, optimizing datasets, and delivering actionable insights. Experienced in agile environments with a track record of driving data‑driven decision-making.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+{\bf Master of Global Software Development}, Hochschule Fulda \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore 
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% SKILLS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SKILLS}
+\textbf{BI \& Analytics:} Power BI (Expert), MS Fabric (Lakehouse, Pipelines, Dataflows Gen2, Warehouse, Event house), DAX, Power Query, Data Modeling, KPI Design, Row-Level Security, Deployment Pipelines\\
+\textbf{Automation \& Engineering:} Python, Pandas, SQL, ETL/ELT, Data Validation, API Integration\\
+\textbf{Cloud \& DWH:} Snowflake, SAP BW (Extraction), MS Fabric OneLake\\
+\textbf{Soft Skills:} Stakeholder Management, Requirement Engineering, Communication, Agile Collaboration\\
+\textbf{Languages:} German (B2 CEFR), English (C1 CEFR), Urdu, Punjabi, Hindi
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXPERIENCE}
+
+% --- FABRIC / POWER BI FOCUSED EXPERIENCE ---
+
+\textbf{Internship Data Analytics / BI Automation} \hfill Sep 2025 -- Ongoing\\
+Bosch, Germany
+\begin{itemize}
+\item Automated Power BI reporting processes, enabling trigger‑based refresh thresholds and reducing manual reporting tasks by 30\%.
+\item Developed advanced Python-based validation scripts to clean, transform, and structure data pipelines for BI consumption.
+\item Enhanced dashboard usability and visualization standards, increasing stakeholder engagement by 20\%.
+\item Partnered with cross-functional teams to maintain BI environment performance and ensure reliability of published reports.
+\end{itemize}
+
+
+\textbf{Working Student Data Analyst / BI Developer (Power BI \& DWH)} \hfill Jan 2025 -- Aug 2025\\
+Siemens Healthineers, Germany
+\begin{itemize}
+    \item Designed, developed, and optimized Power BI dashboards supporting global internal reporting; reduced report load time by 40\% via dataset tuning and model optimization.
+    \item Built automated ETL workflows using Python (Pandas) and SQL to feed BI datasets, improving pipeline performance by 35\%.
+    \item Worked closely with business stakeholders to translate requirements into BI solutions aligned with operational KPIs.
+\end{itemize}
+
+
+\textbf{Junior Data Analyst / BI Developer} \hfill Jan 2021 -- July 2022\\
+Systems Limited, Lahore, Pakistan
+\begin{itemize}
+    \item Developed interactive Power BI dashboards tracking company-wide KPIs, improving metric visibility by 40\%.
+    \item Built and optimized data models, reducing data retrieval time by 30\% and improving refresh performance.
+    \item Designed SQL-based ETL processes for reporting datasets, improving query performance by 35\%.
+    \item Gathered business requirements and translated them into BI solutions, accelerating delivery timelines by 20\%.
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS
+%----------------------------------------------------------------------------------------
+
+\end{rSection}
+
+\newpage
+
+\begin{rSection}{SELECTED PROJECTS}
+
+\item \textbf{MS Fabric Lakehouse + Power BI Semantic Model}\newline
+Built a Fabric Lakehouse architecture with Dataflows Gen2 for ingestion, Pipelines for orchestration, and a Power BI semantic model for enterprise reporting.
+
+\item \textbf{Automated KPI Threshold Alerts in Power BI}\newline
+Created automated trigger mechanisms using DAX + Fabric Pipelines to notify stakeholders when KPIs exceed thresholds.
+
+\item \textbf{Sales & Operations Power BI Dashboard}\newline
+Developed an end-to-end reporting solution integrating Python ETL + Snowflake + Power BI; improved decision-making efficiency by 25\%.
+
+\item \textbf{Fabric Real Time Data Processing Pipeline}\newline\Built a real-time data ingestion and transformation pipeline using MS Fabric (Spark streaming + Lakehouse) to process streaming data, create optimized delta tables, and publish a semantic model consumed by Power BI for low-latency insights.
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Certifications}
+\begin{itemize}
+    \item Microsoft Certified Fabric Data Engineer (DP-700)
+    \item Microsoft Power BI Analyst (PL-300)
+    \item Microsoft Azure Fundamentals (AZ-900)
+    \item Google Data Analytics Certificate
+    \item German Language Certificates (B2)
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PUBLICATION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Publication}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement in Cloud Data Centers:} Published in MDPI Energies, presenting optimization methods for large-scale distributed systems.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% LINKS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Links}
+\begin{itemize}
+    \item GitHub: https://github.com/Usama00004
+    \item Portfolio: https://usama00004.github.io/portfolio/
+    \item LinkedIn: https://www.linkedin.com/in/usama-tahir-00004/
+\end{itemize}
+\end{rSection}
+
+\end{document}
