@@ -1,0 +1,213 @@
+% Converted Resume for Data Engineer Role
+
+\documentclass{resume}
+\usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.2in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 176 84973934}
+\address{Bochum, NRW, Germany}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% Objective
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+Results-driven Data Engineer with hands-on experience in cloud data platforms, ETL/ELT development, data modeling, and BI integration. Skilled in Python, SQL, Snowflake, Power BI, and modern data stack tools, seeking to contribute to the design and migration of scalable data architectures within a Microsoft Fabric environment.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Education
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+{\bf Master of Global Software Development}, Hochschule Fulda \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Skills
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills}
+\textbf{Data Engineering:} ETL/ELT, Data Pipelines, Data Modeling, dbt, Snowflake, Microsoft Fabric, Cloud Data Warehousing \\
+\textbf{Programming:} Python (Pandas, NumPy), SQL, Bash \\
+\textbf{Tools:} Power BI, Git, GitHub Actions, Jira, Perforce, Excel \\
+\textbf{Technologies:} MySQL, PostgreSQL, Kafka, Flink, REST APIs, CI/CD \\
+\textbf{Soft Skills:} Communication, Problem Solving, Teamwork, Self-Management \\
+\textbf{Languages:} English (C1), German (B2), Hindi
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Experience
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Internship – Data Analytics} \hfill Sep 2025 -- Ongoing \\
+Bosch, Germany
+\begin{itemize}
+    \item Built automated ETL scripts using Python and SQL to prepare data for analytics, reducing manual preprocessing by 30\%.
+    \item Developed optimized Power BI dashboards based on structured data models, improving reporting transparency and usability.
+    \item Supported migration tasks by validating data quality and preparing source-to-target mappings.
+\end{itemize}
+
+\textbf{Working Student – Data Analyst / Data Engineering Support} \hfill Mar 2024 -- Aug 2025 \\
+Siemens Healthineers, Germany
+\begin{itemize}
+    \item Designed and maintained ETL workflows with Python (Pandas) and SQL, improving data pipeline efficiency by 35\%.
+    \item Contributed to Snowflake-based data modeling including staging, transformation, and semantic layers.
+    \item Built Power BI semantic models to support business self-service analytics and consistent KPI definitions.
+    \item Collaborated with cross-functional teams to evaluate new requirements and their impact on data structures.
+\end{itemize}
+
+\textbf{Junior Data Analyst / BI Developer} \hfill Jan 2021 -- Jul 2022 \\
+Systems Limited, Lahore, Pakistan
+\begin{itemize}
+    \item Developed and maintained SQL-based ETL scripts for integrating new data sources in enterprise BI systems.
+    \item Built structured star-schema models for reporting, enhancing performance and data quality.
+    \item Created Power BI dashboards built on optimized semantic layers, increasing KPI transparency across departments.
+    \item Documented interfaces, pipeline logic, and data workflows to ensure governance and maintainability.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Projects
+%----------------------------------------------------------------------------------------
+\newpage
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Cloud-Based Data Pipeline (Microsoft Fabric + Spark Streaming):} Built a real-time streaming pipeline using Spark Streaming in Microsoft Fabric Notebooks to ingest, transform, and process high-velocity data. Performed in-flight transformations and delivered structured outputs into Fabric Lakehouse tables for low-latency analytics.
+
+\item \textbf{ETL + Power BI Dashboard:} Designed a full ETL workflow in Python (Pandas) to clean, model, and publish datasets, followed by a Power BI dashboard enabling trend analysis and automated refresh.
+
+\item \textbf{Sentiment Analysis Pipeline:} Built an end-to-end data ingestion pipeline using Selenium, BeautifulSoup, Pandas, and SQL; deployed ML models for classification, improving processing time by 25\%.
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+% Certifications
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}
+\item \textbf{Microsoft Certified: Fabric Data Engineer Associaten (DP-700)}
+\item \textbf{Microsoft Power BI Data Analyst Associate (PL-300)} 
+\item \textbf{Microsoft Certified: Azure Fundamentals (AZ-900)} 
+\item \textbf{German Language Certification  B2 }
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Publication
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PUBLICATION}
+\item \textbf{Hotspot-Aware Workload Scheduling in Heterogeneous Cloud Data Centers:} Published in MDPI Energies; developed algorithms optimizing server placement and energy efficiency in large-scale cloud systems.
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=0.8in, bottom=0.8in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Shopware AG\\
+    Ebbinghoff 10 \\
+    48624 Schöppingen\\
+    Germany
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Haupt Str 43 \\
+    44894 Bochum\\
+    NRW Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for the position BI Data Engineer Microsoft Fabric (m/f/d) }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am excited to apply for the Data Engineer position, especially as someone with hands-on experience in Microsoft Fabric, including Fabric Lakehouse, Spark notebooks, and Fabric Data Pipelines. Over recent projects, I have worked extensively with Fabric to build scalable data flows, structured lakehouse models, and Spark-based streaming processes—experience that aligns directly with your migration toward a modern, cloud-based Microsoft Fabric platform.
+
+In addition to my Fabric expertise, I bring a strong foundation in modern data engineering, including ETL/ELT development with Python and SQL, dbt-style modular transformation patterns, and semantic modeling for Power BI. In my roles at Siemens Healthineers and Bosch, I built and optimized data pipelines, maintained multi-layered data models, and collaborated closely with analysts to design consistent KPI structures and business-oriented semantic layers. These experiences ensure that I can contribute to developing transparent, high-performing, and well-governed data architectures for your BI team.
+
+I am particularly motivated by your vision of transforming an on-premise MySQL data warehouse into a cloud-native platform. My hands-on work with Fabric Spark streaming, Lakehouse tables, and Data Pipelines—combined with my understanding of cloud data architectures—positions me well to support this transition. I also have practical experience with Git, GitHub Actions, and CI/CD workflows, enabling versioned, traceable, and reliable development practices.
+
+Working in cross-functional environments has been a core part of my experience. I collaborate closely with analysts, engineers, and stakeholders to understand business requirements, assess their impact on the data model, and implement scalable solutions. With strong communication skills, a structured working style, fluency in English (C1), and solid German proficiency (B2), I feel well-prepared for your hybrid work setup.
+
+Your combination of traditional warehousing principles with modern lakehouse architecture aligns strongly with my own professional development path. I am eager to bring my Microsoft Fabric experience, data engineering skills, and passion for scalable cloud solutions to your team.
+
+Thank you for considering my application. I would welcome the opportunity to further discuss how my experience fits your needs and how I can contribute to the continuous evolution of your data platform.
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://github.com/Usama00004}{https://github.com/Usama00004}
+
+\end{document}
