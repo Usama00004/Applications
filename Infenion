@@ -1,0 +1,99 @@
+% Modified Resume for Automotive HV Central Development Analytics Position
+\documentclass{resume}
+\usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.2in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 17684973934}
+\address{Munich, Germany}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% OBJECTIVE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{OBJECTIVE}
+Motivated Data Analyst with strong skills in Python, SQL, and Power BI, experienced in transforming complex datasets into actionable insights. Skilled in data visualization, machine learning foundations, and analytical problem-solving. Seeking to contribute to advanced analytics, reporting, and cross-functional collaboration within Automotive HV Central Development.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Education}
+{\bf Master of Global Software Development}, Hochschule Fulda \hfill {March 2027}\\
+Relevant Coursework: Data Analytics, Machine Learning, Software Engineering for AI Systems\\
+
+{\bf Bachelor of Computer Science}, COMSATS Lahore \hfill {2016 -- 2020}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% SKILLS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Skills}
+
+
+\textbf{Technical Skills:} Power BI (DAX, Data Modeling, Power Query), SQL, Python (Pandas), Excel, ETL, Data Visualization \\
+\textbf{BI \& Analytics:} Dashboard Design, KPI Development, Data Transformation, Reporting Automation\\
+\textbf{Soft Skills:} Communication, Problem Solving, Adaptability, Time Management \\
+\textbf{Languages:} German (B2 CEFR), English (C1 CEFR)
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Internship – Data Analytics} \hfill Sep 2025 -- Ongoing \\
+Bosch, Germany
+\begin{itemize}
+    \item Analyzed and visualized complex datasets using Python, Power BI, and Excel to support strategic reporting.
+    \item Developed automated analytical scripts, reducing manual processing effort by 30%.
+    \item Improved dashboard clarity and usability, increasing stakeholder engagement.
+    \item Adapted to evolving tools and priorities within the analytics environment.
+\end{itemize}
+
+\textbf{Working Student – Data Analyst} \hfill Mar 2024 -- Aug 2025 \\
+Siemens Healthineers, Germany
+\begin{itemize}
+    \item Built and maintained ETL workflows using Python and SQL, improving data pipeline performance by 35%.
+    \item Contributed to data modeling in Snowflake and Power BI, reducing report load time by 40%.
+    \item Delivered analytics dashboards supporting cross-functional teams and internal decision-making.
+    \item Ensured accurate KPI reporting and improved data reliability.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- July 2022 \\
+Systems Limited, Lahore, Pakistan
+\begin{itemize}
+    \item Designed data models and BI reporting structures across departments.
+    \item Built Power BI dashboards to track KPIs and business trends.
+    \item Wrote optimized SQL queries to support analytics and reporting.
+    \item Collaborated with stakeholders to gather requirements and deliver data-driven solutions.
+\end{itemize}
+
+\end{rSection}
+\newpage
+%----------------------------------------------------------------------------------------
+% PROJECTS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Data Analysis Dashboard:} Created a Power BI dashboard visualizing trends from Python-processed datasets. Automated preprocessing steps, reducing data handling time by 20%. (GitHub)
+
+\item \textbf{Real-Time Data Streaming:} Built an Apache Kafka + Flink pipeline to process high-velocity data in real time. Enabled low-latency insights and efficient data handling. (GitHub)
+
+\item \textbf{Sentiment Analysis:} Implemented a pipeline with Selenium + BeautifulSoup for automated extraction, followed by ML-based sentiment analysis using Scikit-learn. Improved processing efficiency by 25%. (GitHub)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PUBLICATION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Publication}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Cloud Data Centers:} Published in MDPI Energies Journal. Proposed methods to optimize resource utilization and energy efficiency through workload-aware scheduling.
+\end{rSection}
+
+\end{document}
