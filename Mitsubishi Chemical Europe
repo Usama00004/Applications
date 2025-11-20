@@ -1,0 +1,90 @@
+\documentclass{resume}
+\usepackage[left=0.4 in,top=0.8in,right=0.4 in,bottom=0.8in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ \href{https://github.com/Usama00004}{GitHub}} 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZIEL}
+Erfahrener Power BI Developer mit Schwerpunkt auf professioneller Dashboard-Entwicklung, DAX-Optimierung und leistungsstarker Datenmodellierung. Nachweisliche Verbesserungen in Datenqualität, Performance und Reporting-Effizienz (20–40\%). Suche eine Position als Power BI Pro Developer, um skalierbare BI-Lösungen zu entwickeln und datenbasierte Unternehmensentscheidungen zu stärken.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG} {\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2027}\\ {\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 -- 2020} \end{rSection}
+
+%----------------------------------------------------------------------------------------
+% FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+\textbf{Power BI Entwicklung:} Power BI Desktop, Power BI Service, Dataflows, DAX (advanced), Datenmodellierung (Star Schema), KPI-Design\\
+\textbf{ETL \& Datenintegration:} Power Query (M), Python (Pandas), SQL, API-Integrationen\\
+\textbf{Optimierung:} Performance Tuning, DAX-Optimierung, Datenqualitätsverbesserung, Automatisierung\\
+\textbf{Tools:} Snowflake, Excel (Advanced), Git, PowerPoint\\
+\textbf{Soft Skills:} Kommunikation, analytisches Denken, Stakeholder-Management\\
+\textbf{Sprachen:} Deutsch (B2), Englisch (C1), Urdu, Punjabi, Hindi
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \\ Sept 2025 -- laufend\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Entwicklung professioneller Power BI-Dashboards, wodurch die Reporting-Effizienz um 35\% gesteigert wurde.
+    \item Erstellung komplexer DAX-Measures, Verbesserung der KPI-Genauigkeit um 25\%
+    \item Integration und Automatisierung mehrerer Datenquellen, Reduktion manueller Prozesse um 40\%.
+    \item Zusammenarbeit mit Fachabteilungen zur BI-Optimierung, Verbesserung der Anforderungsumsetzung um 30\%.
+    \item Endanwender-Support \& Dokumentation, Reduktion von Supportanfragen um 20\%.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \\ Jan 2021 -- Juli 2022\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Erstellung interaktiver Power BI-Dashboards, Optimierung der Datenvisualisierung um 30\%.
+    \item Verbesserung der Datenqualität durch Validierungsprozesse, Fehlerrate um 28\% reduziert.
+    \item Entwicklung automatisierter ETL-Pipelines (Python, SQL), Steigerung der Verarbeitungsgeschwindigkeit um 22\%.
+    \item Präsentation analytischer Ergebnisse, bessere Stakeholder-Verständlichkeit um 35\%.
+    \item Dokumentation datengetriebener Prozesse für langfristige Skalierbarkeit.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+\newpage
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales Dashboard:} Reduzierte Ladezeiten um 40\%, verbesserte Datenmodellierung und DAX-Optimierung führten zu deutlich schnelleren Reports. \\
+
+\item \textbf{ETL-Pipeline für API-Daten:} Automatisierung führte zu einer 50\% schnelleren Datenaktualisierung für Echtzeitanalysen.
+
+\item \textbf{Datenqualitätsanalyse:} Implementierung eines Python-Skripts zur Fehlererkennung erhöhte die Datenqualität um 30\%.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIZIERUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIZIERUNGEN}
+\item \textbf{Microsoft Power BI Data Analyst Associate (PL-300)} \
+\item \textbf{Microsoft Fabric data engineer (Dp-700)}\
+\item \textbf{Microsoft Azure fundamentals (AZ-900)}
+\end{rSection}
+
+\end{document}
