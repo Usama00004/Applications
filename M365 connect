@@ -1,0 +1,109 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usama00004} 
+\def\github{Usama00004} 
+\def\role{Power BI Data Analyst}
+
+\input{_header}
+
+\begin{document}
+
+\section{Professional Summary}  
+Power BI Data Analyst/Developer with proven experience designing interactive dashboards, optimizing data models, and transforming raw data into actionable insights. Skilled in DAX, Power Query, Dataverse, SQL, Snowflake, and Azure-based BI environments. Adept at implementing row-level security, shaping data governance standards, integrating multi-source datasets, and collaborating with cross-functional teams in Agile settings. Strong communicator with experience conducting training workshops and promoting data literacy across business functions.
+
+\section{Core Skills}  
+\textbf{Power BI \& BI Development:} Interactive Dashboards, DAX, Power Query (M), Data Modeling, Row-Level Security (RLS), Power BI Service, Dataflows, Deployment Pipelines \\  
+\textbf{Data Platforms:} Microsoft Dataverse, Azure Synapse, SQL Databases, Snowflake, Relational \& Non-Relational Data \\  
+\textbf{ETL \& Automation:} Python (Pandas, Requests, BeautifulSoup, Selenium), Airflow, API Integration, Data Transformation, Automation Workflows \\  
+\textbf{Cloud \& DevOps:} AWS S3, Git, CI/CD Concepts \\  
+\textbf{Soft Skills:} Stakeholder Collaboration, Requirements Gathering, Workshops \& User Training, Analytical Thinking, Communication \\  
+\textbf{Languages:} English (C1), German (B2), Urdu, Hindi, Punjabi  
+
+\section{Education}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Fulda, Germany  \\ 
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore, Pakistan 
+\section{Professional Experience}  
+
+\textbf{Internship Data Analyst (Power BI \& Analytics)} \hfill Sep 2025 – Present \\  
+\textit{Bosch – Reutlingen, Germany}  
+\begin{itemize}
+    \item Designed and deployed interactive Power BI dashboards supporting DACH-region business operations with advanced DAX measures, drillthroughs, and custom KPIs.
+    \item Integrated multi-source datasets including Microsoft Dataverse, SQL databases, and cloud-based systems ensuring high data quality and consistency.
+    \item Implemented Row-Level Security (RLS) and contributed to Power BI data governance frameworks.
+    \item Optimized data models, reducing dataset refresh time by 35\% and improving overall report performance.
+    \item Collaborated in Agile analytics sprints, participating in planning, backlog grooming, and refinement sessions.
+    \item Conducted Power BI workshops for internal teams to promote data literacy and self-service analytics.
+\end{itemize}
+
+\textbf{Working Student – Data Analyst (Power BI \& DWH)} \hfill Mar 2025 – Aug 2025 \\  
+\textit{Siemens Healthineers – Forchheim, Germany}  
+\begin{itemize}
+    \item Developed Power BI dashboards with advanced DAX measures, drillthroughs, and reusable semantic models, increasing report usability and stakeholder adoption by 30\%.
+    \item Built optimized star/snowflake schema models, reducing dataset size by 25\% and improving overall report performance by 40\%.
+    \item Integrated Snowflake with Power BI and automated refresh schedules using Power BI Service and dataflows, improving data freshness and reliability by 35\%.
+    \item Partnered with cross-functional stakeholders to translate business questions into actionable analytics, accelerating decision-making cycles by 20\%.
+    \item Supported Snowpipe and event-driven ingestion pipelines to ensure near–real-time data availability, decreasing data latency by 50\%.
+\end{itemize}
+\textbf{Junior Data Analyst – Data Pipelines \& Power BI} \hfill Jan 2021 – Jul 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Developed end-to-end ETL pipelines using Apache Airflow for automated data ingestion and transformation.
+    \item Extracted data from APIs and web sources using Python (Requests, BeautifulSoup, Selenium).
+    \item Modeled analytical datasets using SQL and Python for Power BI reporting.
+    \item Built Power BI dashboards with complex DAX measures, calculated tables, and dynamic filters.
+    \item Automated reporting workflows and improved reporting efficiency through scheduled data refreshes.
+\end{itemize}
+
+\section{Publications}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[View Publication]}
+
+\section{Projects}  
+
+\textbf{1. Real Estate Analytics Pipeline (Redfin) – Power BI \& Snowflake}  
+\begin{itemize}
+    \item Built an ETL pipeline using Python → S3 → Snowflake → Power BI.
+    \item Automated full data refresh using Snowpipe and Snowflake tasks.
+    \item Created end-to-end Power BI dashboards analyzing price trends, inventory, and regional KPIs.
+\end{itemize}
+
+\textbf{2. Weather Data Analytics – API ETL \& Power BI}  
+\begin{itemize}
+    \item Extracted weather data using API calls, transformed using Pandas, and loaded into Snowflake.
+    \item Visualized environmental insights using Power BI with advanced DAX KPIs.
+\end{itemize}
+
+\textbf{3. Mobile Sales Dashboard (Power BI – DAX)}  
+\begin{itemize}
+    \item Built a complete Power BI dashboard analyzing YoY growth, sales patterns, and category performance.
+\end{itemize}
+
+\textbf{4. Automated Sales Report Pipeline}  
+\begin{itemize}
+    \item Developed Python-based preprocessing scripts integrated into Power BI for automated reporting.
+\end{itemize}
+
+\textbf{5. Twitter Sentiment Analysis Pipeline}  
+\begin{itemize}
+    \item Built a scraping + ML pipeline and integrated optional Power BI sentiment visuals.
+\end{itemize}
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Data Engineer(DP-700)}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)}
+    \item \textbf{German Language B2}
+
+\end{itemize}
+
+\end{document}
