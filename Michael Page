@@ -1,0 +1,97 @@
+% Modified Resume for Controlling / Power BI Analyst Role
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst / Power BI Developer}
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Datenanalyst mit Schwerpunkt Controlling, Reporting und Power BI. Fundierte Erfahrung in der Erstellung von Soll-Ist-Analysen, der Ableitung von Handlungsempfehlungen sowie in der Entwicklung skalierbarer BI-Lösungen. Sicher in DAX, Power Query, Finanz-KPIs, Datenmodellierung (Stern-/Schneeflockenschema) und SQL. Hohe Genauigkeit, schnelle Auffassungsgabe und ausgeprägte analytische Fähigkeiten zur Unterstützung von Monats-, Quartals- und Jahresauswertungen.
+
+\section{Kernkompetenzen}  
+\textbf{Controlling & Reporting:} Soll-Ist-Vergleiche, Finanzkennzahlen, Forecasting, KPI-Validierung, Ursachenanalysen\\
+\textbf{BI & Analyse:} Power BI, DAX, Power Query, Dashboard-Design, Datenqualität\\
+\textbf{Datenmodellierung:} Sternschema, Schneeflockenschema, Kennzahlenmodelle, SQL\\
+\textbf{Data Engineering:} Python (Pandas), ETL, Automatisierungen, Snowflake\\
+\textbf{Tools:} Microsoft Fabric, Excel (fortgeschritten), Git, AWS S3\\
+\textbf{Soft Skills:} Selbstständigkeit, Genauigkeit, analytisches Denken, Teamarbeit\\
+\textbf{Sprachen:} Deutsch (B2.2), Englisch (C1), Urdu, Hindi, Punjabi
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda \hfill Fulda, Deutschland \\
+\textbf{B.Sc. Computure Science} – COMSATS Universität \hfill Lahore, Pakistan 
+
+
+\section{Berufserfahrung}
+
+\textbf{Praktikant – Datenanalyst (Microsoft Power BI & Controlling Reporting)} \hfill September 2025 -- Heute \\ \textit{Bosch GmbH – Reutlingen, Deutschland} 
+
+\begin{itemize}
+\item Erstellung und Optimierung von Power BI-Berichten und KPIs für das operative Controlling mit einer Performanceverbesserung von 35\%.
+\item Durchführung von Soll-Ist-Vergleichen, Trendanalysen und Erarbeitung von Entscheidungsgrundlagen, wodurch die Analysezeit um 25\% reduziert wurde.
+\item Aufbau und Pflege semantischer Datenmodelle nach Sternschema zur Steigerung der Berichtseffizienz um 40\%.
+\item Entwicklung von DAX-Messungen für Finanzkennzahlen: Deckungsbeiträge, Kostenstellen, Budget vs. Forecast – Verbesserung der KPI-Genauigkeit um 30\%.
+\item Validierung und Sicherstellung der Datenqualität durch Abgleich zwischen ERP und BI mit einer Fehlerreduktion von 20\%.
+\item Automatisierung von Controlling-Auswertungen durch Power Query und SQL-basierte Datenaufbereitung mit einer Zeitersparnis von 45\%.
+\end{itemize}
+
+\textbf{Werkstudent – Datenanalyst (Power BI \& Reporting)} \hfill März 2025 -- August 2025 \\ \textit{Siemens Healthineers – Forchheim, Deutschland} 
+
+\begin{itemize}
+\item Erstellung kurzfristiger Auswertungen und KPI-Berichte für Management- und Sales-Teams mit einer Berichtsbeschleunigung von 30\%.
+\item Optimierung von Power BI-Dashboards, DAX-Formeln und Datenmodellen zur Performance-Steigerung um 50\%.
+\item Zusammenarbeit mit Controlling zur Modellierung monatlicher Berichtsprozesse, wodurch die Prozessdauer um 20\% reduziert wurde.
+\item Analyse von Fehlern in Datenflüssen und Mitarbeit an Digitalisierungsinitiativen, was zu einer Verringerung von Datenabweichungen um 15\% führte.
+\end{itemize}
+
+
+\textbf{Junior Datenanalyst – ETL, Reporting & Power BI} \hfill Jan 2021 -- Juli 2022 \\ \textit{Systems Limited – Lahore, Pakistan}
+\begin{itemize}
+\item Erstellung von SQL-Abfragen zur Berichtsvorbereitung für operative und finanzielle Analysen, wodurch die Datenabrufzeit um 25\% reduziert wurde.
+\item Entwicklung von Power BI-Dashboards mit Fokus auf Genauigkeit und Aussagekraft; Steigerung der Nutzungsrate durch Stakeholder um 30\%.
+\item Modellierung von Kostenstellen- und Leistungskennzahlen für Unternehmensreports mit einer Effizienzsteigerung von 20\%.
+\item Entwicklung automatisierter ETL-Pipelines zur Verbesserung der Datenkonsistenz um **35%**.
+\item Durchführung von Datenqualitätsprüfungen und Fehleranalysen, wodurch Fehlerquellen um 40\% verringert wurden.
+\end{itemize}
+
+
+\section{Projekte}  
+
+\textbf{1. Finanz- & KPI-Dashboard (Power BI)}  
+\begin{itemize}
+    \item Entwicklung eines KPI-Dashboards für Forecast, Budget vs. Ist und Abweichungsanalysen.
+    \item Aufbau eines Controlling-Datenmodells mit DAX-Kennzahlen und Szenarioberechnung.
+\end{itemize}
+
+\textbf{2. Wetterdaten-ETL-Pipeline (Snowflake & Power BI)}  
+\begin{itemize}
+    \item Entwicklung einer ETL-Pipeline mit Python und SQL zur Erstellung wöchentlicher Reports.
+\end{itemize}
+
+\textbf{3. Verkaufs- & Trendanalyse (Business Reporting)}  
+\begin{itemize}
+    \item Erstellung eines Berichtsmodells für Umsatzprognosen und Leistungskennzahlen.
+\end{itemize}
+
+\section{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)}
+  \item \textbf{Microsoft Fabric Data Engineer (DP-700)}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)}
+    \item \textbf{Deutsch B2}
+\end{itemize}
+
+\end{document}
