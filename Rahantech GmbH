@@ -1,0 +1,208 @@
+% Modified CV for Rahantech GmbH Data Analyst / Data Engineer Role
+
+\documentclass{resume}
+\usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.2in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 176 84973934}
+\address{Erlangen, Germany}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% Objective
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+Data Analyst / Data Engineer with strong expertise in SQL, Python, ETL development, relational databases, and dashboarding. Experienced in designing automated data flows, building predictive models, and optimizing large-scale data systems. Seeking to contribute to Rahantech GmbH by delivering high-impact analytical insights, scalable data pipelines, and robust data storage solutions.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Education
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+{\bf Master of Global Software Development}, Hochschule Fulda \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Skills
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SKILLS}
+\textbf{Data Processing \\ & Databases:} SQL, MySQL, PostgreSQL, Relational Databases, NoSQL, Query Optimization \\
+\textbf{Programming:} Python (Pandas, NumPy), R, Bash \\
+\textbf{Data Engineering:} ETL/ELT, Automated Data Pipelines, Data Modeling, Data Migration, API Integrations \\
+\textbf{Analytics \\ & BI Tools:} Power BI, Tableau, Excel, Python Analytics \\
+\textbf{Machine Learning:} Predictive Modeling, Classification, Regression \\
+\textbf{Tools:} Git, GitHub Actions, Jira, Excel \\
+\textbf{Soft Skills:} Communication, Stakeholder Management, Problem Solving \\
+\textbf{Languages:} English (C1), German (B2), Hindi
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Experience
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Internship – Data Analytics} \hfill Sep 2025 -- Ongoing \\
+Bosch, Germany
+\begin{itemize}
+    \item Created automated ETL workflows in Python and SQL to enable business-ready datasets, reducing manual workload by 30\%.
+    \item Developed interactive Power BI dashboards for diverse stakeholders, supporting data-driven decision making.
+    \item Optimized SQL queries and performed quality checks for data migration processes.
+\end{itemize}
+
+\textbf{Working Student – Data Analyst / Data Engineering Support} \hfill Mar 2024 -- Aug 2025 \\
+Siemens Healthineers, Germany
+\begin{itemize}
+    \item Designed and implemented automated data pipelines using Python (Pandas) and SQL, improving data availability and reliability.
+    \item Managed relational database structures and contributed to data warehousing layers.
+    \item Built custom analyses and KPI dashboards using Power BI, enabling business teams to answer complex questions.
+    \item Supported predictive modeling initiatives by preparing structured datasets.
+\end{itemize}
+
+\textbf{Junior Data Analyst / BI Developer} \hfill Jan 2021 -- Jul 2022 \\
+Systems Limited, Lahore, Pakistan
+\begin{itemize}
+    \item Built SQL-based ETL processes to integrate and migrate large datasets across enterprise systems.
+    \item Developed optimized dashboards in Power BI and Tableau, improving reporting clarity across departments.
+    \item Performed data cleansing, transformation, and modeling to support analytics and forecasting.
+    \item Ensured stakeholder alignment by delivering timely updates and maintaining documentation.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Projects
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Automated ETL + Analytics Pipeline:} Built an end-to-end ETL process in Python to extract, transform, and store large datasets into MySQL; used Power BI to visualize trends.
+
+\item \textbf{Predictive Modeling for Trend Forecasting:} Developed a regression-based predictive model using Python to forecast operational KPIs, improving planning accuracy.
+
+\item \textbf{Data Migration Framework:} Designed SQL-based scripts to perform bulk data migration with validation layers and integrity checks.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Certifications
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}
+\item \textbf{Microsoft Certified: Fabric Data Engineer Associate (DP-700)}
+\item \textbf{Microsoft Power BI Data Analyst Associate (PL-300)} 
+\item \textbf{Microsoft Azure Fundamentals (AZ-900)} 
+\item \textbf{German Language Certification B2}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Publication
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PUBLICATION}
+\item \textbf{Hotspot-Aware Workload Scheduling in Heterogeneous Cloud Data Centers:} Published in MDPI Energies; developed algorithms optimizing server placement and energy efficiency.
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Rahantech GmbH\\
+    Holzweg 94\\
+    53757 Sankt Augustin\\
+    Germany
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Wisendorfer Str 28 \\
+    91056 Erlangen\\
+    Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for Data Analyst / Data Engineer Position | Job Id : 15241049 }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Data Analyst / Data Engineer position at Rahantech GmbH. With hands-on experience in data processing, ETL development, SQL optimization, BI reporting, and predictive analytics, I am confident in my ability to contribute to your mission of delivering high-quality, data-driven solutions to diverse stakeholders.
+
+During my recent roles at Bosch and Siemens Healthineers, I worked extensively with large datasets, relational databases, and automated data workflows. I designed and optimized SQL queries, built scalable ETL pipelines in Python, and ensured the accuracy and reliability of data delivered to analytics teams. My dashboards and analyses supported cross-functional teams in making timely, evidence-based decisions—an aspect of the role at Rahantech that particularly excites me.
+
+I have strong experience working with MySQL, PostgreSQL, Power BI, Python, and R, and I enjoy transforming raw data into meaningful insights. At Siemens Healthineers, I collaborated closely with stakeholders to translate business requirements into data models and dynamic dashboards. At Bosch, I contributed to data migration processes and created automated pipelines that significantly reduced manual workload.
+
+Your emphasis on predictive modeling, data migration, and advising stakeholders aligns closely with the work I enjoy most. I bring a structured, detail-oriented approach as well as a strong analytical mindset. With my technical skill set and passion for data engineering, I am confident in my ability to support Rahantech’s projects and help deliver scalable, high-quality data solutions.
+
+I would welcome the opportunity to further discuss how my background and motivation align with your needs. Thank you for considering my application. I look forward to hearing from you.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://github.com/Usama00004}{https://github.com/Usama00004}
+
+\end{document}
