@@ -1,0 +1,202 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Microsoft Fabric Data Engineer}
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Microsoft Fabric Data Engineer und Power BI Analyst mit umfassender Erfahrung in Datenintegration, Data Engineering, semantischer Modellierung und Entwicklung datengetriebener Lösungen. Routine im Einsatz von Fabric-Services wie Lakehouse, Dataflows Gen2, Notebooks und Data Pipelines. Fundierte Kenntnisse in SQL, Python, DAX und M für die Entwicklung skalierbarer ETL-/ELT-Prozesse. Erfahren im Vergleich verschiedener Architekturen wie Data Lake, Data Warehouse, Star Schema und Data Vault. Stark in Power BI, Machine-Learning-Integration (Feature Engineering) sowie Azure DevOps für ALM.
+
+\section{Kernkompetenzen}  
+\textbf{Data Integration \& Fabric:} Lakehouse, Warehouse, Notebooks, Dataflow Gen2, Pipelines, OneLake, Direct Lake \\
+\textbf{Modellierung:} Star Schema, Snowflake, Data Vault, Semantische Modelle \\
+\textbf{Data Engineering:} Python (Pandas, Numpy), PySpark, SQL, M, DAX, Airflow \\
+\textbf{Machine Learning:} Feature Engineering, ML Ops-Unterstützung, Modellbereitstellung (Fabric/Cloud) \\
+\textbf{DevOps:} Azure DevOps, Git, CI/CD für BI/ETL \\
+\textbf{Visualisierung:} Power BI, KPI-Modellierung, Performance Optimierung \\
+\textbf{Soft Skills:} Stakeholder-Kommunikation, Wissensaustausch, Teamarbeit, analytisches Denken \\
+\textbf{Sprachen:} Deutsch (B2.2), Englisch (C1), Urdu, Hindi, Punjabi  
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland  \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore 
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Datenanalyst / Microsoft Fabric Data Engineer} \hfill September 2025 -- Heute \\
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item Nutzung von Microsoft Fabric Dataflows Gen2, Pipelines und Notebooks zur Integration heterogener Datenquellen.  
+    \item Auswahl geeigneter Fabric-Services (Lakehouse vs. Warehouse) je nach Use Case bezüglich Performance, Kosten und Skalierung.  
+    \item Entwicklung und Optimierung semantischer Modelle für Power BI mit DAX, M und SQL.  
+    \item Analyse und Vergleich von Datenarchitekturen (Data Lake vs. DWH) sowie Modellierungsmethoden wie Star Schema und Data Vault.  
+    \item Implementierung von Direct Lake zur Verbesserung der Performance und Datenaktualität.  
+    \item Unterstützung bei Machine-Learning-Anwendungen (Feature Engineering, Vorbereitung produktiver Pipelines).  
+    \item Nutzung von Azure DevOps zur Versionierung und zum Lifecycle Management von Fabric- und Power BI-Artefakten.  
+\end{itemize}
+
+\textbf{Werkstudent – Datenanalyst (Power BI \& Microsoft Fabric)} \hfill März 2025 -- August 2025 \\  
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Aufbau skalierbarer Fabric ETL-Prozesse mit Dataflows Gen2 und Lakehouse-Strukturen.  
+    \item Entwicklung performanter semantischer Modelle für Power BI.  
+    \item Optimierung der Datenbereitstellung durch Direct Lake und Delta Lake.  
+    \item Zusammenarbeit mit Data Scientists für Feature-Bereitstellung in ML-Modellen.  
+    \item Visualisierung komplexer KPIs in Power BI für internationale Stakeholder.  
+\end{itemize}
+
+\textbf{Junior Datenanalyst – ETL, Modellierung \& Power BI} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Entwicklung von Datenpipelines mit Python und SQL für Analyse- und Reportingzwecke.  
+    \item Nutzung von Airflow zur ETL-Orchestrierung und Monitoring.  
+    \item Aufbau analytischer Modelle mittels Star-/Snowflake-Schema für BI Reporting.  
+    \item Erstellung interaktiver Power BI-Berichte mit DAX-KPIs und performanten semantischen Modellen.  
+    \item Automatisierung von Datenaktualisierungen via API-Integrationen und ETL-Jobs.  
+\end{itemize}
+
+\section{Veröffentlichungen}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[Veröffentlichung ansehen]} \\
+Ressourcenoptimierte Verfahren für energieeffiziente Cloud- und Datenverteilung.
+
+\section{Projekte}  
+
+\textbf{1. Wetterdaten-ETL-Pipeline (Fabric \& Snowflake)}  
+\begin{itemize}
+    \item Entwicklung einer End-to-End-Pipeline über Python (Pandas), Delta Tables und Snowflake.  
+    \item Visualisierung in Power BI mittels Modellierung von Temperatur- und Umweltmetriken.  
+    \item Einsatz von Snowpipe zur kontinuierlichen Datenladung.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{2. Verkaufsanalytics – Fabric Lakehouse \& Power BI}  
+\begin{itemize}
+    \item Aufbau eines Fabric Lakehouse zur Analyse von Verkaufs-, Bestell- und Trenddaten.  
+    \item Modellierung per Star Schema; Nutzung von DAX für KPIs (yoy-growth, product performance).  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}  
+\end{itemize}
+
+\textbf{3. Automatisierter Sales-Analyseprozess}  
+\begin{itemize}
+    \item Datenbereinigung mit Python und M; Integration in Fabric-Ökosystem.  
+    \item Erstellung eines semantischen Modells für Power BI.  
+    \item Nutzung von Lesezeichen, Drillthroughs und erweiterten Visuals.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/SalesReport}{SalesReport}  
+\end{itemize}
+
+\section{Zertifikate} 
+\begin{itemize} \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen} \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen} \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen} \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen} \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen} \end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.5in, bottom=0.5in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Scieneers GmbH\\
+    Kantstraße 1A\\
+    76137 Karlsruhe\\
+    Deutschland 
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Heusteigstraße 66 \\
+    70180 Stuttgart\\
+    Deutschland\\
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Engineer / Microsoft Fabric Spezialist| Stellen-ID }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse bewerbe ich mich auf die ausgeschriebene Position im Bereich Data Engineering mit Schwerpunkt Microsoft Fabric. Die Rolle spricht mich besonders an, da sie genau die Themen vereint, in denen ich bereits praktische Erfahrung gesammelt habe: Datenintegration, Fabric-Services, semantische Modellierung sowie End-to-End-Entwicklung datengetriebener Lösungen.
+
+Während meiner Tätigkeiten bei Bosch und Siemens Healthineers konnte ich umfassende Erfahrung mit den Kernkomponenten von Microsoft Fabric sammeln, darunter Lakehouse, Warehouse, Dataflows Gen2, Pipelines und Notebooks. In mehreren Projekten habe ich passende Services je nach Anwendungsfall ausgewählt und Datenintegrationsprozesse technisch wie konzeptionell umgesetzt. Besonders hervorzuheben ist meine Erfahrung im Aufbau und der Optimierung semantischer Modelle sowie in der Entwicklung performanter KPI-Strukturen mit SQL, DAX und M.
+
+Ein Schwerpunkt meiner Arbeit lag immer auch auf der fundierten Bewertung von Datenarchitekturen — ob Data Lake, Data Warehouse, Star Schema oder Data Vault. Ich habe gelernt, die jeweiligen Vor- und Nachteile abzuwägen, um skalierbare und robuste Lösungen zu entwickeln, die fachliche Anforderungen optimal unterstützen. Darüber hinaus habe ich Data Engineers und Data Scientists beim Feature Engineering und der produktiven Bereitstellung von ML-Modellen unterstützt.
+
+Meine analytische Arbeitsweise wird durch Erfahrung im Bereich Versionierung, Deployment und Application Lifecycle Management mit Azure DevOps ergänzt. Die Visualisierung und Bereitstellung der finalen Datenmodelle in Power BI ist für mich ebenso selbstverständlich wie die Abstimmung mit Stakeholdern in Deutsch und Englisch.
+
+Besonders motiviert mich die Möglichkeit, mich in Ihrem Team sowohl fachlich als auch methodisch weiterzuentwickeln. Themen wie Data Science, künstliche Intelligenz und moderne Cloud-Architekturen liegen mir besonders am Herzen. Ebenso freue ich mich darauf, meine Erfahrungen projektübergreifend einzubringen und Wissen aktiv mit Kolleginnen und Kollegen zu teilen.
+
+Ich bin überzeugt, dass meine Kombination aus technischem Fachwissen, praktischer Erfahrung und hoher Lernbereitschaft einen wertvollen Beitrag für Ihr Team leisten kann. Sehr gerne würde ich meine Motivation und Ideen in einem persönlichen Gespräch weiter erläutern.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
