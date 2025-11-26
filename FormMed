@@ -1,0 +1,204 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    FormMed HealthCare GmbH\\
+    Schönberger Weg 13,\\
+    60488 Frankfurt\\
+    Germany
+    
+ 
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderichstraße 47A\\
+    60594 Frankfurt\\
+    Germany
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Werkstudent Data Analytics }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großer Begeisterung habe ich Ihre Stellenausschreibung für die Position als Werkstudent im Bereich Data Analytics gelesen. Die Kombination aus moderner Datenlandschaft, spannenden Analytics-Aufgaben und einer klar werteorientierten Unternehmenskultur macht FormMed für mich zu einem idealen Umfeld, um meine Kenntnisse aktiv einzubringen und weiterzuentwickeln. Besonders beeindruckt haben mich Ihr Fokus auf Eigenverantwortung, Vertrauen und ein menschlich geprägtes Arbeitsumfeld – Werte, mit denen ich mich stark identifiziere.
+
+Derzeit studiere ich Global Software Development (M.Sc.) an der Hochschule Fulda und sammle parallel praktische Erfahrungen im Bereich Data Analytics. In meinen bisherigen Tätigkeiten konnte ich umfangreiche Einblicke in Power BI, SQL, Python sowie moderne Cloud-Architekturen wie Azure, Fabric und Databricks gewinnen. Dabei habe ich Dashboards weiterentwickelt, ETL-Prozesse betreut, Datenpipelines analysiert und aktiv an Lakehouse-Strukturen mitgearbeitet. Die enge Verbindung dieser Technologien mit Ihren Anforderungen macht die Aufgabe bei FormMed für mich besonders reizvoll.
+
+Ihre Schwerpunkte – Power BI, Azure Data Factory, Databricks und moderne Datenplattformen – decken sich exakt mit meinen bisherigen Projekten und beruflichen Erfahrungen. Ich habe u. a. Power BI-Dashboards optimiert, Pipeline-Fehler analysiert, Ad-hoc-SQL-Abfragen durchgeführt und Datenbereinigungen sowie Transformationslogiken in Python umgesetzt. Durch meine analytische und strukturierte Arbeitsweise gelingt es mir, komplexe Daten schnell zu verstehen und in klare, verwertbare Informationen zu überführen.
+
+Besonders schätze ich, dass FormMed Wert auf Weiterentwicklung, Teamspirit und dynamische Zusammenarbeit legt. Ich arbeite gerne im Austausch mit Kolleginnen und Kollegen, bringe Energie und Lernbereitschaft mit und freue mich darauf, gemeinsam innovative Lösungen zu gestalten. Gleichzeitig bin ich es gewohnt, Aufgaben eigenständig, zuverlässig und verantwortungsbewusst zu bearbeiten.
+
+Ich bin überzeugt, dass ich Ihr Data-Analytics-Team mit meiner Erfahrung, Motivation und schnellen Auffassungsgabe optimal unterstützen kann. Sehr gerne würde ich meine Fähigkeiten in Ihre moderne Datenlandschaft einbringen und gemeinsam mit Ihnen wachsen.
+
+Über die Möglichkeit zu einem persönlichen Gespräch freue ich mich sehr.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst}
+
+\input{_header}
+
+\begin{document}
+
+%====================
+% BERUFLICHES PROFIL
+%====================
+\section{Berufliches Profil}  
+Werkstudent im Bereich Data Analytics mit Erfahrung in Power BI, SQL, Python und modernen Cloud-Datenplattformen. Sicher im Monitoring von ETL- und Data-Factory-Pipelines, in der Pflege und Weiterentwicklung von Dashboards sowie in Ad-hoc-Analysen. Analytisch, strukturiert, teamorientiert und motiviert, in einer modernen Datenlandschaft mitzuwachsen. Hohe Lernbereitschaft und Freude daran, komplexe Anforderungen pragmatisch und lösungsorientiert umzusetzen.
+
+%====================
+% KERNKOMPETENZEN
+%====================
+\section{Kernkompetenzen}  
+\textbf{BI \& Visualisierung:} Power BI, DAX, Power Query, Reporting Views, Datenmodellierung \\   
+\textbf{Data Engineering:} Microsoft Fabric (Notebooks, Dataflow Gen 2, Warehouse), SQL, Python (Pandas), ETL-Pipelines, Fehleranalyse, API-Datenabruf \\  
+\textbf{Cloud \& Datenplattformen:} Azure Data Factory, Azure Storage, Databricks (SQL \& Notebooks), Delta Lake \\
+\textbf{Soft Skills:} Analytisches Denken, Eigenverantwortung, Teamspirit, schnelle Auffassungsgabe, Lernbereitschaft \\  
+\textbf{Sprachen:} Englisch (C1), Deutsch (B2), Urdu, Hindi, Punjabi  
+
+%====================
+% BILDUNG
+%====================
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland  \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore 
+
+%====================
+% BERUFSERFAHRUNG
+%====================
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Datenanalyst (Power BI \& Fabric)} \hfill September 2025 -- Heute \\
+\textit{Bosch GmbH – Reutlingen, Deutschland}
+\begin{itemize}
+    \item Pflege und Weiterentwicklung von Power BI-Dashboards, wodurch KPI-Transparenz und Nutzerfreundlichkeit um ca. 25\% gesteigert wurden.
+    \item Durchführung von Ad-hoc-SQL-Abfragen sowie explorativer Datenanalysen zur Unterstützung datengetriebener Entscheidungen.
+    \item Monitoring und Optimierung von Fabric-/Pipeline-Prozessen, was die Anzahl fehlerhafter Pipeline-Runs um etwa 30\% senkte.
+    \item Nutzung von Python-Notebooks zur Datenbereinigung und -transformation, wodurch Datenverarbeitungszeiten um ca. 35\% verbessert wurden.
+    \item Mitarbeit an Ingestion- und Lakehouse-Prozessen, wodurch die Datenverfügbarkeit für Reporting-Teams um mehr als 40\% erhöht wurde.
+\end{itemize}
+
+
+\textbf{Junior Datenanalyst – Datenpipelines \& BI} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+       \item Aufbau stabiler ETL-Pipelines (Python, Airflow), wodurch die Datenaktualität und Pipeline-Stabilität um ca. 35\% verbessert wurden.
+    \item Durchführung von SQL-Analysen und Erstellung von Reporting-Datensätzen.
+    \item Entwicklung interaktiver Power BI-Dashboards für Sales und Operations.
+    \item Transformation großer Datenmengen in strukturierte, analysierbare Formate.
+    \item Automatisierung von Datenaktualisierungen und Pipeline-Benachrichtigungen.
+\end{itemize}
+
+%====================
+% PROJEKTE
+%====================
+\section{Projekte}  
+
+\textbf{Databricks Lakehouse Reporting – Verkaufsanalyse}  
+\begin{itemize}
+    \item Aufbau eines Delta-Lakehouse mit Reporting Views für produkt- und regionsbasierte KPIs.
+    \item Nutzung von Databricks SQL-Notebooks zur Bereinigung und Analyse.
+    \item Power BI Anbindung zur Visualisierung der Erkenntnisse.
+\end{itemize}
+
+\textbf{ETL-Pipeline für Wetterdaten (Python, SQL)}  
+\begin{itemize}
+    \item API-Dateningestion, Transformation (Pandas) und Laden in Snowflake.
+    \item Erstellung automatisierter Aktualisierungen und Visualisierung in Power BI.
+\end{itemize}
+
+\textbf{Sales Analytics Dashboard (Power BI)}  
+\begin{itemize}
+    \item Entwicklung eines interaktiven Dashboards mit KPIs, Trends und DAX-basierter Logik.
+    \item Optimierung von Datenmodellen zur besseren Performance.
+\end{itemize}
+
+%====================
+% ZERTIFIKATE
+%====================
+\section{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Data Analyst (DP-700)}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)}
+    \item \textbf{Google Datenanalyse}
+    \item \textbf{Deutsch – Sprachzertifikat B2.2}
+\end{itemize}
+
+\end{document}
+
