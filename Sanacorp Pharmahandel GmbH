@@ -1,0 +1,198 @@
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst \& BI Developer}
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Datenanalyst und BI-Experte mit Schwerpunkt auf Controlling, Finanzanalytik und datengetriebener Unternehmenssteuerung. Erfahrung in komplexen Datenanalysen, prädiktiven Modellen, Performance-KPIs sowie Entwicklung skalierbarer Daten- und BI-Lösungen. Nachweisbare Erfolge in Kostenreduktion, Prozessoptimierung und Effizienzsteigerung durch Automatisierung, Datenqualitätssicherung und moderne Analyseverfahren.
+
+\section{Kernkompetenzen}  
+\textbf{Data Analytics \& BI:} Power BI, Tableau, KPI-Design, DAX, Power Query, Forecasting \\  
+\textbf{Datenmodellierung:} SQL, Python-basierte Modelle, Stern-/Schneeflockenschema \\  
+\textbf{Data Engineering:} Python (Pandas, NumPy, SciKit-Learn), Pyspark, Airflow, ETL/ELT \\  
+\textbf{Cloud \& Tools:} Microsoft Fabric, Snowflake, AWS S3, Git \\  
+\textbf{Controlling \& Finance:} Kosten- \& Leistungsrechnung, Trendanalysen, Predictive Analytics \\  
+\textbf{Soft Skills:} Analytisches Denken, Kommunikation, Stakeholder-Management \\  
+\textbf{Sprachen:} Englisch (C1), Deutsch (B2), Urdu, Hindi, Punjabi  
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland  \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore 
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Datenanalyst (Power BI, SQL, Predictive Analytics)} \hfill September 2025 -- Heute \\  
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item Durchführung fortgeschrittener Controlling-Analysen und Aufbau prädiktiver Modelle, wodurch Forecast-Genauigkeit um \textbf{+18\%} gesteigert wurde.
+    \item Entwicklung skalierbarer Fabric-Datenmodelle für Finanz- und KPI-Analysen, die die Report-Performance um \textbf{40\%} verbesserten.
+    \item Automatisierte Datenflüsse implementiert, wodurch manuelle Reporting-Arbeit um \textbf{30\%} reduziert und monatliche Analysezyklen beschleunigt wurden.
+    \item Durch Datenqualitätsprozesse die Fehlerrate in Controlling-Daten um \textbf{25\%} reduziert.
+    \item Bereitstellung von Dashboards zur operativen Steuerung, die zu Einsparungen von geschätzten \textbf{€120K jährlich} durch bessere Transparenz und frühzeitige KPI-Abweichungen führten.
+\end{itemize}
+
+\textbf{Werkstudent – Datenanalyst (BI \& Data Modeling)} \hfill März 2025 -- August 2025 \\  
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Optimierung von Datenmodellen und Power-Query-Pipelines, wodurch Dashboard-Ladezeiten um \textbf{50\%} verkürzt wurden.
+    \item Aufbau von BI-Reports für Finance \& Operations, die Entscheidungszeiten um \textbf{35\%} reduzierten.
+    \item Umsetzung skalierbarer Datenmodelle, was redundante Datenverarbeitung um \textbf{20\%} senkte.
+    \item Automatisierte Datenerfassung und Validierung führten zu einer Verringerung der Reporting-Kosten um \textbf{€35K jährlich}.
+\end{itemize}
+
+\textbf{Junior Datenanalyst – Datenpipelines \& Business Intelligence} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Aufbau und Orchestrierung von ETL-Pipelines, wodurch Datenverarbeitungszeit um \textbf{40\%} reduziert und jährliche Betriebskosten um \textbf{€50K} gesenkt wurden.
+    \item Entwicklung von Power BI-Dashboards für KPI-Steuerung, die zu einer \textbf{+22\%} besseren Trendidentifikation führten.
+    \item Implementierung automatisierter Datenvalidierungsmechanismen, die fehlerhafte Datensätze um \textbf{30\%} reduzierten.
+    \item Optimierung von SQL- und Python-Transformationen, wodurch Analysezyklen um \textbf{25\%} beschleunigt wurden.
+\end{itemize}
+
+\section{Veröffentlichungen}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[Veröffentlichung ansehen]} \\
+Forschung über optimierte Ressourcennutzung mit bis zu \textbf{15\% höherer Energieeffizienz}.
+
+\section{Projekte}  
+
+\textbf{1. Predictive Analytics – Wetterdaten-Forecasting}  
+\begin{itemize}
+    \item Entwicklung eines ML-basierten Forecasting-Modells mit \textbf{12\% höherer Prognosegenauigkeit}.
+    \item Snowflake + Power BI Pipeline reduziert Datenlatenz um \textbf{40\%}.
+\end{itemize}
+
+\textbf{2. KPI- und Finanzdashboard (Power BI)}  
+\begin{itemize}
+    \item Entwicklung eines Financial-Controlling-Dashboards, das Entscheidungsprozesse um \textbf{30\%} beschleunigte.
+    \item Optimierte DAX-Messgrößen führten zu \textbf{25\% besseren Abfragezeiten}.
+\end{itemize}
+
+\textbf{3. Automatisiertes BI-Reporting für Controlling}  
+\begin{itemize}
+    \item Automatisierte Python-Datenbereinigung verringerte Bearbeitungszeit um \textbf{20\%}.
+    \item Der verbesserte Reportingprozess senkte operative Kosten um geschätzte \textbf{€15K jährlich}.
+\end{itemize}
+
+\section{Zertifikate} \begin{itemize} \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen} \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen} \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen} \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen} \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen} 
+
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Sanacorp Pharmahandel GmbH\\
+    Behring str 1\\
+    82152 Planegg\\
+    Deutschland
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Analyst / BI Specialist bei Sanacorp Pharmahandel GmbH }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position im Bereich Data Analytics und Business Intelligence gelesen. Die Sanacorp als eines der führenden pharmazeutischen Großhandelsunternehmen in Deutschland stellt höchste Anforderungen an Effizienz, Datenqualität und zuverlässige Steuerungsinformationen – genau in diesem Umfeld sehe ich meine berufliche Stärke und Motivation. Aufgrund meiner fundierten Erfahrung in der Datenanalyse, der Entwicklung skalierbarer BI-Lösungen sowie meiner Kenntnisse im Controlling- und Finanzumfeld bin ich überzeugt, einen wertvollen Beitrag zu Ihrer Data \& Analytics-Strategie leisten zu können.
+
+In meinen bisherigen Projekten bei Bosch, Siemens Healthineers und Systems Limited habe ich komplexe Datenanalysen, Data-Modeling-Prozesse und Dashboards aufgebaut, die direkt zur Unternehmenssteuerung und Effizienzsteigerung beigetragen haben. Besonders hervorheben möchte ich die Entwicklung skalierbarer Datenmodelle und automatisierter Datenflüsse, durch die ich Report- und Analysezyklen um bis zu 40\% beschleunigen sowie manuelle Reportingkosten im Finanzumfeld deutlich reduzieren konnte. Darüber hinaus habe ich prädiktive Modelle zur Forecast-Optimierung entwickelt, die eine spürbare Verbesserung der Prognosegenauigkeit ermöglichten.
+
+Ein wesentlicher Bestandteil meiner Arbeit war stets die enge Zusammenarbeit mit Finance-, IT- und operativen Fachbereichen. Dabei habe ich Businessanforderungen präzise in robuste BI-Modelle, Dashboards und analytische Datenpipelines übersetzt stets mit dem Anspruch, Transparenz, Qualität und Nutzbarkeit für sämtliche Stakeholder zu erhöhen. Tools wie Power BI, Strategy, Tableau, SQL, Python sowie moderne Data-Warehouse- und Cloud-Technologien gehören zu meinem täglichen Arbeitsumfeld.
+
+Besonders reizvoll an der Position bei Sanacorp finde ich die Verantwortung, datengetriebene Lösungen zur Unterstützung der Unternehmenssteuerung in einem hochkritischen, systemrelevanten Umfeld bereitzustellen. Gerne möchte ich meine analytischen Fähigkeiten, mein technisches Know-how und meine Erfahrung in der Prozess- und Datenoptimierung bei Ihnen einbringen, um gemeinsam Ihre Data analytics strukturen weiterzuentwickeln.
+
+Über die Möglichkeit eines persönlichen Gesprächs freue ich mich sehr. Vielen Dank für Ihre Zeit und Überlegung.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
