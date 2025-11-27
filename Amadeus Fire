@@ -1,0 +1,99 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst Power BI }
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Erfahrener Data Analyst mit Schwerpunkt Power BI, SQL und Datenmodellierung. Fundierte Expertise im Aufbau skalierbarer BI-Architekturen, Erstellung performanter Dashboards und Analyse geschäftskritischer Prozesse. Nachweisbare Erfolge bei der Optimierung von Ladezeiten (bis zu \textbf{50\%}), Automatisierung datengetriebener Abläufe und \textbf{Reduzierung operativer Kosten um bis zu 20\%} durch effizientere Datenpipelines und Reportingstrukturen. Starke Kommunikationsfähigkeit und Erfahrung in der Beratung sowie enger Zusammenarbeit mit Stakeholdern.
+
+\section{Kernkompetenzen}  
+\textbf{BI \& Visualisierung:} Power BI, DAX, Power Query, KPI-Design, Visual Best Practices \\   
+\textbf{Datenmodellierung:} Star Schema, Snowflake, Semantic Layer, Incremental Models\\  
+\textbf{SQL \& Data Engineering:} SQL, Python (Pandas, Numpy), Pyspark, ETL/ELT, Airflow \\  
+\textbf{Cloud \& Tools:} Microsoft Fabric, Snowflake, AWS S3, Git\\  
+\textbf{Soft Skills:} Stakeholder-Management, Beratung, Problemlösung, Analytisches Denken \\  
+\textbf{Sprachen:} Deutsch (B2.2), Englisch (C1), Urdu, Hindi, Punjabi  
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland  \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore 
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Data Analyst (Power BI \& Microsoft Fabric)} \hfill September 2025 -- Heute \\
+
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item Entwickelte und skalierte interaktive Power BI-Dashboards, wodurch Entscheidungsprozesse um \textbf{30\% schneller} wurden.
+    \item Optimierte DAX-Messgrößen und Power-Query-Transformationen, senkte die Ladezeiten um \textbf{40\%} und reduzierte Infrastrukturkosten durch effizientere Abfragen um \textbf{15\%}.
+    \item Konzipierte robuste Stern- und Schneeflockenschemata zur Verbesserung der Query-Performance und Datenqualität.
+    \item Implementierte Direct Lake und Dataflow-Lösungen, wodurch sich die Wartungszeit der BI-Landschaft um \textbf{25\%} verringerte.
+    \item Führte Snowflake- und OneLake-Integrationen ein, einschließlich automatisierter Datenaktualisierungen zur Sicherstellung aktueller KPIs.
+\end{itemize}
+
+\textbf{Werkstudent – Data Analyst (Power BI \& Fabric)} \hfill März 2025 -- August 2025 \\  
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Entwickelte performante Power BI-Reports, die die Analysegeschwindigkeit der Fachabteilungen um \textbf{50\%} erhöhten.
+    \item Optimierte Datenmodelle und SQL-Abfragen zur Reduzierung von Berechnungs- und Abfragekosten um \textbf{20\%}.
+    \item Implementierte automatisierte Dataflows, wodurch manuelle Datenaufbereitungsprozesse um \textbf{70\%} verringert wurden.
+    \item Enge Zusammenarbeit mit Business-Stakeholdern zur Definition und Umsetzung von Reporting-Anforderungen.
+\end{itemize}
+
+\textbf{Junior Data Analyst – ETL \& Power BI} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Aufbau und Verwaltung von ETL-Pipelines mit Apache Airflow, wodurch sich operative Kosten der Datenverarbeitung um \textbf{20\%} reduzierten.
+    \item Entwickelte effiziente SQL- und Python-basierte Transformationsprozesse zur Erstellung analytischer Datensätze.
+    \item Erstellte interaktive Power BI-Dashboards mit KPIs, Drilldowns und Visual-Trends zur Prozessoptimierung.
+    \item Einführung semantischer Datenmodelle zur \textbf{30\% Leistungssteigerung} in Power BI.
+    \item Automatisierte Benachrichtigungen und Aktualisierungen für zuverlässige, aktuelle Berichte.
+\end{itemize}
+
+\section{Veröffentlichungen}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[Veröffentlichung ansehen]} \\
+Energieoptimierte Algorithmen zur effizienten Ressourcenplatzierung in Cloud-Umgebungen.
+
+\section{Projekte}  
+
+\textbf{1. Wetterdaten-ETL-Pipeline}  
+\begin{itemize}
+    \item Entwicklung einer vollautomatisierten ETL-Pipeline: Extraktion über APIs, Transformation mit Python und Laden in Snowflake.
+    \item Senkung der Datenverarbeitungskosten durch optimierte Snowpipe-Ausführung um \textbf{25\%}.
+    \item Visualisierung relevanter Umweltmetriken in Power BI.
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{2. Mobile Sales Dashboard (Power BI)}  
+\begin{itemize}
+    \item Erstellung eines KPI-basierten Dashboards zur Analyse von Umsatztrends und Kundenverhalten.
+    \item Reduzierung der Analysezeit der operativen Teams um \textbf{30\%}.
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}  
+\end{itemize}
+
+\textbf{3. Automatisiertes Sales Reporting}  
+\begin{itemize}
+    \item Aufbau einer automatisierten Python-Datenpipeline zur Datenbereinigung und Qualitätssicherung.
+    \item Verringerung der manuellen Datenaufbereitung um \textbf{20\%}.
+    \item Erstellung eines interaktiven Power BI-Dashboards mit erweiterten Visuals und Bookmarks.
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/SalesReport}{SalesReport}  
+\end{itemize}
+
+\section{Zertifikate} \begin{itemize} \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen} \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen} \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen} \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen} \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen} \end{itemize}
+
+\end{document}
