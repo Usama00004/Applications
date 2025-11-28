@@ -1,0 +1,207 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    HMS Analytical Software GmbH\\
+    Grüne Meile 29\\
+    69115 Heidelberg\\
+    deutschland
+   
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Seckenheimer Land str 4A\\
+    68163 Mannheim\\
+    Deutschland\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Werkstudent im Bereich Data Engineering / Business Intelligence}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+Mit großem Interesse bewerbe ich mich für die ausgeschriebene Position, da mich Ihr ganzheitlicher Ansatz, datengetriebene Geschäftsmodelle durch die enge Zusammenarbeit von Data Engineering, Analytics und Software Engineering zu stärken, sehr überzeugt. Ihre über 35-jährige Erfahrung im Software-Analytics-Bereich bietet ein Umfeld, in dem ich meine Kompetenzen weiter ausbauen und einen spürbaren Beitrag leisten kann.
+
+Ich studiere derzeit Global Software Development an der Hochschule Fulda und bringe bereits praktische Erfahrungen aus mehreren Projekten und Tätigkeiten im Data- und Analytics-Bereich mit. In meinem aktuellen Projekt entwickle ich ETL-Pipelines mit Python und Pandas, integriere Daten in Snowflake und arbeite mit dbt, um reproduzierbare und wartbare Transformationslogiken aufzubauen. Darüber hinaus verfüge ich über fundierte SQL-Kenntnisse sowie erste Erfahrung im Aufbau moderner Datenmodelle.
+
+Besonders im Bereich Business Intelligence konnte ich mich bereits tief einarbeiten: Ich habe mehrere Power-BI-Dashboards konzipiert und umgesetzt – unter anderem zu Lizenzanalysen für Siemens sowie zu Themen wie Datenqualität, Umweltanalytik und operativen KPIs. Neben einer sauberen Modellierung lege ich großen Wert auf aussagekräftige KPIs, eine klare Visualisierung und eine strukturierte Dokumentation. Automatisierung ist für mich ein wichtiger Bestandteil effizienter BI-Prozesse; daher entwickle ich regelmäßig Skripte oder Pipelines, um wiederkehrende Abläufe zu beschleunigen und Fehlerquellen zu minimieren.
+
+Was mich auszeichnet, ist meine schnelle Auffassungsgabe, mein Spaß am Programmieren und meine Begeisterung für moderne Technologien. Ich bringe Freude an Teamarbeit mit, arbeite aber ebenso gern selbstständig an analytischen Fragestellungen. Neue Konzepte, Tools oder Trends probiere ich aktiv aus – sei es im BI-Kontext, im Data Engineering oder im Machine-Learning-Umfeld.
+
+Ihr Fokus auf Wissensaustausch, moderne Arbeitsweisen und ein menschliches Miteinander spricht mich besonders an. Die Kombination aus fachlicher Weiterentwicklung, Flexibilität und einer offenen Unternehmenskultur entspricht genau dem Umfeld, in dem ich wachsen und mich langfristig einbringen möchte.
+
+Über die Möglichkeit, mein Engagement und meine Fähigkeiten persönlich vorzustellen, freue ich mich sehr.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Werkstudent Data Analytics \& BI}
+
+\input{_header}
+
+\begin{document}
+
+%====================
+% PROFIL
+%====================
+\section{Berufliches Profil}  
+Motivierter Data-Analytics- und BI-Werkstudent mit Erfahrung im Aufbau moderner Datenpipelines, KPI-Entwicklung und Reportautomatisierung. Fundierte Kenntnisse in SQL, Python, Power BI und Microsoft Fabric. Geübt darin, Datenmodelle zu strukturieren, neue Datenquellen anzubinden sowie aussagekräftige Dashboards zu erstellen. Leidenschaft für datengetriebene Entscheidungen, Effizienzsteigerung durch Automatisierung und moderne Datenarchitekturen.
+
+%====================
+% KERNKOMPETENZEN
+%====================
+\section{Kernkompetenzen}  
+\textbf{Datenpipelines \& Modellierung:} ETL/ELT, Dataflows, Fabric Pipelines, dbt-ähnliche Modellierung \\
+\textbf{Analyse \& Visualisierung:} Power BI, DAX, Power Query, KPI-Design, Reporting \\
+\textbf{Programmierung:} Python (Pandas, Numpy), SQL, API-Datenextraktion \\
+\textbf{Tools \& Cloud:} Microsoft Fabric, Snowflake, AWS S3, Git \\
+\textbf{Soft Skills:} Teamarbeit, analytisches Denken, Kommunikation, selbstständiges Arbeiten \\
+\textbf{Sprachen:} Englisch (C1), Deutsch (B2.2), Urdu, Hindi, Punjabi
+
+%====================
+% BILDUNG
+%====================
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore 
+
+%====================
+% BERUFSERFAHRUNG
+%====================
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Datenanalyst (Power BI \& Microsoft Fabric)} \hfill September 2025 -- Heute \\
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item Mitwirkung beim Aufbau moderner Datenpipelines in Microsoft Fabric – inkl. Dataflows, Direct Lake und automatisierten Datenprozessen.
+    \item Generierung und Validierung relevanter KPIs; Unterstützung bei datenbasierten Entscheidungen durch fundierte Analysen.
+    \item Entwicklung optisch ansprechender Power BI-Reports mit dynamischen Visuals, DAX-Messgrößen und klarer Storyline.
+    \item Strukturierung neuer Datenquellen (OneLake, Snowflake) und Integration in das bestehende BI-Umfeld.
+    \item Dokumentation von Datenflüssen, Transformationsschritten und Reporting-Logiken für bessere Teamtransparenz.
+    \item Unterstützung bei Ad-hoc-Auswertungen für verschiedene Fachbereiche.
+\end{itemize}
+
+\textbf{Werkstudent – Datenanalyst (Power BI \& Microsoft Fabric)} \hfill März 2025 -- August 2025 \\
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Aufbau skalierbarer BI-Reports und Datenmodelle in Power BI mit Fokus auf Effizienz und Benutzerfreundlichkeit.
+    \item Optimierung von DAX, Ladezeiten und Datenmodellen (Reduktion der Refresh-Zeiten um bis zu 50\%).
+    \item Unterstützung beim Anbinden neuer Datenquellen und Strukturieren analytischer Modelle.
+    \item Umsetzung regelmäßiger sowie Ad-hoc-Datenanalysen für die Fachabteilungen.
+\end{itemize}
+
+\textbf{Junior Datenanalyst – Datenpipelines \& Power BI} \hfill Jan 2021 – Juli 2022 \\
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Entwicklung von ETL-Pipelines (Python, Airflow) zur Automatisierung wiederkehrender Datenprozesse.
+    \item Extraktion und Transformation großer Datenmengen aus APIs und Webquellen mittels Python und SQL.
+    \item Erstellung interaktiver KPI-Reports in Power BI zur Visualisierung von Trends, Umsatz und Betriebskennzahlen.
+    \item Implementierung automatisierter Datenupdates und Monitoringprozesse zur Sicherstellung der Datenqualität.
+    \item Unterstützung bei kurzfristigen Business-Anfragen mit präzisen Analysen.
+\end{itemize}
+
+%====================
+% PROJEKTE
+%====================
+\section{Projekte}  
+
+\textbf{ETL-Pipeline für Wetterdaten}  
+\begin{itemize}
+    \item Aufbau einer automatisierten Pipeline zur Extraktion, Transformation und Speicherung von Wetterdaten.
+    \item Erstellung eines Power-BI-Dashboards zur Visualisierung von Temperaturtrends und Umwelt-KPIs.
+\end{itemize}
+
+\textbf{Power BI Verkaufsdashboard (Mobile Sales)}  
+\begin{itemize}
+    \item Entwicklung eines interaktiven Dashboards inklusive KPI-Berechnung, Trendanalysen und Drilldowns.
+\end{itemize}
+
+\textbf{Automatisiertes Sales-Analyse-Dashboard}  
+\begin{itemize}
+    \item Python-basierte Datenbereinigung und Automatisierung zur Verbesserung von Datenqualität und Aktualität.
+\end{itemize}
+
+%====================
+% ZERTIFIKATE
+%====================
+\section{Zertifikate}  
+\begin{itemize}
+    \item Microsoft Fabric Data Analyst (DP-700)
+    \item Microsoft Power BI Analyst (PL-300)
+    \item Microsoft Azure Fundamentals (AZ-900)
+    \item Deutsch B2.2 Sprachzertifikat
+    \item Google Datenanalyse
+    \item IBM DataStage ETL
+\end{itemize}
+
+\end{document}
