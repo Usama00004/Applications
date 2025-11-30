@@ -1,0 +1,123 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Power BI Data Analyst}
+
+\input{_header}
+
+\begin{document}
+
+\section{Professional Summary}  
+Power BI Developer and Data Analyst with hands-on experience in data warehousing, ETL pipelines, and interactive dashboard development. Proven ability to extract actionable insights from large datasets using Python, SQL, Power BI, and Snowflake. Adept in building automated pipelines and scalable BI solutions to support business intelligence and decision-making processes.
+
+\section{Core Skills}  
+\textbf{Business Intelligence & Visualization:} Power BI, DAX, Power Query, Data Modeling, Drillthroughs \\  
+\textbf{Data Warehousing:} Snowflake, Star/Snowflake Schema, Snowpipe, Dimensional Modeling \\  
+\textbf{ETL & Pipelines:} Python (Pandas, BeautifulSoup, Selenium), Airflow, SQL, Data Integration, Automation \\  
+\textbf{Cloud & Tools:} AWS S3, Git\\  
+\textbf{Soft Skills:} Problem Solving, Communication, Stakeholder Collaboration, Analytical Thinking \\  
+\textbf{Languages:} English (C1), German (B2.2), Urdu, Hindi, Punjabi  
+
+\section{Education}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Germany \hfill \textit{Expected Sept 2026} \\  
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore \hfill \textit{2016 – 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst (Power BI & DWH)} \hfill Mar 2025 – Present \\  
+\textit{Siemens Healthineers – Forchheim, Germany}  
+\begin{itemize}
+    \item Designed and developed Power BI dashboards with dynamic visuals, DAX measures, and custom KPIs for internal business units.  
+    \item Created optimized data models using Star and Snowflake schemas to enhance Power BI performance and usability.  
+    \item Integrated Snowflake data sources with Power BI and automated dataset refresh using Power BI Service.  
+    \item Collaborated with domain experts to translate business requirements into actionable visual analytics and reports.  
+    \item Supported data pipeline design with Snowpipe and Kafka to ensure timely and reliable data availability for BI consumption.  
+\end{itemize}
+
+\textbf{Junior Data Analyst – Data Pipelines & Power BI} \hfill Jan 2021 – Jul 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Built and orchestrated end-to-end data pipelines using Apache Airflow for scheduling and monitoring ETL workflows.  
+    \item Extracted data from REST APIs and web sources using Python (Requests, BeautifulSoup), and loaded it into centralized storage.  
+    \item Transformed raw data into analytical datasets using Python and SQL for reporting and visualization.  
+    \item Designed Power BI dashboards with DAX measures, interactive visuals, and filters to communicate KPIs and trends.  
+    \item Developed semantic data models (Star/Snowflake schemas) to optimize Power BI performance and usability.  
+    \item Automated data refresh and alerting mechanisms to ensure accurate and timely reporting for business stakeholders.  
+\end{itemize}
+
+\section{Publications}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[View Publication]} \\
+Proposed energy-optimized algorithms for resource placement in heterogeneous cloud environments.
+
+
+\section{Projects}  
+
+\textbf{1. Real Estate Data Pipeline and Visualization (Redfin)}  
+\begin{itemize}
+    \item Built a complete ETL pipeline to ingest real estate data from Redfin using Python; stored raw data in AWS S3 and used Snowpipe to automate loading into Snowflake.  
+    \item Cleaned and transformed data for analytical use and connected Snowflake to Power BI for dashboard creation.  
+    \item Enabled 100\% automation of data flow and reduced manual reporting time by 60\%.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{2. Weather Data ETL Pipeline}  
+\begin{itemize}
+    \item Designed an ETL pipeline to extract weather data via APIs, transform it using Python (Pandas), and load it into Snowflake.  
+    \item Connected Snowflake to Power BI to visualize temperature patterns and environmental metrics.  
+    \item Improved data freshness and reliability by automating hourly updates using Snowpipe.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{3. Mobile Sales Dashboard (Power BI)}  
+\begin{itemize}
+    \item Developed a Power BI dashboard visualizing sales and order trends from 2021 to 2024.  
+    \item Applied DAX for KPIs such as YoY Growth, Sales per Region, and Product Category Performance.  
+    \item Reduced business decision time by 30\% through clear visualization of critical metrics.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}  
+\end{itemize}
+
+\textbf{4. Automated Data Analysis Dashboard (Sales Report)}  
+\begin{itemize}
+    \item Created a Python-based preprocessing pipeline for data cleaning and error handling, integrated into Power BI dashboards.  
+    \item Reduced data processing time by 20\% and enhanced data accuracy for reporting teams.  
+    \item Used advanced visuals and bookmarks in Power BI to enable interactive exploration.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/SalesReport}{SalesReport}  
+\end{itemize}
+
+\textbf{5. Sentiment Analysis Pipeline (Twitter)}  
+\begin{itemize}
+    \item Built a pipeline to scrape tweets using BeautifulSoup and Selenium, followed by text processing and sentiment classification via Scikit-learn.  
+    \item Automated the entire pipeline, cutting manual effort by 40\% and improving analysis speed by 25\%.  
+    \item Designed an optional Power BI integration to visualize sentiment over time and by topic.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{Twitter-Sentiment-Analysis}  
+\end{itemize}
+
+
+
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{View Certificate}  
+    
+    \item \textbf{German Language B2.2 & B1} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}
+
+    \item \textbf{Google Data Analytics} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{View Certificate}  
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{View Certificate}  
+
+\end{itemize}
+
+
+
+\end{document}
