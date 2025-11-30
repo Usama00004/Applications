@@ -1,0 +1,195 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.5in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    ADAC Luftrettung gGmbH \\
+    Claude-Dornier Str 420\\
+    82234 Weßling\\
+    Deutschland
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Deutschland
+    
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Datenanalyst / Power BI & Azure Data Analyst }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+Sehr geehrte Damen und Herren,  
+
+\vspace{0.5em}
+
+mit großer Begeisterung habe ich Ihre Ausschreibung für die Position als Datenanalyst bei der ADAC Luftrettung gelesen. Besonders die Möglichkeit, die neue Datenplattform in der Microsoft Azure Cloud mitzugestalten und durch innovative Reporting-Lösungen einen direkten Beitrag zur Digitalisierung und Optimierung Ihrer Prozesse zu leisten, hat mein Interesse geweckt.  
+
+In meiner bisherigen Tätigkeit als Datenanalyst und Power BI-Entwickler konnte ich umfangreiche Erfahrungen in der Entwicklung und Optimierung interaktiver Dashboards, ETL-Pipelines und Data-Warehouse-Lösungen sammeln. Bei Bosch und Siemens Healthineers habe ich unter anderem:  
+\begin{itemize}
+    \item Power BI-Dashboards entwickelt, die Ladezeiten um bis zu 50\,\% reduziert und die Entscheidungsprozesse der Fachabteilungen deutlich beschleunigt haben,
+    \item Datenmodelle und ETL-Pipelines auf Basis von Microsoft Fabric und Snowflake erstellt, wodurch die Datenbereitstellung automatisiert und die Effizienz um bis zu 40\,\% gesteigert wurde,
+    \item Kennzahlen und KPIs für unterschiedliche Fachbereiche definiert und bestehende Reports migriert, um eine konsistente, datengetriebene Entscheidungsgrundlage sicherzustellen,
+    \item KI-gestützte Analysen eingesetzt, um Muster und Trends in großen Datensätzen zu identifizieren und so die Analysequalität um 20\,\% zu erhöhen.
+\end{itemize}
+
+Meine Expertise in Power BI, DAX, SQL, Microsoft Fabric, Azure Data Services und Data Warehousing, kombiniert mit meiner strukturierten Arbeitsweise, Teamfähigkeit und ausgeprägtem Kommunikationsvermögen, ermöglicht es mir, komplexe Datenanforderungen verständlich und praxisnah umzusetzen. Ich sehe es als meine Stärke, technische Lösungen eng mit den Fachbereichen abzustimmen und praxisnahe Reporting-Strategien zu entwickeln.  
+
+Die Chance, von Anfang an die digitale Transformation der ADAC Luftrettung aktiv mitzugestalten, motiviert mich besonders. Gerne möchte ich meine Erfahrung und Leidenschaft für Datenanalyse in Ihr Team einbringen und gemeinsam effiziente, innovative und zukunftsorientierte Lösungen entwickeln.  
+
+Über die Möglichkeit, meine Motivation und Qualifikationen in einem persönlichen Gespräch näher zu erläutern, würde ich mich sehr freuen.  
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Power BI & Azure Data Analyst}
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Erfahrener Datenanalyst und Power BI-Experte mit Schwerpunkt auf Microsoft Azure und Fabric. Umfangreiche Praxis in der Entwicklung von interaktiven Dashboards, ETL-Pipelines und Data-Warehouse-Lösungen zur effizienten Datenintegration und Analyse. Kompetent in der Umsetzung datengetriebener Geschäftsprozesse, Definition von KPIs sowie Anwendung von KI-Methoden zur Mustererkennung in großen Datenmengen. Kommunikationsstark, lösungsorientiert und erfahren in der Zusammenarbeit mit Fachbereichen. Nachweisbare Erfolge bei Performance-Steigerungen von Dashboards und Effizienzgewinnen in Datenpipelines.
+
+\section{Kernkompetenzen}  
+\textbf{BI \& Visualisierung:} Power BI, DAX, Power Query, Drillthroughs, Datenmodellierung, KPI-Definition \\   
+\textbf{Datenintegration \& ETL:} Microsoft Fabric, Dataflow, Python (Pandas, Numpy), SQL, Snowflake, Apache Airflow \\  
+\textbf{Cloud \& Tools:} Microsoft Azure, OneLake, Cosmos DB, Git, MS Data Warehouse \\  
+\textbf{KI-gestützte Analysen:} Mustererkennung, Vorhersagemodelle, datengetriebene Optimierungen \\  
+\textbf{Soft Skills:} Analytisches Denken, strukturierte Arbeitsweise, Kommunikation, Stakeholder-Management \\  
+\textbf{Sprachen:} Deutsch (B2.2/C1 angestrebt), Englisch (C1), Urdu, Hindi, Punjabi  
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland  \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore, Pakistan
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Datenanalyst (Power BI \& Microsoft Fabric)} \hfill September 2025 – Heute \\  
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item Entwicklung und Optimierung von Power BI-Dashboards in Microsoft Fabric für verschiedene Fachbereiche.  
+    \item Aufbau und Pflege von Datenmodellen auf Basis von Stern- und Schneeflockenschemata, wodurch die Ladezeiten der Dashboards um bis zu \textbf{40\%} reduziert wurden.  
+    \item Implementierung von Direct Lake-Architekturen und automatisierten Dataflows zur kontinuierlichen Datenaktualisierung, wodurch der manuelle Aufwand um \textbf{50\%} gesenkt wurde.  
+    \item Integration verschiedener Datenquellen wie Snowflake, OneLake und MS SQL in die Berichte.  
+    \item Unterstützung bei der Definition und Migration von Kennzahlen, KPIs und Reporting-Standards für Fachabteilungen.  
+    \item Anwendung von KI-Methoden zur Identifikation von Trends und Mustern in Unternehmensdaten, was zu einer \textbf{20\%igen Verbesserung} der Analysegenauigkeit führte.  
+\end{itemize}
+
+\textbf{Werkstudent – Datenanalyst (Power BI \& Microsoft Fabric)} \hfill März 2025 – August 2025 \\  
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Erstellung skalierbarer Power BI-Dashboards zur Visualisierung betrieblicher Kennzahlen.  
+    \item Optimierung von Datenmodellen, DAX-Berechnungen und Power Query-Abfragen, wodurch die Berichtsladezeit um bis zu \textbf{50\%} verbessert wurde.  
+    \item Zusammenarbeit mit Fachbereichen zur präzisen Anforderungsanalyse und Umsetzung von Reporting-Lösungen.  
+\end{itemize}
+
+\textbf{Junior Datenanalyst – Datenpipelines \& Power BI} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Aufbau und Orchestrierung von End-to-End-ETL-Pipelines zur Integration großer Datenmengen, wodurch die Datenbereitstellung um \textbf{30\%} beschleunigt wurde.  
+    \item Extraktion und Transformation von Rohdaten aus APIs, Datenbanken und Webquellen für analytische Reports.  
+    \item Entwicklung interaktiver Power BI-Dashboards mit KPI-Dashboards, Drillthroughs und semantischen Datenmodellen.  
+    \item Automatisierung der Datenbereitstellung und Implementierung von Qualitätsprüfungen, wodurch die Fehlerquote in Reports um \textbf{25\%} reduziert wurde.  
+\end{itemize}
+
+\section{Projekte}  
+
+\textbf{Wetterdaten-ETL-Pipeline}  
+\begin{itemize}
+    \item Automatisierte Extraktion von Wetterdaten, Transformation mittels Python und Laden in Snowflake.  
+    \item Integration in Power BI für interaktive Visualisierung von Umweltmetriken.  
+    \item Umsetzung eines kontinuierlichen Aktualisierungssystems zur Datenaktualität, was die Datenlatenz um \textbf{35\%} verringerte.  
+\end{itemize}
+
+\textbf{Mobile Verkaufsdashboard (Power BI)}  
+\begin{itemize}
+    \item KPI-Analyse, Trendvisualisierung und Performance-Auswertungen für Verkaufsdaten (2021–2024).  
+    \item Steigerung der Entscheidungsfähigkeit durch gezielte Visualisierung relevanter Kennzahlen, wodurch die Entscheidungszeit um \textbf{30\%} reduziert wurde.  
+\end{itemize}
+
+\section{Zertifikate} 
+\begin{itemize} 
+    \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen} 
+    \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen} 
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen} 
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen} 
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
