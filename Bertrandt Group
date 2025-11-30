@@ -1,0 +1,204 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst}
+
+\input{_header}
+
+\begin{document}
+
+%====================
+% PROFIL
+%====================
+\section{Berufliches Profil}  
+Power BI Entwickler und Data Analyst mit Schwerpunkt auf der Erstellung skalierbarer, nutzerorientierter Dashboards für komplexe technische Zusammenhänge. Erfahren in der Verarbeitung großer Datenmengen (Big Data), Telematikdaten, SQL-Backends sowie UI/UX-optimierten BI-Lösungen. Fundierte Erfahrung in ETL/ELT-Prozessen, Data Engineering, agilen Methoden sowie internationaler Zusammenarbeit. Starker Fokus auf Qualität, Performance, Wiederverwendbarkeit und Validierung von Datenprodukten.
+
+%====================
+% KERNKOMPETENZEN
+%====================
+\section{Kernkompetenzen}  
+\textbf{Power BI Excellence:} Datenmodellierung, DAX, Power Query, Composite Models, Performance Optimization, UX-Design \\
+\textbf{SQL \& Data Engineering:} SQL, ETL/ELT, Dataflows, Fabric Pipelines, Airflow, Python (Pandas) \\
+\textbf{Architektur \& Governance:} BI-Governance, Stern-/Schneeflockenschema, Data Quality \\
+\textbf{Kennzahlen \& Analytik:} KPI-Definition, Trendanalyse, Anomalieerkennung \\
+\textbf{Soft Skills:} Stakeholder-Management, klare Kommunikation, agiles Arbeiten (Scrum, SAFe) \\
+\textbf{Sprachen:} Deutsch (B2), Englisch (C1), Urdu, Hindi, Punjabi
+
+%====================
+% BILDUNG
+%====================
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland  \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore 
+
+%====================
+% ERFAHRUNG
+%====================
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Power BI \& Data Analytics (Telematik \& Fabric)} \hfill September 2025 -- Heute \\
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item Aufbau skalierbarer Power BI Dashboards zur Visualisierung komplexer technischer Zusammenhänge basierend auf Telematik- und Sensordaten.
+    \item Auswahl optimaler Visualisierungsmethoden (Zeitreihen, KPIs, Fehlermuster) unter Einhaltung von UX/UI-Standards.
+    \item Validierung und Hinterfragung der Analyseergebnisse in Zusammenarbeit mit Engineering-, Telematik- und Service-Teams.
+    \item Entwicklung modularer, wiederverwendbarer Modelldefinitionen und DAX-Messgrößen für unterschiedliche Produktlinien.
+    \item Aufbau von Direct Lake und Dataflow-basierten Pipelines zur Performanceoptimierung für Big-Data-Szenarien (+10.000 Fahrzeuge, 1s Datenrate).
+    \item Enge Zusammenarbeit mit internationalen Teams (Indien) zur Delegation von ETL/ELT-Aufgaben.
+\end{itemize}
+
+\textbf{Werkstudent – Data Analytics (Power BI \& SQL)} \hfill März 2025 -- August 2025 \\  
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Erstellung nutzerzentrierter Dashboards zur Lizenz- und Gerätemonitoring-Analyse für globale Stakeholder.
+    \item Performance-Optimierung von Berichten durch fortgeschrittene DAX-Techniken, modellbasierte Optimierungen und Power Query.
+    \item Durchführung von User-Testing und kontinuierlicher Weiterentwicklung der Dashboards basierend auf Feedback.
+    \item Zusammenarbeit mit Data Engineering Teams zur Anbindung von SQL-Backends und zur Sicherstellung hoher Datenqualität.
+\end{itemize}
+
+
+\textbf{Junior Datenanalyst – Datenpipelines \& Power BI} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Entwicklung robuster ETL-Pipelines (Airflow, Python, SQL) zur Verarbeitung großer Datenmengen aus APIs und Sensordatenquellen.
+    \item Erstellung skalierbarer Power BI-Dashboards inkl. KPI-Berechnung, Drilldowns, dynamischer Filter und Zeitreihenanalysen.
+    \item Aufbau relationaler Datenmodelle für Analysezwecke (Stern-/Schneeflocken-Schema).
+    \item Sicherstellung hoher Datenqualität und Datenzuverlässigkeit durch Validierungsmechanismen.
+    \item Zusammenarbeit mit cross-funktionalen Teams zur Umsetzung datengetriebener Lösungen.
+\end{itemize}
+
+%====================
+% PROJEKTE
+%====================
+
+\section{Projekte}  
+
+\textbf{1. Hochfrequenz-Telematikdatenanalyse (Big Data)}  
+\begin{itemize}
+    \item Verarbeitung großer Sensordaten zehntausender Geräte mit Python (Pandas) und SQL.
+    \item Entwicklung von Power BI-Dashboards über Millionen Zeitstempel hinweg (1s Rate).
+    \item Fokus auf Performance: Aggregation, Partitionierung, optimierte Beziehungen.
+\end{itemize}
+
+\textbf{2. Wetterdaten-ETL-Pipeline}  
+\begin{itemize}
+    \item Entwicklung einer API-basierten ETL-Pipeline (Python + Snowflake).
+    \item Verbindung mit Power BI zur Visualisierung von Zeitreihen und Umweltmetriken.
+\end{itemize}
+
+\textbf{3. Mobile Verkaufsdashboards (UX-Optimiert)}  
+\begin{itemize}
+    \item UX-orientiertes Dashboard-Design inkl. KPI-Layouts, Navigation und Interaktionskonzept.
+\end{itemize}
+
+%====================
+% ZERTIFIKATE
+%====================
+\section{Zertifikate} \begin{itemize} \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen} \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen} \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen} \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen} \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen} \end{itemize}
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Bertrandt Ingenieurbüro GmbH\\
+    Augustaanlage 18\\
+    68165 Mannheim\\
+    Deutschland
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderich str  47A \\
+    60594 Frankfurt am Main\\
+    Hessen Germany\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Power BI Developer / Data Analyst – Schwerpunkt Telematikdaten & Power BI}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse bewerbe ich mich für die Position im Bereich Power BI / Data Analytics. Die Arbeit mit Big Data, Telematikdaten und UX-orientierten Dashboards entspricht genau meinem Profil. Durch meine Erfahrung in der Entwicklung skalierbarer Power-BI-Lösungen sowie in der Analyse komplexer technischer Datensätze kann ich einen spürbaren Mehrwert für Ihr Team leisten.
+
+Bei Bosch entwickelte ich performante Power-BI-Dashboards auf Basis hochfrequenter Telematik- und Sensordaten. Dabei lag mein Fokus auf skalierbaren Datenmodellen, Wiederverwendbarkeit, Performanceoptimierung und der passgenauen Visualisierung technischer Zusammenhänge. Zudem übernahm ich die Validierung der Ergebnisse und führte User Tests in enger Abstimmung mit Produkt- und Engineering-Teams durch.
+
+Während meiner Tätigkeit bei Siemens Healthineers optimierte ich DAX-Berechnungen, Datenmodelle und Dataflows und arbeitete intensiv mit SQL-Backends und Microsoft Fabric. Die Zusammenarbeit mit internationalen Stakeholdern sowie die Anwendung agiler Methoden gehörten zu meinem Arbeitsalltag.
+
+Ich bringe exzellente Power-BI-Kompetenzen, sehr gute SQL-Kenntnisse sowie Erfahrung im Umgang mit großen Datenmengen und ETL/ELT-Prozessen mit. Besonders wichtig ist mir, Dashboards nicht nur technisch sauber, sondern auch intuitiv, klar und nutzerorientiert zu gestalten.
+
+Ich freue mich darauf, meine analytischen und technischen Fähigkeiten in Ihrem Unternehmen einzubringen und gemeinsam hochwertige datengetriebene Lösungen zu entwickeln.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
