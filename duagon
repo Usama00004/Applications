@@ -1,0 +1,219 @@
+\documentclass{resume}
+
+\usepackage[left=0.4in,top=0.2in,right=0.4in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%   ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZIEL}
+Analytisch denkender Werkstudent im Bereich Business Intelligence mit Erfahrung in Power BI, SQL, Python und Datenmodellierung. Fokus auf Datenqualität, Dashboardentwicklung und Automatisierung von Reportingprozessen. Strebe eine Werkstudentenstelle an, um datengetriebene Entscheidungen und BI-Prozesse aktiv zu unterstützen.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill März 2027 \\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill 2016 -- 2020
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+
+\textbf{Technische Fähigkeiten:} Power BI, Python, SQL, Excel, ETL, Data Modeling, DAX, Pandas, NumPy, Selenium, BeautifulSoup, Git \\
+\textbf{Soft Skills:} Analytisches Denken, Teamfähigkeit, Selbstständige Arbeitsweise, Strukturierte Problemlösung \\
+\textbf{Sprachen:} Deutsch (B2), Englisch (C1), Urdu, Punjabi, Hindi
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- laufend \\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Entwickelte interaktive Power BI-Dashboards zur Optimierung von Produktions- und Logistikprozessen und erhöhte deren Nutzungsrate um 35\%.
+    \item Modellierte skalierbare Datenmodelle und implementierte präzise DAX-Kennzahlen zur KPI-Automatisierung.
+    \item Automatisierte Datenpipelines (SQL, API), wodurch der manuelle Aufwand um 30\% reduziert wurde.
+    \item Verbessertes Reporting-Konzept reduzierte Datenverarbeitungs- und Reportingzeiten um 25\%.
+    \item Identifizierte redundante Datenquellen und verringerte dadurch Infrastrukturkosten um 10\%.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025 \\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Unterstützte BI- und Analytics-Projekte über den gesamten Entwicklungszyklus (Anforderung, ETL, Modellierung, Reporting).
+    \item Entwickelte performante Power BI-Reports für Controlling- und Logistikbereiche zur Verbesserung der Entscheidungsfindung.
+    \item Optimierte SQL-Abfragen und Transformationsprozesse und steigerte die Datenverarbeitungsleistung um 20\%.
+    \item Implementierte API-Integrationen zur Vereinheitlichung heterogener Datenquellen.
+    \item Standardisierte KPI-Definitionen erhöhten die Datenkonsistenz und Transparenz im Reporting.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022 \\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Designte und betreute ETL-Pipelines mit Python und SQL zur Datenaufbereitung und -integration.
+    \item Entwickelte skalierbare Power BI-Dashboards für verschiedene Geschäftsbereiche mit Fokus auf Performance.
+    \item Automatisierte API-basierte Datenerfassungsprozesse und reduzierte manuellen Aufwand um 40\%.
+    \item Verbessert durch optimierte Datenmodelle die Berechnungszeiten um 20\%.
+    \item Trug zur Datenqualitätsverbesserung durch Validierungs- und Bereinigungsprozesse bei.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Sales Analytics Dashboard:} Power BI Dashboard zur Trendanalyse basierend auf bereinigten Python-Datenpipelines; reduzierte Verarbeitungslatenz um 20\%.  
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Real-Time Stream Processing:} Entwicklung einer Echtzeit-Pipeline (Kafka, Flink, PostgreSQL), die latenzarme Datenverarbeitung ermöglicht.  
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse:} Automatisiertes Web-Scraping (Selenium, BeautifulSoup) zur Reduzierung manueller Datenaufbereitung um 40\% und Verbesserung der Analysegeschwindigkeit um 25\%.  
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%   ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}
+
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen}
+    \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen}
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Duagon AG\\
+    Neuwieder Strasse 1-7\\
+    90411 Nürnberg\\
+    Deutschland
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Wisendorfer Str 28 \\
+    91056 Erlangen\\
+    Germany\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Werkstudent (w/m/d) Business Intelligence}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse bewerbe ich mich auf die Position als Werkstudent im Bereich Business Intelligence an Ihrem Standort in Nürnberg. Der Aufgabenbereich – insbesondere die Erstellung von Dashboards, die Analyse großer Datenmengen und die Weiterentwicklung von BI-Prozessen entspricht exakt meinem akademischen Hintergrund sowie meiner praktischen Erfahrung aus datengetriebenen Projekten bei Bosch, Siemens und Systems Limited.
+
+Aktuell studiere ich im Masterstudiengang Global Software Development und arbeite parallel als Data-Analytics-Praktikant bei der Bosch GmbH. Dort entwickle ich Power BI-Dashboards, modelliere Datenquellen und automatisiere Reportingprozesse über SQL und API-Pipelines. Durch diese Automatisierungen konnte ich den manuellen Aufwand um 30\% und die Reportingzeiten um 25\% reduzieren. Zusätzlich habe ich im Rahmen der Datenstandardisierung redundant gespeicherte Quellen identifiziert und dadurch operative Kosten um 10 \% gesenkt.
+
+Während meiner Tätigkeit als Werkstudent bei Siemens konnte ich mein Wissen in Datenmodellierung, ETL-Prozessen und KPI-Definitionen weiter vertiefen. Durch optimierte SQL-Abfragen verbesserte ich die Datenverarbeitungsleistung um 20\% und stellte sicher, dass Reports für Controlling- und Logistikteams konsistent und aussagekräftig bereitstehen. Auch in früheren Rollen habe ich umfangreiche Erfahrung in der Datenbereinigung, Automatisierung und Erstellung skalierbarer BI-Lösungen gesammelt.
+
+Ich verfüge über fundierte Kenntnisse in Power BI, SQL, Excel, Python sowie über praktische Erfahrung im Bereich Datenqualität, Datenmodellierung und Data Analytics. Mein analytischer Denkstil, meine selbstständige Arbeitsweise sowie eine hohe Motivation, komplexe Probleme datenbasiert zu lösen, unterstützen mich dabei, effizient und zuverlässig Ergebnisse zu liefern.
+
+Ich freue mich sehr über die Möglichkeit, Ihr BI-Team zu verstärken und Ihre datengetriebenen Entscheidungsprozesse aktiv zu unterstützen. Gerne überzeuge ich Sie in einem persönlichen Gespräch von meiner Motivation und meinen Fähigkeiten.
+
+Vielen Dank für Ihre Zeit und die Berücksichtigung meiner Bewerbung.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
