@@ -1,0 +1,202 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=0.8in, bottom=0.8in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Mybacs\\
+    Infanterie str 11a \\
+    80797 Munich\\
+    Germany
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for the position Business Intelligence Analyst }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my enthusiasm for the Working Student position in Business Intelligence and Analytics at your company. With a strong academic foundation in data analytics, hands-on experience in Power BI, SQL, and Python, and an analytical mindset shaped through real-world BI projects, I am excited about the opportunity to contribute to your mission of making health and everyday well-being a meaningful lifestyle concept.
+
+Currently, I am pursuing my M.Sc. in Global Software Development at Hochschule Fulda, where I have sharpened my skills in data modeling, dashboard design, and analytical thinking. Alongside my studies, I am working as a Data Analyst at Siemens Healthineers, where I develop dashboards, analyze business metrics, and support cross-functional teams in data-driven decision-making. This role has strengthened my ability to translate raw data into actionable insights, communicate findings to non-technical audiences, and approach problems with precision and curiosity.
+
+Your emphasis on a structured and analytical mindset, strong attention to detail, and fluency in interpreting e-commerce and retail metrics resonates strongly with my experience. I have designed multiple KPI-driven dashboards, automated reporting workflows, and worked extensively with metrics such as sales trends, conversion patterns, customer segmentation, and operational performance. I am also proficient in Excel/Google Sheets and have experience with BI tools such as Power BI and Looker-like environments. My proactive attitude drives me to explore patterns, validate assumptions, and deliver insights that genuinely impact business outcomes.
+
+Beyond technical expertise, what motivates me most is joining an ambitious, mission-driven team like yours—one that values growth, learning, and collaboration. I thrive in environments where curiosity and initiative are encouraged, and I am excited by the opportunity to contribute to innovative health and wellness products backed by scientific research. The culture you describe—young, motivated, and united by a shared purpose—aligns perfectly with the environment in which I do my best work.
+
+I would welcome the opportunity to contribute to your BI and analytics initiatives and support your team in turning complex data into meaningful insights that drive business value. Thank you for considering my application. I look forward to the possibility of discussing how my skills and enthusiasm align with your needs.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://github.com/Usama00004}{https://github.com/Usama00004}
+
+\end{document}
+
+
+
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{ Data Analytics  \&  BI}
+
+\input{_header}
+
+\begin{document}
+
+\section{Professional Summary}  
+Detail-oriented and analytical BI & Data Analyst with experience in e-commerce analytics, dashboard development, KPI tracking, and data preparation. Skilled in Power BI, SQL, Python, and Excel to translate business metrics into actionable insights. Adept at supporting cross-functional teams, improving reporting accuracy, and enabling data-driven decision-making. Strong communication skills and proactive, curiosity-driven mindset.
+
+\section{Core Skills}  
+\textbf{Business Analytics:} E-commerce KPIs, Retail Metrics, A/B Analysis, Customer Behavior Insights \\  
+\textbf{Data Visualization:} Power BI, DAX, Power Query, Data Modeling, Storytelling Dashboards \\  
+\textbf{Data Management:} Snowflake, SQL, Star/Snowflake Schema, ETL Pipelines, Data Quality \\  
+\textbf{Tools \& Automation:} Python (Pandas, Selenium), Airflow, Excel/Google Sheets (Pivot Tables, Lookups, Charts) \\  
+\textbf{Soft Skills:} Communication, Stakeholder Collaboration, Analytical Thinking, Problem-Solving \\  
+\textbf{Languages:} English (C1), German (B2.2), Urdu, Hindi, Punjabi  
+
+\section{Education}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Germany \hfill \textit{Expected Sept 2026} \\  
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore \hfill \textit{2016 – 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst (Power BI \& DWH)} \hfill Mar 2025 – Present \\  
+\textit{Siemens Healthineers – Forchheim, Germany}  
+\begin{itemize}
+    \item Developed and optimized Power BI dashboards for product and operations teams, improving insight delivery speed by 35\%.  
+    \item Built structured data models using Snowflake schemas, enhancing report performance and usability.  
+    \item Integrated Snowflake with Power BI and automated refresh cycles, reducing manual reporting effort by 50\%.  
+    \item Communicated insights to non-technical stakeholders through clear visualizations and KPI explanations.  
+    \item Collaborated with domain experts to translate business requirements into measurable and actionable BI metrics.  
+    \item Improved data pipeline reliability by contributing to Snowpipe and Kafka-based ingestion flows.  
+    \item Reduced operational reporting costs by 18\% by automating recurring analytics and eliminating manual processes.  
+\end{itemize}
+
+\textbf{Junior Data Analyst – Data Pipelines \& Reporting} \hfill Jan 2021 – Jul 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Orchestrated ETL workflows using Apache Airflow, increasing pipeline reliability by 40\%.  
+    \item Extracted real-time data from APIs and web sources using Python, improving data availability for business reporting.  
+    \item Transformed raw datasets into business-ready tables, reducing data preparation time by 30\%.  
+    \item Designed Power BI dashboards for e-commerce and operational KPIs (sales, traffic, conversion), supporting business teams with actionable insights.  
+    \item Built semantic models to improve dashboard performance and reduce query load by 25\%.  
+    \item Automated alerts and data refreshes, improving reporting accuracy and timeliness by 45\%.  
+\end{itemize}
+
+\section{Publications}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[View Publication]} \\
+Developed energy-optimized algorithms for resource placement in heterogeneous cloud environments.
+
+\section{Projects}  
+
+\textbf{1. Real Estate Data Pipeline and Visualization (Redfin)}  
+\begin{itemize}
+    \item Built a full ETL pipeline to ingest real estate data using Python, storing raw data in AWS S3 and loading to Snowflake with Snowpipe.  
+    \item Delivered Power BI dashboards for trend analysis, automating 100\% of the reporting flow and reducing manual workload by 60\%.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{2. Mobile Sales Dashboard (Power BI)}  
+\begin{itemize}
+    \item Developed a Power BI dashboard to analyze multi-year sales performance with DAX-driven KPIs.  
+    \item Reduced business decision-making time by 30\% by simplifying visibility into product and regional trends.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}  
+\end{itemize}
+
+\textbf{3. Automated Data Analysis Dashboard (Sales Report)}  
+\begin{itemize}
+    \item Designed a Python preprocessing pipeline that increased data accuracy and reduced cleanup time by 20\%.  
+    \item Enhanced dashboard interactivity with bookmarks and advanced Power BI visuals.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/SalesReport}{SalesReport}  
+\end{itemize}
+
+\textbf{4. Sentiment Analysis Pipeline (Twitter)}  
+\begin{itemize}
+    \item Automated tweet scraping and sentiment classification using Scikit-learn, reducing manual work by 40\%.  
+    \item Integrated results into Power BI for real-time visualization of sentiment trends.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{Twitter-Sentiment-Analysis}  
+\end{itemize}
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{View Certificate} 
+
+    \item \textbf{Microsoft Fabric Data Engineer (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{View Certificate}  
+
+    
+    \item \textbf{German Language B2.2 \& B1} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}
+    \item \textbf{Google Data Analytics} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{View Certificate}  
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{View Certificate}  
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
