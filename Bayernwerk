@@ -1,0 +1,194 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Bayernwerk AG \\
+    Lilienthalstraße 7\\
+    93049 Regensburg\\
+    Deutschland
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Deutschland\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Werkstudent Reporting \& Data Solutions | Stellen-Id 241325 }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+Sehr geehrte Damen und Herren,
+
+mit großer Begeisterung habe ich Ihre Stellenausschreibung für die Position als Werkstudent Reporting \& Data Solutions gelesen. Als Masterstudent im Bereich Global Software Development mit praktischer Erfahrung in Power BI, SQL, Python und der Entwicklung datengetriebener Lösungen unterstütze ich sehr gerne Ihr Team in Regensburg besonders, da mich die Energiebranche und der Digitalisierungsansatz regionaler Versorgungsnetze stark faszinieren.
+
+Durch meine Praktikumserfahrung bei Bosch konnte ich fundierte Kenntnisse im Aufbau und der Weiterentwicklung von Reports sowie in der Umsetzung skalierbarer Datenlösungen erwerben. Bei Bosch habe ich Power BI Berichte mit DAX und semantischen Datenmodellen optimiert und damit die Ladezeiten um 40\% reduziert. Zusätzlich entwickelte ich automatisierte Dataflows und unterstützte das Troubleshooting von Datenbeladungsprozessen – Tätigkeiten, die unmittelbar zu den Anforderungen Ihrer Position passen.
+
+Im Umgang mit SQL, Python (Pandas, Numpy) sowie ETL-Workflows bin ich bestens vertraut. Während meiner Tätigkeit bei Systems Limited habe ich vollständige Datenpipelines orchestriert, API-Daten integriert und Datenqualität sowie Aktualisierungsprozesse nachhaltig verbessert. Dabei konnte ich Abläufe effizienter gestalten und die internen Verarbeitungskosten um 20\% senken.
+
+Was mich an Bayernwerk besonders anspricht, ist Ihr Anspruch, moderne Energienetze durch datengetriebene Lösungen zu stärken, sowie Ihr Teamgedanke „Wir vor ich“. Diese Werte entsprechen meinem eigenen Arbeitsstil: verantwortungsbewusst, lösungsorientiert und stets darauf bedacht, im Team gemeinsam Ziele zu erreichen. Die Aussicht, Teil eines zukunftsweisenden Unternehmens im E.ON-Konzern zu werden und aktiv zur Weiterentwicklung Ihrer Daten- und Reportinglandschaft beizutragen, motiviert mich sehr.
+
+Gerne möchte ich mein technisches Wissen, meine analytischen Fähigkeiten und meine Begeisterung für Daten in Ihrem Team einbringen. Über die Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Power BI | SQL | Python}
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Werkstudent und Datenanalyst mit Schwerpunkt Reporting, Datenmodellierung und Datenlösungen. Erfahrung in Power BI, SQL, Python sowie technischen Recherchen, Datenbeladungsprozessen und Troubleshooting. Starke analytische Fähigkeiten, strukturierte Arbeitsweise und Begeisterung für Energie- und Infrastrukturdaten. Nachweisliche Erfolge in Performance-Optimierung und Automatisierung von Datenprozessen.
+
+\section{Kernkompetenzen}  
+\textbf{Reporting \& BI:} Power BI, DAX, Power Query, Datenmodellierung, KPI-Entwicklung \\   
+\textbf{Data Solutions:} SQL, Python (Pandas, Numpy), ETL-Pipelines, Airflow, Dataflows \\  
+\textbf{Analyse \& Automation:} Data Cleaning, komplexe Datenanalysen, Troubleshooting, Recherchen \\  
+\textbf{Cloud \& Tools:} Microsoft Fabric, Snowflake, Git, AWS S3 \\  
+\textbf{Soft Skills:} Analytisches Denken, Teamgeist, Verantwortungsbewusstsein, Problemlösung \\  
+\textbf{Sprachen:} Deutsch, Englisch
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland  \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore 
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Datenanalyst (Power BI \& Microsoft Fabric)} \hfill September 2025 -- Heute \\  
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item Mitwirkung bei der Erstellung, Weiterentwicklung und Optimierung von Power BI Reports, inkl. DAX, Drillthroughs und KPI-Definitionen.
+    \item Analyse und Transformation großer Datenmengen sowie Durchführung technischer Recherchen für Reporting-Anforderungen.
+    \item Entwicklung strukturierter Datenmodelle (Stern-/Schneeflockenschema), wodurch die Berichts-Performance um \textbf{40\% verbessert} wurde.
+    \item Aufbau automatisierter Datenlösungen über Dataflows, Direct Lake und Fabric Pipelines zur Reduzierung manueller Prozesse.
+    \item Identifikation redundanter Datenladeprozesse und Umsetzung effizienterer Pipelines, was die internen ETL-Kosten um \textbf{15\% senkte}.
+    \item Durchführung von Troubleshooting, Monitoring von Ladeprozessen und Optimierung von Refresh-Zyklen.
+\end{itemize}
+
+
+\textbf{Junior Datenanalyst – Datenpipelines \& Power BI} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Aufbau, Verwaltung und Überwachung von ETL-Pipelines mit Python und Apache Airflow.
+    \item Extraktion und Bereinigung von Daten aus APIs und Webquellen mittels Python (Requests, BeautifulSoup).
+    \item Durchführung komplexer Datenanalysen in Python und SQL zur Erstellung hochwertiger Reporting-Datensätze.
+    \item Erstellung interaktiver Power BI-Reports inkl. DAX-Messgrößen, Filtern und KPI-Strukturen.
+    \item Automatisierung von Aktualisierungen und Benachrichtigungen, was die Datenverarbeitungszeit um \textbf{30\% verbesserte}.
+    \item Reduktion manueller Aufbereitungskosten durch automatisierte Transformationsskripte um \textbf{20\%}.
+\end{itemize}
+
+\section{Veröffentlichungen}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[Veröffentlichung ansehen]} 
+
+\section{Projekte}  
+\textbf{Wetterdaten-ETL-Pipeline}  
+\begin{itemize}
+    \item Entwicklung einer vollständigen ETL-Pipeline (Python, APIs, Snowflake) inklusive stündlicher Aktualisierung per Snowpipe.
+    \item Aufbau automatisierter Verbindungen zu Power BI zur Darstellung von Umwelt- und Temperaturmetriken.
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{Mobile Verkaufsdashboard (Power BI)}  
+\begin{itemize}
+    \item Erstellung eines interaktiven Dashboards zur Analyse von Verkaufsdaten (2021–2024).
+    \item Verbesserte Entscheidungsfindung um \textbf{30\%} durch gezielte KPI-Strukturierung.
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}  
+\end{itemize}
+
+\textbf{Sales-Analyse Dashboard (Power BI)}  
+\begin{itemize}
+    \item Aufbau einer automatisierten Datenvorbereitung in Python zur Steigerung der Datenqualität um \textbf{20\%}.
+    \item Erstellung moderner, interaktiver Reports mit erweiterten Visuals und Lesezeichen.
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/SalesReport}{SalesReport}  
+\end{itemize}
+
+\section{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen}
+    \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen}
+\end{itemize}
+
+\end{document}
+
+
+
+
+
+
+
+
