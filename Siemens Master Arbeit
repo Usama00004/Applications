@@ -1,0 +1,194 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Siemens Healthineers\\
+    Siemensstraße 3\\
+    91301 Forchheim\\
+    Deutschland\\
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir\\
+    Wisendorfer Str 28\\
+    91056 Erlangen\\
+    Deutschland\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung für die Masterarbeit im Bereich datenbasierte Use Cases und Systemanalyse}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Ausschreibung für eine Masterarbeit im Bereich datenbasierte Use Cases und Systemanalyse gelesen. Die Kombination aus Data Science, ingenieurwissenschaftlichem Denken und praxisnaher Implementierung von Proof of Concepts entspricht genau meinen Interessen und bisherigen Erfahrungen.
+
+Aktuell studiere ich Master Global Software Development an der Hochschule Fulda und habe bereits fundierte Kenntnisse im Umgang mit Daten aus verschiedensten Quellen erworben. Während meiner bisherigen Tätigkeiten im Bereich Data Analysis und Data Warehousing habe ich umfangreiche Erfahrungen in der Datenextraktion, -transformation und -modellierung gesammelt. Insbesondere die Analyse von Datenqualität, die Erstellung datenbasierter Insights und die Ableitung von Handlungsempfehlungen gehören zu meinen Kernkompetenzen.
+
+Die in Ihrer Ausschreibung genannten Aufgaben, wie die Identifikation bestehender Datenquellen entlang des Produktlebenszyklus, die Bewertung der Datenqualität sowie die Definition und Umsetzung von datenbasierten Use Cases, entsprechen genau meinem Profil. Besonders spannend finde ich die Möglichkeit, eine Roadmap zu entwickeln, die Impact und Machbarkeit abwägt, sowie die praktische Umsetzung eines Proof of Concepts. Meine analytische Arbeitsweise, gepaart mit sicherem Umgang mit Tools wie Python, Pandas, Power BI und Snowflake, ermöglicht mir, komplexe Datenanforderungen effizient zu analysieren und umzusetzen.
+
+Ich bin überzeugt, dass ich mit meiner Kombination aus technischem Know-how, analytischer Kompetenz und praktischer Erfahrung in Data Analysis einen wertvollen Beitrag zu Ihrem Team leisten kann. Gerne möchte ich die Gelegenheit nutzen, meine Fähigkeiten in einem innovativen und zukunftsorientierten Umfeld wie Siemens Healthineers einzubringen und weiterzuentwickeln.
+
+Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usama.tahir.contact@gmail.com}{usama.tahir.contact@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% KONTAKTINFORMATIONEN
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+49 - 176 84973934}
+\def\city{Deutschland}
+\def\email{usama.tahir.contact@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst | Power BI \& Fabric}
+
+\input{_header}
+
+\begin{document}
+
+\section{Berufliches Profil}  
+Datenanalyst mit Schwerpunkt auf datengetriebenen Lösungen, Lifecycle-Analysen und Datenqualitätsmanagement. Erfahrung in der Identifikation, Integration und Bewertung unterschiedlicher Datenquellen entlang von End-to-End-Datenprozessen. Versiert in BI, Datenmodellierung, ETL, automatisierten Pipelines und Proof-of-Concept-Entwicklungen zur Unterstützung von datenbasierten Entscheidungen in komplexen Systemlandschaften. Starke Fähigkeit, strukturierte technische Analysen und Umsetzungsroadmaps zu erstellen.
+
+\section{Kernkompetenzen}  
+\textbf{Daten \& Lifecycle Analyse:} Datenqualitätsbewertung, Datenquellenanalyse, PoC-Entwicklung, Lifecycle-Datenintegration \\   
+\textbf{BI \& Visualisierung:} Power BI, DAX, Power Query, Datenmodellierung \\   
+\textbf{Data Engineering:} Microsoft Fabric Data Engineer, Python (Pandas, Numpy), Pyspark, Airflow, KQL\\  
+\textbf{Cloud \& Tools:} Microsoft Fabric, Snowflake, AWS S3, Git\\  
+\textbf{Soft Skills:} Analytisches Denken, Stakeholder-Kommunikation, Selbstständige Einarbeitung, Strukturierte Arbeitsweise \\  
+\textbf{Sprachen:} Englisch (C1), Deutsch (B2.2), Urdu, Hindi, Punjabi  
+
+\section{Bildung}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland  \\  
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore 
+
+\section{Berufserfahrung}  
+
+\textbf{Praktikant – Datenanalyst (Microsoft Power BI \& Microsoft Fabric)} \hfill September 2025 -- Heute \\  
+\textit{Bosch GmbH – Reutlingen, Deutschland}  
+\begin{itemize}
+    \item \textbf{Analysierte, identifizierte und integrierte} Datenquellen für Entwicklungs-, Test- und Betriebsprozesse zur Unterstützung eines verbesserten Lifecycle-Datenverständnisses.  
+    \item Optimierte Datenmodelle (Stern/Schneeflocke), wodurch Ladezeiten um \textbf{40\% verbessert} wurden.  
+    \item Automatisierte ETL- und Direct-Lake-Pipelines implementiert und damit die Datenverfügbarkeit um \textbf{35\% erhöht}.  
+    \item Bewertete Datenqualität durch Profiling, Validierungsregeln und Fehlererkennung.  
+    \item Entwickelte ein skalierbares PoC-Framework für datengetriebene Analyse-Features.  
+    \item Reduzierte Infrastruktur- und Verarbeitungskosten um \textbf{15\%} durch Optimierung von Speicherzugriffen und Abfragefrequenzen.
+\end{itemize}
+
+\textbf{Werkstudent – Datenanalyst (Power BI \& Microsoft Fabric)} \hfill März 2025 -- August 2025 \\  
+\textit{Siemens Healthineers – Forchheim, Deutschland}  
+\begin{itemize}
+    \item Unterstützte die Datenerhebung und -analyse entlang des Produktlebenszyklus in Entwicklungs- und Betriebsprozessen.  
+    \item Optimierte DAX, Power Query und Datenmodelle und verbesserte die Berichtslaufzeit um \textbf{50\%}.  
+    \item Mitarbeit an Use-Case-Definitionen für Predictive Analytics und datenbasierte Produktoptimierung.  
+    \item Erstellte technische Anforderungen für Datenverarbeitungssysteme und bereitete Roadmaps für zukünftige Integrationen vor.  
+    \item \textbf{Verbesserte und automatisierte} Dataflows und Direct-Lake-Strukturen zur Beschleunigung der Datenbereitstellung.
+\end{itemize}
+\newpage
+\textbf{Junior Datenanalyst – Datenpipelines \& Power BI} \hfill Jan 2021 – Juli 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Entwickelte und orchestrierte ETL-Pipelines mit Apache Airflow zur Überwachung und Echtzeit-Steuerung von Datenprozessen.  
+    \item Extrahierte und integrierte Daten aus REST-APIs und Webquellen zur Zentralisierung analytischer Datensätze.  
+    \item Transformierte Rohdaten in hochwertig strukturierte Analyse-Outputs und verbesserte Datenkonsistenz um \textbf{25\%}.  
+    \item Entwickelte interaktive Power BI-Dashboards mit KPIs, Trends und Drill-Down-Analysen.  
+    \item Automatisierte Datenaktualisierung, Validierung und Benachrichtigungen für verlässliche tägliche Berichte.  
+\end{itemize}
+
+\section{Veröffentlichungen}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[Veröffentlichung ansehen]} \\
+Energieoptimierte Workload- und Ressourcenplatzierungsalgorithmen für Cloudsysteme.
+
+\section{Projekte}  
+
+\textbf{1. Wetterdaten-ETL-Pipeline}  
+\begin{itemize}
+    \item Identifikation, Extraktion und Aggregation von API-Datenquellen in einer automatisierten ETL-Pipeline.  
+    \item Stündliche Aktualisierung über Snowpipe zur Sicherstellung hoher Datenqualität.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{2. Mobile Verkaufsdashboard (Power BI)}  
+\begin{itemize}
+    \item Entwicklung eines Analyse-Dashboards zur Visualisierung von Verkaufs- und Bestellmustern.  
+    \item Reduktion der Entscheidungszeit um \textbf{30\%} durch optimierte Kennzahlendarstellung.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}  
+\end{itemize}
+
+\textbf{3. Automatisiertes Analyse-Dashboard (Sales Report)}  
+\begin{itemize}
+    \item Datenbereinigung und Vorverarbeitung mittels Python zur Verbesserung der Datenqualität um \textbf{20\%}.  
+    \item Nutzung interaktiver Power BI-Features zur Erhöhung der Nutzerfreundlichkeit.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/SalesReport}{SalesReport}  
+\end{itemize}
+
+\section{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen}  
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen}    
+    \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen}  
+\end{itemize}
+
+\end{document}
+
