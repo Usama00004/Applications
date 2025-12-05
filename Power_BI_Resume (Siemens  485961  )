@@ -1,0 +1,113 @@
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Usama Tahir} 
+\def\phone{+4917684973934}
+\def\city{Germany}
+\def\email{usamatahir00004@gmail.com}
+\def\LinkedIn{usamatahir-00004} 
+\def\github{Usama00004} 
+\def\role{Data Analyst | Python \& BI}
+
+\input{_header}
+
+\begin{document}
+
+\section{Professional Summary}  
+Data Analyst with strong experience in Python (pandas, NumPy, API integration), data research, pattern detection, and business intelligence. Skilled in uncovering productivity gaps, automating analytical workflows, and generating actionable insights for commercial and operational teams. Adept in transforming raw datasets into meaningful recommendations that improve efficiency, revenue potential, and decision-making.
+
+\section{Core Skills}  
+\textbf{Data Research \& Exploration:} Pattern Detection, Data Profiling, Trend Analysis, Business Insights \\  
+\textbf{Technical Skills:} Python (pandas, NumPy, Requests), REST APIs, SQL, Excel, Salesforce (familiar), Power BI \\  
+\textbf{BI \& Automation:} Data Modeling, KPI Design, Dashboarding, Workflow Automation, ETL Pipelines \\  
+\textbf{Tools \& Platforms:} Snowflake, AWS S3, Git, Jupyter, Airflow \\  
+\textbf{Soft Skills:} Analytical Thinking, Problem Solving, Communication, Stakeholder Collaboration \\  
+\textbf{Languages:} English (C1), German (B2.2), Urdu, Hindi, Punjabi  
+
+\section{Education}  
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Germany \hfill \textit{Expected Sept 2026} \\  
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore \hfill \textit{2016 – 2020}  
+
+\section{Professional Experience}  
+
+\textbf{Working Student – Data Analyst (Data Exploration \& BI)} \hfill Mar 2025 – Present \\  
+\textit{Siemens Healthineers – Forchheim, Germany}  
+\begin{itemize}
+    \item Explored operational and commercial datasets to identify trends, anomalies, and insights that improved data quality and reporting accuracy by 22\%.
+    \item Designed analytical dashboards and KPI models in Power BI to support strategic decision-making for product and operational teams.
+    \item Implemented automated data checks and profiling routines using Python, reducing manual validation efforts by 35\%.
+    \item Collaborated with cross-functional stakeholders to translate data findings into recommendations for productivity and workflow optimization.
+    \item Optimized data models and refresh pipelines, reducing computation cost by 18\% through cleaner schema design and query tuning.
+\end{itemize}
+
+\textbf{Junior Data Analyst – ETL, Data Research \& Reporting} \hfill Jan 2021 – Jul 2022 \\  
+\textit{Systems Limited – Lahore, Pakistan}  
+\begin{itemize}
+    \item Performed large-scale data exploration to detect patterns in marketing, sales, and operational datasets, improving reporting efficiency by 28\%.
+    \item Developed Python-based ETL pipelines (pandas, Requests) to extract API and web data, enabling 100\% automated data ingestion for analytical teams.
+    \item Created clean analytical datasets using SQL and Python, supporting business reporting and ad-hoc commercial research.
+    \item Designed Power BI dashboards and visual stories to communicate data trends, reducing stakeholder decision time by 30\%.
+    \item Recommended data-driven process improvements and workflow automation ideas, contributing to a 15\% reduction in recurring data preparation costs.
+\end{itemize}
+
+\section{Publications}  
+\textbf{Hotspot-Aware Workload Scheduling in Cloud Data Centers} – MDPI Energies  
+\href{https://www.mdpi.com/1996-1073/15/7/2541}{[View Publication]} \\
+Proposed energy-efficient resource allocation models for heterogeneous cloud systems.
+
+\section{Projects}  
+
+\textbf{1. Real Estate Data Pipeline \& Insights (Redfin)}  
+\begin{itemize}
+    \item Built a full ETL workflow using Python and AWS S3, automating ingestion and transformation of real estate datasets.
+    \item Identified pricing patterns and regional demand trends, improving insight generation speed by 60\%.
+    \item Connected Snowflake to Power BI for dynamic property market dashboards.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{2. Weather Data – API Research \& Trend Analysis}  
+\begin{itemize}
+    \item Extracted and transformed high-frequency weather data using Python (pandas, API work).
+    \item Conducted pattern analysis to detect seasonal anomalies and environmental trends.
+    \item Automated hourly ingestion via Snowpipe, increasing data freshness by 40\%.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/StreamAnalysis}{StreamAnalysis}  
+\end{itemize}
+
+\textbf{3. Sales Insights Dashboard (Power BI)}  
+\begin{itemize}
+    \item Combined multiple commercial datasets to identify sales performance patterns and customer behavior trends.
+    \item Improved stakeholder insight visibility by 30\% using DAX-driven KPIs and dynamic visuals.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/DAX}{DAX}  
+\end{itemize}
+
+\textbf{4. Automated Data Cleaning \& Accuracy Pipeline}  
+\begin{itemize}
+    \item Built a Python preprocessing framework that reduced cleaning time by 20\% and elevated data accuracy for reporting teams.
+    \item Identified quality gaps and recommended cleaning rules, improving dataset consistency.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/SalesReport}{SalesReport}  
+\end{itemize}
+
+\textbf{5. Twitter Sentiment Analysis \& Trend Detection}  
+\begin{itemize}
+    \item Developed a sentiment pipeline using Selenium, BeautifulSoup, and Scikit-learn to classify tweet polarity.
+    \item Automated model execution and reduced manual analysis workload by 40\%.
+    \item Provided trend-based insights usable for marketing awareness dashboards.  
+    \item \textit{GitHub:} \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{Twitter-Sentiment-Analysis}  
+\end{itemize}
+
+\section{Certifications}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Data Engineer Associate (DP-700)} – \href{https://learn.microsoft.com/en-us/users/UsamaTahir-5344/credentials/9397793663D1B039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{View Certificate}  
+
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{View Certificate}  
+    \item \textbf{German Language B2.2 \& B1} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}
+    \item \textbf{Google Data Analytics} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{View Certificate}  
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{View Certificate}  
+\end{itemize}
+
+\end{document}
