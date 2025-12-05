@@ -1,0 +1,130 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\usepackage[hidelinks]{hyperref}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZIEL}
+Motivierter Data Engineer mit Schwerpunkt auf Microsoft Fabric, modernen ETL-/ELT-Pipelines, Data Modeling und Power BI. Erfahren in Lakehouse-, Warehouse-Architekturen, Governance, Security sowie Automatisierungs- und Monitoring-Konzepten. Suche eine Rolle als Data Engineer, um skalierbare Datenplattformen aufzubauen und datengetriebene Strategien im Unternehmen voranzutreiben.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+{\bf Master in Global Software Development}, Hochschule Fulda\\
+{\bf Bachelor in Informatik}, COMSATS Lahore 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+
+\textbf{Technische Fähigkeiten:} Microsoft Fabric (Lakehouse, Warehouse, Pipelines), Power BI, DAX, Python, SQL, Pandas, Azure Data Services, ETL/ELT, Data Modeling, API-Integration, Git, Excel \\
+\textbf{Soft Skills:} Kommunikation, Analysefähigkeit, Problemlösung, strukturiertes Denken \\
+\textbf{Sprachen:} Deutsch , Englisch 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- laufend \\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Entwickelte und optimierte Power BI-Lösungen sowie Fabric-Lakehouse-Datenmodelle zur Unterstützung von Produktions- und Logistikentscheidungen.
+    \item Implementierte skalierbare ETL-/ELT-Pipelines über SQL, APIs und Fabric Data Pipelines; reduzierte manuelle Datenaufbereitung um 30\%.
+    \item Erhöhte die Reporting-Effizienz um 25\% durch strukturierte Datenmodelle und automatisierte DAX-Berechnungen.
+    \item Implementierte Monitoring- und Fehlerbehandlungskonzepte, wodurch Datenqualitätsprobleme um 20\% verringert wurden.
+    \item Reduzierte Datenverarbeitungskosten um 12\% durch optimierte Speicher- und Pipeline-Strategien im Fabric-Lakehouse.
+    \item Koordinierte eng mit Fachbereichen, um datengetriebene Optimierungspotenziale zu analysieren und umzusetzen.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025 \\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Unterstützte Data-Warehouse-Entwicklungen (Snowflake, ETL, SQL) sowie BI-Projekte von Anforderungsanalyse bis Deployment.
+    \item Erstellte performante Power BI-Berichte für Controlling \& Logistik, wodurch Analysezeiten um 20\% verkürzt wurden.
+    \item Entwickelte API-Integrationen und automatisierte Datenpipelines, die die Datenkonsistenz um 18\% verbesserten.
+    \item Optimierte SQL-Transformationen und reduzierte Verarbeitungsdauer kritischer Pipelines um 22\%.
+    \item Trug zur Verbesserung der Datenqualität und Governance-Strukturen bei, inklusive Versionierung und Validierungsregeln.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022 \\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwickelte robuste ETL-Prozesse (Python, Pandas, SQL) für strukturierte und unstrukturierte Daten.
+    \item Baute skalierende Power BI-Dashboards und KPI-Modelle, wodurch Analyse-Performance um 20\% stieg.
+    \item Automatisierte API-Datenströme, wodurch manueller Aufwand im Reporting um 40\% reduziert wurde.
+    \item Verbessertes Datenqualitätsmanagement verringerte inkonsistente Daten um 25\%.
+    \item Senkte Infrastrukturkosten um 15\% durch optimierte Datenflüsse und effiziente Speichernutzung.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Fabric-Ready Datenanalyse-Dashboard:} Entwicklung eines Power BI-Dashboards mit vorbereiteten ETL-Pipelines (Python, Pandas) zur Bereinigung, Transformation und Echtzeitbereitstellung; Reduktion der Datenverarbeitungszeit um 20\%.
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenströme:} Aufbau einer Streaming-Pipeline (Kafka, Flink) zur Umwandlung hochfrequenter Daten; Speicherung in PostgreSQL zur Analyse mit geringer Latenz.
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse-Pipeline:} Automatisierte Web-Scraping-Pipeline kombiniert mit ML-Modellen; Reduktion des manuellen Aufwands um 40\%, Steigerung der Verarbeitungseffizienz um 25\%.
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement in Cloud Data Centers} – Algorithmische Optimierung zur Reduktion von Energieverbrauch und Hotspots in Rechenzentren.
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}
+
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen}
+    \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen}
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
