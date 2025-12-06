@@ -1,0 +1,202 @@
+% Updated Resume for BI Praktikum / Werkstudent (Power BI)
+
+\documentclass{resume}
+\usepackage[left=0.2in,top=0.6in,right=0.2in,bottom=0.5in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 176 84973934}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% Objective
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+Detail-oriented Data Analyst / BI Developer with strong experience in Microsoft Power BI, SQL, ETL-Entwicklung und Datenmodellierung. Strebe eine Position als Praktikant oder Werkstudent im BI-Team an, um datengetriebene Entscheidungen durch Reporting, Analyse und Dashboard-Entwicklung zu unterstützen.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Education
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+{\bf Master of Global Software Development}, Hochschule Fulda \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Skills
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SKILLS}
+\textbf{BI \& Data Analytics:} Power BI, DAX, Data Modeling, ETL/ELT, KPI Definition \\
+\textbf{Programming:} Python (Pandas), SQL \\
+\textbf{Tools:} Git, Jira, Excel, Snowflake, Microsoft Fabric \\
+\textbf{Soft Skills:} Analytisches Denken, Problemlösung, Teamarbeit, Eigeninitiative \\
+\textbf{Languages:} English, Deutsch 
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Experience
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Internship – Data Analytics} \hfill Sep 2025 -- Ongoing \\
+Bosch, Germany
+\begin{itemize}
+    \item Developed automated ETL workflows using Python and SQL, reducing manual effort by 30\% and improving data processing consistency.
+    \item Created interactive Power BI dashboards based on structured semantic models, increasing report usability by 40\%.
+    \item Validated data quality and prepared mapping documents, accelerating migration tasks by 20\%.
+    \item Implemented data transformation optimizations that lowered storage and compute cost by 15\%.
+\end{itemize}
+
+\textbf{Working Student – Data Analyst / Data Engineering Support} \hfill Mar 2024 -- Aug 2025 \\
+Siemens Healthineers, Germany
+\begin{itemize}
+    \item Designed and optimized ETL pipelines with Python and SQL, increasing pipeline performance by 35%.
+    \item Built Snowflake-based data models (Staging, Core, Semantic), enabling consistent reporting across departments.
+    \item Developed reusable Power BI data models improving dashboard refresh reliability by 25\%.
+    \item Collaborated with cross-functional teams to define KPIs and ensure complete requirement coverage.
+    \item Identified redundant data queries and optimized them, reducing compute costs by 18\%.
+\end{itemize}
+
+\textbf{Junior Data Analyst / BI Developer} \hfill Jan 2021 -- Jul 2022 \\
+Systems Limited, Lahore, Pakistan
+\begin{itemize}
+    \item Built SQL-based ETL scripts integrating new enterprise data sources, enhancing reporting data availability by 30\%.
+    \item Modeled star-schema datasets improving report performance and reducing refresh times by 20\%.
+    \item Created interactive Power BI dashboards, increasing KPI visibility across 4 departments.
+    \item Documented ETL workflows and reporting logic ensuring maintainability and audit readiness.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Projects
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Cloud-Based Data Pipeline (Microsoft Fabric + Spark Streaming):} Built a real-time processing pipeline using Spark Streaming delivering structured outputs to Fabric Lakehouse for analytics.
+
+\item \textbf{ETL + Power BI Dashboard:} Developed an end-to-end ETL workflow in Python and created a Power BI dashboard with automated refresh and trend analysis capabilities.
+
+\item \textbf{Sentiment Analysis Pipeline:} Implemented a full ingestion pipeline using Selenium, BeautifulSoup, Pandas, and SQL; improved data processing speed by 25\%.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Certifications
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}
+\item \textbf{Microsoft Certified: Fabric Data Engineer Associate (DP-700)}
+\item \textbf{Microsoft Power BI Data Analyst Associate (PL-300)}
+\item \textbf{Microsoft Certified: Azure Fundamentals (AZ-900)}
+\item \textbf{German Language Certification B2}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Publication
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PUBLICATION}
+\item \textbf{Hotspot-Aware Workload Scheduling in Heterogeneous Cloud Data Centers:} Published in MDPI Energies; developed algorithms optimizing server placement and energy efficiency.
+\end{rSection}
+
+\end{document}
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Europ Assistance \\
+    Adenauerring 9\\
+    81737 München\\
+    Deutschland
+ 
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Duetschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Werkstudent im Bereich Business Intelligence (Power BI)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse bewerbe ich mich für die ausgeschriebene Position als Praktikant bzw. Werkstudent im Bereich Business Intelligence. Der Mix aus Power BI Reporting, SQL-Datenanalyse, interdisziplinärer Zusammenarbeit sowie der Möglichkeit, aktiv an BI-Projekten mitzuwirken, entspricht genau meinen beruflichen Interessen und bisherigen Erfahrungen. Durch mein aktuelles Masterstudium Global Software Development an der Hochschule Fulda sowie meine berufliche Praxis in Data Analytics und Power BI bringe ich sowohl fundiertes technisches Wissen als auch eine ausgeprägte analytische Denkweise mit.
+
+In meinen bisherigen Tätigkeiten – unter anderem bei Siemens Healthineers und Bosch – konnte ich meine BI-Kompetenzen deutlich vertiefen. Ich entwickelte Power BI Dashboards auf Basis sauber strukturierter Datenmodelle, optimierte ETL-Prozesse in Python und SQL und modellierte KPI-Strukturen für unterschiedliche Fachbereiche. Dabei gelang es mir mehrfach, manuelle Aufwände um über 30 \% zu reduzieren, die Performance von Datenpipelines um 35 \% zu steigern und durch Optimierungen bis zu 18 \% an Systemkosten einzusparen. Besonders die Arbeit in interdisziplinären Teams hat mir gezeigt, wie wichtig es ist, technische Inhalte verständlich zu kommunizieren und gemeinsam lösungsorientiert vorzugehen.
+
+Das in Ihrer Ausschreibung beschriebene Aufgabenprofil – Power BI Reporting, eigenverantwortliche Projektarbeit, SQL-Analyse und die Möglichkeit, neues BI-Know-how aufzubauen – spricht mich besonders an, da ich meine vorhandenen Fähigkeiten optimal einbringen und gleichzeitig weiterentwickeln kann. Die Aussicht auf ein strukturiertes Onboarding, Ihre moderne Lernkultur sowie Benefits wie EGYM-Zugang und interne Entwicklungswege machen Ihr Unternehmen für mich sehr attraktiv.
+
+
+Über die Einladung zu einem persönlichen Gespräch würde ich mich sehr freuen.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
