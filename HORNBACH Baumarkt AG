@@ -1,0 +1,127 @@
+\documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry} % Seitenränder
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir} % Fügen Sie hier Ihren vollständigen Namen hinzu
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ \href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}} 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZIEL}
+
+Detailorientierter Softwareingenieur mit Erfahrung in Datenanalyse, Web-Scraping und Visualisierung. Kompetent in Python, Power BI und SQL, suche eine Teilzeitstelle als Data Analyst, um datengetriebene Entscheidungen zu fördern.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+{\bf Master in Global Software Development}, Hochschule Fulda \hfill {März 2026}\\
+{\bf Bachelor in Informatik}, COMSATS Lahore \hfill {2016 - 2020}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% FÄHIGKEITEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{FÄHIGKEITEN}
+
+\textbf{Technische Fähigkeiten:} Python, Django, Selenium, Scrapy, Beautiful Soup, Pandas, NumPy, SQL, PowerBI, Git, Excel \\
+\textbf{Soft Skills:} Kommunikation, Problemlösung, Anpassungsfähigkeit, Zeitmanagement \\
+\textbf{Sprachen:} Deutsch (B1 CEFR), Englisch (C1 CEFR), Urdu, Punjabi, Hindi 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- laufand\\
+\textbf{Bosch GmbH} \hfill \textit{Reutlingen, Deutschland}
+\begin{itemize}
+    \item Entwicklung interaktiver Power BI-Dashboards für operative Teams und das Management zur Optimierung von Produktions- und Logistikprozessen.
+    \item Modellierung leistungsfähiger Datenmodelle und Implementierung von DAX-Messungen zur präzisen KPI-Berechnung.
+    \item Integration und Automatisierung von Datenquellen (SQL, API) zur Verbesserung der Datenverfügbarkeit und Reduzierung manueller Arbeit um 30\%.
+    \item Enge Zusammenarbeit mit Fachbereichen, um datenbasierte Prozessverbesserungen zu identifizieren und umzusetzen – u.a. Senkung von Reporting-Zeiten um 25\%.
+    \item Sicherstellung technischer Stabilität und Wartbarkeit der BI-Lösungen durch strukturierte Architektur und Versionskontrolle (Git).
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill 
+Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG} \hfill \textit{Forcheim, Deutschland}
+\begin{itemize}
+    \item Mitwirkung an Analytics-Projekten von der Anforderungsaufnahme bis zur technischen Umsetzung im Data-Warehouse-Umfeld (Snowflake, ETL).
+    \item Entwicklung performanter Power BI-Reports zur Visualisierung von Geschäfts- und Logistikkennzahlen für das Controlling-Team.
+    \item Umsetzung einer robusten Datenmodellierung und API-Anbindung zur Integration heterogener Quellsysteme.
+    \item Verbesserung der Datenverarbeitungszeit um 20\% durch Optimierung von SQL-Abfragen und Transformationsprozessen.
+    \item Etablierung klar definierter Kennzahlenlösungen zur Steigerung der Transparenz in der Datenanalyse.
+\end{itemize}
+
+\newpage
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited} \hfill \textit{Lahore, Pakistan}
+\begin{itemize}
+    \item Aufbau und Betreuung von ETL-Prozessen zur Datenintegration und Transformation mit Python (Pandas, BeautifulSoup) und SQL.
+    \item Entwicklung interaktiver Power BI-Dashboards für operative Einheiten und das Management mit Fokus auf Performance und Skalierbarkeit.
+    \item Erstellung und Implementierung automatisierter API-Anbindungen zur Datenbeschaffung und -aktualisierung.
+    \item Verbesserung der Datenqualität und Reduktion von Berechnungszeiten um 20\% durch optimierte Datenmodellierung.
+    \item Förderung einer datengetriebenen Unternehmenskultur durch klare, visuell ansprechende und zukunftssichere Reportinglösungen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROJEKTE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Datenanalyse-Dashboard:} Entwickelte ein Power BI-Dashboard zur Visualisierung von Trends aus bereinigten Daten (Python, Pandas). Sicherte Datenintegrität mit Vorverarbeitungspipelines, bereitgestellt in der Cloud für Echtzeitanalysen, und reduzierte die Datenverarbeitungszeit durch Fehlerbehandlung um 20%. 
+(verfügbar auf \href{https://github.com/Usama00004/SalesReport}{GitHub}).
+
+\item \textbf{Echtzeit-Datenströme:} Entwickelte und implementierte eine Pipeline für Echtzeit-Datenströme, um hochfrequente Daten mit Apache Kafka und Apache Flink zu verarbeiten und zu analysieren. Daten wurden in Echtzeit aufgenommen, transformiert und in PostgreSQL für die weitere Analyse gespeichert, was latenzarme Einblicke und effiziente Datenverarbeitung für groß angelegte Systeme ermöglichte 
+(verfügbar auf \href{https://github.com/Usama00004/StreamAnalysis}{GitHub}).
+
+\item \textbf{Sentiment-Analyse:} Entwickelte eine Datenpipeline, die Web-Scraping und Sentiment-Analyse integriert. Automatisierte die Datenerfassung mit BeautifulSoup und Selenium, wodurch der manuelle Aufwand um 40\% reduziert wurde. Bereinigte und validierte Daten mit Pandas, speicherte sie in SQL und setzte Scikit-learn-Modelle für Echtzeitanalysen ein, wodurch die Verarbeitungseffizienz um 25\% verbessert wurde 
+(verfügbar auf \href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub}).
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers:} Erforschung und Entwicklung eines neuartigen Ansatzes zur hotspotbewussten Arbeitslastplanung und Serverplatzierung in heterogenen Cloud-Rechenzentren. Veröffentlicht im MDPI Energies Journal, schlägt das Papier innovative Algorithmen und Methoden zur Optimierung der Ressourcennutzung und Minimierung des Energieverbrauchs in Cloud-Umgebungen vor 
+(verfügbar auf \href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies}).
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{ZERTIFIKATE}
+
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Data Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://github.com/Usama00004/Certifications/blob/main/Microsoft%20Pl-300%20Certified-.pdf}{Zertifikat ansehen}
+    \item \textbf{Microsoft Azure Fundamentals (AZ-900)} – \href{https://github.com/Usama00004/Certifications/blob/main/AZ-900%20Certified.pdf}{Zertifikat ansehen}
+    \item \textbf{Deutsch – Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+    \item \textbf{IBM DataStage ETL} – \href{https://github.com/Usama00004/Certifications/blob/main/IBM%20datastage%20certificate.pdf}{Zertifikat ansehen}
+\end{itemize}
+
+\end{rSection}
+\end{document}
