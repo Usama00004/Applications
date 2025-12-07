@@ -1,0 +1,110 @@
+\documentclass{resume}
+\usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.2in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 176 84973934}
+
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% Objective
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{OBJECTIVE}
+Detail-oriented Data Analyst with strong experience in KPI reporting, Power BI dashboard development, ETL processes, and data quality procedures. Skilled in Python, SQL, Excel, and documentation workflows. Seeking a Working Student role in Supply Chain Performance \& Data Analytics to support KPI preparation, dashboard development, document validation, and daily operational tasks while ensuring data integrity and compliance.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Education
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+{\bf Master of Global Software Development}, Hochschule Fulda \\
+{\bf Bachelor of Computer Science}, COMSATS Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Skills
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SKILLS}
+\textbf{Analytics \& Reporting:} KPI Reporting, Power BI, Data Visualization, MS Fabric, Excel (Pivot Tables, Lookups, Power Query) \\
+\textbf{Data Engineering:} ETL/ELT, Data Modeling, Data Quality Checks, Snowflake, dbt \\
+\textbf{Programming:} Python (Pandas, NumPy), SQL \\
+\textbf{Tools:} Git, Jira, REST APIs, CI/CD \\
+\textbf{Soft Skills:} Communication, Problem Solving, Documentation, Organizational Skills \\
+\textbf{Languages:} English, German
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Experience
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Internship – Data Analytics} \hfill Sep 2025 -- Ongoing \\
+Bosch, Germany
+\begin{itemize}
+    \item Calculated and automated recurring KPIs using Python and Excel, improving on-time KPI delivery by 40\%.
+    \item Designed and updated Power BI dashboards for operational teams, enhancing visibility of process bottlenecks by 35\%.
+    \item Conducted document validation and consistency checks, ensuring 100\% adherence to reporting standards.
+\end{itemize}
+
+\textbf{Working Student – Data Analyst / Data Engineering Support} \hfill Mar 2024 -- Aug 2025 \\
+Siemens Healthineers, Germany
+\begin{itemize}
+    \item Developed ETL workflows (Python + SQL) that optimized data processing time by 35\% and reduced manual effort for operational teams.
+    \item Created Power BI dashboards and defined consistent KPI formulas, improving reporting accuracy and leadership decision-making.
+    \item Performed routine data validation, document checks, and data reconciliation to ensure system alignment and compliance.
+    \item Supported daily operational tasks and coordinated data workflows between business and technical teams.
+    \item Implemented cost-efficient data storage practices, reducing cloud compute usage by 18\%.
+\end{itemize}
+
+\textbf{Junior Data Analyst / BI Developer} \hfill Jan 2021 -- Jul 2022 \\
+Systems Limited, Lahore, Pakistan
+\begin{itemize}
+    \item Built SQL-based ETL pipelines and automated reporting tasks, reducing manual data preparation by 50\%.
+    \item Created star-schema models and optimized Power BI semantic layers, improving report load performance by 25\%.
+    \item Collaborated with stakeholders to gather requirements, validate KPIs, and document data workflows for improved governance.
+    \item Streamlined data sources, reducing redundant processing and lowering infrastructure costs by 12\%.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Projects
+%----------------------------------------------------------------------------------------
+\newpage
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Supply Chain KPI Dashboard (Power BI):} Created a KPI tracking dashboard including order cycle times, throughput, and quality metrics. Implemented DAX measures and automated refresh pipelines.
+
+\item \textbf{ETL + Power BI Reporting Pipeline:} Developed Python-based ETL scripts to clean and model data, enabling high-quality reporting and automated refresh in Power BI.
+
+\item \textbf{Real-Time Analytics Pipeline (Microsoft Fabric + Spark Streaming):} Built a streaming pipeline for ingestion and transformation of high-velocity data, improving real-time visibility.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Certifications
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}
+\item \textbf{Microsoft Certified: Fabric Data Engineer Associate (DP-700)} 
+\item \textbf{Microsoft Power BI Data Analyst Associate (PL-300)} 
+\item \textbf{Microsoft Certified: Azure Fundamentals (AZ-900)} 
+\item \textbf{German Language Certification B2}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Publication
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PUBLICATION}
+\item \textbf{Hotspot-Aware Workload Scheduling in Heterogeneous Cloud Data Centers:} Published in MDPI Energies; developed algorithms optimizing workload distribution and minimizing resource consumption.
+\end{rSection}
+
+\end{document}
