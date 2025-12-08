@@ -1,0 +1,162 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Bettermile\\
+    Oranien str 183/Aufgang B\\
+    10999 Berlin\\
+    Germany
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Aristotelessteig 2 \\
+    10318 Berlin \\
+    Geramny
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for the position Business Intelligence Analyst }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am excited to apply for the Data Analyst position at Bettermile. Your mission of enabling seamless operations through better data visibility resonates strongly with me, and I am particularly drawn to Bettermile’s culture of autonomy, creativity, and shared learning. With hands-on experience in descriptive analytics, KPI development, Snowflake-based data platforms, and automated ETL pipelines, I am confident in my ability to contribute meaningfully to your dashboards, data lake, and analytics workflows.
+
+In my current role as a Data Analytics Intern at Bosch, I work on designing and maintaining dashboards, optimizing data refresh cycles, and performing descriptive analysis to uncover trends that guide decision-making across teams. I regularly collaborate with product and engineering stakeholders to define new KPIs and improve data transparency—efforts that have significantly enhanced reporting reliability and reduced manual troubleshooting. My earlier experience at Systems Limited further strengthened my skills in SQL-based ETL pipelines, star-schema modeling, and building business-facing Power BI dashboards used for operational and strategic insights.
+
+I am particularly inspired by the opportunity at Bettermile to contribute to a centralised Snowflake data platform and explore the use of LLMs and Generative AI. These are areas I have already begun integrating into my personal and academic projects, making me eager to apply and expand this knowledge in a production environment. I am also excited about the possibility of participating in the Data Analysis Guild—continuous learning and knowledge-sharing are central to how I like to work.
+
+What stands out most to me about Bettermile is the balance of autonomy and support, the genuinely diverse team environment, and the modern, people-centered workplace. I value collaborative spaces where new ideas are welcomed, and I am motivated by environments that encourage both creativity and ownership—qualities that your job description highlights.
+
+I would welcome the opportunity to bring my enthusiasm for data, problem-solving mindset, and technical skills to Bettermile. Thank you for considering my application. I look forward to the possibility of contributing to your team and learning from the inspiring people at Bettermile.
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://github.com/Usama00004}{https://github.com/Usama00004}
+
+\end{document}
+
+
+
+
+\documentclass{resume}
+\usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.2in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 176 84973934}
+\address{Berlin,Germany}
+
+\begin{document}
+
+\begin{rSection}{PROFILE}
+Data Analyst \& Junior Data Engineer with experience in descriptive analytics, KPI development, Snowflake-based data platforms, and building automated ETL pipelines. Skilled in Python, SQL, dashboarding, and cloud data workflows. Highly collaborative and proactive, with a strong interest in modern data tooling, LLM/GenAI integration, and building scalable, insight-driven analytics solutions. Seeking to support Bettermile in strengthening data accessibility, dashboard quality, and analytical capabilities.
+\end{rSection}
+
+\begin{rSection}{EDUCATION}
+\textbf{Master of Global Software Development}, Hochschule Fulda \\
+\textbf{Bachelor of Computer Science}, COMSATS Lahore
+\end{rSection}
+
+\begin{rSection}{SKILLS}
+\textbf{Data \& Analytics:} Descriptive Analytics, KPI Design, Data Cleaning, Exploratory Data Analysis, Data Modeling, ETL/ELT, Snowflake, Data Lakes \\
+\textbf{Programming:} Python (Pandas, NumPy), SQL, Bash \\
+\textbf{Tools:} Power BI, Git, GitHub Actions, Jira, Excel \\
+\textbf{Technologies:} REST APIs, Kafka, Fabric Lakehouse, CI/CD \\
+\textbf{Soft Skills:} Autonomy, Collaboration, Ownership, Communication \\
+\textbf{Languages:} English (C1), German (B2), Hindi
+\end{rSection}
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Intern – Data Analytics} \hfill Sep 2025 -- Ongoing \\
+Bosch, Germany
+\begin{itemize}
+\item Maintained and optimized dashboards and reporting pipelines used across teams for operational insights.
+\item Performed descriptive analyses to uncover trends and usage patterns, improving decision-making workflows.
+\item Improved KPI definitions collaboratively with stakeholders, increasing transparency and data reliability.
+\item Automated ETL workflows in Python + SQL, reducing manual data handling by 30\%.
+\item Enhanced data validation logic and storage efficiency, lowering inconsistencies by 20\% and costs by 15\%.
+\end{itemize}
+
+\textbf{Junior Data Analyst / BI Developer} \hfill Jan 2021 -- Jul 2022 \\
+Systems Limited, Lahore, Pakistan
+\begin{itemize}
+\item Built and maintained SQL-based ETL pipelines feeding dashboards and reporting layers.
+\item Designed star-schema and Snowflake-style models to improve analytical query performance by 35\%.
+\item Created Power BI dashboards to visualize KPIs and operational metrics for product and business teams.
+\item Supported cross-functional teams by translating tracking needs into measurable KPIs.
+\item Automated repetitive reporting, reducing operational overhead by 10\%.
+\end{itemize}
+
+\end{rSection}
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Near Real-Time Cloud Data Pipeline (Microsoft Fabric + Spark Streaming):} Created a streaming data lake pipeline to transform and load structured events into Fabric Lakehouse tables.
+
+\item \textbf{Python ETL + Automated Power BI Dashboard:} Built an end-to-end ETL workflow (Pandas + REST API), automated refresh cycles, and developed dashboards for trend and KPI analysis.
+
+\item \textbf{Sentiment Analysis Pipeline (LLM-ready):} Developed a data collection pipeline using Selenium + BeautifulSoup with downstream SQL storage; modular design supports integration with GenAI/LLM models.
+
+\end{rSection}
+
+\begin{rSection}{CERTIFICATIONS}
+\item \textbf{Microsoft Certified: Fabric Data Engineer Associate (DP-700)}
+\item \textbf{Microsoft Power BI Data Analyst Associate (PL-300)}
+\item \textbf{Microsoft Certified: Azure Fundamentals (AZ-900)}
+\item \textbf{German Language Certification B2}
+\end{rSection}
+
+\begin{rSection}{PUBLICATION}
+\item \textbf{Hotspot-Aware Workload Scheduling in Heterogeneous Cloud Data Centers:} Published in MDPI Energies; developed energy-optimizing algorithms for distributed workloads.
+\end{rSection}
+
+\end{document}
