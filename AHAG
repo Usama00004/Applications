@@ -1,3 +1,5 @@
+
+
 \documentclass{resume} % Verwenden Sie den benutzerdefinierten resume.cls-Stil
 
 \usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry} % Seitenränder
