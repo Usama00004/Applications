@@ -1,0 +1,147 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence \& Finance Reporting Analyst mit fundierter Erfahrung in BI-Reporting, Datenmodellierung, ETL-Prozessen und Management Reporting. Stark in der Unterstützung von Finance-, Controlling- und Accounting-Bereichen durch verlässliche KPIs, transparente Datenmodelle und automatisierte Reporting-Lösungen. Praxiserfahrung mit Power BI, SQL, Python sowie ERP-nahen Datenquellen (SAP-ähnliche Systeme). Analytisch, strukturiert und sicher in der Kommunikation mit Fachbereichen und Management.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+Schwerpunkt: Data Analytics, Business Intelligence, Software Engineering \\
+
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore \\
+Schwerpunkt: Datenbanken, Softwareentwicklung, Informationssysteme
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Finance \& Management Reporting:} KPI-Definition, Management Dashboards, Forecasting, Ad-hoc-Analysen, Datenvalidierung \\
+\textbf{Business Intelligence:} Power BI, DAX, Semantic Models, Reporting-Automatisierung \\
+\textbf{Datenmanagement:} SQL, Datenmodellierung (Star Schema), Data Quality Checks, Reconciliation \\
+\textbf{ETL / Automatisierung:} Python (Pandas, NumPy), SQL-basierte ETL-Strecken, Prozessautomatisierung \\
+\textbf{Systeme \& Tools:} Power BI, Excel, Git, Jira, PostgreSQL, ERP-nahe Systeme (SAP-ähnlich) \\
+\textbf{Methoden:} Prozessanalyse, Anforderungsmanagement, Projektunterstützung \\
+\textbf{Sprachen:} Deutsch (B2), Englisch (fließend)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Analysierte und optimierte Finance- und Produktionsdatenmodelle zur Unterstützung von Management- und Bereichsreporting.
+    \item Entwickelte Power BI-Datenmodelle und semantische Schichten (DAX), wodurch die Reporting-Genauigkeit um \textbf{30\%} verbessert wurde.
+    \item Automatisierte ETL-Prozesse mit SQL und Python, was manuelle Aufwände um \textbf{35\%} reduzierte.
+    \item Begleitete Prozess- und Systemänderungen in enger Abstimmung mit Finance- und IT-Stakeholdern.
+    \item Unterstützte den 2nd-Level-Reporting-Support und reduzierte Incident-Lösungszeiten um \textbf{25\%}.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Konzipierte und implementierte BI- und Reporting-Lösungen für Finance- und Controlling-Teams.
+    \item Entwickelte strukturierte Datenmodelle für Management-Reports und KPIs.
+    \item Optimierte SQL-Abfragen und ETL-Prozesse, wodurch Ladezeiten um \textbf{40\%} reduziert wurden.
+    \item Verbesserte Datenqualität und Transparenz, was fundiertere Managemententscheidungen ermöglichte.
+    \item Trug durch Prozessoptimierungen zur Senkung der operativen Reportingkosten um \textbf{15\%} bei.
+\end{itemize}
+
+\newpage
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwickelte und betrieb skalierbare ETL-Pipelines (Python, SQL) für Reporting- und Analysezwecke.
+    \item Erstellte automatisierte Power BI-Reports für Fachbereiche und Management.
+    \item Modellierte relationale und multidimensionale Datenstrukturen für Finance-nahe Use Cases.
+    \item Unterstützte Datenextraktionen aus ERP-Systemen (SAP-ähnliche Umgebungen).
+    \item Reduzierte Infrastruktur- und Wartungskosten um \textbf{20\%} durch Optimierung von Datenbank- und ETL-Prozessen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Management Dashboard} \\
+Entwicklung eines interaktiven Power BI-Dashboards zur KPI- und Management-Berichterstattung. Optimierte ETL-Logik reduzierte Reporting-Latenz um \textbf{20\%}. \\
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Implementierung einer Echtzeit-Datenpipeline (Kafka, Flink) für operative Entscheidungsprozesse. Steigerung der Verarbeitungseffizienz um \textbf{25\%}. \\
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Automatisierte Sentiment-Analyse} \\
+Automatisierte Datenerfassung und Analyse mit Python und SQL, Reduktion manueller Arbeit um \textbf{40\%}. \\
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+MDPI Energies Journal – Entwicklung kosten- und energieeffizienter Optimierungsmodelle zur Reduktion von Infrastrukturkosten. \\
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
