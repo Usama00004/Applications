@@ -1,0 +1,111 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROFIL}
+
+Data Analyst mit Fokus auf datenbasierte Optimierung von Logistik- und Operationsprozessen. Erfahrung in der Analyse großer Datenmengen, Entwicklung von KPI-Dashboards und Management-Reports. Stark in der Übersetzung komplexer Daten in umsetzbare Insights zur Performance-Überwachung, Prozessoptimierung und Kostenreduktion. Sicher im Umgang mit Power BI, SQL, Excel und Python.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Datenanalyse \& Reporting:} KPI-Analyse, Performance-Monitoring, Management-Reports, Ad-hoc-Analysen\\
+\textbf{Business Intelligence:} Power BI, Dashboard-Entwicklung, Datenvisualisierung, DAX\\
+
+\textbf{Datenmanagement:} SQL, Datenmodellierung (Star Schema), Data Quality Checks\\
+\textbf{ETL / Automatisierung:} Python (Pandas), SQL-basierte ETL-Prozesse\\
+\textbf{Tools:} Power BI, Excel, SQL Server, Snowflake, Git, Jira\\
+\textbf{Sprachen:} Deutsch, Englisch
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Analysierte große Datenmengen aus Produktions- und \textbf{Logistikprozessen} zur Identifikation von Performance-Abweichungen.
+    \item Entwickelte KPI-Dashboards in Power BI zur Überwachung von Durchlaufzeiten, Beständen und Prozessstabilität.
+    \item Automatisierte Reporting- und ETL-Prozesse mit SQL und Python, wodurch der manuelle Analyseaufwand um \textbf{30\%} reduziert wurde.
+    \item Optimierte Datenmodelle und Reporting-Strukturen, was die Entscheidungsfindung im Management um \textbf{20\%} beschleunigte.
+    \item Unterstützte Fachbereiche und Operations im 2nd-Level-Reporting-Support.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Erstellte und analysierte Reports zur Performance-Überwachung logistischer und operativer Prozesse.
+    \item Entwickelte Power BI-Dashboards für Management und Operations mit klar definierten KPIs.
+    \item Optimierte SQL-Abfragen und Datenpipelines, wodurch Ladezeiten um \textbf{25\%} reduziert wurden.
+    \item Unterstützte Prozessoptimierungsprojekte durch datenbasierte Analysen von Engpässen.
+    \item Trug durch verbesserte Datenqualität und Automatisierung zur \textbf{Reduktion operativer Kosten um ca. 15\%} bei.
+\end{itemize}
+\newpage
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Analysierte operative und transaktionale Daten zur Unterstützung datenbasierter Geschäftsentscheidungen.
+    \item Entwickelte automatisierte Reporting-Lösungen in Power BI für Fachabteilungen und Management.
+    \item Optimierte ETL-Prozesse (Python, SQL), was die Datenverfügbarkeit um \textbf{20\%} verbesserte.
+    \item Unterstützte Kostenanalysen und Prozessoptimierungen durch strukturierte KPI-Auswertungen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Performance \& KPI Dashboard} \\
+Entwicklung eines KPI-Dashboards zur Analyse von Performance-, Durchlaufzeit- und Trendkennzahlen. Reduzierte Reporting-Latenz um \textbf{20\%}. 
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Automatisierte Datenanalyse Pipeline} \\
+Implementierte eine Datenpipeline zur automatisierten Verarbeitung großer Datenmengen. Steigerte Verarbeitungseffizienz um \textbf{25\%}. 
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE (LINKS UNVERÄNDERT)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Zertifikate}
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen}
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+\end{itemize}
+\end{rSection}
+
+\end{document}
