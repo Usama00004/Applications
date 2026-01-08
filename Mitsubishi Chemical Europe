@@ -1,3 +1,4 @@
+
 \documentclass{resume}
 \usepackage[left=0.4 in,top=0.8in,right=0.4 in,bottom=0.8in]{geometry}
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
