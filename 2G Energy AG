@@ -1,7 +1,7 @@
 \documentclass[letter,11pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{TLCresume}
-
+ 
 %====================
 % CONTACT INFORMATION
 %====================
