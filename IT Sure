@@ -1,0 +1,235 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\usepackage{hyperref}
+
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{
+\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\
+\href{https://github.com/Usama00004}{GitHub}
+}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Power Platform Consultant \& Data Analyst mit fundierter Erfahrung in Data Analytics, Business Intelligence und Cloud-basierten Datenplattformen. Spezialisiert auf Microsoft Power BI, Microsoft Fabric, SQL und Azure zur Konzeption, Implementierung und Beratung datengetriebener Lösungen. Stark in der Durchführung von Assessments, der Übersetzung komplexer Daten in verständliche Insights sowie der Schulung von Fachanwendern und technischen Teams.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Power Platform \& Microsoft Fabric:} Power BI, DAX, Semantic Models, Microsoft Fabric (Lakehouse, Warehouse) \\
+\textbf{Data Analytics \& KI-Use-Cases:} KPI-Definition, Forecasting, Ad-hoc-Analysen, datengetriebene Entscheidungsunterstützung \\
+\textbf{Cloud \& Datenarchitektur:} Fabric, Star- \& Snowflake-Schema \\
+\textbf{ETL / ELT:} SQL, Python (Pandas, NumPy), Datenintegration, Datenqualitätsprüfungen \\
+\textbf{Consulting \& Training:} Anforderungsanalyse, Workshops, Anwenderschulungen, Stakeholder-Kommunikation \\
+\textbf{Tools:} Power BI, Microsoft Fabric, Git, Jira, Excel, PostgreSQL, Snowflake \\
+\textbf{Sprachen:} Deutsch (B2), Englisch (fließend)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend \\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Unterstützung bei Assessments bestehender Reporting- und Datenplattformen zur Optimierung von BI-Architekturen.
+    \item Entwicklung und Erweiterung von Power BI Semantic Models inklusive DAX.
+    \item Automatisierung von ETL-Prozessen mittels SQL und Python zur Steigerung von Datenqualität und Skalierbarkeit.
+    \item Enge Zusammenarbeit mit Fachbereichen zur Übersetzung fachlicher Anforderungen in Analytics-Lösungen.
+    \item Unterstützung bei Schulungen sowie 2nd-Level-Reporting-Support.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025 \\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Mitwirkung beim Aufbau cloudbasierter Datenplattformen (Snowflake, SQL Server).
+    \item Implementierung von ETL- und Datenintegrationsprozessen.
+    \item Konzeption skalierbarer Datenmodelle (Star Schema) für Power BI.
+    \item Entwicklung interaktiver Power BI Dashboards zur Entscheidungsunterstützung.
+    \item Optimierung von SQL-Abfragen hinsichtlich Performance und Datenqualität.
+\end{itemize}
+
+
+
+\end{rSection}
+\newpage
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Analytics} \\
+Konzeption und Umsetzung eines Power BI Dashboards zur KPI-Analyse. Einsatz strukturierter Datenmodelle und Python-basierter ETL-Prozesse zur Reduktion der Reporting-Latenz um \textbf{20\%}. \\
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit Analytics Plattform} \\
+Design und Implementierung einer skalierbaren Echtzeit-Datenpipeline mit Apache Kafka und Flink für operative Analysen. \\
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Automatisierte Datenanalyse \& Sentiment Analytics} \\
+Entwicklung einer automatisierten Datenpipeline zur Datenanalyse und Visualisierung. Reduktion manueller Aufwände um \textbf{40\%}. \\
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}
+
+\begin{itemize}
+    \item Microsoft Fabric Analytics Engineer (DP-600)
+    \item Microsoft Power BI Data Analyst (PL-300)
+    \item Microsoft Power BI Analytics (DP-700)
+    \item Deutsch Sprachzertifikat B2.2
+    \item Google Data Analytics
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+MDPI Energies Journal – Entwicklung energieeffizienter Optimierungsmodelle für Cloud-Infrastrukturen. \\
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    IT sure GmbH \\
+    Edisonallee 11\\
+    89231 Neu-Ulm\\
+    
+
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Am Heilbrunnen\\
+    1072766 Reutlingen\\
+    Deutschland
+ 
+    
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Power Platform Consultant / Data Analys}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position Power Platform Consultant / Data Analyst (m/w/d) – Microsoft Fabric \& Power BI gelesen. Die Verbindung aus strategischer Beratung, moderner Cloud-Datenarchitektur und praxisnaher Umsetzung datengetriebener Lösungen entspricht genau meinem fachlichen Profil und meinen beruflichen Zielen.
+
+Derzeit absolviere ich ein Masterstudium im Bereich Global Software Development an der Hochschule Fulda und verfüge über praktische Erfahrung in Data Analytics, Business Intelligence und Cloud-basierten Datenplattformen. In meinen bisherigen Stationen bei Bosch und Siemens war ich maßgeblich an der Konzeption und Umsetzung von Power-BI-Lösungen, der Entwicklung skalierbarer Datenmodelle sowie der Automatisierung von ETL-Prozessen mit SQL und Python beteiligt. Dabei lag mein Fokus stets darauf, komplexe Datenstrukturen in verständliche und entscheidungsrelevante Insights zu übersetzen.
+
+Besonders angesprochen hat mich Ihr Schwerpunkt auf Microsoft Fabric und die Power Platform. Durch meine Zertifizierungen (u. a. Microsoft Fabric Analytics Engineer DP-600, Power BI PL-300) sowie praktische Projekte bringe ich fundierte Kenntnisse in der Entwicklung moderner Analytics-Architekturen, Semantic Models und KPI-basierter Reporting-Lösungen mit. Zudem habe ich Erfahrung in der Anforderungsanalyse, der Durchführung von Workshops sowie der Unterstützung und Schulung von Fachanwendern – sowohl im technischen als auch im fachlichen Kontext.
+
+Ihre remote-first-Kultur, der Fokus auf Wissenstransfer sowie die aktive Mitgestaltung innovativer Data- & AI-Produkte motivieren mich besonders. Gerne möchte ich meine analytischen Fähigkeiten, meine strukturierte Arbeitsweise und meine Kommunikationsstärke einbringen, um Kunden bei der optimalen Nutzung ihrer Daten nachhaltig zu unterstützen.
+
+Ich freue mich sehr über die Möglichkeit eines persönlichen Gesprächs und darauf, gemeinsam mit Ihnen moderne Cloud-Analytics-Lösungen zu gestalten.
+
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
