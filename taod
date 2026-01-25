@@ -1,0 +1,138 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 176 84973934 \\ Deutschland}
+\address{
+\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\
+\href{https://github.com/Usama00004}{GitHub}
+}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Data Analyst mit Schwerpunkt auf Power BI als zentrale Reporting- und Analyseplattform. Erfahrung im Aufbau und der Weiterentwicklung skalierbarer BI-Architekturen, Datenmodellierung sowie KPI-basierter Unternehmenssteuerung. Starke Schnittstelle zwischen Fachbereichen und Management mit Fokus auf Transparenz, Entscheidungsgrundlagen und datengetriebene Prozesse.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Business Intelligence \& Reporting:} Einführung und Administration von Power BI, KPI-Frameworks, Management-Dashboards, Ad-hoc-Analysen, Self-Service BI\\
+\textbf{BI-Architektur \& Datenmodellierung:} Star Schema, Tabular Models, DAX, Performance-Optimierung, Datenqualitätskonzepte\\
+\textbf{Datenintegration \& ETL:} SQL-basierte ETL-Prozesse, Python (Pandas, NumPy), API- und Systemintegration\\
+\textbf{Tools \& Technologien:} Power BI, Excel (Advanced), PostgreSQL, Git, Jira\\
+\textbf{Business \& Kommunikation:} KPI-getriebene Steuerung, Anforderungsanalyse, Schulung von Anwender:innen, Report-Interpretation\\
+\textbf{Sprachen:} Deutsch (B2/C1-nah), Englisch (fließend)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Einführung und Weiterentwicklung von Power BI als zentrale Reporting- und Analyseplattform.
+    \item Aufbau performanter Datenmodelle und semantischer Schichten (DAX, Tabular) zur KPI-basierten Steuerung.
+    \item Sicherstellung von Datenqualität durch Validierungslogiken, Monitoring und automatisierte ETL-Prozesse.
+    \item Erstellung von Ad-hoc-Analysen und Entscheidungsgrundlagen für Fachbereiche und Management.
+    \item Unterstützung und Enablement von Anwender:innen im Reporting-Umfeld (2nd-Level-Support).
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Mitarbeit beim Aufbau skalierbarer BI- und DWH-Architekturen als Grundlage für Management-Reporting.
+    \item Integration heterogener Quellsysteme und Harmonisierung von KPI-Definitionen.
+    \item Entwicklung und Pflege interaktiver Power BI-Dashboards zur Unternehmenssteuerung.
+    \item Optimierung von SQL-Abfragen und Ladeprozessen zur Performance- und Qualitätssteigerung.
+    \item Enge Abstimmung mit Fachbereichen zur Übersetzung fachlicher Anforderungen in BI-Lösungen.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Einführung automatisierter Reporting- und Analyseprozesse mit Power BI.
+    \item Entwicklung von ETL-Pipelines und Datenmodellen zur Abbildung kaufmännischer Kennzahlen.
+    \item Sicherstellung hoher Datenqualität und stabiler BI-Prozesse.
+    \item Aufbereitung komplexer Analyseergebnisse für nicht-technische Stakeholder.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Konzeption und Umsetzung eines KPI-basierten Management-Dashboards in Power BI. Fokus auf Performance-Optimierung und Reduktion der Reporting-Latenz um \textbf{20\%}. \\
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Entwicklung einer Echtzeit-Datenpipeline mit Apache Kafka und Flink zur latenzarmen Entscheidungsunterstützung. Effizienzsteigerung um \textbf{25\%}. \\
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Datenerfassung und Analyse mit Python und SQL. Reduktion manueller Prozesse um \textbf{40\%}. \\
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}
+
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analytics Engineer (DP-600)}
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-700)}
+    \item \textbf{Microsoft Power BI Data Analyst (PL-300)}
+    \item \textbf{Deutsch Sprachzertifikat B2.2}
+    \item \textbf{Google Data Analytics Certificate}
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+MDPI Energies Journal – Entwicklung energieeffizienter Optimierungsmodelle zur Reduktion von Infrastrukturkosten. \\
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
