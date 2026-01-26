@@ -1,0 +1,247 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence \& ETL Developer mit über 3 Jahren praktischer Erfahrung in der Entwicklung, Optimierung und dem Betrieb von ETL-Prozessen. Sehr starke SQL-Kenntnisse mit Fokus auf SQL Server (Stored Procedures, Performance-Tuning, Datenvalidierung) sowie fundiertes Verständnis von dimensionaler Datenmodellierung (Star Schema). Erfahrung mit BI-Tools wie Power BI sowie Grundkenntnisse in Qlik Sense. Sicher in englischer Sprache, Deutschkenntnisse vorhanden.
+
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{ETL \& Data Engineering:} ETL-Design, SQL-basierte Datenpipelines, Stored Procedures, Datenintegration aus mehreren Quellsystemen, Datenvalidierung, Error Handling\\
+\textbf{Datenbanken \& SQL:} SQL Server, PostgreSQL, komplexe Joins, Window Functions, Performance-Optimierung\\
+\textbf{Datenmodellierung:} Dimensional Modeling, Star Schema, Fakten- und Dimensionstabellen\\
+\textbf{BI \& Reporting:} Power BI (DAX, Tabular Models), Qlik Sense (Grundkenntnisse), KPI-Design\\
+\textbf{Automation \& Scripting:} Python (Pandas, NumPy), automatisierte Ladeprozesse\\
+\textbf{Cloud (Exposure):} Azure Data Factory, Azure Synapse Analytics\\
+\textbf{Tools:} Git, Excel, Jira\\
+\textbf{Sprachen:} Englisch (fließend), Deutsch (B2)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Entwicklung und Wartung von ETL-Strecken auf Basis von \textbf{SQL Server} und Python zur Integration produktionsnaher Datenquellen.
+    \item Arbeit mit mehrschichtigen DWH-Architekturen (Staging, Core, Reporting).
+    \item Umsetzung dimensionaler Datenmodelle (Fakten-/Dimensionstabellen).
+    \item Aufbau performanter Power BI-Datenmodelle inkl. DAX und Tabular-Logik.
+    \item Analyse von Datenfehlern und Optimierung bestehender Ladeprozesse im 2nd-Level-Reporting-Support.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Mitarbeit an \textbf{SQL Server-basierten ETL-Prozessen} zur Integration mehrerer transaktionaler Quellsysteme.
+    \item Entwicklung und Optimierung von Stored Procedures zur Performance-Steigerung.
+    \item Modellierung relationaler und dimensionaler Datenstrukturen für BI-Anwendungen.
+    \item Erstellung und Pflege von Power BI-Reports für Controlling- und Fachbereiche.
+    \item Erste Berührungspunkte mit Cloud-nahen Datenplattformen (Azure, Snowflake).
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwicklung und Betrieb produktiver \textbf{ETL-Pipelines} mit SQL und Python für großvolumige, transaktionale Systeme.
+    \item Erstellung komplexer SQL-Abfragen, Views und Stored Procedures.
+    \item Integration von Daten aus APIs, Web-Quellen und ERP-nahen Systemen.
+    \item Aufbau dimensionaler Datenmodelle für Management- und Fachbereichsreporting.
+    \item Sicherstellung von Datenqualität und Stabilität produktiver Datenprozesse.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Entwicklung eines interaktiven Power BI-Dashboards inkl. Datenmodellierung und ETL-Prozessen mit Python und SQL. Reduzierung der Reporting-Latenz um \textbf{20\%}.  
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Entwurf und Implementierung einer Echtzeit-Datenpipeline mit Apache Kafka und Flink zur Verarbeitung hochfrequenter Daten. Steigerung der Verarbeitungseffizienz um \textbf{25\%}.  
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Datenerfassung und Analyse mittels Python, Selenium und SQL. Reduzierung manueller Prozesse um \textbf{40\%}.  
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+% VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+MDPI Energies Journal – Entwicklung energieeffizienter Optimierungsmodelle für Cloud-Datenzentren.  
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Max Bögl Bauservice GmbH \& Co. KG\\
+    Max-Bögl-Straße 1\\
+    92369 Sengenthal\\
+    Deutschland
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Bavaria Germany\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als ETL Developer mit Schwerpunkt SQL Server & BI}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+hiermit bewerbe ich mich um die ausgeschriebene Position im Bereich ETL / Business Intelligence. Mit über drei Jahren praktischer Erfahrung in der Entwicklung und dem Betrieb von ETL-Prozessen, fundierten SQL-Kenntnissen sowie Erfahrung im BI-Reporting erfülle ich die fachlichen Anforderungen dieser Position in hohem Maße.
+
+In meinen bisherigen Tätigkeiten war ich intensiv in die Konzeption, Implementierung und Optimierung von ETL-Strecken eingebunden. Dabei habe ich hauptsächlich mit SQL Server, relationalen Datenbanken und Python gearbeitet, um Daten aus verschiedenen transaktionalen Quellsystemen zu integrieren. Der Umgang mit komplexen SQL-Abfragen, Stored Procedures, Performance-Optimierung sowie Datenvalidierung gehört zu meinem täglichen Arbeitsumfeld.
+
+Ich verfüge über ein solides Verständnis von Datenmodellierung und dimensionalen Designprinzipien, insbesondere Star-Schema-Modellen mit Fakten- und Dimensionstabellen. Diese Kenntnisse setze ich gezielt beim Aufbau von Data-Warehouse-Strukturen und BI-Semantikschichten ein. Im Bereich Reporting habe ich umfangreiche Erfahrung mit Power BI gesammelt und bin mit den grundlegenden Konzepten von Qlik Sense vertraut.
+
+Darüber hinaus bringe ich erste praktische Erfahrungen mit Cloud-basierten Datenplattformen wie Azure Data Factory und Azure Synapse Analytics mit. Python nutze ich regelmäßig zur Automatisierung von ETL-Prozessen, zur Datenaufbereitung sowie zur Qualitätssicherung. Ich arbeite sicher in internationalen Teams, kommuniziere fließend auf Englisch und verfüge über Deutschkenntnisse, die eine Zusammenarbeit in deutschsprachigen Umgebungen ermöglichen.
+
+Die ausgeschriebene Position reizt mich besonders, da sie den Fokus auf ETL-Entwicklung, SQL-Server-basierte Datenarchitekturen und moderne BI-Lösungen legt. Gerne möchte ich meine technischen Fähigkeiten, meine strukturierte Arbeitsweise und mein analytisches Denken in Ihr Team einbringen.
+
+Ich freue mich über die Möglichkeit, meine Motivation und Qualifikation in einem persönlichen Gespräch näher vorzustellen.
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
