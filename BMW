@@ -1,0 +1,224 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Data \& Analytics Specialist mit starkem Fokus auf Datenanalyse, Datenpipelines und Dashboard-Entwicklung zur Unterstützung von Qualitäts- und Entscheidungsprozessen. Sehr gute Programmierkenntnisse in Python sowie fundierte Erfahrung in SQL, Data Engineering und Data Science Verfahren. Erfahrung in der Umsetzung datengetriebener Applikationen inklusive Dokumentation, Rollout und Nutzerfeedback.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+Schwerpunkte: Data Science, Cloud Computing, Software Engineering \\[2pt]
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore \\
+Schwerpunkte: Datenbanken, Algorithmen, Machine Learning
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Datenanalyse \& Dashboards:} Power BI, KPI-Definition, Qualitätskennzahlen, interaktive Dashboards, Datenvisualisierung\\
+\textbf{Data Engineering:} SQL, Datenmodellierung, ETL/ELT-Pipelines, Datenvalidierung, Data Quality Checks\\
+\textbf{Data Science \& ML:} Python, Pandas, NumPy, Scikit-learn, erste Erfahrungen mit Modelltraining und -betrieb\\
+\textbf{Big Data \& Cloud:} PySpark, Apache Kafka, AWS (Grundkenntnisse), verteilte Datenverarbeitung\\
+\textbf{Tools \& Methoden:} Git, Jira, PostgreSQL, Dokumentation, agile Projektarbeit\\
+\textbf{Sprachen:} Deutsch (B2), Englisch (verhandlungssicher)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Unterstützung beim Aufbau von Analysealgorithmen und Dashboards zur Qualitätssicherung in Produktions- und Logistikprozessen.
+    \item Entwicklung und Erweiterung von Datenpipelines zur automatisierten Datenaufbereitung.
+    \item Umsetzung analytischer Anforderungen in Power BI sowie Python-basierten Auswertungen.
+    \item Unterstützung bei Dokumentation, Anwendersupport und Nutzung der Applikationen.
+    \item Mitarbeit bei der Analyse von Nutzerfeedback und kontinuierlicher Verbesserung der Lösungen.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Mitarbeit an Data-Engineering- und BI-Lösungen zur Unterstützung datenbasierter Entscheidungen.
+    \item Entwicklung und Optimierung von ETL-Prozessen (SQL, Python).
+    \item Aufbau strukturierter Datenmodelle für Analyse- und Reporting-Zwecke.
+    \item Erstellung von Dashboards zur Überwachung von KPIs und Prozessqualität.
+    \item Zusammenarbeit mit Fachabteilungen im Rahmen agiler Projektarbeit.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwicklung und Betrieb von Datenpipelines für Analyse- und Reporting-Anwendungen.
+    \item Anwendung von Data-Science-Methoden zur Mustererkennung und Analyse großer Datenmengen.
+    \item Aufbau automatisierter Dashboards zur operativen und strategischen Entscheidungsunterstützung.
+    \item Sicherstellung von Datenqualität sowie Dokumentation der Analyseprozesse.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Analyse- \& Qualitätsdashboard (Power BI)} \\
+Entwicklung eines interaktiven Dashboards zur Überwachung von Qualitätskennzahlen. Umsetzung von Datenpipelines mit Python (Pandas) und SQL zur automatisierten Datenaufbereitung.
+
+\item \textbf{Datenpipeline \& Machine-Learning-Prototyp} \\
+Implementierung einer Datenpipeline mit PySpark und Kafka. Training erster ML-Modelle zur Klassifikation und Trendanalyse großer Datenmengen.
+
+\item \textbf{Automatisierte Datenanalyse \& Feedback-Auswertung} \\
+Automatisierte Erfassung, Aufbereitung und Analyse von Nutzerfeedback-Daten mittels Python und SQL zur kontinuierlichen Optimierung von Applikationen.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}
+\begin{itemize}
+    \item Microsoft Power BI Analyst (DP-700, DP-600, PL-300)
+    \item Google Data Analytics
+    \item Deutsch Sprachzertifikat B2.2
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+MDPI Energies Journal – Forschung im Bereich Cloud Computing, Optimierungsalgorithmen und Datenanalyse.
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    BMW AG \\
+    Lilienthalallee 25\\
+    80788 München\\
+    Deutschland
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Analyst und Machine Learning | Stellen-ID 175087 }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung gelesen und möchte mich als engagierter Data Analyst mit Schwerpunkt auf Datenanalyse, Data Engineering und Machine Learning für Ihre Qualitätsarbeit bewerben. Meine bisherigen Erfahrungen in der Entwicklung von Analysealgorithmen, Dashboards und datengetriebenen Applikationen passen hervorragend zu den von Ihnen beschriebenen Aufgaben.
+
+Während meiner Tätigkeit bei Bosch und Siemens konnte ich umfangreiche Erfahrung in der Erstellung von Datenpipelines, automatisierten ETL-Prozessen sowie der Modellierung relationaler und multidimensionaler Datenmodelle sammeln. Mit Python, SQL und Tools wie Power BI habe ich Dashboards und Reporting-Lösungen implementiert, die Entscheidungsträgern präzise Einblicke in operative Prozesse ermöglichten. Zusätzlich habe ich erste Machine-Learning-Modelle trainiert und deren Einsatz in Pilotprojekten begleitet.
+
+Besonders reizt mich an dieser Position, dass sie sowohl die technische Umsetzung von Datenanalysen als auch die aktive Zusammenarbeit mit Fachbereichen, Rollout von Applikationen und Einholung von Nutzerfeedback umfasst. Ich bringe die Fähigkeit mit, komplexe Daten verständlich aufzubereiten, sowie analytisches Denken, Teamgeist und eine strukturierte Arbeitsweise.
+
+Ich freue mich darauf, meine Kenntnisse in Python, SQL, Data Engineering und Data Science bei Ihnen einzubringen und gemeinsam innovative Lösungen zur Unterstützung der Qualitätsarbeit zu entwickeln. Gerne überzeuge ich Sie in einem persönlichen Gespräch von meiner Motivation und meinen Fähigkeiten.
+
+Vielen Dank für Ihre Zeit und Aufmerksamkeit.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
