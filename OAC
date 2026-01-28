@@ -1,0 +1,228 @@
+\documentclass{resume}
+
+\usepackage[left=0.4in,top=0.2in,right=0.4in,bottom=0.3in]{geometry}
+\usepackage{hyperref}
+
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL / ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Data Engineer / BI- & Analytics-Experte mit umfassender Erfahrung in Datenintegration, ETL-Pipelines, Data Warehousing und Cloud-Datenlösungen. Fundierte Kenntnisse in SQL, Python und Power BI sowie Erfahrung mit relationalen und NoSQL-Datenbanken (PostgreSQL, Snowflake). Versiert in Aufbau zentraler Datenarchitekturen, Qualitätssicherung und Optimierung von Datenprozessen. Starke Fähigkeit, komplexe Datenstrukturen in effiziente, skalierbare Lösungen zu überführen.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Data Engineering \& Architektur:} Data Warehousing (Snowflake, SQL Server), Datenmodellierung, Datenintegration, Datenarchitekturen, ETL/ELT-Prozesse, Cloud-Datenlösungen\\
+\textbf{Programmierung \& Tools:} Python, Java, R, SQL, NoSQL, Talend, Power BI, Tableau, Git, Excel, Jira\\
+\textbf{Datenmanagement:} Datenvalidierung, Qualitätssicherung, Monitoring, Datenbankpflege, Performance-Optimierung\\
+\textbf{Analytics \& BI:} KPI-Definition, Reporting, Dashboarding, Forecasting, Ad-hoc-Analysen\\
+\textbf{Soft Skills:} Analytisches Denken, strukturierte Arbeitsweise, Verantwortung übernehmen, Teamarbeit, Stakeholder-Kommunikation\\
+\textbf{Sprachen:} Deutsch, Englisch
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst / Data Engineer} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Aufbau und Pflege zentraler Data-Warehouse-Architekturen zur Unterstützung von Produktions- und Logistikprozessen
+    \item Entwicklung multidimensionaler Datenmodelle, ETL-Pipelines und Power BI-Semantikschichten (DAX, Tabular)
+    \item Automatisierung und Optimierung von Datenintegration über SQL, Python und Talend
+    \item Qualitätssicherung und Monitoring der Daten; Validierung und Bereinigung von Datenquellen
+    \item Technische Abstimmung mit Fachbereichen und Unterstützung bei Architekturentscheidungen
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst / Data Engineer} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Konzeption, Implementierung und Optimierung von DWH-Lösungen (Snowflake, SQL Server, PostgreSQL)
+    \item Aufbau und Integration heterogener Datenquellen über ETL-Prozesse mit Python und SQL
+    \item Modellierung relationaler und multidimensionaler Datenstrukturen für BI- und Controlling-Teams
+    \item Erstellung skalierbarer Dashboards und KPI-Strukturen mit Power BI und Tableau
+    \item Performance-Optimierung von Datenbanken, Reduktion von Ladezeiten und Sicherstellung hoher Datenqualität
+\end{itemize}
+
+\textbf{Junior Data Analyst / ETL Developer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwicklung und Betrieb von ETL-Pipelines (Python, SQL) für Web-, API- und ERP-Datenquellen
+    \item Aufbau von Datenmodellen und Reportinglösungen für interne Stakeholder
+    \item Pflege von relationalen Datenbanken, Sicherstellung von Datenintegrität und Qualität
+    \item Mitwirkung an Datenarchitekturprojekten und Definition von Standards für Datenqualität
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+\begin{itemize}
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Interaktives Dashboard zur Analyse von Umsatz-, Trend- und KPI-Daten. Aufbau von ETL-Pipelines in Python (Pandas), wodurch die Reporting-Latenz um 20\% reduziert wurde. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Entwicklung einer Echtzeit-Datenpipeline mit Apache Kafka und Flink zur latenzarmen Verarbeitung hochfrequenter Daten, Steigerung der Effizienz um 25\%. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Web-Datenerfassung und Analyse mit Python, Selenium und SQL. Reduzierung manueller Arbeit um 40\% und Verbesserung der Datenqualität. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+    \item Microsoft Power BI Analyst (DP-700) – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+    \item Microsoft Power BI Analyst (DP-600) – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    \item Microsoft Power BI Analyst (PL-300) – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item Deutsch Sprachzertifikat B2.2 – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item Google Datenanalyse – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+\begin{itemize}
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+MDPI Energies Journal. Entwicklung energieeffizienter Optimierungsmodelle zur Reduktion von Infrastrukturkosten und Ressourcenverbrauch in Cloud-Umgebungen. (\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+\end{itemize}
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    OAC GmbH\\
+    Meitnerstraße 6\\
+    70563 Stuttgart\\
+    Deutschland
+      
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Am Heilbrunnen 10 \\
+    72766 Reutlingen\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Engineer (m/w/d)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Data Engineer bei OAC gelesen. Mit meinem wirtschaftsinformatischen Hintergrund und umfangreicher Erfahrung in Business Intelligence, Data Engineering und der Umsetzung skalierbarer Datenlösungen sehe ich mich als idealen Kandidaten, um Ihr dynamisches Team in Stuttgart tatkräftig zu unterstützen.
+
+In meiner aktuellen Tätigkeit bei Bosch GmbH entwickle und pflege ich zentrale Data-Warehouse-Architekturen, erstelle multidimensionale Datenmodelle und implementiere ETL-Pipelines mit SQL, Python und Talend. Dabei liegt mein Fokus stets auf Qualitätssicherung, Datenvalidierung und der Optimierung von Datenprozessen. Während meiner Werkstudententätigkeit bei Siemens AG habe ich Data-Warehouse-Lösungen auf Basis von Snowflake und SQL Server konzipiert, ETL-Strecken integriert und BI-Dashboards in Power BI und Tableau entwickelt – immer mit Blick auf Performance, Skalierbarkeit und Datenintegrität.
+
+Neben meiner technischen Expertise bringe ich Hands-on-Mentalität, Verantwortungsbewusstsein und eine strukturierte Arbeitsweise mit. Ich habe Erfahrung in der Zusammenarbeit mit Fachbereichen und Frontend-Teams, um datenbasierte Entscheidungen zu unterstützen und innovative Lösungen umzusetzen. Meine Kenntnisse in relationalen und NoSQL-Datenbanken, kombiniert mit Programmierkenntnissen in Python, Java und R, ermöglichen mir eine schnelle Einarbeitung in neue Technologien und Tools.
+
+Die Möglichkeit, bei OAC zentrale Datenlösungen aufzubauen, Datenarchitekturen zu gestalten und Standards zur Qualitätssicherung zu implementieren, spricht mich besonders an. Ich freue mich darauf, meine Expertise in einem innovativen Umfeld einzubringen und gemeinsam mit Ihrem Team die bestmöglichen Strategien für Ihre Kunden zu entwickeln.
+
+Gerne überzeuge ich Sie in einem persönlichen Gespräch von meinen Fähigkeiten und meiner Motivation. Ich freue mich auf Ihre Rückmeldung.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
