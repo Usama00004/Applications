@@ -1,0 +1,216 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    QualityHosting GmbH \\
+    Uferweg 40-42 \\
+    63571 Gelnhausen\\
+    Deutschland
+ 
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderich str  47A \\
+    60594 Frankfurt am Main\\
+    Hessen Germany\\
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Analyst (m/w/d)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrtes QualityHosting-Team,
+
+mit Begeisterung bewerbe ich mich als Data Analyst bei QualityHosting. Die Kombination aus Cloud-Technologien, Business Intelligence und datengetriebener Entscheidungsunterstützung entspricht genau meinem Profil, und Ihr Fokus auf Respekt, Fairness und ein angenehmes Arbeitsumfeld spricht mich besonders an.
+
+In meiner bisherigen Tätigkeit bei Bosch, Siemens und Systems Limited habe ich umfangreiche Erfahrung in der Entwicklung und Optimierung von Power BI Dashboards, der Modellierung relationaler und multidimensionaler Datenmodelle sowie der Automatisierung von ETL- und ELT-Prozessen mit SQL, Python und Microsoft Fabric gesammelt. Dabei habe ich regelmäßig Go-to-Market KPIs, Partner-Performance und Sales-Daten analysiert, komplexe Insights aufbereitet und Reports für technische und nicht-technische Stakeholder bereitgestellt. Mein Schwerpunkt liegt dabei auf Datenqualität, Performance-Optimierung und der Schaffung klar strukturierter Dashboards, die Entscheidungsprozesse effizient unterstützen.
+
+Ich bin überzeugt, dass ich durch meine analytische und strukturierte Arbeitsweise, meine proaktive Herangehensweise und meine Erfahrung im Cloud- und SaaS-Umfeld einen wertvollen Beitrag zu Ihrem Team leisten kann. Gern würde ich meine Kenntnisse bei QualityHosting einbringen und freue mich auf die Gelegenheit, mich in einem persönlichen Gespräch vorzustellen.
+
+
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL / ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Erfahrener Data Analyst / Business Intelligence Spezialist mit Fokus auf Cloud-Analytics, ETL/ELT-Prozesse, Datenmodellierung und KPI-Reporting. Fundierte Expertise in \textbf{Power BI, Microsoft Fabric, SQL, Python} und der Visualisierung komplexer Daten für technische und nicht-technische Stakeholder. Begeistert von datengetriebenen Entscheidungen, Prozessoptimierung und Wachstumstreibern im SaaS- und Cloud-Umfeld.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Business Intelligence \& Analytics:} Power BI, Microsoft Fabric, KPI-Definition, Dashboards, Datenvisualisierung, Ad-hoc-Analysen, Go-to-Market Analysen (Pipeline, Conversion, Churn/Retention, Partner-Performance)\\
+\textbf{Datenmanagement:} SQL (MS SQL, Azure SQL), Datenmodellierung (Star Schema), Data Quality, Validierung, RLS Security\\
+\textbf{ETL / ELT \& Automatisierung:} Python (Pandas, NumPy), Dataflows, Pipelines, Webservice-Integration (REST APIs, JSON), Automatisierte Reports\\
+\textbf{Tools \& Technologien:} Power BI, Microsoft Fabric, Git, Jira, Excel, PostgreSQL, Apache Kafka, Flink\\
+\textbf{Soft Skills:} Analytische, strukturierte und detailorientierte Arbeitsweise, Ownership, proaktive Problemlösung, klare Kommunikation mit technischen und nicht-technischen Stakeholdern, Teamorientierung\\
+\textbf{Sprachen:} Deutsch, Englisch
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Analyse, Modellierung und Visualisierung von Produktions- und Logistik-KPIs in Power BI.
+    \item Aufbau robuster Datenmodelle inkl. PowerQuery (M) und DAX für multidimensionale Analysen.
+    \item Automatisierung von ETL/ELT-Prozessen in SQL und Python zur Integration operativer Systeme.
+    \item Sicherstellung von Datenqualität und verlässlichen Refresh-Zyklen für Dashboards.
+    \item Durchführung von Ad-hoc-Analysen für Management, Product, Sales und Finance.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Entwicklung und Optimierung relationaler Datenmodelle für Reporting und Controlling.
+    \item Erstellung und Betrieb von ETL-Prozessen zur Integration heterogener Quellsysteme.
+    \item Entwicklung leistungsstarker Power BI Dashboards inkl. KPIs, automatisierten Refresh-Prozessen und Performance-Optimierung.
+    \item Analyse von Go-to-Market KPIs und Partner-Performance zur datengetriebenen Entscheidungsunterstützung.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Aufbau und Betrieb von ETL-Pipelines (Python, SQL) zur Integration von Webservices, APIs und ERP-Daten.
+    \item Entwicklung automatisierter Reportinglösungen in Power BI für Sales, Finance und Product Teams.
+    \item Sicherstellung hoher Datenqualität und konsistenter Datenmodelle.
+    \item Analyse von Snowball-Kennzahlen zur Identifikation von Wachstums- und Produkthebeln.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Entwickelte interaktive Dashboards zur Analyse von Umsatz-, Trend- und KPI-Daten. Implementierte Datenmodellierung und ETL-Pipelines mit Python (Pandas), Reduktion der Reporting-Latenz um \textbf{20\%}. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Implementierung einer Echtzeit-Datenpipeline mit Apache Kafka und Flink zur latenzarmen Verarbeitung hochfrequenter Daten. Verbesserung der Analyse-Effizienz um \textbf{25\%}. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Web-Datenerfassung und Analyse via Python, Selenium und SQL. Reduktion manueller Arbeit um \textbf{40\%}, signifikante Steigerung von Datenqualität und Analysegeschwindigkeit. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700, DP-600, PL-300)} – Power BI, Fabric & Analytics \\
+    \item \textbf{Deutsch Sprachzertifikat B2.2} 
+    \item \textbf{Google Datenanalyse}
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+MDPI Energies Journal. Entwicklung energieeffizienter Optimierungsmodelle zur Reduktion von Infrastrukturkosten und Ressourcenverbrauch in Cloud-Umgebungen. (\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
