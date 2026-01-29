@@ -1,0 +1,220 @@
+\documentclass{resume}
+\usepackage[left=0.2in,top=0.2in,right=0.2in,bottom=0.2in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Usama Tahir}
+\address{usamatahir00004@gmail.com}
+\address{+49 176 84973934}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% Professional Summary
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL SUMMARY}
+Data Engineer with 2+ years of professional experience designing and operating scalable ETL/ELT pipelines, data warehouses, and analytics solutions. Strong expertise in Python, SQL, cloud data platforms, and data quality automation. Experienced in optimizing performance, reducing cloud costs, and enabling data-driven decision-making across operations, supply chain, and business stakeholders.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Education
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+{\bf Master of Global Software Development}, Hochschule Fulda, Germany \\
+{\bf Bachelor of Computer Science}, COMSATS University, Lahore, Pakistan
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Skills
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SKILLS}
+\textbf{Data Engineering:} ETL/ELT Pipelines, Data Warehousing, Data Modeling, Data Quality Checks, Orchestration \\
+\textbf{Databases:} SQL, MySQL, PostgreSQL, Snowflake, Amazon Redshift (Conceptual) \\
+\textbf{Programming:} Python (Pandas, NumPy), SQL \\
+\textbf{Cloud \& DevOps:} AWS (S3, EC2, Lambda, CloudWatch - hands-on exposure), Azure, CI/CD \\
+\textbf{Analytics \& BI:} Power BI, KPI Design, DAX, Microsoft Fabric \\
+\textbf{Tools:} Git, Jira, REST APIs, dbt \\
+\textbf{Languages:} English (Fluent), German (B2)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Experience
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EXPERIENCE}
+
+\textbf{Intern – Data Engineering \& Analytics} \hfill Sep 2025 -- Present \\
+Bosch Ebikes, Germany
+\begin{itemize}
+    \item Designed and automated ETL pipelines using Python and SQL, improving KPI availability and reducing manual reporting effort by \textbf{40\%}.
+    \item Engineered Power BI dashboards for operational and supply-chain teams, increasing process transparency and bottleneck detection by \textbf{35\%}.
+    \item Implemented automated data quality checks, logging, and validation rules, achieving \textbf{99.9\% data accuracy}.
+    \item Collaborated with business and engineering stakeholders to deliver end-to-end data solutions from concept to production.
+\end{itemize}
+
+\textbf{Working Student – Data Engineer / Analytics Support} \hfill Mar 2024 -- Aug 2025 \\
+Siemens Healthineers, Germany
+\begin{itemize}
+    \item Built and optimized ELT workflows using Python, SQL, and cloud storage, reducing data processing time by \textbf{35\%}.
+    \item Orchestrated batch data workflows and automated refresh cycles, improving reporting reliability and system uptime.
+    \item Designed scalable data models and KPI layers consumed by analytics and operational systems.
+    \item Reduced cloud infrastructure costs by \textbf{18\%} through query optimization, efficient storage strategies, and workload scheduling.
+    \item Integrated data from APIs and enterprise systems (ERP-like sources), ensuring consistency across analytics and reporting platforms.
+\end{itemize}
+
+\textbf{Junior Data Engineer / BI Developer} \hfill Jan 2021 -- Jul 2022 \\
+Systems Limited, Lahore, Pakistan
+\begin{itemize}
+    \item Developed SQL-based ETL pipelines and automated ingestion processes, reducing manual data preparation by \textbf{50\%}.
+    \item Designed star and snowflake schemas to support analytics and reporting use cases.
+    \item Optimized data warehouse queries and semantic layers, improving dashboard load performance by \textbf{25\%}.
+    \item Streamlined redundant pipelines and data sources, lowering infrastructure and compute costs by \textbf{12\%}.
+    \item Worked closely with product, operations, and business teams to gather requirements and ensure data reliability.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Projects
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Supply Chain Data Warehouse \& KPI Dashboard:} Designed an end-to-end data pipeline including ingestion, transformation, and Power BI reporting for order cycle time, inventory turnover, and quality metrics.
+
+\item \textbf{Cloud-Based ETL Pipeline:} Engineered Python-driven ETL workflows with automated validation and monitoring, improving data freshness and reliability.
+
+\item \textbf{Real-Time Analytics Pipeline (Microsoft Fabric + Spark Streaming):} Built near real-time ingestion and transformation pipelines to support operational monitoring and decision-making.
+
+\end{rSection}
+
+\begin{rSection}{CERTIFICATIONS}
+\begin{itemize}
+
+    \item \textbf{Microsoft Certified: Fabric Data Engineer Associate (DP-700)} – 
+    \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{View Certificate}
+
+    \item \textbf{Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)} – 
+    \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{View Certificate}
+    
+    \item \textbf{Microsoft Power BI Data Analyst Associate (PL-300)} – 
+    \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{View Certificate}
+  
+    \item \textbf{German Language Certificate B2.2} – 
+    \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}
+  
+    \item \textbf{Google Data Analytics Professional Certificate} – 
+    \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}
+
+\end{itemize}
+\end{rSection}
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Rebike Mobility GmbH\\
+    Aidenbachstraße 54\\
+    81379 Munich\\
+    Germany
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Germany\\
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for the position Junior Data Engineer }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Data Engineer position at Rebike Mobility . With three year of hands-on experience in data engineering, analytics, and cloud-based data platforms, along with a strong motivation to contribute to sustainable mobility, I am excited about the opportunity to support Europe’s largest e-bike refurbishment operations with scalable and reliable data solutions.
+
+Currently, I am working as a Data Engineering and Analytics Intern at Bosch Ebikes and previously as a Working Student Data Engineer at Siemens Healthineers. In these roles, I designed and optimized ETL and ELT pipelines using Python and SQL, automated KPI reporting, and supported analytics and operational teams with reliable data models and dashboards. My work improved data processing performance by up to 35–40\% and significantly reduced manual reporting effort, enabling faster and more accurate business decisions.
+
+I have a solid understanding of data warehousing concepts and hands-on experience with relational databases such as MySQL and PostgreSQL, as well as cloud-based platforms including AWS and Azure. I have worked with batch and near real-time data workflows, implemented data quality checks, logging, and monitoring, and taken ownership of data initiatives from initial idea through production deployment. Additionally, by optimizing queries, storage strategies, and workloads, I successfully reduced cloud infrastructure costs by up to 18\%, aligning closely with your focus on performance, reliability, and cost efficiency.
+
+What particularly attracts me to Rebike Mobility is your mission to drive the mobility transition through recommerce and sustainability. I enjoy working closely with cross-functional stakeholders from analytics, operations, and business teams, and I value environments that encourage ownership, collaboration, and continuous improvement—values that strongly resonate with Rebike’s culture.
+
+I am fluent in English, have B2-level German skills, and am available to start at short notice. I would be excited to bring my technical skills, proactive mindset, and passion for data-driven impact to your growing data team in Munich.
+
+Thank you very much for considering my application. I would welcome the opportunity to further discuss how my experience and motivation can contribute to Rebike Mobility’s success.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://github.com/Usama00004}{https://github.com/Usama00004}
+
+\end{document}
+
