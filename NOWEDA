@@ -1,0 +1,234 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Data Engineer / BI Developer mit starker Praxis in Power BI, SQL, ETL-Prozessen und Cloud-naher Datenverarbeitung. Erfahrung im Aufbau skalierbarer Datenpipelines, Datenmodellierung sowie in der Entwicklung aussagekräftiger Dashboards für datengetriebene Entscheidungen. Sicher in der Kommunikation mit Fachbereichen und Stakeholdern. Deutschkenntnisse auf C2-Niveau.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{BI \& Reporting:} Power BI, DAX, KPI-Definition, Dashboarding, Datenvisualisierung, Ad-hoc-Analysen\\
+\textbf{Data Engineering:} ETL / ELT, Datenpipelines, Databricks (Spark-Grundlagen), Cloud Analytics\\
+\textbf{Datenbanken:} SQL, PostgreSQL, Snowflake, SQL Server, Star Schema, Tabular Models\\
+\textbf{Programmierung:} Python (Pandas, NumPy), Datenautomatisierung, API-Integration\\
+\textbf{Dev \& Tools:} Git, Jira, Excel, CI/CD-Grundlagen\\
+\textbf{Soft Skills:} Strukturierte Arbeitsweise, analytisches Denken, Stakeholder-Kommunikation\\
+\textbf{Sprachen:} Deutsch (C2), Englisch (fließend)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Designed und optimized DWH-Datenmodelle zur Unterstützung von Produktions- und Logistikprozessen.
+    \item Developed skalierbare Power BI-Dashboards mit semantischen Modellen (DAX, Tabular), wodurch Reporting-Genauigkeit um \textbf{30\%} verbessert wurde.
+    \item Automated ETL-Pipelines mit SQL und Python; Reduktion manueller Datenaufbereitung um \textbf{35\%}.
+    \item Implemented Data-Quality-Checks, wodurch fehlerhafte Datensätze um \textbf{25\%} reduziert wurden.
+    \item Enge Abstimmung mit Fachbereichen und Präsentation von Analyseergebnissen für Stakeholder.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Built und maintained ETL-Prozesse in Cloud-DWH-Umgebungen (Snowflake, SQL Server).
+    \item Developed performante Power BI-Reports für Controlling- und BI-Teams.
+    \item Optimized SQL-Abfragen und Ladeprozesse, Senkung der Datenladezeiten um \textbf{40\%}.
+    \item Reduced Cloud- und Rechenkosten um \textbf{15\%} durch effizientere Datenmodelle und inkrementelle Ladestrategien.
+    \item Supported Fachbereiche bei KPI-Definition und datenbasierten Entscheidungsprozessen.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Implemented End-to-End Datenpipelines (Python, SQL) zur Integration großer Datenmengen aus APIs und operativen Systemen.
+    \item Designed relationale und multidimensionale Datenmodelle für BI- und Reporting-Anwendungen.
+    \item Automated Power BI-Reporting-Lösungen, Steigerung der Analysegeschwindigkeit um \textbf{30\%}.
+   
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Developed ein interaktives Power BI-Dashboard mit optimierter Datenmodellierung und ETL-Pipelines in Python. Reduzierte Reporting-Latenz um \textbf{20\%}. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Designed eine skalierbare Streaming-Datenpipeline mit Kafka und Flink zur Verarbeitung großer Datenmengen. Steigerte Verarbeitungseffizienz um \textbf{25\%}. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automated Web-Datenerfassung und Analyse mit Python und SQL, Reduktion manueller Arbeit um \textbf{40\%}. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% VERÖFFENTLICHUNGEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{VERÖFFENTLICHUNGEN}
+
+\item \textbf{Hotspot-Aware Workload Scheduling and Server Placement for Heterogeneous Cloud Data Centers} \\
+MDPI Energies Journal – Entwicklung kosten- und energieeffizienter Cloud-Optimierungsmodelle. \\
+(\href{https://www.mdpi.com/1996-1073/15/7/2541}{MDPI Energies})
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    NOWEDA eG\\
+    Heinrich Strunk-Straße 77\\
+    45143 Essen\\
+    Deutschland
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Haupt Str 43 \\
+    44894 Bochum\\
+    Deutschland\\
+    
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Engineer/ BI Developer – Power BI, Databricks, SQL}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Ausschreibung für die Position Data Engineer / BI Developer (m/w/d) gelesen. Als datengetriebener BI- und Data-Engineering-Spezialist mit praktischer Erfahrung in Power BI, SQL, ETL-Prozessen und Cloud-Analytics möchte ich aktiv zur digitalen Transformation der Gesundheitsbranche in Ihrem genossenschaftlich organisierten Unternehmen beitragen.
+
+Derzeit bin ich als Praktikant Data Analyst im Bereich Digitalization & Reporting bei der Bosch GmbH tätig. Dort entwickle und optimiere ich Power-BI-Reports und Dashboards, die Fachbereichen klare, datenbasierte Entscheidungsgrundlagen liefern. Durch den Aufbau robuster Datenmodelle sowie die Automatisierung von ETL-Pipelines mit SQL und Python konnte ich die Reporting-Genauigkeit um über 30\% steigern und den manuellen Datenaufbereitungsaufwand um 35\% reduzieren. Die enge Abstimmung mit Stakeholdern sowie die verständliche Präsentation komplexer Analyseergebnisse gehören dabei zu meinem Arbeitsalltag.
+
+Zuvor unterstützte ich als Werkstudent Data Analyst bei der Siemens AG den Aufbau und die Weiterentwicklung cloudbasierter Data-Warehouse-Architekturen (Snowflake, SQL Server). Ich implementierte performante ETL-Prozesse, optimierte SQL-Abfragen und reduzierte dadurch die Datenladezeiten um 40 \%. Durch effizientere Datenmodelle und inkrementelle Ladestrategien konnten zudem Cloud- und Betriebskosten um rund 15\% gesenkt werden.
+
+Mein technisches Profil umfasst Power BI, SQL, Databricks (Spark-Grundlagen), Python, ETL/ELT-Prozesse sowie Datenmodellierung (Star Schema, Tabular Models). Besonders reizt mich die Kombination aus Data Engineering und BI-Entwicklung, ergänzt durch eine enge Zusammenarbeit mit Fachbereichen. Dank meiner Deutschkenntnisse auf C2-Niveau bin ich in der Lage, auch komplexe technische Inhalte präzise und verständlich zu vermitteln.
+
+Gerne möchte ich meine Kenntnisse, meine strukturierte Arbeitsweise und meine Begeisterung für datengetriebene Lösungen in Ihr Team einbringen. Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
