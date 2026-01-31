@@ -1,0 +1,214 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence Analyst mit starkem Fokus auf \textbf{Datenmodellierung, BI-Reporting und Analytics-Lösungen}. Mehrjährige Erfahrung in der Entwicklung datengetriebener Entscheidungsgrundlagen für Management und Fachbereiche. Sicher im Umgang mit \textbf{SQL, Power BI, ETL-Prozessen und relationalen Datenbanken}. Analytisch, lösungsorientiert und erfahren im \textbf{1st- und 2nd-Level-Support} von BI-Anwendungen.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Business Intelligence \& Analytics:} Power BI, KPI-Definition, Dashboarding, Management-Reporting, Datenvisualisierung, Forecasting, Ad-hoc-Analysen\\
+\textbf{Datenmodellierung \& Datenbanken:} SQL, relationale Datenmodelle, Star Schema, Performance-Optimierung, Data Quality Management\\
+\textbf{ETL / Datenintegration:} Python (Pandas, NumPy), SQL-basierte ETL-Strecken, Automatisierung, Validierung\\
+\textbf{Tools \& Technologien:} Power BI, Git, Jira, PostgreSQL, Excel\\
+\textbf{Support \& Zusammenarbeit:} Anforderungsanalyse, Anwenderunterstützung, 1st- \& 2nd-Level-Support, Stakeholder-Kommunikation\\
+\textbf{Sprachen:} Deutsch (B2/C1), Englisch (fließend)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Entwickelte und pflegte \textbf{DWH-Datenmodelle} zur Unterstützung von Produktions- und Logistikentscheidungen und steigerte die Reporting-Transparenz um \textbf{25\%}.
+    \item Implementierte \textbf{Power BI Semantikschichten (DAX, Tabular)} und verbesserte die Performance komplexer Reports um \textbf{30\%}.
+    \item Automatisierte ETL-Prozesse mit \textbf{SQL und Python}, wodurch manuelle Aufwände um \textbf{35\%} reduziert wurden.
+    \item Übernahm \textbf{2nd-Level-Support} für Reporting-Lösungen und verkürzte die Fehlerbehebungszeit um \textbf{20\%}.
+    \item Analysierte neue Fachbereichsanforderungen und setzte diese effizient in BI-Lösungen um.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Mitarbeit beim Aufbau skalierbarer \textbf{DWH-Architekturen (SQL Server, Snowflake)} für BI- und Controlling-Teams.
+    \item Entwickelte relationale Datenmodelle und KPI-Strukturen zur besseren Steuerung von Management-Reports.
+    \item Optimierte SQL-Abfragen und Ladeprozesse, reduzierte Ladezeiten um \textbf{40\%} und senkte Infrastrukturkosten um \textbf{15\%}.
+    \item Erstellte und pflegte interaktive \textbf{Power BI Dashboards} für operative und strategische Entscheidungen.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwickelte und betrieb robuste \textbf{ETL-Pipelines (Python, SQL)} zur Integration mehrerer Datenquellen.
+    \item Modellierte relationale und multidimensionale Datenstrukturen für Reporting- und Analysezwecke.
+    \item Automatisierte Standardreports in Power BI und verkürzte Reporting-Zyklen um \textbf{30\%}.
+    \item Optimierte Datenbankprozesse und senkte operative Datenverarbeitungskosten um \textbf{18\%}.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Entwicklung eines interaktiven Management-Dashboards inkl. Datenmodellierung und ETL-Automatisierung. Reduzierte Reporting-Latenz um \textbf{20\%}.  
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Konzeption einer Streaming-Datenpipeline (Kafka, Flink) zur latenzarmen Analyse. Steigerte Verarbeitungseffizienz um \textbf{25\%}.  
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Web-Datenanalyse mit Python und SQL. Reduzierte manuellen Analyseaufwand um \textbf{40\%}.  
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen}
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+\end{itemize}
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Vicondo Healthcare GmbH\\
+    Katharinenstraße 17\\
+    10711 Berlin\\
+    Deutschland
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hardenberg str 34\\
+    10623 Berlin\\ 
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung für BI Analyst / Developer}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse bewerbe ich mich für die ausgeschriebene Position im Geschäftsbereich Vicondo 4 Analytics. Die Verbindung aus datengetriebener Steuerung, technischer Exzellenz und dem Anspruch, die Gesundheitsversorgung nachhaltig zu verbessern, entspricht sowohl meinem fachlichen Profil als auch meiner beruflichen Motivation.
+
+Derzeit bin ich als Data Analyst im Bereich Digitalization \& Reporting bei der Bosch GmbH tätig. In dieser Rolle entwickle und optimiere ich BI-Lösungen auf Basis relationaler Datenmodelle und automatisierter ETL-Prozesse. Zu meinen Kernaufgaben zählen die Modellierung und Pflege von Datenstrukturen, die Entwicklung performanter Analytics- und Reporting-Lösungen sowie die enge Zusammenarbeit mit Fachbereichen zur Umsetzung analytischer Anforderungen. Darüber hinaus unterstütze ich Anwender im First- und Second-Level-Support und trage aktiv zur Stabilität und Weiterentwicklung bestehender BI-Anwendungen bei.
+
+Durch meine vorherige Tätigkeit als Werkstudent bei der Siemens AG konnte ich zusätzliche Erfahrung im Aufbau von DWH-Architekturen, in der Optimierung von SQL-Prozessen sowie in der Entwicklung von KPI-basierten Management-Reports sammeln. Dabei lag mein Fokus stets auf Datenqualität, Transparenz und einer effizienten Nutzung analytischer Systeme als Entscheidungsgrundlage für Management und operative Bereiche.
+
+Mein Masterabschluss im Bereich Global Software Development sowie meine fundierten Kenntnisse in SQL, Datenmodellierung, ETL-Prozessen und Business Intelligence Tools (Power BI) bilden eine solide Grundlage für die Weiterentwicklung einer Analytics Suite wie der Vicondo 4 Analytics Suite. Erfahrungen im Gesundheitswesen bringe ich zwar bislang nicht direkt mit, jedoch verfüge ich über eine hohe Lernbereitschaft, eine schnelle Auffassungsgabe und großes Interesse daran, mich fachlich in klinische Daten und Prozesse einzuarbeiten.
+
+Gerne möchte ich meine analytische Kompetenz, meine strukturierte Arbeitsweise und meine Erfahrung in der Anwenderunterstützung bei Vicondo einbringen und so zur nachhaltigen Verbesserung von Transparenz und Steuerungsfähigkeit in Kliniken beitragen. Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
