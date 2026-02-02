@@ -1,0 +1,121 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business-Intelligence-Spezialist mit starkem Fokus auf Microsoft Power BI und Microsoft Fabric. Erfahrung im Aufbau skalierbarer End-to-End-Daten- und Reportinglösungen – von Datenintegration und Modellierung über DAX-optimierte Semantic Models bis hin zu performanten Dashboards. Routiniert in der Zusammenarbeit mit Fachbereichen zur KPI-Definition, Etablierung von Reporting-Standards sowie Governance-Strukturen für datengetriebenes Arbeiten.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Power BI \& Semantic Modeling:}  
+Datenmodellierung (Star Schema), DAX, Performance Tuning, Visualisierung, UX-Optimierung, Row-Level Security (RLS)\\
+\textbf{Microsoft Fabric:}  
+Lakehouses, Dataflows Gen2, Pipelines, Semantic Models, Data Engineering Workloads\\
+\textbf{Datenintegration \& Transformation:}  
+Power Query (M), SQL, Python (Pandas), ETL/ELT-Architekturen\\
+\textbf{BI Governance \& Standards:}  
+Namenskonventionen, Workspace-Strukturen, Berechtigungskonzepte, Dokumentation, Enablement\\
+\textbf{Tools \& Technologien:}  
+Power BI Service, Microsoft Fabric, SQL Server, PostgreSQL, Git, Jira, Excel\\
+\textbf{Soft Skills:}  
+Analytisches Denken, strukturierte Arbeitsweise, Stakeholder-Kommunikation, Teamfähigkeit\\
+
+\textbf{Sprachen:} Deutsch, Englisch
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Aufbau und Weiterentwicklung von Power-BI-Lösungen inkl. Datenmodellierung, DAX und Performance-Optimierung.
+    \item Entwicklung und Pflege von Semantic Models als zentrale Reporting-Schicht.
+    \item Umsetzung von End-to-End-Datenprozessen von der Quellsystemanbindung bis zum Dashboard.
+    \item Automatisierung und Optimierung von Datenintegrations- und Transformationslogiken (SQL, Python, Power Query).
+    \item Enge Zusammenarbeit mit Fachbereichen zur Anforderungsanalyse, KPI-Definition und Qualitätssicherung.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2024 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Mitwirkung beim Design und der Weiterentwicklung skalierbarer DWH- und BI-Architekturen.
+    \item Entwicklung performanter Power-BI-Dashboards inkl. Datenmodellierung und Visualisierung.
+    \item Implementierung robuster ETL-Prozesse zur Integration heterogener Datenquellen.
+    \item Optimierung von SQL-Abfragen und Datenpipelines zur Reduktion von Ladezeiten.
+    \item Unterstützung bei der Etablierung einheitlicher Reporting-Standards.
+\end{itemize}
+
+\newpage
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Dec 2023\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwicklung und Betrieb von ETL-Pipelines für Reporting- und Analysezwecke.
+    \item Aufbau multidimensionaler Datenmodelle für Power BI.
+    \item Umsetzung automatisierter Reportinglösungen für Management und Fachbereiche.
+    \item Sicherstellung von Datenqualität, Performance und Dokumentation.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Konzeption und Umsetzung einer vollständigen BI-Lösung inkl. Datenmodellierung, DAX-Optimierung und UX-Design. Reduktion der Reporting-Latenz um \textbf{20\%}.  
+(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenpipeline für Analytics} \\
+Entwicklung einer skalierbaren Datenpipeline zur Echtzeitverarbeitung. Fokus auf robuste Architektur und Performance-Optimierung.  
+(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Automatisierte Datenintegration \& Analyse} \\
+End-to-End-Automatisierung von Datenerfassung, Transformation und Reporting zur Effizienzsteigerung.  
+(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate} \begin{itemize} \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen} \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen} \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen} \end{itemize}
+
+\end{document}
