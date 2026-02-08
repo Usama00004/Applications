@@ -1,0 +1,215 @@
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.7in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Marc O'Polo GmbH\\
+    Hofgartenstraße 1\\
+    83071 Stephanskirchen\\
+    Deutschland\\
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Romerstadter str 3 \\
+    86199 Augsburg\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als BI Analyst – Power BI m/w/d : }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+
+mit großer Begeisterung bewerbe ich mich auf die Position des Power BI Analysten in Ihrem Unternehmen. Als Business Intelligence Analyst mit umfangreicher Erfahrung in Power BI, DAX, Datenmodellierung und ETL-Prozessen habe ich bereits erfolgreich Dashboards für Einkauf, Logistik, Vertrieb und Controlling entwickelt, KPIs definiert und Reporting-Prozesse optimiert.
+
+Bei Bosch GmbH habe ich Power BI Dashboards und DAX-KPI-Logiken aufgebaut, wodurch die Reporting-Performance um 30\% gesteigert und die manuelle Aufbereitung um 15\% reduziert wurde. Gleichzeitig konnte ich die Datenqualität durch optimierte ETL-Strecken um 25\% verbessern. Auch bei Siemens AG und Systems Limited habe ich Datenmodelle und ETL-Pipelines konzipiert, Ladezeiten um bis zu 35\% reduziert und Infrastrukturkosten um 20\% gesenkt.
+
+Meine Stärke liegt darin, fachliche Anforderungen präzise in strukturierte und verständliche Visualisierungs konzepte zu übersetzen, Self-Service-Nutzer zu begleiten und durch Templates und Guidelines Know-how nachhaltig zu vermitteln. Dabei arbeite ich stets analytisch, strukturiert und qualitätsorientiert und bringe mich aktiv in teamübergreifende BI-Prozesse ein.
+
+Ich freue mich darauf, meine Expertise in Power BI, DAX und Reporting bei [Unternehmensname] einzubringen und gemeinsam datengetriebene Entscheidungen zu unterstützen. Sehr gern erläutere ich Ihnen meine Erfahrungen und Erfolge in einem persönlichen Gespräch.
+
+Vielen Dank für Ihre Zeit und Berücksichtigung meiner Bewerbung.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence Analyst spezialisiert auf Power BI, DAX, ETL-Prozesse und konzernweite Reporting-Landschaften. Erfahrung in der Entwicklung aussagekräftiger Dashboards für Einkauf, Logistik, Vertrieb und Controlling. Nachweisbare Erfolge in der Optimierung von Datenmodellen, Verbesserung der Reporting-Performance um bis zu \textbf{35\%} und Reduktion von Betriebskosten um bis zu \textbf{20\%}. Starke Fähigkeiten in Datenmodellierung, KPI-Definition und Performance-Optimierung zur datengetriebenen Entscheidungsunterstützung.  
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Business Intelligence \& Reporting:} Power BI, DAX, KPI-Definition, Dashboarding, Storytelling, Ad-hoc-Analysen, Standardreporting \\
+\textbf{Datenmanagement:} T-SQL, SQL Server, PostgreSQL, Datenmodellierung (Star Schema, Tabular), Data Quality Management \\
+\textbf{ETL / Datenintegration:} ETL-Design, Python (Pandas, NumPy), Power Query (M), Datenaufbereitung, Transformation \\
+\textbf{BI-Infrastruktur:} DWH-Architekturen, Performance-Optimierung, Monitoring, Systemstabilität \\
+\textbf{Tools \& Plattformen:} Power BI, Git, Excel, Jira, ERP-nahe Systeme (SAP-ähnlich) \\
+\textbf{Arbeitsweise:} Analytisch, strukturiert, qualitätsorientiert, team- und kommunikationsstark \\
+\textbf{Sprachen:} Deutsch, Englisch
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Entwickelte und optimierte Power BI Dashboards und DAX-KPIs, steigerte Reporting-Performance um \textbf{30\%}.
+    \item Bereitete Daten in Power Query auf und implementierte ETL-Prozesse mit T-SQL und Python, verbesserte Datenqualität um \textbf{25\%}.
+    \item Reduzierte manuelle Reporting-Aufwände und senkte operative Kosten um \textbf{15\%}.
+    \item Unterstützte Fachbereiche mit DAX, KPI-Logik und Visualisierungskonzepten; schulte Self-Service-Nutzer durch Templates und Guidelines.
+    \item Zusammenarbeit mit Data Engineers zur Optimierung der Datenplattform und Gewährleistung einer konsistenten BI-Architektur.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Konzipierte skalierbare BI- und DWH-Architekturen (SQL Server, Snowflake) für Reporting und Controlling.
+    \item Modellierte relationale und analytische Datenmodelle für Fachbereiche; entwickelte KPI-Strukturen und Power BI Reports.
+    \item Optimierte ETL-Strecken und SQL-Abfragen, reduzierte Ladezeiten um \textbf{35\%}.
+    \item Automatisierte Datenaufbereitung und verbesserte Datenqualität, wodurch manuelle Fehler um \textbf{20\%} gesenkt wurden.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwickelte, implementierte und überwachte ETL-Pipelines (Python, SQL) für verschiedene Datenquellen.
+    \item Aufbau und Pflege von BI-Datenmodellen zur Verbesserung der Reporting-Genauigkeit.
+    \item Erstellte automatisierte Power BI-Reports und reduzierte Infrastruktur- sowie Betriebskosten um \textbf{20\%}.
+    \item Analysierte Datenprobleme und implementierte nachhaltige Lösungen zur Performance-Steigerung und Prozessoptimierung.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Skalierbares Power BI-Dashboard mit optimierter Datenmodellierung und ETL-Logik; Reporting-Latenzen um \textbf{20\%} reduziert. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Streaming-Datenpipeline mit Apache Kafka und Flink für Echtzeit-Analyse; Verarbeitungseffizienz um \textbf{25\%} gesteigert. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Datenerfassung und Analyse mit Python und SQL; manueller Aufwand um \textbf{40\%} reduziert. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
