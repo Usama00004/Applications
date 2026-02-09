@@ -1,0 +1,222 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.5in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence Analyst mit 1–3 Jahren Berufserfahrung im \textbf{Aufbau, der Weiterentwicklung und Optimierung von Berichtswesen und BI-Lösungen}. Fundierte Kenntnisse in \textbf{Power BI, DAX, SQL, Datenmodellierung und ETL-Prozessen}. Erfahrung in der \textbf{Analyse von Datenanforderungen}, enger Zusammenarbeit mit \textbf{Fachabteilungen im In- und Ausland} sowie in der \textbf{Durchführung von Datenqualitätsprüfungen}. Nachweisliche Erfolge in der \textbf{Steigerung der Reporting-Effizienz um bis zu 35\%} und der \textbf{Reduktion von Reporting- und Betriebskosten um bis zu 20\%}.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{BI \& Berichtswesen:} Power BI, KPI-Design, Standardreports, Ad-hoc-Auswertungen, Management-Reports \\
+\textbf{Controlling-nahe Analysen:} Soll-Ist-Vergleiche, Forecast-Unterstützung, Performance-Analysen \\
+\textbf{Datenanalyse \& Modellierung:} Star Schema, Tabular Models, Datenvalidierung, Datenqualität \\
+\textbf{ETL \& Datenintegration:} Power Query (M), SQL, Python (Pandas), Datenaufbereitung \\
+\textbf{ERP \& Quellsysteme:} SAP BW, SAP S/4HANA (Reporting-Anbindung), ERP-nahe Systeme \\
+\textbf{Tools:} Power BI Service, Excel (Advanced), Git, Jira \\
+\textbf{Stakeholder Management:} Anforderungsanalyse, Workshops, Anwenderschulungen \\
+\textbf{Sprachen:} Deutsch (C1), Englisch (B2)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Mitwirkte aktiv am Ausbau und der Weiterentwicklung des zentralen Berichtswesens} mit Power BI für Controlling- und Fachabteilungen.
+    \item \textbf{Analysierte und definierte Datenanforderungen} gemeinsam mit internen Stakeholdern und stellte eine hohe Datenkonsistenz sicher.
+    \item \textbf{Entwickelte und optimierte} standardisierte Reports sowie Ad-hoc-Auswertungen; \textbf{Steigerung der Reporting-Performance um 30\%}.
+    \item \textbf{Führte Datenqualitätsprüfungen durch} und verbesserte Datenvollständigkeit und -genauigkeit um \textbf{25\%}.
+    \item \textbf{Automatisierte manuelle Reporting-Prozesse} und \textbf{reduzierte operative Kosten um 15\%}.
+    \item \textbf{Schulte Anwender} im Umgang mit Power BI und dokumentierte Datenmodelle und Berichte.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item \textbf{Erweiterte und optimierte} bestehende BI-Reports zur Unterstützung von Controlling- und Managemententscheidungen.
+    \item \textbf{Unterstützte Forecasts, Soll-Ist-Vergleiche und KPI-Analysen} durch präzise Datenaufbereitung.
+    \item \textbf{Koordinierte Datenanforderungen} mit Fachabteilungen und verbesserte KPI-Transparenz um \textbf{20\%}.
+    \item \textbf{Optimierte ETL-Prozesse und SQL-Abfragen}; reduzierte Ladezeiten um \textbf{35\%}.
+    \item \textbf{Eliminierte redundante Reports} und senkte Infrastruktur- und Wartungskosten um \textbf{10\%}.
+\end{itemize}
+
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item \textbf{Erstellte und pflegte} ETL-Strecken für BI- und Controlling-Reports.
+    \item \textbf{Analysierte Geschäftsdaten} zur Unterstützung operativer und strategischer Entscheidungen.
+    \item \textbf{Verbesserte Reporting-Genauigkeit um 25\%} durch saubere Datenmodellierung und Validierungsregeln.
+    \item \textbf{Reduzierte Betriebs- und Prozesskosten um 20\%} durch Automatisierung und Standardisierung.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Standardisiertes Management-Reporting mit optimierter Datenmodellierung; \textbf{Reduktion der Reporting-Latenz um 20\%}. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Datenpipeline für Performance-Monitoring; Analysegeschwindigkeit um \textbf{25\%} gesteigert. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Datenaufbereitung; manueller Analyseaufwand um \textbf{40\%} reduziert. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.7in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+  
+    Beckhoff Automation GmbH \\
+    Hülshorstweg 20\\
+    33415 Verl \\
+    Deutschland \\
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Haupt Str 43 \\
+    44894 Bochum\\
+    NRW Germany\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Controller (m/w/d) mit Schwerpunkt Business Intelligence (BI)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Ausschreibung für die Position im Bereich Business Intelligence und Controlling gelesen. Die Kombination aus Berichtswesen, BI-Tool-Weiterentwicklung, Datenanalyse und enger Zusammenarbeit mit Fachabteilungen entspricht genau meinem fachlichen Profil und meinen beruflichen Zielen.
+
+Derzeit bin ich als Praktikant Data Analyst im Bereich Digitalization \& Reporting bei der Bosch GmbH tätig. Dort wirke ich aktiv am Ausbau und an der Weiterentwicklung des unternehmensweiten Berichtswesens mit Power BI mit. In enger Abstimmung mit Fachbereichen analysiere und definiere ich Datenanforderungen, entwickle standardisierte Reports sowie Ad-hoc-Auswertungen und führe regelmäßige Datenqualitätsprüfungen durch. Durch die Optimierung von Datenmodellen und DAX-Berechnungen konnte ich die Reporting-Performance um rund 30\% steigern und manuelle Prozesse automatisieren, was zu einer Kostenreduktion von etwa 15\% führte.
+
+Zuvor habe ich als Werkstudent bei der Siemens AG an der Erweiterung bestehender BI- und Controlling-Reports mitgewirkt und Fachbereiche bei Soll-Ist-Vergleichen, KPI-Analysen und Forecasts unterstützt. Dabei lag mein Fokus auf einer hohen Datenkonsistenz, performanten ETL-Prozessen sowie einer anwenderfreundlichen Aufbereitung der Ergebnisse. Ergänzend bringe ich praktische Erfahrung im Umgang mit ERP-nahen Datenquellen sowie sehr gute Kenntnisse in Power BI, DAX, SQL und Excel mit.
+
+Besonders schätze ich an der ausgeschriebenen Position die Möglichkeit, Verantwortung im Berichtswesen zu übernehmen, BI-Tools kontinuierlich weiterzuentwickeln und Anwender aktiv zu schulen und zu unterstützen. Meine schnelle Auffassungsgabe, analytische Denkweise und teamorientierte Arbeitsweise ermöglichen es mir, mich zügig in neue Themen einzuarbeiten und einen messbaren Mehrwert zu schaffen.
+
+Gerne möchte ich meine Kenntnisse und meine Motivation in Ihr Unternehmen einbringen und zur Weiterentwicklung eines modernen, qualitativ hochwertigen Berichtswesens beitragen. Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
