@@ -1,0 +1,177 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.7in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    itmX GmbH\\
+    Im Ludlein 6\\
+    75181 Pforzheim\\
+    Deutschland\\
+
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Rosenbergstraße 18 \\
+    70174 Stuttgart \\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Power BI Consultant}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Power BI Consultant gelesen. Aufgrund meiner fundierten Erfahrung in der Entwicklung und Implementierung von Power BI Dashboards sowie meiner analytischen und kommunikativen Stärke sehe ich eine sehr gute Übereinstimmung zwischen meinem Profil und den Anforderungen Ihrer Position.
+
+Derzeit bin ich als Data Analyst im Bereich Digitalization & Reporting bei der Bosch GmbH tätig. In dieser Rolle entwickle und optimiere ich Power BI Dashboards zur Unterstützung geschäftsrelevanter Entscheidungen und arbeite intensiv mit Fachbereichen zur Aufnahme und Umsetzung von Reporting-Anforderungen zusammen. Durch die Optimierung von DAX-Berechnungen und Datenmodellen konnte ich die Reporting-Performance um bis zu 30 % steigern. Zusätzlich habe ich manuelle Reporting-Prozesse automatisiert und dadurch Betriebskosten um rund 15 % reduziert.
+
+Zuvor konnte ich als Werkstudent bei der Siemens AG wertvolle Erfahrung in der Konzeption skalierbarer BI- und DWH-Architekturen sammeln. Dort lag mein Fokus auf der Anbindung unterschiedlicher Datenquellen, der Optimierung von ETL-Prozessen sowie der Entwicklung KPI-basierter Power BI Reports. Die enge Zusammenarbeit mit internen Stakeholdern sowie die kontinuierliche Verbesserung bestehender Reporting-Lösungen gehörten dabei zu meinem Arbeitsalltag.
+
+Neben meinen sehr guten Kenntnissen in Power BI, DAX, Power Query und SQL bringe ich ein hohes Maß an analytischer Kompetenz, eine strukturierte Arbeitsweise sowie Freude an der Wissensvermittlung mit. Die Durchführung von Anwenderschulungen und Workshops zur effektiven Nutzung von Power BI ist für mich ein zentraler Bestandteil erfolgreicher BI-Projekte.
+
+Gerne möchte ich meine fachlichen Fähigkeiten und meine Begeisterung für datengetriebene Lösungen in Ihr Team einbringen und gemeinsam mit Ihnen innovative Reporting-Lösungen für Ihre Kunden entwickeln. Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.7in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    itmX GmbH\\
+    Im Ludlein 6\\
+    75181 Pforzheim\\
+    Deutschland\\
+
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Rosenbergstraße 18 \\
+    70174 Stuttgart \\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Power BI Consultant}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als Power BI Consultant gelesen. Aufgrund meiner fundierten Erfahrung in der Entwicklung und Implementierung von Power BI Dashboards sowie meiner analytischen und kommunikativen Stärke sehe ich eine sehr gute Übereinstimmung zwischen meinem Profil und den Anforderungen Ihrer Position.
+
+Derzeit bin ich als Data Analyst im Bereich Digitalization & Reporting bei der Bosch GmbH tätig. In dieser Rolle entwickle und optimiere ich Power BI Dashboards zur Unterstützung geschäftsrelevanter Entscheidungen und arbeite intensiv mit Fachbereichen zur Aufnahme und Umsetzung von Reporting-Anforderungen zusammen. Durch die Optimierung von DAX-Berechnungen und Datenmodellen konnte ich die Reporting-Performance um bis zu 30 % steigern. Zusätzlich habe ich manuelle Reporting-Prozesse automatisiert und dadurch Betriebskosten um rund 15 % reduziert.
+
+Zuvor konnte ich als Werkstudent bei der Siemens AG wertvolle Erfahrung in der Konzeption skalierbarer BI- und DWH-Architekturen sammeln. Dort lag mein Fokus auf der Anbindung unterschiedlicher Datenquellen, der Optimierung von ETL-Prozessen sowie der Entwicklung KPI-basierter Power BI Reports. Die enge Zusammenarbeit mit internen Stakeholdern sowie die kontinuierliche Verbesserung bestehender Reporting-Lösungen gehörten dabei zu meinem Arbeitsalltag.
+
+Neben meinen sehr guten Kenntnissen in Power BI, DAX, Power Query und SQL bringe ich ein hohes Maß an analytischer Kompetenz, eine strukturierte Arbeitsweise sowie Freude an der Wissensvermittlung mit. Die Durchführung von Anwenderschulungen und Workshops zur effektiven Nutzung von Power BI ist für mich ein zentraler Bestandteil erfolgreicher BI-Projekte.
+
+Gerne möchte ich meine fachlichen Fähigkeiten und meine Begeisterung für datengetriebene Lösungen in Ihr Team einbringen und gemeinsam mit Ihnen innovative Reporting-Lösungen für Ihre Kunden entwickeln. Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
