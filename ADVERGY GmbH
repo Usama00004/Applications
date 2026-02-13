@@ -1,0 +1,234 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.5in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+SAP BI/BW \& Business Intelligence Consultant mit 2+ Jahren Erfahrung in SAP BW, SAP S/4HANA Reporting und Power BI. Expertise in Datenmodellierung (Star Schema), ETL-Prozessen, KPI-Definition und Dashboard-Entwicklung. Reporting-Effizienz um 35\% gesteigert, Datenqualität um 25\% verbessert und operative Kosten um 20\% durch Automatisierung reduziert.
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{SAP Technologien:} SAP BW, SAP S/4HANA Reporting, SAP Analytics Cloud (Grundlagen), BW Query Design \\
+\textbf{Business Intelligence:} KPI-Definition, Dashboard-Konzeption, Management Reporting, Data Storytelling \\
+\textbf{Datenmodellierung:} Star Schema, InfoProvider-Logik, Datenflüsse, Datenarchitektur \\
+\textbf{ETL \& Datenintegration:} SQL, Power Query (M), Python (Pandas), Datenvalidierung \\
+\textbf{BI Tools:} Power BI, SAP Analytics Cloud, Excel (Advanced) \\
+\textbf{Projektarbeit:} Anforderungsanalyse, Workshop-Moderation, Stakeholder Management, Dokumentation \\
+\textbf{Methoden:} Agile Projektmethoden, Prozessoptimierung, Performance-Tuning \\
+\textbf{Sprachen:} Deutsch, Englisch
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Analysierte und modellierte Datenflüsse} aus SAP-nahen Quellsystemen zur Integration in zentrale BI-Reports.
+    \item \textbf{Entwickelte und implementierte KPI-basierte Dashboards} für Controlling und Fachbereiche; erhöhte Transparenz um \textbf{30\%}.
+    \item \textbf{Optimierte Reporting-Datenmodelle} (Star Schema) und verbesserte Ladezeiten um \textbf{35\%}.
+    \item \textbf{Automatisierte manuelle Reporting-Prozesse} mittels ETL-Anpassungen und reduzierte operative Kosten um \textbf{15\%}.
+    \item \textbf{Verbesserte Datenqualität und Konsistenz um 25\%} durch Validierungsregeln und strukturierte Datenprüfungen.
+    \item \textbf{Schulte Anwender} und unterstützte Junior Teammitglieder bei BI-Anforderungen.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item \textbf{Konzipierte und optimierte BI-Reportinglösungen} für Management-Reports und Forecast-Analysen.
+    \item \textbf{Unterstützte KPI-Definitionen} und setzte Reporting-Anforderungen technisch um.
+    \item \textbf{Optimierte SQL- und ETL-Prozesse} und reduzierte Datenladezeiten um \textbf{35\%}.
+    \item \textbf{Eliminierte redundante Reports} und senkte Infrastruktur- sowie Wartungskosten um \textbf{10\%}.
+    \item \textbf{Koordinierte Anforderungen} zwischen IT und Fachbereichen im internationalen Umfeld.
+\end{itemize}
+\newpage
+\textbf{Junior Data Analyst} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item \textbf{Entwickelte ETL-Strecken und BI-Datenmodelle} für Reporting- und Analytics-Lösungen.
+    \item \textbf{Analysierte Geschäftsprozesse} und übersetzte Anforderungen in technische BI-Lösungen.
+    \item \textbf{Steigerte Reporting-Genauigkeit um 25\%} durch strukturierte Datenmodellierung.
+    \item \textbf{Reduzierte Prozesskosten um 20\%} durch Standardisierung und Automatisierung von Reporting-Abläufen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Sales \& Performance Dashboard (Power BI)} \\
+Konzeption und Implementierung eines KPI-basierten Dashboards mit optimierter Datenmodellierung; \textbf{Reduktion der Reporting-Latenz um 20\%}. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Design und Implementierung einer Datenpipeline zur Performance-Überwachung; Analysegeschwindigkeit um \textbf{25\%} gesteigert. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Automatisierte Sentiment-Analyse} \\
+Automatisierte Datenaufbereitung und Reporting; manueller Analyseaufwand um \textbf{40\%} reduziert. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.7in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+  
+    ADVERGY GmbH\\
+    Frankfurt am Main\\
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderichstraße 47A \\
+    60594 Frankfurt am Main\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Controller Bewerbung als SAP BI/BW Berater | Referenznummer : OPP-23-10-14922}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Ausschreibung für die Position als SAP BI/BW Berater (m/w/d) gelesen. Die Verbindung aus innovativen SAP-Technologien, anspruchsvollen Projekten in der Finanzdienstleistungsbranche sowie einer offenen und entwicklungsorientierten Unternehmenskultur entspricht genau meinem beruflichen Anspruch.
+
+Als SAP-naher Business Intelligence Analyst mit über zwei Jahren Erfahrung im Reporting- und Analytics-Umfeld bringe ich fundierte Kenntnisse in SAP BW, SAP S/4HANA Reporting sowie Power BI mit. In meinen bisherigen Tätigkeiten bei Bosch und Siemens habe ich Datenflüsse analysiert, KPI-basierte Reportinglösungen konzipiert und Datenmodelle (Star Schema) optimiert. Dabei konnte ich die Reporting-Performance um bis zu 35\% steigern, die Datenqualität um 25\% verbessern und operative Kosten durch Automatisierung um bis zu 20\% reduzieren.
+
+Besonders reizt mich an der ausgeschriebenen Position die Möglichkeit, anspruchsvolle BI- und BW-Lösungen zu gestalten, Datenstrukturen zu optimieren und Fachbereiche strategisch zu beraten. Durch meine strukturierte Arbeitsweise, mein technisches Verständnis und meine Fähigkeit, Business-Anforderungen in performante Reporting-Lösungen zu übersetzen, sehe ich mich als wertvolle Unterstützung für Ihr Team. Zudem arbeite ich gerne in Projekten, übernehme Verantwortung und unterstütze auch Junior-Kollegen bei fachlichen Fragestellungen.
+
+Gerne möchte ich meine analytischen Fähigkeiten, meine SAP-Expertise und meine hohe Motivation in Ihr Unternehmen einbringen und gemeinsam innovative BI-Lösungen für Ihre Kunden entwickeln.
+
+Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
