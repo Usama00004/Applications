@@ -1,0 +1,228 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence Analyst mit Schwerpunkt auf MS Power BI, MS Fabric, Datenmodellierung sowie Analyse von Finanz- und Unternehmensdaten. Erfahrung in der Entwicklung von Management-Dashboards, KPI-Systemen und Forecast-Lösungen. Fundiertes Verständnis von Sachkonten, Kostenstellen und Buchungslogiken sowie starke analytische Fähigkeiten zur Identifizierung von Trends und Optimierungspotenzialen. Sehr gute Deutsch- und Englischkenntnisse.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Business Intelligence \& Reporting:} MS Power BI (DAX, Tabular, Datenmodellierung, Transformation, Visualisierung), MS Fabric, KPI-Definition, Forecasting, Dashboard-Entwicklung für Management und Stakeholder \\
+\textbf{Finanz- \& Unternehmensdaten:} Analyse von Sachkonten, Kostenstellen, Buchungslogiken, Budget- und Forecast-Daten, Controlling-Reports \\
+\textbf{Datenmanagement:} SQL, Datenmodellierung (Star Schema, Snowflake), Data Warehouse (DWH), Data Quality Checks, Validierung \\
+\textbf{ETL / Automatisierung:} Python (Pandas, NumPy), Prozessautomatisierung, ELT/ETL-Design, Airflow, Databricks \\
+\textbf{Tools:} MS Power BI, MS Fabric, SAP S/4HANA, Excel (Pivot, Power Query), PostgreSQL, Git, Jira \\
+\textbf{Soft Skills:} Analytisches Denkvermögen, strukturierte und selbstständige Arbeitsweise, Stakeholder-Kommunikation, Teamarbeit \\
+\textbf{Sprachen:} Deutsch (B2.2), Englisch (fließend)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Entwickelte und optimierte DWH-Datenmodelle für Produktions- und Finanzreports und steigerte die Reporting-Genauigkeit um \textbf{22\%}
+    \item Konzipierte multidimensionale Datenmodelle und Power BI Semantikschichten (DAX, Tabular), wodurch die Dashboard-Ladezeiten um \textbf{30\%} reduziert wurden
+    \item Automatisierte ETL-/ELT-Prozesse mit SQL und Python und erhöhte die Datenverarbeitungseffizienz um \textbf{28\%}
+    \item Reduzierte manuelle Reporting-Aufwände um \textbf{20\%} durch Standardisierung und Automatisierung von KPI-Dashboards
+    \item Senkte Infrastruktur- und Abfragekosten im DWH durch SQL-Optimierung und Performance-Tuning um \textbf{15\%}
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Implementierte skalierbare Data-Warehouse-Strukturen (Snowflake, SQL Server) und verbesserte die Datenverfügbarkeit für Controlling-Teams um \textbf{25\%}
+    \item Entwickelte Power BI Dashboards für interne Stakeholder zur Analyse von KPI-, Budget- und Forecast-Daten
+    \item Modellierte relationale und multidimensionale Datenmodelle (Star- und Snowflake-Schema) zur Unterstützung finanzwirtschaftlicher Entscheidungen
+    \item Optimierte komplexe SQL-Abfragen und reduzierte Ladezeiten sowie Serverkosten um \textbf{18\%}
+
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwickelte robuste ETL-Pipelines (Python, SQL) und steigerte die Datenpipeline-Stabilität um \textbf{40\%}
+    \item Implementierte automatisierte Power BI Reporting-Lösungen und reduzierte manuelle Reportingprozesse um \textbf{35\%}
+    \item Analysierte Unternehmens- und Finanzdaten zur Identifizierung von Trends und Effizienzpotenzialen
+    \item Verbesserte die Abfragegeschwindigkeit durch Datenbankoptimierung um \textbf{30\%}
+    \item Arbeitete eng mit internen Fachbereichen zusammen und strukturierte datengetriebene Entscheidungsgrundlagen
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Uber Data Analytics Report} \\
+Analysierte umfangreiche Fahrtdaten zur Identifizierung von Umsatzmustern, Nachfrage-Trends und Peak-Zeiten. Entwickelte ein KPI-basiertes Power BI Dashboard mit DAX-Berechnungen zur Optimierung operativer Entscheidungen und verbesserte die Analysegeschwindigkeit um \textbf{30\%}.(\href{https://github.com/Usama00004/Uber-Data-Analytics}{GitHub}) (\href{https://app.powerbi.com/view?r=eyJrIjoiZTBmYmFjNjgtYTMxZi00NGRkLTk2YTktYzY5ZGE4NzhjYjg3IiwidCI6IjM1Yzc2ZjdjLTFiNzUtNDVjMS1hNDFkLTlmNjQ4ODUyZTNhNSIsImMiOjl9}{Live Report})
+
+\item \textbf{Amazon Seller Performance Report} \\
+Erstellte ein Performance- und Profitabilitäts-Dashboard zur Analyse von Verkaufszahlen, Margen, Kostenstrukturen und Forecast-Daten. Optimierte SQL-Abfragen und Datenmodelle und reduzierte manuelle Reporting-Aufwände um \textbf{25\%}.(\href{https://github.com/Usama00004/Amazon-Sales-Analysis}{GitHub}) (\href{https://app.powerbi.com/view?r=eyJrIjoiNmE1ZmI4YzMtYTRjNC00NTQyLWI5OWUtYThiNzFiNjY2NzE1IiwidCI6IjM1Yzc2ZjdjLTFiNzUtNDVjMS1hNDFkLTlmNjQ4ODUyZTNhNSIsImMiOjl9}{Live Report})
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Entwickelte ein interaktives Power BI Dashboard zur Analyse von Umsatz-, Trend- und KPI-Daten. Implementierte Datenmodellierung (Star Schema) und ETL-Prozesse mit Python und reduzierte Reporting-Latenz um \textbf{20\%}.(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Datenerfassung und Analyse mit Python, Selenium und SQL und reduzierte manuellen Aufwand um \textbf{40\%}.(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/14d46edd9c61f423?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.7in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Nexia GmbH\\
+    Ulmenstraße 37-39\\
+    60325 Frankfurt\\
+    Deutschland\\
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderich str  47A \\
+    60594 Frankfurt\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Analyst mit Schwerpunkt MS Power BI}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse bewerbe ich mich auf die Position als MS Power BI Dashboards Entwickler. Als Business Intelligence Analyst mit fundierter Erfahrung in MS Power BI, MS Fabric, SQL und Python sowie in der Analyse von Finanz und Unternehmensdaten bringe ich sowohl technische Expertise als auch ein stark ausgeprägtes analytisches Denkvermögen mit.
+
+In meinen bisherigen Tätigkeiten habe ich interaktive Management Dashboards für interne und externe Stakeholder entwickelt, multidimensionale Datenmodelle (Star Schema, Tabular) konzipiert und ETL/ELT Prozesse automatisiert. Dabei analysierte ich Finanz- und operative Daten, identifizierte Trends und Muster und leitete daraus konkrete Handlungsempfehlungen für das Management ab. Durch Performance Optimierung und Standardisierung von KPI-Reports konnte ich unter anderem Reporting Ladezeiten um 30\% reduzieren und manuelle Aufwände deutlich senken.
+
+Ein besonderer Schwerpunkt meiner Arbeit liegt auf der strukturierten Modellierung finanzwirtschaftlicher Daten – einschließlich Sachkonten, Kostenstellen und Buchungslogiken  sowie der klaren Visualisierung komplexer Zusammenhänge für Entscheidungsträger. Die enge Zusammenarbeit mit Fachbereichen und verschiedenen Stakeholdern ist für mich selbstverständlich. Projekte treibe ich eigenverantwortlich, strukturiert und lösungsorientiert voran.
+
+Neben sehr guten Kenntnissen in MS Power BI (Datenmodellierung, Transformation, DAX, Visualisierung) und MS Fabric verfüge ich über fundierte Excel, SQL und Python Kenntnisse. Digitalisierungs- und Automatisierungsprojekte sehe ich als Chance, Prozesse nachhaltig effizienter und transparenter zu gestalten. Meine Deutsch- und Englischkenntnisse sind fließend in Wort und Schrift.
+
+Gerne möchte ich meine analytischen Fähigkeiten und meine Begeisterung für datengetriebene Entscheidungen in Ihr Unternehmen einbringen und aktiv zur Weiterentwicklung Ihrer Dashboard- und Reporting-Landschaft beitragen.
+
+Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
