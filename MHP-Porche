@@ -1,0 +1,126 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFILE}
+
+Business Intelligence Analyst with experience in data analysis, BI reporting, data modeling, and ETL processes. Strong expertise in Power BI, SQL, and Python for developing planning, forecasting, and reporting solutions. Skilled at translating complex data into clear insights to support data-driven business decisions.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+\textbf{M.Sc. Global Software Development} – Fulda University of Applied Sciences, Germany \\
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore   
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CORE COMPETENCIES}
+
+\textbf{Business Intelligence \& Analytics:} Power BI, KPI definition, reporting, dashboarding, data visualization, forecasting, ad-hoc analysis \\
+\textbf{Data Management:} SQL, SAP S/4HANA, data modeling (star schema), data quality checks, validation \\
+\textbf{ETL / ELT:} Python (Pandas, NumPy), ETL development, data integration, process automation, Airflow, Databricks \\
+\textbf{Tools \& Technologies:} Power BI, SAP S/4HANA, Git, Excel, Jira, PostgreSQL \\
+\textbf{Soft Skills:} Analytical thinking, structured working style, stakeholder communication, teamwork \\
+\textbf{Languages:} German, English
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL EXPERIENCE}
+
+\textbf{Intern Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- Present\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Developed and enhanced DWH data models to support production and logistics processes, improving reporting accuracy
+    \item Built robust multidimensional data models and Power BI semantic layers (DAX, Tabular), significantly reducing dashboard loading times
+    \item Designed and automated ETL/ELT pipelines using SQL and Python (Pandas) to improve data processing efficiency
+    \item Integrated and transformed data from SAP-related systems to ensure unified and reliable reporting
+    \item Analyzed new business requirements in close collaboration with stakeholders and provided 2nd-level reporting support, reducing recurring issues by \textbf{18\%}
+\end{itemize}
+
+\textbf{Working Student Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Contributed to the development and expansion of data warehouse architectures (Snowflake, SQL Server), improving data availability and quality
+    \item Implemented scalable ETL processes to integrate heterogeneous source systems, significantly reducing manual data preparation
+    \item Designed and modeled relational data structures (star and snowflake schemas) for BI and controlling teams
+    \item Developed high-performance Power BI reports and KPI structures, reducing stakeholder analysis time by \textbf{25\%}
+    \item Optimized complex SQL queries and performed performance tuning to reduce load times and query costs
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- July 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Developed and maintained robust ETL pipelines (Python, Pandas, SQL) integrating web, API, and ERP data sources, improving pipeline stability by \textbf{40\%}
+    \item Built relational and multidimensional data models to support reporting and analytics requirements
+    \item Implemented automated reporting solutions in Power BI, reducing manual reporting effort by \textbf{35\%}
+    \item Performed database optimization and performance tuning, improving query speed by \textbf{30\%}
+    \item Processed ERP data from SAP-related systems to support operational business processes
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Developed an interactive Power BI dashboard to analyze revenue, trends, and KPI metrics. Implemented data modeling and ETL pipelines using Python (Pandas), reducing reporting latency by \textbf{20\%}. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Real-Time Data Analytics Pipeline} \\
+Designed and implemented a real-time data pipeline using Apache Kafka and Flink to process high-frequency data streams. Enabled low-latency analytics for operational decision-making and improved processing efficiency by \textbf{25\%}. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment Analysis \& Data Automation} \\
+Automated web data collection and analysis using Python, Selenium, and SQL. Reduced manual effort by \textbf{40\%} and significantly improved data quality and analysis speed. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{View Certificate} 
+
+    \item \textbf{Microsoft Fabric Analytics Engineer Associate (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{View Certificate} 
+    
+    \item \textbf{Microsoft Power BI Data Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{View Certificate}  
+    
+    \item \textbf{German Language Certificate B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}  
+    
+    \item \textbf{Google Data Analytics Certificate} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
