@@ -1,0 +1,175 @@
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\usepackage[hidelinks]{hyperref}
+
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence \& Automation Analyst mit Erfahrung in Power BI, Microsoft Fabric, SQL, Python, Data Warehousing und Prozessautomatisierung. Fundierte Kenntnisse in der Entwicklung skalierbarer Datenmodelle, interaktiver Dashboards, ETL-/ELT-Prozesse und automatisierter Workflows. Erfahrung in der Integration von Daten über APIs, der Sicherstellung von Datenqualität und Governance sowie der Zusammenarbeit mit Fachbereichen zur Umsetzung datengetriebener Lösungen. Starke analytische Fähigkeiten kombiniert mit Erfahrung in Reporting, Ad-hoc-Analysen und Automatisierungslösungen.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Business Intelligence \& Analytics:} Power BI Desktop, Power BI Service, Power BI Report Builder, KPI Reporting, Dashboard Development, Ad-hoc Analysen, DAX, Datenvisualisierung, Self-Service BI \\
+\textbf{Automation \& Workflows:} Prozessautomatisierung, Workflow Design, Microsoft Power Platform, Power Automate (Grundkenntnisse), API Integration, Datenautomatisierung \\
+\textbf{Data Warehouse \& Datenmodellierung:} Microsoft Fabric, SQL Server, Snowflake, Star Schema, Snowflake Schema, SSAS, Tabular Modelle, Datenqualität, Data Governance \\
+\textbf{ETL / ELT \& Integration:} Python (Pandas, NumPy), SQL, T-SQL, SSIS, Fabric Data Pipelines, Airflow, Datenintegration, API-basierte Datenanbindungen \\
+\textbf{Cloud \& Plattformen:} Microsoft Fabric, Azure, Databricks, Snowflake \\
+\textbf{Zusammenarbeit:} Stakeholder Management, Anforderungsmanagement, Agile Methoden, Jira, Git, Dokumentation, Fachbereichskommunikation \\
+\textbf{Sprachen:} Deutsch (B2), Englisch (Fließend)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+
+\begin{itemize}
+
+\item Entwickelte und optimierte Data-Warehouse-Datenmodelle für Produktions- und Logistikdaten und steigerte die Reporting-Genauigkeit um \textbf{20\%}.
+
+\item Implementierte und automatisierte Power BI Dashboards, DAX-Metriken und semantische Modelle, wodurch die Dashboard-Performance um \textbf{30\%} verbessert wurde.
+
+\item Automatisierte ETL-/ELT-Prozesse mit SQL, Python und Microsoft Fabric Data Pipelines und erhöhte die Verarbeitungseffizienz um \textbf{25\%}.
+
+\item Integrierte Daten aus SAP-nahen Systemen und APIs und etablierte Datenqualitätsprüfungen zur Sicherstellung konsistenter Analyseergebnisse.
+
+\item Bewertete fachliche Anforderungen gemeinsam mit Stakeholdern und reduzierte wiederkehrende Reporting-Fehler um \textbf{18\%}.
+
+
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+
+\begin{itemize}
+
+\item Entwickelte und erweiterte Business-Intelligence-Lösungen auf Basis von SQL Server, Snowflake und Power BI.
+
+\item Automatisierte Datenflüsse und ETL-Prozesse und reduzierte den manuellen Datenaufbereitungsaufwand um \textbf{35\%}.
+
+\item Modellierte relationale und multidimensionale Datenstrukturen (Star- und Snowflake-Schema) für Reporting- und Controlling-Anwendungen.
+
+\item Erstellte KPI-Dashboards und Management-Reports in Power BI und verkürzte Analysezeiten um \textbf{25\%}.
+
+\item Optimierte komplexe SQL-Abfragen und verbesserte die Performance geschäftskritischer Reports um \textbf{30\%}.
+
+\item Arbeitete eng mit Fachbereichen zusammen, um Anforderungen aufzunehmen und datengetriebene Lösungen umzusetzen.
+
+\item Nutzte Git und agile Methoden zur erfolgreichen Umsetzung datenbezogener Projekte.
+
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+
+\begin{itemize}
+
+\item Entwickelte, automatisierte und überwachte ETL-Pipelines mit Python, SQL und API-Integrationen und erhöhte die Stabilität der Datenpipelines um \textbf{40\%}.
+
+\item Implementierte relationale und multidimensionale Datenmodelle für Business-Intelligence- und Reporting-Lösungen.
+
+\item Automatisierte Reporting-Prozesse mit Power BI und reduzierte den manuellen Reporting-Aufwand um \textbf{35\%}.
+
+\item Optimierte Datenbanken und SQL-Abfragen und verbesserte die Abfragegeschwindigkeit um \textbf{30\%}.
+
+\item Entwickelte wiederverwendbare Datenworkflows und reduzierte Supportaufwände um \textbf{20\%}.
+
+\item Dokumentierte Datenflüsse, Schnittstellen und technische Prozesse zur Verbesserung der Wartbarkeit und Skalierbarkeit.
+
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Entwickelte ein interaktives Power BI Dashboard mit Datenmodellierung, DAX-Kennzahlen und automatisierten ETL-Pipelines. Reduzierte die Reporting-Latenz um \textbf{20\%}. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\vspace{0.2cm}
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline mit Apache Kafka und Flink zur Verarbeitung hochfrequenter Daten. Verbesserte die Verarbeitungseffizienz um \textbf{25\%}. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\vspace{0.2cm}
+
+\item \textbf{Automatisierte Sentiment-Analyse Plattform} \\
+Automatisierte Datenerfassung und Analyse mit Python, APIs, Selenium und SQL. Reduzierte den manuellen Aufwand um \textbf{40\%} und verbesserte die Datenqualität erheblich. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+
+\textbf{M.Sc. Global Software Development} \\
+Hochschule Fulda, Deutschland
+
+\vspace{0.1cm}
+
+\textbf{B.Sc. Informatik} \\
+COMSATS Universität, Lahore
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Zertifikate}
+
+\begin{itemize}
+
+\item \textbf{Microsoft Fabric Analytics Engineer Associate (DP-600)} –
+\href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen}
+
+\item \textbf{Microsoft Fabric Data Engineer Associate (DP-700)} –
+\href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen}
+
+\item \textbf{Microsoft Power BI Data Analyst Associate (PL-300)} –
+\href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}
+
+\item \textbf{Deutsch Sprachzertifikat B2.2} –
+\href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}
+
+\item \textbf{Google Datenanalyse} –
+\href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
+```
