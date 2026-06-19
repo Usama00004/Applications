@@ -1,0 +1,234 @@
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Siemens Energy\\
+    Rhein str 100 \\
+    45478 Mülheim\\
+    Germany
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Haupt str 43 \\
+    44894 Bocuhm \\
+    Geramny
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for the position Business Data Analyst  | Job Id : 297436 }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Data Analyst position within your team. With a Master's degree in Global Software Development from Fulda University of Applied Sciences, hands-on experience in Data Analytics and Data Warehousing at Siemens and Bosch, and strong expertise in SQL, Snowflake, Python, and Business Intelligence tools, I am excited about the opportunity to contribute to your data-driven initiatives.
+
+In my current role as an Intern Data Analyst at Bosch, I design and optimize data warehouse models, develop automated ETL pipelines using SQL and Python, and create reporting solutions that support production and logistics operations. By improving data models and reporting processes, I have helped increase reporting accuracy and reduce dashboard load times. Working closely with business stakeholders has strengthened my ability to translate complex business requirements into scalable analytical solutions.
+
+Previously, as a Working Student Data Analyst at Siemens, I contributed to Snowflake-based data warehouse development, built ETL processes integrating multiple source systems, and developed KPI-focused dashboards that enabled faster decision-making. Through SQL optimization and performance tuning initiatives, I helped improve query performance while reducing infrastructure costs. These experiences have given me a strong foundation in data modeling, analytics engineering, and business process optimization.
+
+In addition to my technical skills in SQL, Snowflake, Python, Tableau, and Power BI, I bring a structured and analytical mindset, strong communication skills, and experience working in agile environments. I am fluent in English and have achieved German language proficiency at the B2 level, enabling me to effectively collaborate in international and German-speaking teams.
+
+I would welcome the opportunity to discuss how my experience and enthusiasm for data analytics can contribute to your organization's success. Thank you for your time and consideration. I look forward to hearing from you.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://github.com/Usama00004}{https://github.com/Usama00004}
+
+\end{document}
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFILE}
+
+Data Analyst with experience in designing data pipelines, data warehousing, business process analysis, and BI reporting. Strong expertise in SQL, Snowflake, Python, Tableau, and Power BI for developing scalable analytics solutions and transforming complex business requirements into actionable insights. Experienced in data modeling, workflow automation, KPI reporting, stakeholder collaboration, and agile project environments.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+
+\textbf{M.Sc. Global Software Development} – Fulda University of Applied Sciences, Germany \\
+
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CORE COMPETENCIES}
+
+\textbf{Data Analytics \& BI:} Tableau, Power BI, KPI Reporting, Dashboard Development, Business Process Analysis, Data Visualization, Ad-hoc Analysis \\
+
+\textbf{Data Warehousing \& Modeling:} Snowflake, SQL, Data Warehousing, Star Schema, Snowflake Schema, Relational Modeling, Data Quality Management \\
+
+\textbf{Data Engineering:} Python (Pandas, NumPy), ETL/ELT Pipelines, Workflow Automation, Data Integration, Airflow, Databricks \\
+
+\textbf{Analytics Tools:} Tableau, Power BI, Alteryx (Foundational Knowledge), Excel, Jira, Git \\
+
+\textbf{Databases:} Snowflake, PostgreSQL, SQL Server, SAP S/4HANA \\
+
+\textbf{Methodologies:} Agile, Scrum, Stakeholder Management, Process Optimization, Requirement Analysis \\
+
+\textbf{Languages:} German (B2), English (Fluent)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL EXPERIENCE}
+
+\textbf{Intern Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- Present\\
+\textbf{Bosch GmbH}, Reutlingen
+
+\begin{itemize}
+    \item Designed and optimized enterprise data warehouse models supporting production and logistics analytics, improving reporting accuracy by \textbf{22\%}
+    \item Built multidimensional semantic models and Power BI reporting layers, reducing dashboard load times by \textbf{30\%}
+    \item Automated ETL/ELT workflows using SQL and Python, improving data processing efficiency by \textbf{35\%}
+    \item Collaborated with business stakeholders to analyze operational processes and translate requirements into scalable reporting solutions
+    \item Streamlined data integration from SAP systems, increasing data consistency and reducing reporting discrepancies by \textbf{20\%}
+    \item Provided reporting support and resolved recurring data issues, reducing support tickets by \textbf{18\%}
+\end{itemize}
+
+\vspace{0.2cm}
+
+\textbf{Working Student Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+
+\begin{itemize}
+    \item Developed and maintained Snowflake-based data warehouse solutions, improving enterprise data accessibility by \textbf{25\%}
+    \item Engineered scalable SQL-based ETL pipelines integrating multiple source systems, reducing manual data preparation effort by \textbf{40\%}
+    \item Designed relational and dimensional data models (Star/Snowflake Schema) for analytics and controlling teams
+    \item Created interactive KPI dashboards and analytical reports, reducing stakeholder analysis time by \textbf{25\%}
+    \item Optimized complex SQL queries and warehouse workloads, lowering compute costs by \textbf{15\%} while improving query performance by \textbf{28\%}
+    \item Partnered with cross-functional teams in an agile environment to deliver reporting enhancements and data-driven insights
+\end{itemize}
+
+\vspace{0.2cm}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- July 2022\\
+\textbf{Systems Limited}, Lahore
+
+\begin{itemize}
+    \item Developed and maintained robust data pipelines using Python, SQL, and APIs, increasing pipeline reliability by \textbf{40\%}
+    \item Analyzed business processes and data flows to identify bottlenecks, contributing to process efficiency improvements of \textbf{20\%}
+    \item Automated reporting and analytics solutions, reducing manual reporting effort by \textbf{35\%}
+    \item Built scalable data models supporting operational and management reporting requirements
+    \item Optimized database performance and SQL workloads, improving query execution speed by \textbf{30\%}
+    \item Collaborated with stakeholders to gather requirements and deliver data-driven solutions supporting business operations
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Sales Performance Analytics Dashboard} \\
+Developed an interactive business intelligence dashboard using Power BI and SQL to monitor revenue, customer trends, and KPIs. Designed data models and automated ETL workflows with Python, reducing reporting latency by \textbf{20\%}. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Real-Time Data Analytics Pipeline} \\
+Designed and implemented a scalable analytics pipeline using Apache Kafka, Python, and Flink for processing high-frequency business events. Improved data processing efficiency by \textbf{25\%}. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment Analysis \& Workflow Automation} \\
+Automated data collection, transformation, and analysis using Python, Selenium, and SQL. Reduced manual effort by \textbf{40\%} and enhanced data quality for business reporting. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}
+
+\begin{itemize}
+
+\item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{View Certificate}
+
+\item \textbf{Microsoft Fabric Analytics Engineer Associate (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{View Certificate}
+
+\item \textbf{Microsoft Power BI Data Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{View Certificate}
+
+\item \textbf{German Language Certificate B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}
+
+\item \textbf{Google Data Analytics Certificate} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}
+
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
+```
