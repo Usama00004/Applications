@@ -6,7 +6,7 @@
 \usepackage[empty]{fullpage}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
-\usepackage{ragged2e}
+\usepackage{ragged2e} 
 \usepackage{geometry}
 \usepackage{setspace}
 
