@@ -1,0 +1,202 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Professional Light Font
+\usepackage{fontspec}
+\setmainfont{Libertinus Serif}[
+    Ligatures=TeX
+]
+
+%%%% Layout Packages
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{microtype}
+
+%%%% Margins
+\geometry{
+    top=1in,
+    bottom=1in,
+    left=0.8in,
+    right=0.8in
+}
+
+%%%% Slightly airy spacing
+\setstretch{1.2}
+
+\begin{document}
+
+% Heading
+\begin{center}
+    {\Large \textbf{Anschreiben}}
+\end{center}
+
+\vspace{0.9cm}
+
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt}
+
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse habe ich Ihre Stellenausschreibung als (Junior) Business Intelligence Developer gelesen. Der Aufbau moderner Data-Warehouse- und Analyticsumgebungen sowie die Arbeit an der Schnittstelle zwischen Datenmodellierung, Cloud-Technologien und Business-Reporting entsprechen genau dem Bereich, in dem ich mich in den letzten Jahren fachlich weiterentwickelt habe. Ich bewerbe mich daher um die ausgeschriebene Position.
+ 
+Aktuell bin ich als Praktikant Data Analyst im Bereich Digitalization \& Reporting bei der Bosch GmbH tätig. Dort entwickle und optimiere ich DWH-Datenmodelle sowie geschäftsorientierte Data Marts zur Unterstützung von Produktions- und Logistikprozessen. Durch den Aufbau robuster multidimensionaler Datenmodelle und Power BI Semantikschichten (DAX, Tabular) konnte ich die Dashboard-Ladezeiten um 30\% reduzieren. Zusätzlich habe ich durch die Konsolidierung redundanter Reports und die Optimierung von Datenmodellen die Infrastruktur- und Lizenzkosten um 15\% gesenkt. Diese Erfahrung im Zusammenspiel aus Datenmodellierung, ETL-Automatisierung und Kostenbewusstsein sehe ich als direkten Mehrwert für die Weiterentwicklung Ihrer globalen Analyticsplattform.
+ 
+Zuvor konnte ich als Werkstudent Data Analyst bei der Siemens AG praktische Erfahrung im Aufbau von Data-Warehouse-Architekturen mit Snowflake und SQL Server sammeln und relationale Datenmodelle nach Star- und Snowflake-Schema für BI- und Controlling-Teams konzipieren. Bereits in meiner ersten Anstellung als Junior Data Analyst / Data Engineer bei Systems Limited habe ich ETL-Pipelines mit Python und SQL entwickelt und automatisierte Reportinglösungen in Power BI implementiert, wodurch manuelle Reportingprozesse um 35\% reduziert wurden. Diese Stationen haben mir ein solides Verständnis für Datenmodellierungskonzepte wie Kimball, 3NF und die Grundlagen von Data Vault vermittelt und mein Interesse an Data-Governance-Prinzipien geweckt.
+ 
+Mein Studium der Global Software Development an der Hochschule Fulda sowie mein Bachelor in Informatik bilden die fachliche Grundlage für meine Arbeit mit Cloud-Diensten, SQL und Python. Meine Kenntnisse in Power BI habe ich zusätzlich durch die Microsoft-Zertifizierungen DP-700, DP-600 und PL-300 vertieft. Besonders reizt mich an der ausgeschriebenen Stelle die Möglichkeit, meine bisherigen Kenntnisse in einer Cloud-first-Umgebung mit Azure und Snowflake weiter auszubauen und dabei eng mit IT-Abteilung, Fachbereichen und externen Partnern zusammenzuarbeiten.
+ 
+Über die Gelegenheit, meine Motivation und Qualifikation in einem persönlichen Gespräch näher vorzustellen, würde ich mich sehr freuen.
+\vspace{0.6cm}
+Mit freundlichen Grüßen,
+
+\vspace{0.4cm}
+
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}
+{usamatahir00004@gmail.com}\\ \href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL / ZIEL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence Developer mit Erfahrung im Aufbau von Data Warehouses, Data Marts und Analyticsplattformen in Cloud-Umgebungen (Azure, Snowflake). Fundierte Kenntnisse in Power BI, SQL, Python und ETL-Prozessen sowie in Datenmodellierungskonzepten (Star Schema, Kimball, 3NF). Erfahren in der Zusammenarbeit mit IT-Abteilungen und Business-Stakeholdern zur Entwicklung geschäftsorientierter, performanter und qualitätsgesicherter Reporting-Lösungen.
+
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Cloud \& Analyticsplattform:} Microsoft Azure, Snowflake, Microsoft Fabric, Power Automate, Data Pipelines, Data Marts \\
+\textbf{Business Intelligence \& Visualisierung:} Power BI, Dashboarding, Datenvisualisierung, Forecasting, Ad-hoc-Analysen, DAX \\
+\textbf{Datenmodellierung \& Governance:} SQL, Star Schema, Kimball, 3NF, Data Vault (Grundkenntnisse), Data Quality Checks, Data Governance, Validierung \\
+\textbf{ETL / ELT \& Data Engineering:} Python (Pandas, NumPy), ETL-/ELT-Entwicklung, Datenintegration, Prozessautomatisierung, Airflow, Databricks, SAP S/4HANA \\
+\textbf{Tools \& Technologien:} Power BI, Azure, Snowflake, SAP S/4HANA, Git, Excel, Jira, PostgreSQL \\
+\textbf{Soft Skills:} Analytisches Denken, strukturierte Arbeitsweise, Stakeholder-Kommunikation, Teamarbeit, Lernbereitschaft \\
+\textbf{Sprachen:} Deutsch, Englisch
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Entwickelte und optimierte DWH-Datenmodelle und geschäftsorientierte Data Marts zur Unterstützung von Produktions- und Logistikprozessen sowie präziserem Reporting
+    \item Baute robuste multidimensionale Datenmodelle und Power BI Semantikschichten (DAX, Tabular) auf und reduzierte damit die Dashboard-Ladezeiten um \textbf{30\%}
+    \item Automatisierte ETL-/ELT-Strecken mit SQL und Python (Pandas), wodurch die Datenverarbeitungszeit gesenkt und manuelle Aufwände reduziert wurden
+    \item Integrierte und bereitete Daten aus SAP-nahen Systemen für ein einheitliches, zuverlässiges Reporting auf
+    \item Reduzierte Infrastruktur- und Lizenzkosten um \textbf{15\%} durch Konsolidierung redundanter Reports und Optimierung von Datenmodellen
+    \item Analysierte neue Anforderungen in enger Abstimmung mit Fachbereichen und leistete aktiven 2nd-Level-Reporting-Support mit nachhaltiger Fehlerreduktion um \textbf{18\%}
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Unterstützte den Aufbau und die Erweiterung von Data-Warehouse-Architekturen (Snowflake, SQL Server) zur nachhaltigen Verbesserung von Datenverfügbarkeit und -qualität
+    \item Implementierte skalierbare ETL-Prozesse zur Integration heterogener Quellsysteme und reduzierte manuelle Datenaufbereitung signifikant
+    \item Konzipierte und modellierte relationale Datenmodelle (Star- und Snowflake-Schema) für BI- und Controlling-Teams
+    \item Entwickelte performante Power BI Reports und KPI-Strukturen und verkürzte die Analysezeit für Stakeholder um \textbf{25\%}
+    \item Optimierte komplexe SQL-Abfragen und führte Performance-Tuning durch, wodurch Ladezeiten und Abfragekosten reduziert wurden
+\end{itemize}
+
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Entwickelte und betrieb robuste ETL-Pipelines (Python, Pandas, SQL) zur Integration von Web-, API- und ERP-Datenquellen und steigerte die Datenpipeline-Stabilität um \textbf{40\%}
+    \item Baute relationale und multidimensionale Datenmodelle zur Unterstützung von Reporting- und Analytics-Anforderungen auf
+    \item Implementierte automatisierte Reportinglösungen in Power BI und reduzierte manuelle Reportingprozesse um \textbf{35\%}
+    \item Optimierte Datenbanken und führte Performance-Tuning durch, wodurch die Abfragegeschwindigkeit um \textbf{30\%} verbessert wurde
+    \item Verarbeitete ERP-Daten aus SAP-nahen Systemen zur Unterstützung des Tagesgeschäfts
+
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Entwickelte ein interaktives Power BI Dashboard zur Analyse von Umsatz-, Trend- und KPI-Daten. Implementierte Datenmodellierung und ETL-Pipelines mit Python (Pandas) und reduzierte dadurch die Reporting-Latenz um \textbf{20\%}.(\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline mit Apache Kafka und Flink zur Verarbeitung hochfrequenter Daten. Ermöglichte latenzarme Analysen für operative Entscheidungen und verbesserte die Verarbeitungseffizienz um \textbf{25\%}.(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Sentiment-Analyse \& Datenautomatisierung} \\
+Automatisierte Web-Datenerfassung und -analyse mittels Python, Selenium und SQL. Reduzierte manuellen Aufwand um \textbf{40\%} und verbesserte Datenqualität und Analysegeschwindigkeit signifikant.(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+
+\end{rSection}
+
+
+
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+
+
+
+\end{document}
+
+
+
+
+
+
