@@ -10,7 +10,7 @@
 \def\city{Deutschland}
 \def\email{usamatahir00004@gmail.com}
 \def\LinkedIn{usamatahir-00004} 
-\def\github{Usama00004} 
+\def\github{Usama00004}   
 \def\role{Microsoft Certified BI Analyst }
 
 \input{_header}
