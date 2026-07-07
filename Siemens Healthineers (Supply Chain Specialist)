@@ -1,0 +1,229 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.5in, bottom=0.5in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Siemens Healthineers AG \\
+    Siemensstraße 3\\
+    91301 Forchheim\\
+    Deutschland\\
+    
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Wisendorfer Str 28 \\
+    91056 Erlangen\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Supply Chain Specialist | Stellen-ID : 512742 }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit großer Begeisterung bewerbe ich mich auf die Stelle als Supply Chain Specialist bei Siemens Healthineers. Besonders reizvoll ist für mich die Möglichkeit, in der modernsten Werksumgebung des HEP Centers in Forchheim aktiv die Zukunft des Gesundheitswesens mitzugestalten.
+
+Als Werkstudent bei \textbf{Siemens AG in Forchheim} habe ich bereits wertvolle Erfahrungen im Konzernumfeld gesammelt. Ich optimierte Deliver- und Produktionssteuerungsprozesse durch Data-Warehouse-Architekturen und entwickelte Power BI Reports für Supply Chain und Controlling Teams. Die Zusammenarbeit mit internationalen Schnittstellen und SAP-Systemen sind mir bestens vertraut.
+
+In meiner aktuellen Position bei \textbf{BioNTech SE} erweitere ich mein Skillset um Microsoft Fabric, AI Agents und Predictive Analytics. Ich entwickle ML-Modelle zur Optimierung von Lieferkettenprozessen mit 20\% höherer Prognosegenauigkeit und automatisiere ETL/ELT-Pipelines – Erfahrungen, die ich gerne in Ihre Fertigung von Hochleistungsröntgenstrahlern einbringen möchte.
+
+Ihre Ausschreibung spricht mich besonders an, da meine Kernkompetenzen nahtlos an Ihre Anforderungen anschließen:
+
+\begin{itemize}
+    \item \textbf{Order Management \& Produktionssteuerung:} Entwicklung von Order Management Dashboards und Bestandsmonitoring mit SAP (MM, PP, SD) und Power BI
+    \item \textbf{Prozessoptimierung:} LEAN-Methoden, Digitalisierung und Automatisierung zur kontinuierlichen Verbesserung Ihrer Deliverprozesse
+    \item \textbf{KPI- \& Performance-Management:} Power BI-Dashboards als Frühwarninstrumente – Analysezeiten bereits um 25\% verkürzt und Kosten gesenkt
+\end{itemize}
+
+Mit meiner strukturierten Arbeitsweise, Teamfähigkeit und fließenden Deutsch- und Englischkenntnissen möchte ich Ihr agiles Team aktiv unterstützen. Die Siemens Healthineers Werte we listen, learn, win together, own it, step boldly entsprechen meiner Einstellung. Ich bringe neue Impulse ein und treibe innovative Lösungen voran.
+
+Ich freue mich auf ein persönliches Gespräch und stehe jederzeit gerne zur Verfügung.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL / ZIEL - ATS-optimiert für Supply Chain Specialist
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFLICHES PROFIL}
+
+Business Intelligence und Supply Chain Analyst mit Masterabschluss. Expertise in datengetriebener Optimierung von Lieferkettenprozessen, BI-Lösungen, Machine Learning und ETL-Pipelines. Erfahrung in der Zusammenarbeit mit internationalen Schnittstellen und LEAN-Methoden. SAP-Kenntnisse (MM, PP, SD) zur aktiven Gestaltung von Deliver- und Produktionssteuerungsprozessen.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN - An Supply Chain Anforderungen angepasst
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Supply Chain \& Produktionssteuerung:} Order Management, Make-to-Stock/Make-to-Order Prozesse, Deliverprozesse, Bestandsmonitoring, Fertigungssteuerung, Outbound Logistik, Zollabwicklung \\
+\textbf{Business Intelligence \& Analytics:} Power BI, DAX, Power Automate, Data Pipelines, Reporting, Dashboarding, Forecasting, KPI-Entwicklung, Performance Management \\
+\textbf{Datenmanagement \& Tools:} SAP S/4HANA (MM, PP, SD), SAP-nahe Systeme, SQL, Python (Pandas, NumPy), ETL/ELT, Datenmodellierung (Star/Snowflake) \\
+\textbf{Advanced Analytics \& ML:} Machine Learning Modelle, AI Agents, Microsoft Fabric, Lakehouses, Predictive Analytics, Zeitreihenanalyse \\
+\textbf{Soft Skills:} Problemlösungskompetenz, Teamfähigkeit, Eigeninitiative, Kommunikationsstärke, sicheres Auftreten \\
+\textbf{Sprachen:} Deutsch (Deutsch (fließend)), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - Mit aktueller Biontech Rolle und Supply Chain Fokus
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Entwickelte} AI Agents und Machine Learning Modelle zur Optimierung von Produktions- und Lieferkettenprozessen, was zu einer \textbf{20\%} höheren Prognosegenauigkeit für Bedarfsplanungen führte
+    \item \textbf{Implementierte} Microsoft Fabric Pipelines und Lakehouse-Architekturen für skalierbare Datenverarbeitung in der Pharmaproduktion, was Datenzugriffszeiten um \textbf{35\%} reduzierte
+    \item \textbf{Erstellte} interaktive Power BI Dashboards für Supply Chain Monitoring mit Echtzeit-KPIs, was die Entscheidungsfindung im operativen Geschäft um \textbf{25\%} beschleunigte
+    \item \textbf{Optimierte} ETL/ELT-Prozesse mit Python und SQL zur Integration heterogener Datenquellen, was manuelle Datenaufbereitung um \textbf{40\%} senkte
+    \item \textbf{Entwickelte} Predictive Analytics Modelle für Materialbedarfsplanung und Bestandsoptimierung, was zu einer \textbf{15\%} Reduktion von Überbeständen führte
+    \item \textbf{Automatisierte} Berichtsprozesse durch Implementierung von Power Automate Workflows, was wöchentliche Reporting-Zeit um \textbf{30\%} reduzierte
+    \item \textbf{Senkte} operative Kosten um \textbf{12\%} durch frühzeitige Erkennung von Produktionsengpässen mittels Machine Learning-basierter Frühwarnsysteme
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Optimierte} Produktions- und Logistikprozesse durch Entwicklung robuster DWH-Datenmodelle, was zu einer \textbf{22\%} höheren Datenqualität für Supply Chain Reports führte
+    \item \textbf{Reduzierte} Dashboard-Ladezeiten um \textbf{30\%} durch den Aufbau multidimensionaler Datenmodelle und Power BI Semantikschichten (DAX, Tabular)
+    \item \textbf{Automatisierte} ETL-/ELT-Strecken mit SQL und Python (Pandas), was manuelle Datenverarbeitungszeit um \textbf{40\%} senkte
+    \item \textbf{Implementierte} Data Quality Checks und Validierungsroutinen, die Fehler im Reporting um \textbf{18\%} nachhaltig reduzierten
+    \item \textbf{Entwickelte} Monitoring-Dashboards für Lieferperformance und Bestandsentwicklung als Frühwarninstrumente für das Supply Chain Management
+    \item \textbf{Senkte} Prozesskosten durch Automatisierung von Berichtsprozessen und Reduktion manueller Nacharbeit um \textbf{15\%}
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item \textbf{Optimierte} Deliver- und Produktionssteuerungsprozesse durch den Aufbau von Data-Warehouse Architekturen (Snowflake, SQL Server) mit \textbf{35\%} verbesserter Datenverfügbarkeit
+    \item \textbf{Reduzierte} manuelle Datenaufbereitung um \textbf{45\%} durch Implementierung skalierbarer ETL-Prozesse zur Integration heterogener Quellsysteme (inkl. SAP-naher Systeme)
+    \item \textbf{Entwickelte} performante Power BI Reports und KPI-Strukturen für Supply Chain und Controlling Teams, was Analysezeit für Stakeholder um \textbf{25\%} verkürzte
+    \item \textbf{Steigerte} Abfrageperformance um \textbf{30\%} durch Optimierung komplexer SQL Abfragen und Performance-Tuning
+    \item \textbf{Erstellte} Bestands- und Bedarfsforecasts zur Unterstützung der Make-to-Stock- und Make-to-Order-Planung
+    \item \textbf{Reduzierte} operative Kosten durch frühzeitige Erkennung von Lieferengpässen mittels entwickelter Frühwarnsysteme
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE - Mit Supply Chain Bezug
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Supply Chain Performance Dashboard} \\
+Entwickelte ein interaktives Power BI Dashboard zur Analyse von Liefertreue, Bestandsreichweite und Order Fulfillment KPIs. Implementierte Datenmodellierung und ETL-Pipelines mit Python (Pandas) und SAP-Datenanbindung, wodurch die Reporting-Latenz um \textbf{20\%} reduziert wurde. Ermöglichte datenbasierte Entscheidungen für Produktionssteuerung und Bestandsmanagement. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline mit Apache Kafka und Flink zur Verarbeitung hochfrequenter Logistik- und Produktionsdaten. Ermöglichte latenzarme Analysen für operative Supply Chain Entscheidungen und verbesserte die Verarbeitungseffizienz um \textbf{25\%}.(\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Lieferantenperformance-Analyse} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels Python, Selenium und SQL. Reduzierte manuellen Auswertungsaufwand um \textbf{40\%} und verbesserte die Datenqualität für das Lieferantenmanagement signifikant.(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE - Links bleiben erhalten
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
