@@ -1,0 +1,240 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.5in, bottom=0.5in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Axicorp GmbH \\
+    Marie-Curie-Straße 11 \\  
+    61381 Friedrichsdorf \\
+    Deutschland\\
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderich str  47A \\
+    60594 Frankfurt am Main\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung alsMicrosoft BI Entwickler (m/w/d)}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+mit Begeisterung habe ich Ihre Ausschreibung für einen \textbf{Microsoft BI Entwickler (m/w/d)} gelesen. Als Masterabsolvent der Global Software Development mit fundierter Erfahrung im Microsoft-BI-Umfeld bei \textbf{BioNTech, Bosch und Siemens} bin ich ideal für diese Position qualifiziert.
+
+\vspace{0.3cm}
+
+\textbf{Mein Profil passt perfekt zu Ihren Anforderungen:}
+
+\begin{itemize}
+    \item \textbf{SSRS \& Reporting:} Entwicklung und Pflege komplexer Reports auf Basis von SQL/T-SQL und Power BI
+    \item \textbf{SSIS \& ETL:} Automatisierung von Datenpipelines (vergleichbar mit SSIS) – Reduktion manueller Aufbereitung um bis zu \textbf{40 \%}
+    \item \textbf{Data Warehouse:} Konzeption und Betrieb von DWH-Modellen (Snowflake, SQL Server) – Steigerung der Datenqualität um \textbf{22 \%}
+    \item \textbf{Performance:} Optimierung von SQL-Abfragen – Reduktion der Ladezeiten um \textbf{30 \%}
+\end{itemize}
+
+\vspace{0.3cm}
+
+Die axicorp GmbH begeistert mich durch die zukunftssichere Pharmabranche, moderne Technologien (SSRS, SSIS, SQL Server) und flexible Arbeitsmodelle. Meine guten Deutschkenntnisse und Microsoft-Zertifizierungen (DP-700, DP-600, PL-300) runden mein Profil ab.
+
+\vspace{0.3cm}
+
+Ich freue mich darauf, meine Expertise in Ihre BI-Lösungen einzubringen und freue mich über eine Einladung zum persönlichen Gespräch.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL - Speziell zugeschnitten auf die Anforderungen der axicorp GmbH
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Analytisch denkender Informatiker mit Masterabschluss und fundierter Erfahrung im Microsoft-BI-Umfeld. Expertise in der Entwicklung und Pflege von Reports auf Basis des Microsoft SQL Server Report Servers (SSRS) sowie in der Umsetzung und Optimierung von ETL-Prozessen mit SSIS. Ausgeprägtes Verständnis für Data-Warehouse-Konzepte und praktische Erfahrung mit SQL/T-SQL, Microsoft DTS und Attunity. Ein sicheres Auftreten und sehr gute Deutschkenntnisse runden mein Profil für diese Position ab.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN - Fokussiert auf Microsoft BI Stack + Warehouse
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{BI \& Reporting:} SSRS (SQL Server Reporting Services), Power BI, DAX, Power Automate, Dashboarding, Reporting, KPI-Entwicklung, Performance Management \\
+\textbf{Datenintegration \& ETL:} SSIS (SQL Server Integration Services), Microsoft DTS, Attunity, ETL/ELT Pipelines, Datenmodellierung (Star/Snowflake) \\
+\textbf{Datenbanken \& Abfragen:} SQL / T-SQL, Performance-Tuning, Data-Warehouse-Architekturen (Konzeption und Betrieb) \\
+\textbf{Zusätzliche Tools \& Sprachen:} SAP S/4HANA (MM, PP, SD), Python (Pandas, NumPy), C\# (Grundkenntnisse) \\
+\textbf{Soft Skills:} Problemlösungskompetenz, Teamfähigkeit, Eigeninitiative, Kommunikationsstärke, sicherer Umgang mit Stakeholdern \\
+\textbf{Sprachen:} Deutsch (fließend, Niveau C1), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - Angepasst an SSRS, SSIS, T-SQL, DWH
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Entwickelte und pflegte} komplexe Reports auf Basis von SQL/T-SQL, um wichtige Produktions- und Lieferketten-KPIs für das Management sichtbar zu machen
+    \item \textbf{Optimierte} ETL/ELT-Prozesse mit Python und SQL zur Integration heterogener Datenquellen, was einer SSIS-typischen Aufgabenstellung entspricht und manuelle Datenaufbereitung um \textbf{40\%} senkte
+    \item \textbf{Implementierte} Microsoft Fabric Pipelines und Lakehouse-Architekturen für skalierbare Datenverarbeitung, was Datenzugriffszeiten um \textbf{35\%} reduzierte
+    \item \textbf{Entwickelte} interaktive Power BI Dashboards für ein effizientes Monitoring, vergleichbar mit SSRS-Lösungen für Entscheidungsfindung im operativen Geschäft
+    \item \textbf{Automatisierte} Berichtsprozesse durch Power Automate Workflows, was wöchentliche Reporting-Zeit um \textbf{30\%} reduzierte
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Optimierte} Produktions- und Logistikprozesse durch Entwicklung robuster DWH-Datenmodelle, was zu einer \textbf{22\%} höheren Datenqualität für Supply Chain Reports führte
+    \item \textbf{Reduzierte} Dashboard-Ladezeiten um \textbf{30\%} durch den Aufbau multidimensionaler Datenmodelle (vergleichbar mit Cube-Erstellung) und Power BI Semantikschichten
+    \item \textbf{Automatisierte} ETL-/ELT-Strecken mit SQL und Python, was manuelle Datenverarbeitungszeit um \textbf{40\%} senkte
+    \item \textbf{Entwickelte} Monitoring-Dashboards für Lieferperformance und Bestandsentwicklung als Frühwarninstrumente
+\end{itemize}
+\newpage
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item \textbf{Konzipierte und baute} Data-Warehouse-Architekturen (Snowflake, SQL Server) auf, die eine \textbf{35\%} verbesserte Datenverfügbarkeit für Berichte ermöglichten
+    \item \textbf{Entwickelte} performante Power BI Reports und KPI-Strukturen für Supply Chain und Controlling Teams, was Analysezeit um \textbf{25\%} verkürzte
+    \item \textbf{Steigerte} Abfrageperformance um \textbf{30\%} durch Optimierung komplexer SQL Abfragen und Performance-Tuning
+    \item \textbf{Erstellte} Bestands- und Bedarfsforecasts zur Unterstützung der Planung
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE - Angepasst an BI/DWH-Konzepte
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Supply Chain Performance Dashboard} \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue, Bestandsreichweite und Order Fulfillment KPIs. Implementierte Datenmodellierung und ETL-Pipelines mit Python (Pandas) und SAP-Datenanbindung, wodurch die Reporting-Latenz um \textbf{20\%} reduziert wurde. Dieses Projekt spiegelt die Arbeit mit Datenmodellen und die Erstellung von aussagekräftigen Reports wider. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline zur Verarbeitung hochfrequenter Logistik- und Produktionsdaten. Das Verständnis für Datenpipelines und -architekturen, das hier gezeigt wurde, ist direkt auf die Arbeit mit SSIS und DWH-Konzepten übertragbar. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Lieferantenperformance-Analyse} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels Python, Selenium und SQL. Reduzierte manuellen Auswertungsaufwand um \textbf{40\%} und verbesserte die Datenqualität signifikant. Demonstriert fortgeschrittene SQL-Kenntnisse und Datenverarbeitung.(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG - Fokus auf Informatik
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE - Links bleiben erhalten
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
