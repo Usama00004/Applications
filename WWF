@@ -1,0 +1,219 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    WWF Deutschland\\
+    Reinhardtstraße 18\\
+    10117 Berlin\\
+    Deutschland \\
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Aristotelessteig 2 \\
+    10318 Berlin \\
+    Deutschland \\
+    
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Enterprise Data & Systems Specialist (Microsoft) }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+
+mit großer Überzeugung bewerbe ich mich bei Ihnen. Der WWF steht für Werte, die ich teile: Entschlossenheit, Verantwortung und Kooperation für eine lebenswerte Zukunft.
+
+Als Data-Experte mit Masterabschluss und fundierter Erfahrung im Microsoft-Ökosystem bringe ich genau das Profil mit, das Sie suchen. Meine Kernkompetenzen liegen in der Konzeption und Umsetzung von Data-Warehouse-Strukturen, der Entwicklung und Optimierung von ETL/ELT-Pipelines sowie der Etablierung von Standards für Datenqualität und Metadatenmanagement. Mit SQL, Python und Power BI arbeite ich seit Jahren erfolgreich – ich habe Reporting-Prozesse automatisiert, Datenqualität gesichert und Fachbereiche bei der Nutzung von Datenlösungen unterstützt.
+
+Besonders wichtig ist mir die Übersetzung von Fachanforderungen in nachhaltige technische Lösungen. Bei Bosch, Siemens Healthineers und BioNTech habe ich eng mit operativen Teams zusammengearbeitet, um ihre Bedürfnisse zu verstehen und passgenaue Lösungen zu entwickeln. Zudem habe ich erste praktische Erfahrung mit Microsoft Fabric und Azure Data Services gesammelt – Technologien, die für den WWF von zentraler Bedeutung sind.
+
+Ich möchte meine Fähigkeiten nicht nur für wirtschaftlichen Erfolg, sondern für eine sinnvolle Mission einsetzen. Der WWF bietet mir diese einzigartige Möglichkeit.
+
+Ich freue mich auf ein persönliches Gespräch.
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+
+
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL - STRATEGISCH & ZUKUNFTSORIENTIERT (Fokus auf Fabric, Azure & Governance)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Data-Experte mit Masterabschluss und Expertise im modernen Microsoft-Ökosystem (Fabric, Azure). Spezialisiert auf Data-Warehouse Architekturen, ETL/ELT-Prozesse und die Etablierung von Standards für Datenqualität und Metadatenmanagement mit der Fähigkeit, Fachanforderungen in zukunftssichere technische Lösungen zu übersetzen.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN - EXAKT ABGESTIMMT AUF DIE WWF-ANFORDERUNGEN
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Modern Data Platform:} Microsoft Fabric ,Lakehouses, Pipelines, Azure Data Services, Data-Warehouse-Architekturen (Konzeption \& Betrieb) \\
+\textbf{ETL/ELT \& Integration:} Orchestrierte Pipelines, Dataflows, ETL/ELT-Prozesse (SSIS, Python), Datenmodellierung (Star/Snowflake), Performance-Optimierung \\
+\textbf{Reporting \& Governance:} Power BI, DAX, Power Automate, Metadatenmanagement, Datenqualitätssicherung, Zugriffsrechte (RBAC), technische Dokumentation \\
+\textbf{Programmierung \& Datenbanken:} SQL / T-SQL, Python (Pandas, NumPy), PowerShell, Performance-Tuning \\
+\textbf{Strategie \& Zusammenarbeit:} Anforderungsanalyse, Übersetzung in technische Lösungen, technische Projektleitung, Schulung von Data Ownern \& Nutzer \\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - NUTZT DIE GENAUEN FORMULIERUNGEN DER STELLENAUSSCHREIBUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Konzeption und Umsetzung} von Datenbankdesigns und Datenmodellen zur Unterstützung von Produktions- und Lieferkettenprozessen
+    \item \textbf{Aufbau, Pflege und Optimierung} von Data-Warehouse-Strukturen und Implementierung von Microsoft Fabric Pipelines für skalierbare Datenverarbeitung
+    \item \textbf{Entwicklung und Wartung} von ETL/ELT-Prozessen zur Integration heterogener Datenquellen, wodurch manuelle Aufbereitung um \textbf{40\%} sank
+    \item \textbf{Sicherstellung der Datenqualität und -konsistenz} durch Implementierung von Überwachungsmechanismen; Reduzierung von Datenzugriffszeiten um \textbf{35\%}
+    \item \textbf{Unterstützung bei der Einführung und Nutzung} von Microsoft Power BI zur Entwicklung interaktiver Dashboards für Entscheidungsfindung
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Analyse von Anforderungen} gemeinsam mit den Fachbereichen und \textbf{Übersetzung in nachhaltige technische Lösungen}, insbesondere robuste DWH-Datenmodelle
+    \item \textbf{Performance-Optimierung} von Dashboards durch den Aufbau multidimensionaler Datenmodelle und Power BI Semantikschichten; Reduzierung der Ladezeiten um \textbf{30\%}
+    \item \textbf{Entwicklung von ETL/ELT-Strecken} mit SQL und Python, was die manuelle Datenverarbeitungszeit um \textbf{40\%} senkte
+    \item \textbf{Unterstützung und Schulung} von Data Ownern und Nutzer:innen im Umgang mit Daten und Systemen
+    \item \textbf{Implementierung von Monitoring- und Alerting-Mechanismen} für ETL/ELT-Pipelines zur frühzeitigen Erkennung von Datenqualitätsproblemen
+\end{itemize}
+\newpage
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Konzeption und Aufbau} von Data-Warehouse-Architekturen (Snowflake, SQL Server), was die Datenverfügbarkeit für Berichte um \textbf{35\%} verbesserte
+    \item \textbf{Performance-Tuning} und Optimierung komplexer SQL-Abfragen, was die Abfrageleistung um \textbf{30\%} steigerte
+    \item \textbf{Etablierung technischer Standards} für Datenqualität und Metadatenmanagement im Reporting-Bereich
+    \item \textbf{Dokumentation technischer Prozesse und Datenflüsse} zur Sicherstellung der Nachvollziehbarkeit und Wartbarkeit
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item \textbf{Konzeption und Umsetzung} von Datenbankdesigns und Datenmodellen (relational \& multidimensional); \textbf{Aufbau und Optimierung} von Data-Warehouse-Strukturen
+    \item \textbf{Entwicklung und Wartung} robuster ETL/ELT-Pipelines (Python, Pandas, SQL) – Steigerung der Pipeline-Stabilität um \textbf{40\%} und Abfragegeschwindigkeit um \textbf{30\%}
+    \item \textbf{Sicherstellung der Datenqualität und -konsistenz} über verschiedene Systeme hinweg durch Implementierung von Monitoring- und Validierungsmechanismen
+    \item \textbf{Unterstützung bei der Einführung und Nutzung} von Power BI; Automatisierung von Berichtsprozessen – Reduktion manueller Reporting-Zeit um \textbf{35\%}
+    \item \textbf{Analyse von Anforderungen} gemeinsam mit Fachbereichen und \textbf{Übersetzung in technische Lösungen} für das operative Tagesgeschäft
+    \item \textbf{Erste Erfahrung mit Azure Data Services} – Arbeit mit cloudbasierten Datenbanken und Konzepte von Managed Identity für sicheren Datenzugriff
+\end{itemize}
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE - BETONEN DATENMODELLIERUNG & PIPELINES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+\item \textbf{Supply Chain Performance Dashboard} \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue und Bestandsreichweite. Implementierte komplexe Datenmodellierung und orchestrierte ETL-Pipelines mit Python. Dieses Projekt spiegelt die Fähigkeit wider, Anforderungen in technische Lösungen zu übersetzen und Daten für Berichte bereitzustellen. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline zur Verarbeitung hochfrequenter Logistikdaten. Demonstriert umfassende Kenntnisse in der Arbeit mit ETL/ELT-Tools und Frameworks sowie in der Performance-Optimierung. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Lieferantenperformance-Analyse} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels Python und SQL. Verbesserte die Datenqualität signifikant und etablierte Standards für die Datenverarbeitung. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE - RELEVANT FÜR DIE ROLLE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
