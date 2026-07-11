@@ -1,0 +1,222 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=0.7in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Westpress agency group\\
+    Kreativ-Allee 1\\
+    59069 Hamm\\
+    Deutschland\\
+
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Hedderich str  47A \\
+    60594 Frankfurt am Main\\
+    Deutschland\\
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Data Analyst }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+Sehr geehrte Damen und Herren,
+
+mit großer Aufmerksamkeit habe ich Ihre Stellenausschreibung für die Position als Data Analyst bei Ihnen gelesen. Die Kombination aus anspruchsvoller Datenanalyse, der Entwicklung aussagekräftiger Reports und Dashboards sowie der Fokussierung auf die Ableitung konkreter Handlungsempfehlungen spricht mich besonders an. Als analytisch denkender Informatiker mit über zwei Jahren Berufserfahrung im Microsoft-BI-Umfeld bringe ich genau das geforderte Profil mit, um Ihre Geschäftsprozesse datengetrieben zu optimieren.
+
+In meiner aktuellen Rolle als Werkstudent Machine Learning \& Data Analyst bei BioNTech SE erstelle und pflege ich bereits komplexe Reports und interaktive Dashboards mit SQL und Power BI. Mein tägliches Ziel ist es, aus den gewonnenen Erkenntnissen konkrete Handlungsempfehlungen für das Management abzuleiten. So habe ich beispielsweise durch die Entwicklung von ETL-Pipelines die manuelle Datenaufbereitung um 40\% reduziert, was eine deutlich schnellere und präzisere Berichterstattung ermöglicht. Genau diese Fähigkeit, aus Rohdaten wertvolle Business-Insights zu generieren, möchte ich nun in Ihre Fachabteilungen einbringen.
+
+Ihre Anforderung, fachliche Abläufe zu analysieren und Anforderungen aus den Abteilungen aufzunehmen, entspricht meiner täglichen Praxis. Bei Bosch und Siemens Healthineers habe ich erfolgreich mit Supply-Chain- und Controlling-Teams zusammengearbeitet, um deren spezifische KPI-Anforderungen in performante Datenmodelle und Dashboards zu übersetzen. Durch diese enge Abstimmung konnte ich die Analysezeit für Berichte um bis zu 25\% verkürzen. Die Grundlagen von Git sowie der Umgang mit Projektmanagement-Tools wie Jira und Knowledge-Management-Plattformen wie Confluence und SharePoint sind für mich selbstverständlich.
+
+Besonders reizvoll finde ich Ihren Fokus auf die kontinuierliche Weiterentwicklung von Data-Governance-Richtlinien. Mein Verständnis für Datenqualität und -modellierung sowie meine Zertifizierungen als Microsoft Power BI Analyst (PL-300, DP-600, DP-700) befähigen mich, hier aktiv an der Professionalisierung Ihrer Datenstrukturen mitzuwirken.
+
+Meine sehr guten Deutschkenntnisse (C1) und meine Muttersprache Englisch ermöglichen es mir, sowohl im Team als auch gegenüber Stakeholdern jederzeit sicher und klar zu kommunizieren.
+
+Ich freue mich darauf, Sie in einem persönlichen Gespräch von meiner Motivation und meiner Leidenschaft für Datenanalyse zu überzeugen
+
+\vspace{0.5cm}
+
+Mit freundlichen Grüßen,\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL - EXACTLY MATCHING THE JOB DESCRIPTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Analytisch denkender und detailorientierter Data Analyst (M.Sc. Informatik) mit über zwei Jahren Berufspraxis im Microsoft-BI-Umfeld. Ich erstelle präzise Reports und aussagekräftige Dashboards, um Geschäftsprozesse gekonnt zu analysieren. Aus meinen fundierten Analysen von Kennzahlen und Prozessen leite ich konkrete Handlungsempfehlungen für das Management und Fachabteilungen ab. Meine Expertise umfasst die kontinuierliche Weiterentwicklung von Data-Governance-Richtlinien sowie die enge Zusammenarbeit mit Stakeholdern, um Anforderungen aufzunehmen und Ergebnisse verständlich zu kommunizieren. Mit sehr guten Deutschkenntnissen (C1) und einem sicheren Auftreten bin ich Ihr idealer Ansprechpartner für datengetriebene Entscheidungen.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% FACHliche SCHWERPUNKTE - MAPPED TO JOB REQUIREMENTS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{FACHLICHE SCHWERPUNKTE}
+
+\textbf{Reports \& Dashboards:}
+SSRS, Power BI, DAX, Power Automate, Dashboarding, Reporting, KPI-Entwicklung, Performance Management \\
+\textbf{Data Governance \& Prozesse:} 
+ETL/ELT Pipelines (SSIS, Python), Data-Warehouse-Konzeption (Star/Snowflake), Datenmodellierung, Sicherstellung von Datenqualität, Data Storytelling \\
+\textbf{Tools \& Technologien:} 
+SQL / T-SQL, SAP S/4HANA (MM, PP, SD), Python (Pandas, NumPy), C\# (Grundkenntnisse) \\
+\textbf{Knowledge Management \& Projektarbeit:} Confluence, SharePoint, Jira, Git \\
+\textbf{Soft Skills:} 
+Starke Kommunikationsfähigkeit, sicheres Auftreten gegenüber Stakeholdern, Problemlösungskompetenz, Eigeninitiative, Teamfähigkeit \\
+\textbf{Sprachen:}
+Deutsch (fließend), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - REWRITTEN TO MATCH JOB AD LANGUAGE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Erstelle und pflege} komplexe Reports und Dashboards auf Basis von SQL/T-SQL und Power BI, um wichtige Produktions- und Lieferketten-KPIs für das Management zu visualisieren.
+    \item \textbf{Analysiere} Geschäftsprozesse entlang der Wertschöpfungskette und \textbf{leite} aus datenbasierten Erkenntnissen konkrete \textbf{Handlungsempfehlungen} für operative und strategische Entscheidungen ab.
+    \item \textbf{Entwickle} Data-Governance-Richtlinien weiter und implementiere Microsoft Fabric Pipelines, um Datenqualität und -verfügbarkeit für Berichtszwecke zu optimieren.
+    \item \textbf{Nehme} Anforderungen aus den Fachabteilungen auf, übersetze diese in technische Konzepte und \textbf{kommuniziere} meine Ergebnisse verständlich und zielgruppengerecht.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Erstellte} aussagekräftige Dashboards zur Analyse von Lieferperformance und Bestandsentwicklung, die als Frühwarninstrumente für die operative Steuerung dienten.
+    \item \textbf{Analysierte} fachliche Abläufe im Logistikbereich und optimierte diese durch die Entwicklung robuster DWH-Datenmodelle, was die Datenqualität um \textbf{22\%} steigerte.
+    \item \textbf{Entwickelte} Handlungsempfehlungen auf Basis von KPIs und Report-Analysen für das Supply-Chain-Management.
+    \item Automatisierte Datenaufbereitungsprozesse durch SQL und Python, um eine konsistente und effiziente Berichterstattung zu gewährleisten.
+\end{itemize}
+\newpage
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Entwickelte} performante Power BI Reports und KPI-Strukturen in enger Abstimmung mit den Fachbereichen Supply Chain und Controlling.
+    \item \textbf{Konzipierte} Data-Warehouse-Architekturen und \textbf{analysierte} komplexe fachliche Zusammenhänge, um die Datenverfügbarkeit für Berichte um \textbf{35\%} zu verbessern.
+    \item \textbf{Erstellte} Bestands- und Bedarfsforecasts, die als Grundlage für strategische Handlungsempfehlungen dienten.
+    \item Arbeite routiniert mit Projektmanagement-Tools wie \textbf{Jira} und Knowledge-Management-Plattformen wie \textbf{Confluence} und \textbf{SharePoint}.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE - DEMONSTRATING THE CORE SKILLS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Supply Chain Performance Dashboard} \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue und Bestandsreichweite. Das Projekt demonstriert die Fähigkeit, aus komplexen Datenbeständen (SAP, SQL) aussagekräftige Reports und KPIs zu erstellen und diese in einer benutzerfreundlichen Visualisierung darzustellen. 
+
+\item \textbf{Lieferantenperformance-Analyse} \\
+Automatisierte die Erfassung und Auswertung von Lieferantendaten mit Python und SQL. Die daraus abgeleiteten Analysen und Handlungsempfehlungen zur Optimierung der Lieferantenbeziehungen zeigen mein Verständnis für fachliche Abläufe im Einkauf. 
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline} \\
+Entwarf eine skalierbare Datenpipeline zur Verarbeitung von Logistikdaten. Dieses Projekt unterstreicht meine Expertise in der Datenmodellierung und im Aufbau robuster Datenarchitekturen, die die Grundlage für aussagekräftige Reports bilden. 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+\end{document}
