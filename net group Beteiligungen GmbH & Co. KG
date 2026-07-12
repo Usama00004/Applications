@@ -1,0 +1,128 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL - Speziell zugeschnitten auf die Anforderungen der axicorp GmbH
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Erfahrener BI-Spezialist (M.Sc.) mit 3+ Jahren praktischer Erfahrung in der Entwicklung und Pflege von BI-Reports, Dashboards und Data-Warehouse-Lösungen. Fundierte Kenntnisse in ETL/ELT-Datenaufbereitung, Data-Vault-2.0-Modellierung und SQL-Datenbanken (Oracle, SQL Server). Sicher im Umgang mit Tableau, Power BI und der Optimierung von Datenbanklogiken. Strukturierte, lösungsorientierte Arbeitsweise mit gute Deutsch und Englischkenntnissen.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN & TECH STACK - Fokussiert auf Tableau, Data Vault, Oracle/PLSQL
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{BI \& Reporting:} Tableau, Power BI, SSRS, DAX, Dashboarding, KPI-Entwicklung, Performance Management \\
+\textbf{DWH \& Data Vault:} Data-Vault-2.0-Modellierung, Data-Warehouse-Architekturen, Datenmodellierung \\
+\textbf{Datenbanken \& SQL:} Oracle SQL / PL/SQL, PostgreSQL, T-SQL, Performance-Tuning, Datenbanklogiken \\
+\textbf{Datenintegration:} Tableau Prep, SSIS, ETL/ELT-Pipelines, Datenaufbereitung, Attunity, Microsoft DTS \\
+\textbf{Zusätzliche Skills:} Python (Pandas, NumPy), SAP S/4HANA (MM, PP, SD), Microsoft Fabric, Power Automate \\
+\textbf{Soft Skills:} Stakeholder-Management, Problemlösung, Teamfähigkeit, Eigeninitiative, Kommunikationsstärke \\
+\end{tabular}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - Angepasst an Tableau, Data Vault, Oracle/PLSQL
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Entwickelte und pflegte} komplexe Reports zur Visualisierung von Produktions- und Lieferketten-KPIs, unter Verwendung von SQL/T-SQL und modernen BI-Tools.
+    \item \textbf{Konzipierte und implementierte} skalierbare Data-Warehouse-Architekturen (Microsoft Fabric) und ETL/ELT-Pipelines, die heterogene Datenquellen integrierten und die manuelle Datenaufbereitung um \textbf{40\%} senkten.
+    \item \textbf{Erstellte} interaktive Dashboards für ein effizientes Monitoring, was der Arbeit mit Tableau oder Power BI für operative Entscheidungen entspricht.
+    \item \textbf{Automatisierte} Berichtsprozesse und Datenaktualisierungen mittels Power Automate, was die wöchentliche Reporting-Zeit um \textbf{30\%} reduzierte.
+    \item \textbf{Optimierte} Datenbankabfragen (SQL) zur Reduzierung der Ladezeiten um \textbf{35\%}.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Optimierte} Produktions- und Logistikprozesse durch die Entwicklung robuster DWH-Datenmodelle. Erhöhte die Datenqualität für Supply-Chain-Reports um \textbf{22\%}.
+    \item \textbf{Reduzierte} Dashboard-Ladezeiten um \textbf{30\%} durch den Aufbau multidimensionaler Datenmodelle (vergleichbar mit Data-Vault-2.0-Methodik) und die Implementierung einer Semantikschicht.
+    \item \textbf{Automatisierte} komplexe ETL-/ELT-Strecken mit SQL und Python, was die manuelle Datenverarbeitungszeit um \textbf{40\%} senkte.
+    \item \textbf{Entwickelte} Monitoring-Dashboards für Lieferperformance und Bestandsentwicklung als Frühwarninstrumente.
+    \item \textbf{Konzipierte} Datenaufbereitungsprozesse zur Konsolidierung heterogener Produktionsdatenquellen, wodurch die Datenkonsistenz für nachgelagerte Reports signifikant verbessert wurde.
+    \item \textbf{Stimmte} KPI-Definitionen und Report-Anforderungen mit Fachbereichen und der IT-Abteilung ab, um eine einheitliche Datenbasis und Nachvollziehbarkeit der Kennzahlen sicherzustellen.
+\end{itemize}
+
+
+
+\newpage
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Entwarf und baute} Data-Warehouse-Architekturen (Snowflake, SQL Server) auf, die eine \textbf{35\%} verbesserte Datenverfügbarkeit für Berichte ermöglichten.
+    \item \textbf{Entwickelte} performante Power BI Reports und KPI-Strukturen für Supply-Chain- und Controlling-Teams, was die Analysezeit um \textbf{25\%} verkürzte.
+    \item \textbf{Steigerte} die Abfrageperformance um \textbf{30\%} durch die Optimierung komplexer SQL-Abfragen und Performance-Tuning (u.a. mit PL/SQL-ähnlichen Logiken).
+    \item \textbf{Stellte} die Nachvollziehbarkeit von Datenflüssen sicher und dokumentierte Datenmodellierungen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE - Angepasst an BI/DWH-Konzepte
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\begin{itemize}
+\item \textbf{Supply Chain Performance Dashboard} \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue, Bestandsreichweite und Order-Fulfillment-KPIs. Implementierte Datenmodellierung und ETL-Pipelines mit Python (Pandas) und SAP-Datenanbindung, wodurch die Reporting-Latenz um \textbf{20\%} reduziert wurde. Dieses Projekt spiegelt die Arbeit mit Datenmodellen und die Erstellung von aussagekräftigen Reports wider.
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline zur Verarbeitung hochfrequenter Logistik- und Produktionsdaten. Das Verständnis für Datenpipelines und -architekturen, das hier gezeigt wurde, ist direkt auf die Arbeit mit SSIS und DWH-Konzepten übertragbar.
+
+\item \textbf{Lieferantenperformance-Analyse} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels Python, Selenium und SQL. Reduzierte manuellen Auswertungsaufwand um \textbf{40\%} und verbesserte die Datenqualität signifikant. Demonstriert fortgeschrittene SQL-Kenntnisse und Datenverarbeitung.
+
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG - Fokus auf Informatik
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE - Links bleiben erhalten
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
