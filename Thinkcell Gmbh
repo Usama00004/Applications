@@ -1,0 +1,231 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFILE}
+
+Business Intelligence Analyst with 3+ years of experience in scalable data models, pipelines, and Power BI dashboards. Translates business questions into actionable insights using SQL, dbt, and Python. Proactive, ownership-driven mindset focused on process improvement, data quality, and ML/LLM-based efficiency. Collaborates across teams to enhance data transparency and foster a strong data culture.
+
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CORE COMPETENCIES}
+
+\textbf{Analytics \& BI:} Power BI, DAX, Tabular Models, KPI Definition, Dashboarding, Reporting, Forecasting, Ad-hoc Analysis, Data Visualization, Semantic Layers \\
+\textbf{Data Modeling \& Pipelines:} dbt, SQL (PostgreSQL, Snowflake, SQL Server), Data Modeling (Star/Snowflake Schema), ETL/ELT, Data Warehousing, Databricks, Data Quality Checks, Validation \\
+\textbf{Programming \& Automation:} Python (Pandas, NumPy, Scikit-learn), Process Automation, ETL Development\\
+\textbf{Machine Learning \& AI:} ML/LLM-based Approaches, Predictive Modeling, Classification, Sentiment Analysis, Natural Language Processing (NLP), Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation \\
+\textbf{Soft Skills:} Stakeholder Guidance, Proactive Mindset, Ownership, Analytical Thinking, Structured Working Style, Technical Excellence, Customer First Mentality \\
+\textbf{Languages:} German (fluent), English (Mother Tongue)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL EXPERIENCE}
+
+\textbf{Data Analyst (Working Student)} \hfill Mar 2026 -- Present\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+\item Develop and maintain analytical solutions to support R\&D and clinical operations, proactively identifying opportunities for improvement and driving data-driven decision-making in a fast-paced, high-stakes environment.
+\item Build and maintain scalable data pipelines and Power BI dashboards to monitor KPIs, enabling teams to proactively identify trends, inefficiencies, and potential bottlenecks while translating complex biological and operational questions into structured analytical approaches.
+\item Improve data quality, transparency, and accessibility by implementing robust validation checks and standardizing reporting processes, fostering a strong data culture and contributing to internal data standards and workflows.
+\item Explore ML/LLM-based approaches for process automation and efficiency improvement, including predictive modeling and natural language processing for data classification and analysis.
+\end{itemize}
+
+\textbf{Data Analyst (Intern) – Digitalization \& Reporting} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Develop and enhance DWH data models to support production and logistics processes, building a foundation for scalable analytics and improving reporting accuracy.
+    \item Build robust multidimensional data models and Power BI semantic layers (DAX, Tabular), significantly reducing dashboard loading times and empowering stakeholders with self-service analytics.
+    \item Design and automate ETL/ELT pipelines using SQL and Python (Pandas), proactively improving data processing efficiency and reducing manual effort.
+    \item Integrate and transform data from SAP-related systems, ensuring data quality, transparency, and accessibility across the organization.
+    \item Analyze new business requirements in close collaboration with stakeholders, guiding them to the most effective analytical approaches and providing 2nd-level support, reducing recurring issues by \textbf{18\%}.
+\end{itemize}
+\newpage
+\textbf{Data Analyst (Working Student)} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Contributed to the development and expansion of data warehouse architectures (Snowflake, SQL Server), building scalable foundations to answer critical business questions.
+    \item Implemented scalable ETL processes to integrate heterogeneous source systems, significantly reducing manual data preparation and improving data availability.
+    \item Designed and modeled relational data structures (star and snowflake schemas) to ensure efficient and reliable data access for BI and controlling teams.
+    \item Developed high-performance Power BI reports and KPI structures, directly translating business questions into clear, actionable dashboards and reducing stakeholder analysis time by \textbf{25\%}.
+    \item Optimized complex SQL queries and performed performance tuning to reduce load times and costs, demonstrating a commitment to technical excellence.
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Dec 2024\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Developed and maintained robust ETL pipelines (Python, Pandas, SQL) integrating web, API, and ERP data sources, improving pipeline stability by \textbf{40\%} and building a reliable data foundation.
+    \item Built relational and multidimensional data models to support complex reporting and analytics requirements, enabling data-driven decision-making.
+    \item Implemented automated reporting solutions in Power BI, reducing manual reporting effort by \textbf{35\%} and ensuring stakeholders receive timely insights.
+    \item Performed database optimization and performance tuning, improving query speed by \textbf{30\%} and enhancing the efficiency of the analytics ecosystem.
+    \item Processed ERP data from SAP-related systems to support operational business processes, ensuring data integrity for key stakeholders.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS (Tailored to showcase needed skills)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{dbt-Powered Sales Analytics} \\
+Designed and implemented a scalable data transformation pipeline using dbt and SQL to model sales data, creating reusable, modular data models. Built a corresponding Power BI dashboard, reducing reporting latency by \textbf{20\%} and enabling faster, data-driven decisions. 
+
+\item \textbf{Real-Time Data Analytics Pipeline} \\
+Engineered a real-time data pipeline using Apache Kafka and Flink to process high-frequency data streams. Enabled low-latency analytics for operational decision-making and improved processing efficiency by \textbf{25\%}, showcasing the ability to work with advanced technologies. 
+
+\item \textbf{Sentiment Analysis \& Process Automation with ML/LLM} \\
+Automated web data collection and analysis using Python, Selenium, and SQL, implementing ML/LLM-based approaches for sentiment classification and data categorization. This project reduced manual effort by \textbf{40\%} and significantly improved the speed and quality of analysis, demonstrating practical application of AI in business processes. 
+
+\item \textbf{Predictive Analytics for Operational Efficiency} \\
+Developed predictive models using Python (Scikit-learn) to forecast operational metrics and identify potential bottlenecks. Implemented feature engineering and model evaluation techniques to achieve \textbf{90\%} prediction accuracy, enabling proactive decision-making and resource optimization.
+
+\end{rSection}
+
+\newpage
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+\textbf{M.Sc. Global Software Development} – Fulda University of Applied Sciences, Germany \\
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{View Certificate} 
+    \item \textbf{Microsoft Fabric Analytics Engineer Associate (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{View Certificate} 
+    \item \textbf{Microsoft Power BI Data Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{View Certificate}  
+    \item \textbf{German Language Certificate B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}  
+    \item \textbf{Google Data Analytics Certificate} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=0.5in, bottom=0.4in, left=0.6in, right=0.6in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Think cell Software\\
+    Leipziger Str 51 \\
+    10117 Berlin\\
+    Germany
+
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Aristotelessteig 2 \\
+    10318 Berlin \\
+    Geramny
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for the position Business Intelligence Analyst | Job Id : 9765 }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Data Analyst position at think-cell Software, as advertised. Upon reviewing the job description, I was particularly drawn to your emphasis on data professionals who do not merely analyze but actively drive business value. This philosophy resonates deeply with my professional approach, which centers on proactively identifying opportunities for improvement, building robust analytical foundations, and empowering stakeholders with actionable insights that facilitate informed decision-making.
+
+With over three years of progressive experience in analytics and business intelligence across leading organizations including BioNTech SE, Siemens AG, and Bosch GmbH, I have cultivated a comprehensive skillset that aligns precisely with your requirements. I possess strong SQL proficiency and hands-on experience with dbt, having designed and implemented scalable, reusable data models that have demonstrably reduced reporting latency and enhanced data transparency. My expertise in Power BI and semantic layer development has enabled stakeholders across various functions to leverage self-service analytics capabilities, resulting in significant time savings and accelerated decision-making processes.
+
+What particularly appeals to me about think-cell is the unique proposition of operating within a scaleup environment supported by the resources of an established enterprise—an ecosystem characterized by genuine ownership, streamlined decision-making, and the autonomy to shape outcomes. I have consistently thrived in such environments. At BioNTech, for instance, I operated in a demanding, fast-paced setting where I did not simply fulfill data requests; rather, I collaborated extensively with scientists and project managers to translate complex biological and operational questions into structured analytical methodologies. This experience refined my ability to guide stakeholders constructively rather than serve them passively, while simultaneously improving data quality and accessibility throughout the organization.
+
+Furthermore, I am deeply committed to process optimization and efficiency enhancement, and I am enthusiastic about applying my knowledge to ML/LLM-based approaches where applicable. My project portfolio includes the automation of web data collection and analysis using Python and Selenium, which successfully reduced manual effort by up to 40\% and redirected resources toward higher-value strategic initiatives. I am confident that my proactive, ownership-driven mindset, combined with my dedication to technical excellence, would enable me to make meaningful contributions to your Unified Team.
+
+I would welcome the opportunity to discuss in greater detail how my experience in building scalable data solutions and cultivating a robust data culture can support the continued success and innovation at think-cell. Thank you for your time and consideration. I look forward to the possibility of speaking with you soon.
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://github.com/Usama00004}{https://github.com/Usama00004}
+
+\end{document}
