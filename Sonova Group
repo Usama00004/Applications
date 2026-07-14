@@ -1,0 +1,222 @@
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFILE}
+
+Senior Data Analyst with 5+ years of experience delivering high-impact BI solutions across marketing, product, and operations. Expert in SQL, Power BI, Tableau, BigQuery, and Databricks, with a proven track record of translating complex data into actionable business insights. Experienced in leading end-to-end data projects, managing stakeholder expectations, and driving KPI-driven performance improvements across multiple markets.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+\textbf{M.Sc. Global Software Development} – Fulda University of Applied Sciences, Germany \\
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CORE COMPETENCIES}
+
+\textbf{Business Intelligence \& Analytics:} Power BI, Tableau, KPI definition, dashboarding, data visualization, forecasting, ad-hoc analysis, performance measurement \\
+\textbf{Data Management:} SQL (PostgreSQL, BigQuery), Databricks, SAP S/4HANA, data modeling (star/snowflake schemas), data quality, data validation \\
+\textbf{ETL / ELT \& Cloud:} Python (Pandas, NumPy), Apache Airflow, Databricks, BigQuery, data pipeline automation, cloud data warehousing \\
+\textbf{Soft Skills:} Stakeholder management, structured problem-solving, presenting to management, cross-functional collaboration, independent project leadership \\
+\textbf{Languages:} German (Fluent), English (Fluent)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL EXPERIENCE}
+
+\textbf{Senior Data Analyst} \hfill Sept 2025 -- Present\\
+\textbf{BioNTech SE}, Mainz, Germany
+\begin{itemize}
+    \item Support business performance across multiple markets by delivering high-quality reports, deep-dive analyses, and actionable insights to marketing, product, customer care, and finance stakeholders
+    \item Design, build, and maintain interactive dashboards and reports using Power BI and Tableau, enabling real-time monitoring of KPIs and business performance metrics
+    \item Conduct in-depth ad-hoc analyses and deep dives using SQL, Databricks, and BigQuery to answer complex business questions related to product adoption, market penetration, and customer engagement
+    \item Define and track KPIs, ensuring consistent and meaningful performance measurement across all business functions; provide clear recommendations for strategic decision-making
+\end{itemize}
+
+\textbf{Intern Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- Present\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item Design and maintain robust DWH data models and Power BI dashboards supporting production and logistics KPIs, enabling data-driven operational decisions
+    \item Build multidimensional data models and semantic layers using DAX and Tabular, reducing dashboard loading times by over 30\%
+    \item Automate ETL/ELT pipelines using SQL and Python (Pandas), integrating data from SAP S/4HANA and other source systems
+    \item Partner with cross-functional stakeholders to translate business requirements into analytical solutions; provide 2nd-level support, resolving recurring reporting issues and improving stakeholder satisfaction
+\end{itemize}
+\newpage
+\textbf{Working Student Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item Co-developed and expanded data warehouse architectures using Snowflake and SQL Server, improving data availability and consistency for BI and controlling teams
+    \item Built scalable ETL processes to integrate heterogeneous source systems, reducing manual data preparation by over 40\%
+    \item Designed high-performance Power BI reports and KPI structures aligned with business goals, reducing analysis time for finance and product stakeholders by 25\%
+    \item Optimized complex SQL queries and performed performance tuning, reducing data processing costs and query execution time
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- July 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item Developed and maintained robust ETL pipelines using Python, Pandas, and SQL, integrating web, API, and SAP-related ERP data sources
+    \item Built relational and multidimensional data models (star/snowflake schemas) to support enterprise-wide reporting and analytics
+    \item Implemented automated reporting solutions in Power BI, reducing manual reporting effort by 35\% and enabling faster decision-making
+    \item Performed database optimization and query tuning, improving performance by 30\% and reducing operational costs
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Developed an interactive dashboard to analyze revenue trends, product performance, and customer KPIs. Built end-to-end ETL pipelines using Python (Pandas) and SQL to automate data processing, reducing reporting latency by 20\%. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Marketing Analytics Pipeline (BigQuery \& Databricks)} \\
+Built a scalable analytics pipeline on BigQuery and Databricks to process marketing campaign data and customer engagement metrics. Enabled automated KPI reporting and segmentation analysis, improving campaign performance insights by 25\%. 
+
+\item \textbf{Real-Time Data Analytics Pipeline} \\
+Designed a real-time data pipeline using Apache Kafka and Flink to process high-frequency operational data. Delivered low-latency analytics dashboards for operational teams, improving decision-making speed by 25\%. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{View Certificate} 
+    \item \textbf{Microsoft Fabric Analytics Engineer Associate (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{View Certificate} 
+    \item \textbf{Microsoft Power BI Data Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{View Certificate}  
+    \item \textbf{German Language Certificate B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}  
+    \item \textbf{Google Data Analytics Certificate} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{mathpazo} % Palatino font for a professional look
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.8in, right=0.8in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Sender and recipient addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    Sonova Deutschland GmbH\\
+    Max-Eyth Str 20 \\
+    70736 Fellbach Oeffingen\\
+    Gemany
+
+
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+
+    Usama Tahir \\
+    Aristotelessteig 2 \\
+    10318 Berlin \\
+    Gemany
+
+
+
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{ Application for the position Senior Data Analyst | Job Id : 163721 }
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Senior Data Analyst position at Sonova. With over 5+ years of experience delivering high-impact analytics, BI solutions, and actionable insights across marketing, product, and operations, I am excited about the opportunity to contribute to Sonova's mission of improving hearing health and human connection through data-driven decision-making.
+
+Currently at BioNTech SE, I support business performance across multiple markets by designing interactive dashboards in Power BI and Tableau, conducting deep-dive analyses using SQL, BigQuery, and Databricks, and defining KPIs that drive strategic decisions. I act as a trusted analytics partner to marketing, product, customer care, and finance stakeholders — translating complex data into clear, business-friendly recommendations that improve performance and customer engagement.
+
+Previously at Siemens, I developed scalable ETL pipelines and optimized data models in Snowflake and SQL Server, reducing report load times by 40\% and enabling faster decision-making for finance and controlling teams. Earlier at Systems Limited, I built robust ETL workflows and automated reporting solutions that reduced manual effort by 35\%. These experiences have strengthened my ability to lead data projects independently, manage stakeholder expectations, and deliver business-critical insights across diverse markets.
+
+What excites me most about this opportunity is Sonova's commitment to creating a connected world where every voice is heard — a mission that deeply resonates with me. I am particularly inspired by your focus on developing innovative solutions that combine both consumer and medical technologies. I would welcome the opportunity to bring my technical expertise, analytical mindset, and passion for translating data into impact to Sonova's Berlin team.
+
+Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to Sonova's vision.
+
+
+\vspace{0.5cm}
+
+Thanks and Regards\\
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://github.com/Usama00004}{https://github.com/Usama00004}
+
+\end{document}
