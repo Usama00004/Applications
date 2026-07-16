@@ -1,0 +1,202 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL - Vollständig auf PubliCare und Microsoft Fabric / Data Warehouse ausgerichtet
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Data Engineer (M.Sc.) mit Microsoft-BI-Erfahrung. Spezialisiert auf stabilen DWH-Betrieb in Microsoft Fabric inkl. Dataflows, Pipelines, Berechtigungsmanagement und Optimierung von Lakehouse-Datenmodellen. Fundierte ETL/ELT-Kenntnisse, Datenqualitätsmonitoring und strukturierte Dokumentation. Kommunikativ und teamfähig 
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN - Fokussiert auf Fabric, DWH-Betrieb, Berechtigungen und Optimierung
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Datenplattform \& Architektur:} Microsoft Fabric, Dataflows, Pipelines, Refresh-Prozesse, Lakehouse, SQL Endpoints, Semantic Models (Power BI), Data-Warehouse-Betrieb \\
+\textbf{Datenmodellierung \& ETL:} SSIS (SQL Server Integration Services), ETL/ELT Pipelines, Datenmodellierung (Star/Snowflake, Lakehouse), Performance-Tuning \\
+\textbf{Datenbanken \& Abfragen:} SQL / T-SQL, Performance-Optimierung, Data-Warehouse-Architekturen (Konzeption und Betrieb) \\
+\textbf{Governance \& Sicherheit:} Zugriffsrechte-Verwaltung, Berechtigungen, Workspace-Administration, Sicherheitskonzepte, Data Quality Management \\
+\textbf{Zusätzliche Tools \& Sprachen:} Python (Pandas, NumPy), Power BI, DAX, Power Automate \\
+\textbf{Soft Skills:} Problemlösungskompetenz, Teamfähigkeit, Kommunikationsstärke, sicheres Auftreten gegenüber Stakeholdern, strukturierte Dokumentation \\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - Angepasst an DWH-Betrieb, Fabric, Berechtigungen, Monitoring
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Überwachte und steuerte} Dataflows sowie Refresh-Prozesse in Microsoft Fabric, um einen stabilen Betrieb des Data Warehouses sicherzustellen.
+    \item \textbf{Verwaltete} Zugriffsrechte, Berechtigungen und Workspaces und setzte Sicherheitskonzepte zuverlässig um.
+    \item \textbf{Optimierte} Datenmodelle im Lakehouse über SQL Endpoints und Semantic Models, was die Datenzugriffszeiten um \textbf{35\%} reduzierte.
+    \item \textbf{Entwickelte und pflegte} komplexe SQL/T-SQL Reports für Produktions- und Lieferketten-KPIs.
+    \item \textbf{Stellte} hohe Datenqualität durch kontinuierliches Monitoring und gezielte Validierungen sicher und senkte manuelle Datenaufbereitung um \textbf{40\%}.
+    \item \textbf{Automatisierte} Berichtsprozesse durch Power Automate Workflows, was wöchentliche Reporting-Zeit um \textbf{30\%} reduzierte.
+    \item \textbf{Fungierte} als Ansprechpartner für interne Stakeholder bei DWH-bezogenen Fragestellungen.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Optimierte} Produktions- und Logistikprozesse durch Entwicklung robuster DWH-Datenmodelle, was zu einer \textbf{22\%} höheren Datenqualität für Supply Chain Reports führte.
+    \item \textbf{Reduzierte} Dashboard-Ladezeiten um \textbf{30\%} durch den Aufbau multidimensionaler Datenmodelle (vergleichbar mit der Arbeit an Semantic Models) und Power BI Semantikschichten.
+    \item \textbf{Automatisierte} ETL-/ELT-Strecken mit SQL und Python, was manuelle Datenverarbeitungszeit um \textbf{40\%} senkte.
+    \item \textbf{Entwickelte} Monitoring-Dashboards für Lieferperformance und Bestandsentwicklung als Frühwarninstrumente.
+    \item \textbf{Dokumentierte} Datenarchitektur und relevante Datenprozesse strukturiert und nachvollziehbar.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Konzipierte und baute} Data-Warehouse-Architekturen (Snowflake, SQL Server) auf, die eine \textbf{35\%} verbesserte Datenverfügbarkeit für Berichte ermöglichten.
+    \item \textbf{Entwickelte} performante Power BI Reports und KPI-Strukturen für Supply Chain und Controlling Teams, was Analysezeit um \textbf{25\%} verkürzte.
+    \item \textbf{Steigerte} Abfrageperformance um \textbf{30\%} durch Optimierung komplexer SQL Abfragen und Performance-Tuning.
+    \item \textbf{Integrierte} neue Datenquellen aus unterschiedlichen Unternehmensbereichen in die bestehende Datenlandschaft.
+    \item \textbf{Erstellte} Bestands- und Bedarfsforecasts zur Unterstützung der Planung.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE - Fokussiert auf Datenqualität, Modelloptimierung und Operational Stabilität
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Supply Chain Performance Dashboard} \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue, Bestandsreichweite und Order Fulfillment KPIs. Implementierte Datenmodellierung und ETL-Pipelines mit Python (Pandas) und SAP-Datenanbindung, wodurch die Reporting-Latenz um \textbf{20\%} reduziert wurde. Dieses Projekt spiegelt die Arbeit mit Datenmodellen und die Erstellung von aussagekräftigen KPIs wider. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline (Stabilität \& Monitoring)} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline mit Fokus auf \textbf{operationale Stabilität} und \textbf{Datenqualität}. Implementierte umfassende Validierungsroutinen zur Fehlerbehebung in Ladeprozessen, was die Ausfallzeiten minimierte. Die Architektur ist direkt auf die Anforderungen an eine stabile Microsoft Fabric-Umgebung übertragbar. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Lieferantenperformance-Analyse (Data Governance)} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels Python, Selenium und SQL. Implementierte Berechtigungskonzepte für den Datenzugriff und dokumentierte die Datenprozesse vollständig. Reduzierte manuellen Auswertungsaufwand um \textbf{40\%} und verbesserte die Datenqualität signifikant. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE - DP-600 und DP-700 hervorgehoben + Bereitschaft
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}
+\begin{itemize}
+
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen}
+
+    \item \textbf{Microsoft Fabric Data Engineer (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen}
+
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}
+
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}
+
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+
+\end{itemize}
+\vspace{0.1cm}
+
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Professional Light Font
+\usepackage{fontspec}
+\setmainfont{Libertinus Serif}[
+    Ligatures=TeX
+]
+
+%%%% Layout Packages
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{microtype}
+
+%%%% Margins
+\geometry{
+    top=1in,
+    bottom=1in,
+    left=0.8in,
+    right=0.8in
+}
+
+%%%% Slightly airy spacing
+\setstretch{1.2}
+
+\begin{document}
+
+% Heading
+\begin{center}
+    {\Large \textbf{Anschreiben}}
+\end{center}
+
+\vspace{0.9cm}
+
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt}
+
+Betreff: Bewerbung als Data Engineer (m/w/d)\\
+
+Sehr geehrte Damen und Herren,\\
+
+mit Begeisterung bewerbe ich mich bei PubliCare. Die verantwortungsvolle Aufgabe, ein zukunftsfähiges Data Warehouse im Microsoft Fabric-Umfeld zu betreuen, entspricht genau meinem Profil.
+
+In meiner aktuellen Position bei BioNTech SE überwache ich Dataflows und Refresh-Prozesse in Microsoft Fabric, verwalte Zugriffsrechte und Workspaces und optimiere Datenmodelle im Lakehouse über SQL Endpoints und Semantic Models – Kernaufgaben, die Sie beschreiben.
+
+Zuvor sammelte ich wertvolle Erfahrung als Data Analyst bei Bosch in Reutlingen, wo ich Produktions- und Logistikprozesse durch robuste DWH-Datenmodelle optimierte und Dashboard-Ladezeiten um 30\% reduzierte. Bei Siemens Healthineers in Forchheim konzipierte ich Data-Warehouse-Architekturen und entwickelte performante Power BI Reports für Supply Chain und Controlling Teams, was die Analysezeit um 25\% verkürzte.
+
+Meine Erfahrung umfasst SQL/T-SQL, ETL/ELT-Prozesse, Datenqualitätsmonitoring und strukturierte Dokumentation. Die Zertifizierungen DP-600 und DP-700 habe ich bereits absolviert. Mein Master in Global Software Development sowie diese praktischen Erfahrungen bei führenden Technologieunternehmen runden mein Profil ab.
+
+Ich freue mich darauf, mich aktiv in Ihre Digitalisierungsinitiativen einzubringen und eng mit Ihren Teams zusammenzuarbeiten.
+
+\vspace{0.6cm}
+Mit freundlichen Grüßen,
+
+\vspace{0.4cm}
+
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com} \\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
