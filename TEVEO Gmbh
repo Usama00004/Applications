@@ -1,0 +1,210 @@
+\documentclass[11pt,a4paper]{article}
+
+%%%% Professional Light Font
+\usepackage{fontspec}
+\setmainfont{Libertinus Serif}[
+    Ligatures=TeX
+]
+
+%%%% Layout Packages
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{microtype}
+
+%%%% Margins
+\geometry{
+    top=0.7in,
+    bottom=0.7in,
+    left=0.7in,
+    right=0.7in
+}
+
+%%%% Slightly airy spacing
+\setstretch{1.2}
+
+\begin{document}
+
+% Heading
+\begin{center}
+    {\Large \textbf{Anschreiben}}
+\end{center}
+
+\vspace{0.9cm}
+
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt}
+
+\opening{Sehr geehrte Damen und Herren,}
+
+als erfahrener Data Analyst mit Fokus auf Vertriebsanalysen und Bestandsmanagement bringe ich die analytische Denkweise und Werkzeugkenntnisse mit, die Sie für die Position als Demand Planner bei [Company Name] suchen. Ihre Ausschreibung hat mein Interesse sofort geweckt, da ich meine Expertise in der Datenanalyse und der Erstellung von Entscheidungsgrundlagen erfolgreich in der Bestandsplanung einbringen möchte.
+
+In meiner Tätigkeit bei \textbf{BioNTech SE}, \textbf{Bosch GmbH} und \textbf{Siemens Healthineers} habe ich mich intensiv mit Produktions- und Lieferketten-KPIs auseinandergesetzt. Ich verfüge über umfangreiche Erfahrung in der Erstellung von Bestands- und Abverkaufsanalysen sowie der Entwicklung von Frühwarninstrumenten für Liefertreue und Bestandsentwicklung.
+
+Ihre ausgeschriebenen Aufgaben – insbesondere die wöchentliche Analyse von Vertriebs-KPIs, Best/Worst Seller Reports und die Prognose von Kollektionsmengen – sind mir aus meiner Laufbahn bestens vertraut:
+
+\begin{itemize}
+    \item \textbf{Sell-Through Analysen:} Bei Siemens Healthineers entwickelte ich Power BI-Reports zur Analyse von Abverkäufen und Beständen, wodurch die Analysezeit um 25\% reduziert wurde.
+    
+    \item \textbf{Bestandsanalyse \& Inventory Clustering:} Bei Bosch erstellte ich Monitoring-Dashboards für Lieferperformance und Bestandsreichweite und entwickelte ein tiefes Verständnis für Bestandsstrukturen (NOS, A/B/C-Stock).
+    
+    \item \textbf{Forecasting:} Bei Siemens Healthineers war ich aktiv an der Erstellung von Bestands- und Bedarfsforecasts beteiligt.
+    
+    \item \textbf{BI-Dashboarding:} Mein fundiertes Wissen in Power BI (mehrere Microsoft-Zertifikate) und SQL befähigt mich, dem BI-Team präzise Briefings für die Dashboard-Entwicklung zu geben.
+\end{itemize}
+
+Mit meinem Masterabschluss in Global Software Development und meinem Hintergrund in Informatik bringe ich ausgeprägtes analytisches Denkvermögen mit. Meine sehr guten Deutschkenntnisse (B2.2) und Englischkenntnisse (Muttersprache) ermöglichen es mir, nahtlos in Ihrem internationalen Team zu kommunizieren.
+
+Die Möglichkeit, bei [Company Name] als Demand Planner tätig zu sein, reizt mich sehr. Gerne würde ich in einem persönlichen Gespräch erläutern, wie ich zur Optimierung Ihrer Bestands- und Vertriebsstrategien beitragen kann.
+
+Über eine Einladung zu einem Vorstellungsgespräch würde ich mich freuen.
+
+\vspace{0.6cm}
+Mit freundlichen Grüßen,
+
+\vspace{0.4cm}
+
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}
+{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL - Speziell zugeschnitten auf die Anforderungen der Demand Planner Stelle
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Erfahrener Datenanalyst mit starkem Fokus auf Vertriebs- und Bestandsanalysen. Expertise in der Erstellung von Performance-Reports (Sell-Through, Best/Worst Seller, Lagerbestand) und der Ableitung von Handlungsempfehlungen zur Bestandsoptimierung. Sicherer Umgang mit Excel (Pivot-Tabellen, komplexe Formeln) und BI-Tools wie Power BI. Ausgeprägtes analytisches Denkvermögen, eine lösungsorientierte Arbeitsweise und sehr gute Deutsch- und Englischkenntnisse runden mein Profil ab, um als Demand Planner erfolgreich zu sein.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN - Fokussiert auf Vertriebsanalyse, Bestandsplanung und Forecasting
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Vertriebs- \& Bestandsanalyse:} Sell-Through Analysen, Best/Worst Seller Reports, Inventory Clustering (NOS, A/B/C-Stock), Abverkaufsanalyse, Bedarfsprognosen, Bestandsreichweite (Weeks Cover) \\
+\textbf{Planung \& Strategie:} Demand Forecasting, Plan-Ist-Abweichungsanalyse, Entwicklung von Discount-Strategien, Pricing-Analyse, Produktionsplanung \\
+\textbf{Tools \& Technologien:} Power BI (Experte), Excel (Pivot-Tabellen, komplexe Formeln), SQL (T-SQL), Python (Pandas), SSRS \\
+\textbf{Soft Skills:} Starkes analytisches Denken, prägnante Kommunikation (DE/EN), Teamfähigkeit, Eigeninitiative, strukturierte Arbeitsweise, Fokus auf Datengetriebene Entscheidungen
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - Angepasst an Demand Planning, Sales Analytics und Forecasting
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Entwickelte und pflegte} komplexe SQL/T-SQL-basierte Reports, um wichtige Produktions- und Lieferketten-KPIs für das Management sichtbar zu machen (vergleichbar mit Bestands- und Absatzanalysen)
+    \item \textbf{Optimierte} ETL/ELT-Prozesse zur Integration heterogener Datenquellen, was manuelle Datenaufbereitung um \textbf{40\%} senkte und die Basis für präzise Forecasts schuf
+    \item \textbf{Entwickelte} interaktive Power BI-Dashboards für ein effizientes Monitoring von KPIs, ähnlich der Erstellung von Sell-Through und Bestandsanalysen
+    \item \textbf{Automatisierte} Berichtsprozesse durch Power Automate, was wöchentliche Reporting-Zeit um \textbf{30\%} reduzierte
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Optimierte} Produktions- und Logistikprozesse durch Entwicklung robuster Datenmodelle, was zu einer \textbf{22\%} höheren Datenqualität für Supply Chain Reports führte
+    \item \textbf{Reduzierte} Dashboard-Ladezeiten um \textbf{30\%} durch den Aufbau multidimensionaler Datenmodelle in Power BI, vergleichbar mit der Erstellung von Performance-Dashboards
+    \item \textbf{Entwickelte} Monitoring-Dashboards für Lieferperformance und Bestandsentwicklung als Frühwarninstrumente, was direkt der Analyse von Inventory Clustering und Weeks Cover entspricht
+\end{itemize}
+\newpage
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Entwickelte} performante Power BI-Reports und KPI-Strukturen für Supply Chain und Controlling Teams, wodurch die Analysezeit für Plan-Ist-Abweichungen um \textbf{25\%} verkürzt wurde
+    \item \textbf{Steigerte} Abfrageperformance um \textbf{30\%} durch Optimierung komplexer SQL-Abfragen für Bestands- und Bedarfsauswertungen
+    \item \textbf{Erstellte} Bestands- und Bedarfsforecasts zur Unterstützung der Planung, was eine Kernaufgabe im Demand Planning ist
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE - Angepasst an Bestandsanalyse, Forecasting und KPI-Reports
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Supply Chain Performance Dashboard} \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue, Bestandsreichweite und Order Fulfillment KPIs. Dieses Projekt demonstriert die Fähigkeit, Kennzahlen wie "Weeks Cover" und "Terminal Stock" zu visualisieren und zu analysieren. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline zur Verarbeitung hochfrequenter Logistik- und Produktionsdaten. Das Verständnis für komplexe Datenströme ist entscheidend für die Analyse von Abverkäufen (Sell-Through) und die Erstellung von "Drop"-Analysen. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Lieferantenperformance-Analyse} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels Python, Selenium und SQL. Reduzierte den manuellen Auswertungsaufwand um \textbf{40\%} und verbesserte die Datenqualität signifikant. Diese Erfahrung ist direkt übertragbar auf die Analyse von Retouren und die Identifikation von Hauptgründen.(\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG - Fokus auf relevante Studiengänge für Demand Planning
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE - Links bleiben erhalten
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
