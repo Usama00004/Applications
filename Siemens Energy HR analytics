@@ -1,0 +1,180 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL SUMMARY
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Berufliches Profil}
+Data Analyst mit Erfahrung in People Analytics und Business Intelligence. Spezialisiert auf die Entwicklung von Power BI-Dashboards, ETL-Pipelines (SQL, Python) und der Analyse von Personaldaten (Headcount, Fluktuation) zur Unterstützung strategischer Personalentscheidungen. Kombiniert technische Expertise mit starker Kommunikationsfähigkeit, um komplexe Daten in umsetzbare Erkenntnisse für Stakeholder zu übersetzen.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% TECHNICAL SKILLS
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Kernkompetenzen}
+\item \textbf{Daten \& ETL:} SQL (T-SQL/PostgreSQL), Python (Pandas, NumPy, Git, Venv), ETL/ELT, Data Warehousing (Snowflake, Fabric, SQL Server)
+\item \textbf{Advanced Analytics:} Machine Learning, Natural Language Processing (NLP), Predictive Modeling, Data Mining.
+\item \textbf{Cloud \& Tools:} Microsoft Azure, Apache Airflow, Databricks, Git, Jira, SAP (S/4HANA)\\
+\textbf{Business Intelligence \& Reporting:} Power BI (DAX, Tabular), Dashboard-Entwicklung, Reporting-Automatisierung, Scorecards, Datenvisualisierung, Ad-hoc-Analysen , Tableau, MS Excel (fortgeschritten\\
+\textbf{Datenmanagement \& Governance:} SQL, Datenmodellierung (Star Schema), Datenqualitätsprüfungen, Validierung, Data Governance, KPI-Definitionen \\
+\textbf{Tools \& Technologien:} Power BI, SQL, Python (Pandas, NumPy), Tableau, SAP, Git, Excel, Jira \\
+\textbf{Soft Skills:} Analytisches Denken, Detailgenauigkeit, Problemlösungskompetenz, Kommunikationsstärke, Teamarbeit, Stakeholder-Management \\
+\textbf{Sprachen:} Deutsch (
+Fließend), Englisch (Muttersprache)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Berufserfahrung}
+
+\textbf{Data Analyst (Digitalisierung \& Reporting)} \hfill Sept. 2025 -- Heute\\
+\textbf{Biontech}, Mainz
+\begin{itemize}
+    \item \textbf{Wichtige Erfolge:} Reduzierung der Berichtsfehler um 18\% und Verbesserung der Datenqualität für HR- und Fachabteilungen.
+    \item Entwicklung und Pflege von Analysetools mit Power BI und Python, Erstellung multidimensionaler Datenmodelle zur Reduzierung der Dashboard-Ladezeiten und Stärkung der Self-Service-Fähigkeiten im Bereich Performance Management.
+    \item Konzeption und Automatisierung von ETL-Prozessen (SQL, Python) zur Integration und Harmonisierung von Personaldaten aus SAP und anderen Systemen, Sicherstellung von Konsistenz und Zuverlässigkeit für Headcount- und Fluktuationsberichte.
+    \item Zusammenarbeit mit Fachbereichen zur Analyse neuer Reporting-Anforderungen, Bereitstellung wichtiger Erkenntnisse über Mitarbeiterleistung und Talententwicklung.
+    \item Optimierung von Geschäftsprozessen und Dokumentation zur Sicherstellung der Datenqualität und Informationsmanagement, Unterstützung einer robusten Data Governance für HR-Kennzahlen.
+\end{itemize}
+
+\textbf{Data Analyst (Werkstudent)} \hfill Jan. 2025 -- Aug. 2025\\
+\textbf{Siemens AG}, Forchheim
+\begin{itemize}
+    \item \textbf{Wichtige Erfolge:} Optimierung komplexer SQL-Abfragen zur Verbesserung der Systemleistung, Reduzierung der Ladezeiten und Abfragekosten um 25\%.
+    \item Mitwirkung an der Entwicklung einer Data-Warehouse-Architektur (Snowflake, SQL Server), Verbesserung der Datenverfügbarkeit und -zuverlässigkeit für verschiedene Geschäftsbereiche, einschließlich HR-Reporting.
+    \item Implementierung skalierbarer ETL-Pipelines zur Automatisierung der Datenextraktion aus mehreren Quellen, deutliche Reduzierung des manuellen Datenaufbereitungsaufwands für Workforce Analytics.
+    \item Entwicklung und Pflege von Analysetools und Tableau-Dashboards für Vertriebs- und Controlling-Teams, Ermöglichung eines effizienten Performance-Trackings und Forecastings.
+    \item Modellierung relationaler und Star-Schema-Datenbanken zur Unterstützung komplexer Reporting-Anforderungen und Sicherstellung der Datenqualität für interne Stakeholder gemäß Data-Governance-Standards.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Projekte}
+
+\item \textbf{Workforce Analytics \& Headcount Dashboard} \\
+Entwicklung eines interaktiven Power BI-Dashboards zur Analyse von Workforce-KPIs, einschließlich Headcount, Fluktuation und Einstellungstrends. Aufbau von ETL-Pipelines mit SQL und Python (Pandas) zur Integration von Daten aus mehreren Systemen. Reduzierung der Reporting-Latenz um 20\%, Bereitstellung von Echtzeit-Einblicken für HR- und Management-Teams. 
+
+\item \textbf{Echtzeit-Datenpipeline für operative Kennzahlen} \\
+Konzeption und Implementierung einer Echtzeit-Datenpipeline mit Apache Kafka und Flink zur Verarbeitung hochfrequenter Streaming-Daten. Ermöglichung von Low-Latency-Analysen für operative Entscheidungen, Verbesserung der Datenverarbeitungseffizienz um 25\% und Unterstützung dynamischer Workforce-Forecasts.
+
+\item \textbf{Sentiment-Analyse für Mitarbeiter- \& Kundenfeedback} \\
+Automatisierung von Web-Scraping und -Analyse mit Python, Selenium und SQL. Anwendung von NLP-Techniken zur Analyse von Kunden- und Mitarbeiterfeedback, Bereitstellung umsetzbarer Erkenntnisse zur Verbesserung der Mitarbeiterbindung und Geschäftsentwicklung. Reduzierung der manuellen Datenverarbeitung um 40\%. 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Bildungsweg}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland (aktuell)\\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Zertifizierungen \& Verfügbarkeit}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Data Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat anzeigen}  
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat anzeigen} 
+    \item \textbf{Google Data Analytics} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat anzeigen}  
+    \item \textbf{Deutsch Sprachzertifikat (B2.2)} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat anzeigen}
+    \item \textbf{Verfügbarkeit:} Ab sofort / flexibel nach Absprache.
+\end{itemize}
+\end{rSection}
+
+\end{document}
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Professional Light Font
+\usepackage{fontspec}
+\setmainfont{Libertinus Serif}[
+    Ligatures=TeX
+]
+
+%%%% Layout Packages
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{microtype}
+
+%%%% Margins
+\geometry{
+    top=0.4in,
+    bottom=0.4in,
+    left=0.7in,
+    right=0.7in
+}
+
+%%%% Slightly airy spacing
+\setstretch{1.2}
+
+\begin{document}
+
+% Heading
+\begin{center}
+    {\Large \textbf{Anschreiben}}
+\end{center}
+
+\vspace{0.9cm}
+
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt}
+
+Sehr geehrte Damen und Herren,
+
+durch meine Leidenschaft für datengetriebene Entscheidungsfindung und mein ausgeprägtes Interesse an der Zukunft der Arbeitswelt habe ich Ihre Stellenausschreibung für den Bereich HR Analytics, Reporting \& Power BI mit großer Begeisterung gelesen. Die Möglichkeit, im Team „Digital Solution Design“ von Siemens Energy an der Schnittstelle zwischen modernster Datenanalyse und strategischer Personalarbeit zu wirken, ist für mich der ideale nächste Schritt in meiner beruflichen Entwicklung. Besonders reizt mich die Perspektive, mit Hilfe von Power BI und innovativen KI-gestützten Tools dazu beizutragen, HR-Prozesse effizienter zu gestalten und wertvolle Einblicke für die Personalentscheidungen eines weltweit führenden Energietechnologieunternehmens zu liefern. Mit meinen Deutschkenntnissen auf B2.2-Niveau und meiner mehrjährigen Berufserfahrung in deutschen Großkonzernen wie Bosch und Siemens AG bin ich bestens darauf vorbereitet, mich nahtlos in Ihr Team zu integrieren und aktiv an deutschsprachigen Projekten mitzuwirken.
+
+In meiner bisherigen Laufbahn als Data Analyst bei Bosch und Siemens AG sowie als Junior Data Analyst bei Systems Limited konnte ich umfangreiche Erfahrungen in der Entwicklung von Power BI-Dashboards, der Automatisierung von ETL-Prozessen und der Analyse komplexer Datensätze sammeln. Bei Bosch entwickelte ich Power BI-Dashboards und Python-basierte Analysetools, die die Ladezeiten reduzierten und die Self-Service-Fähigkeiten für das Performance Management stärkten. Bei Siemens AG trug ich zur Entwicklung einer Data-Warehouse-Architektur bei und implementierte skalierbare ETL-Pipelines zur Automatisierung der Datenextraktion. Meine Expertise im Bereich Reporting und Datenvisualisierung wird durch meine Microsoft-Zertifizierungen als Power BI Data Analyst (PL-300) und Fabric Analytics Engineer (DP-600) offiziell bestätigt – Qualifikationen, die ich gezielt für die Erstellung und Weiterentwicklung Ihrer HR-Reporting-Lösungen einbringen möchte.
+
+Die Analyse von Personaldaten wie Headcount, Fluktuation, Einstellungen und demografischen Daten, wie sie in der Stellenausschreibung beschrieben werden, sehe ich als spannende Aufgabe, bei der ich meine analytischen Fähigkeiten und meine Detailgenauigkeit voll einbringen kann. Durch meine bisherigen Tätigkeiten habe ich gelernt, komplexe Daten in verständliche Visualisierungen und umsetzbare Erkenntnisse für Stakeholder zu übersetzen – eine Fähigkeit, die ich gerne für die Entwicklung von Visualisierungen und Präsentationen für HR-Stakeholder und das Management einsetzen möchte. Die Arbeit im Team „Digital Solution Design“ und die Zusammenarbeit mit erfahrenen HR-Kollegen bieten mir die ideale Umgebung, um meine Kenntnisse in den Bereichen Datenqualität, Data Governance und KPI-Reporting weiter zu vertiefen.
+
+Für Rückfragen stehe ich selbstverständlich jederzeit gerne zur Verfügung und freue mich darauf, Sie in einem persönlichen Gespräch von meiner Motivation und meinen Fähigkeiten zu überzeugen.
+
+Mit freundlichen Grüßen
+Usama Tahir
+
+
+
+\vspace{0.6cm}
+Mit freundlichen Grüßen,
+
+\vspace{0.4cm}
+
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}
+{usamatahir00004@gmail.com}\\ \href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
