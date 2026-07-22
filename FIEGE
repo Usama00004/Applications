@@ -1,0 +1,116 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE - Tailored for Microsoft Fabric/Azure Data Engineer Role
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Erfahrener Data und BI Engineer mit Masterabschluss und fundierter Expertise im Microsoft-Datenökosystem. Spezialisiert auf moderne Data-Pipeline-Entwicklung mit \textbf{Microsoft Fabric} (Dataflows Gen2, Pipelines, Notebooks) und \textbf{Azure-Komponenten} (Data Factory, Synapse). Ausgewiesene Kompetenz in der Implementierung von \textbf{Medaillon-Architekturen} (Bronze/Silver/Gold) sowie der Entwicklung semantischer Modelle und interaktiver Dashboards in \textbf{Power BI} mit DAX und Measures. Starke Programmierkenntnisse in \textbf{Python} und \textbf{SQL} für Data-Science-Anwendungen und Notebook-basierte Verarbeitung. Sicheres Auftreten, analytisches Denkvermögen und sehr gute Deutschkenntnisse runden mein Profil für diese Position ab.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES - Focussed on Fabric, Azure, Power BI, Python/SQL
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Data Platforms \& Engineering:} Microsoft Fabric (Dataflows Gen2, Pipelines, Notebooks), Azure Data Factory, Azure Synapse, Azure Functions, Medaillon-Architektur (Bronze/Silver/Gold), Lakehouse-Konzepte \\
+\textbf{BI \& Reporting:} Power BI (DAX, Measures, Dataflows, Data Sets), Dashboard-Entwicklung, Performance-Tuning, Semantische Modellierung \\
+\textbf{Programming \& Data Science:} Python (Pandas, NumPy, Notebooks), SQL/T-SQL, Datenmodellierung, ETL/ELT-Prozesse \\
+\textbf{DevOps \& Automation:} CI/CD, Git, Azure DevOps, Power Automate, Workflow-Automatisierung \\
+\textbf{Soft Skills:} Stakeholder-Kommunikation, strukturierte Arbeitsweise, Mentoring, Code Reviews, Teamarbeit \\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE - Repositioned for Fabric/Azure focus
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Entwickle und betreibe} moderne Data Pipelines mit \textbf{Microsoft Fabric} (Dataflows Gen2, Pipelines, Notebooks) zur Integration heterogener Datenquellen, wodurch manuelle Datenaufbereitung um \textbf{40\%} reduziert wurde
+    \item \textbf{Implementiere} eine ganzheitliche \textbf{Medaillon-Architektur} (Bronze/Silver/Gold) mit Lakehouse-Konzepten für skalierbare Datenverarbeitung – reduzierte Datenzugriffszeiten um \textbf{35\%}
+    \item \textbf{Erstelle und pflege} semantische Modelle und interaktive \textbf{Power BI Dashboards} mit DAX und Measures für Management-Entscheidungen im operativen Geschäft
+    \item \textbf{Automatisiere} Datenverarbeitungsprozesse durch \textbf{CI/CD Pipelines} mit Git und Azure DevOps
+    \item \textbf{Kollaboriere} eng mit Data Scientists und Fachbereichen zur datengetriebenen Umsetzung von Use Cases
+    \item \textbf{Teile} Wissen durch Code Reviews und interne Schulungen im Team
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Entwickelte} robuste DWH-Datenmodelle und \textbf{ETL/ELT-Pipelines} mit Python und SQL zur Verarbeitung von Produktions- und Logistikdaten – steigerte Datenqualität für Supply Chain Reports um \textbf{22\%}
+    \item \textbf{Optimierte} Power BI Semantikschichten und Dataflows, reduzierte Dashboard-Ladezeiten um \textbf{30\%}
+    \item \textbf{Implementierte} \textbf{Data Governance}- und Compliance-Richtlinien in enger Zusammenarbeit mit dem Governance-Team
+    \item \textbf{Erstellte} Monitoring-Dashboards für Lieferperformance und Bestandsentwicklung als Frühwarninstrumente
+    \item \textbf{Performance-Tuning} komplexer SQL-Abfragen zur Verbesserung der Datenverarbeitungsgeschwindigkeit
+\end{itemize}
+\newpage
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Konzipierte und baute} Data-Warehouse-Architekturen (Snowflake, SQL Server) mit \textbf{ETL/ELT-Prozessen} auf – verbesserte Datenverfügbarkeit für Berichte um \textbf{35\%}
+    \item \textbf{Entwickelte} performante Power BI Reports und KPI-Strukturen für Supply Chain und Controlling Teams – verkürzte Analysezeit um \textbf{25\%}
+    \item \textbf{Steigerte} Abfrageperformance um \textbf{30\%} durch Optimierung komplexer SQL-Abfragen und gezieltes Performance-Tuning
+    \item \textbf{Unterstützte} die Automatisierung von Datenverarbeitungsprozessen mit Python und SQL
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS - Highlighting Fabric/Azure, Medaillon, CI/CD themes
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\textbf{Supply Chain Performance Dashboard mit Fabric} \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue, Bestandsreichweite und Order Fulfillment KPIs. Implementierte \textbf{ETL-Pipelines} mit \textbf{Python (Pandas, NumPy)} und SAP-Datenanbindung. Setzte \textbf{Medaillon-Architektur} (Bronze/Silver/Gold) für skalierbare Datenverarbeitung um. Reduzierte Reporting-Latenz um \textbf{20\%}. 
+
+\textbf{Echtzeit-Logistikdaten Pipeline mit Azure-Komponenten} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline zur Verarbeitung hochfrequenter Logistik- und Produktionsdaten. Nutzte \textbf{Python-Notebooks} für Datenverarbeitung und \textbf{SQL} für Datenmodellierung. Demonstriert fortgeschrittene Kenntnisse in \textbf{Datenmodellierung}, \textbf{ETL/ELT} und \textbf{Performance-Optimierung}. 
+
+\textbf{Lieferantenperformance-Analyse mit Automatisierung} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels \textbf{Python}, Selenium und \textbf{SQL}. Implementierte \textbf{CI/CD}-Konzepte für automatisierte Datenverarbeitung. Reduzierte manuellen Auswertungsaufwand um \textbf{40\%} und verbesserte Datenqualität signifikant. 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS - All relevant certifications preserved
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+\end{document}
