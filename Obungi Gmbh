@@ -1,0 +1,123 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL - Vollständig an die Stellenanzeige angepasst
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Analytisch und lösungsorientierter Business Analyst mit Masterabschluss und nachweisbarer Erfahrung als Data Analyst. 
+Ich analysiere Geschäftsprozesse, erhebe und übersetze Fachbereichsbedarfe in präzise Data-Warehouse-Spezifikationen. 
+Als Schnittstelle zwischen Fachbereichen und IT überzeuge ich durch die Fähigkeit, komplexe technische Zusammenhänge verständlich zu kommunizieren. 
+Meine Expertise in der Datenanalyse, der Validierung von Datenqualität und der Konzeption von BI-Lösungen (Power BI, SSRS) stellt sicher, 
+dass technische Lösungen exakt den Anforderungen entsprechen und Geschäftsprozesse nachhaltig optimiert werden.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN - Fokussiert auf BA-Tätigkeiten und Datenanalyse
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Business Analyse \& Anforderungsmanagement:} Anforderungserhebung, Erstellung von Fachkonzepten, Datenanforderungsdokumenten und Report-Spezifikationen, Stakeholder-Kommunikation, Schnittstelle zwischen Fachbereich und IT \\
+\textbf{BI \& Datawarehouse:} Data-Warehouse-Architekturen (Konzeption \& Betrieb), Datenmodellierung (Star/Snowflake), SQL / T-SQL, Performance-Tuning \\
+\textbf{Datenintegration \& ETL:} SSIS, ETL/ELT Pipelines, Datenqualitätsprüfung und -validierung, Sicherstellung von Datenkonsistenz \\
+\textbf{Reporting \& Visualisierung:} Power BI (DAX), SSRS, Dashboarding, KPI-Entwicklung, Erstellung von Berichten, Diagrammen und Tabellen zur Ergebnispräsentation \\
+\textbf{Technologien:} SAP S/4HANA, Python (Pandas, NumPy), Power Automate \\
+\textbf{Soft Skills:} Problemlösungskompetenz, Team- und Integrationsfähigkeit, ausgeprägte Kommunikationsstärke, Neugier an Datenhintergründen und Unternehmensprozessen
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - Angepasst an die Aufgaben der Stellenausschreibung
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Analysierte} bestehende Datenflüsse und Reporting-Strukturen, um Anforderungen der Fachbereiche zu erheben und in Datawarehouse-Spezifikationen zu übersetzen.
+    \item \textbf{Validierte} kontinuierlich die Datenqualität und -konsistenz heterogener Quellen (u.a. Produktion, Lieferkette) und leitete Maßnahmen zur Optimierung ab.
+    \item \textbf{Entwickelte} und präsentierte interaktive Power BI Dashboards sowie SSRS-Reports als zentrale Entscheidungsgrundlage für das Management, inkl. Erstellung von Report-Spezifikationen.
+    \item \textbf{Optimierte} ETL/ELT-Prozesse mit Python und SQL, was die Datenverfügbarkeit verbesserte und manuelle Aufbereitung um 40\% reduzierte.
+    \item \textbf{Agierte} als Schnittstelle zwischen Fachbereichen und IT, übersetzte technische Sachverhalte in verständliche Informationen für Anwender.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Konzipierte} und baute robuste DWH-Datenmodelle in enger Zusammenarbeit mit Datenanalysten und stellte die Abbildung der Fachbereichsbedarfe sicher.
+    \item \textbf{Erstellte} Fachkonzepte und Datenanforderungsdokumente für neue Reporting-Lösungen und verbesserte damit die Transparenz in Logistikprozessen.
+    \item \textbf{Validierte} die Ergebnisse von Datenanalysen und Reports auf Konsistenz und Plausibilität, um eine hohe Datenqualität zu gewährleisten.
+    \item \textbf{Optimierte} Geschäftsprozesse mit Power BI-Frühwarnsystemen für Lieferperformance und Bestände.
+\end{itemize}
+
+\newpage
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Konzipierte} und implementierte Data-Warehouse-Architekturen (Snowflake, SQL Server) und spezifizierte Datenanforderungen für Supply Chain und Controlling.
+    \item \textbf{Entwickelte} performante Power BI Reports und KPI-Strukturen; visualisierte Analyseergebnisse in Diagrammen und Tabellen zur Präsentation vor Fachbereichen.
+    \item \textbf{Unterstützte} bei der Optimierung von Geschäftsprozessen durch Analyse von Bestands- und Bedarfsdaten und kontinuierliche Prüfung der Datenqualität.
+    \item \textbf{Optimierte} komplexe SQL-Abfragen und ETL-Strecken, was die Abfrageperformance um 30\% steigerte und die Reporting-Latenz reduzierte.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE - Ausrichtung auf Analyse, Validierung und Prozessoptimierung
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Supply Chain Performance Dashboard} \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue, Bestandsreichweite und Order Fulfillment. 
+Erhob spezifische Anforderungen der Fachbereiche, modellierte die Daten und erstellte aussagekräftige Report-Spezifikationen. 
+Die kontinuierliche Validierung der Daten gewährleistete konsistente Analyseergebnisse und führte zu einer Reduzierung der Reporting-Latenz um 20\%. 
+
+\item \textbf{Lieferantenperformance-Analyse} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten. Durch die Überführung der Fachanforderungen in ein strukturiertes Datenmodell konnte der manuelle Auswertungsaufwand um 40\% reduziert und die Datenqualität signifikant verbessert werden. 
+Die Ergebnisse wurden in verständlichen Berichten visualisiert. 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
