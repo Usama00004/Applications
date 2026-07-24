@@ -1,0 +1,132 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE / OBJECTIVE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFILE}
+
+Data Analyst passionate about data-driven decision-making and developing data products across the entire product lifecycle. Proven experience in identifying business problems, creating compelling data visualizations, and translating complex data into actionable insights for stakeholders. Strong expertise in Power BI, Python, SQL, and Microsoft Fabric – combined with excellent communication skills and agile working methods. I am eager to drive digital transformation and maximize the value of data products as part of a motivated, agile team of Data Engineers, Data Scientists, and Data Product Owners.
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CORE COMPETENCIES}
+
+\textbf{Business Intelligence \& Visualization:} Power BI, DAX, Tabular Models, KPI Definition, Dashboarding, Reporting, Data Visualization, Forecasting, Ad-hoc Analytics, Tableau Fundamentals\\
+\textbf{Data Analysis \& Processing:} Python (Pandas, NumPy, Scikit-learn), SQL/T-SQL, Statistical Fundamentals, Trend and Correlation Analysis\\
+\textbf{Data Platforms \& Storage:} Microsoft Fabric, Azure Data Lake Storage (ADLS), Synapse Analytics, Snowflake, SQL Server, Databricks Fundamentals\\
+\textbf{ETL / Data Integration:} Data Pipelines, ETL/ELT Processes, Data Quality Assurance, Web Scraping (Selenium, BeautifulSoup), Power Automate\\
+\textbf{Version Control \& Tools:} Git, GitHub (Branching, Pull Requests, CI/CD), Jira, Excel\\
+\textbf{Agile Methodologies:} Scrum Fundamentals, Team-oriented collaboration in agile data teams\\
+\textbf{Soft Skills:} Analytical and problem-solving mindset, Stakeholder Communication, Presentation Skills, Customer-centric Approach, Team Player, Structured and Self-directed Work Style\\
+\textbf{Languages:} German (B2.2), English (Fluent)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROFESSIONAL EXPERIENCE}
+
+\textbf{Working Student Machine Learning \& Data Analyst} \hfill Mar 2026 -- Present\\
+\textbf{BioNTech SE}, Mainz, Germany
+\begin{itemize}
+    \item \textbf{Identified and analyzed relevant business problems}, deriving actionable recommendations based on production and supply chain KPIs for management.
+    \item \textbf{Created user-friendly reports and dashboards} in Power BI for stakeholders across various business units – enabling data-driven decision-making.
+    \item \textbf{Performed data visualizations and analyses} to identify trends and correlations within complex datasets.
+    \item \textbf{Analyzed, validated, and processed} heterogeneous data sources (SQL/T-SQL) to derive insights and support decision-making.
+    \item \textbf{Implemented Microsoft Fabric Pipelines and Lakehouse architectures} for scalable data processing – reduced data access times by \textbf{35\%}.
+    \item \textbf{Collaborated closely in an agile team} with Data Engineers and domain experts for continuous development of data products.
+    \item \textbf{Automated reporting processes} using Power Automate workflows – reduced weekly reporting time by \textbf{30\%}.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Intern)} \hfill Sep 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen, Germany
+\begin{itemize}
+    \item \textbf{Identified and implemented reporting requirements} in close coordination with business units to support production and logistics processes.
+    \item \textbf{Built multidimensional Power BI semantic layers} (DAX, Tabular) and dimensional data models for user-friendly reports.
+    \item \textbf{Conducted ad-hoc analyses and data visualizations} to answer specific business questions.
+    \item \textbf{Analyzed and validated data quality}, optimizing ETL pipelines using SQL and Python.
+    \item \textbf{Presented insights and recommendations} to stakeholders from various business areas.
+\end{itemize}
+
+\textbf{Data Analyst (Working Student)} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim, Germany
+\begin{itemize}
+    \item \textbf{Developed and extended DWH architectures} (Snowflake, SQL Server) as a foundation for data-driven decisions in BI and controlling departments.
+    \item \textbf{Designed and modeled relational data models} for user-friendly reports and dashboard solutions.
+    \item \textbf{Created high-performance Power BI reports and KPI structures} – supporting data-based business decisions.
+    \item \textbf{Optimized SQL processes} and improved data quality through systematic analysis and validation.
+\end{itemize}
+
+\textbf{Data Analyst} \hfill Jan 2021 -- Jul 2022\\
+\textbf{Systems Limited}, Lahore, Pakistan
+\begin{itemize}
+    \item \textbf{Developed and operated ETL pipelines} (Python, SQL) to integrate heterogeneous data sources – providing the basis for reporting and analysis.
+    \item \textbf{Built relational and multidimensional data models} (Star Schema) for reporting purposes.
+    \item \textbf{Implemented automated reporting solutions} in Power BI for internal stakeholders.
+    \item \textbf{Maintained and optimized database servers}, ensuring high data quality standards.
+\end{itemize}
+
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+\textbf{M.Sc. Global Software Development} – Fulda University of Applied Sciences, Germany \\
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore, Pakistan
+\end{rSection}
+%----------------------------------------------------------------------------------------
+% PROJECTS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Developed an interactive Power BI dashboard for analyzing sales, trend, and KPI data. Implemented data modeling (dimensional models) and ETL pipelines using Python (Pandas). Reduced reporting latency by \textbf{20\%} and enabled data-driven decision-making for management. 
+
+\item \textbf{Real-Time Data Analytics Pipeline} \\
+Designed and implemented a real-time data pipeline using Apache Kafka and Flink for processing high-frequency data. Enabled low-latency analytics for operational decisions and improved processing efficiency by \textbf{25\%} – comparable to Azure Stream Analytics. 
+
+\item \textbf{Sentiment Analysis \& Data Automation} \\
+Automated web data collection and analysis using Python, Selenium, and SQL. Reduced manual effort by \textbf{40\%} and significantly improved data quality and analysis speed. 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{View Certificate} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{View Certificate}  
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{View Certificate} 
+    \item \textbf{German Language Certificate B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}  
+    \item \textbf{Google Data Analytics} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+\end{itemize}
+\end{rSection}
+
+
+\end{document}
