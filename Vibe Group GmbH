@@ -1,0 +1,115 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE - Tailored for ida (Reporting/Analytics, Semantic Models, Fabric)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Erfolgreich abgeschlossenes Masterstudium der Informatik mit ausgeprägter Expertise im Aufbau und der Modernisierung von Reporting- und Analytics-Lösungen. Fundierte praktische Erfahrung in der Konzeption semantischer Datenmodelle, komplexer DAX-Logiken und performanter ETL-/ELT-Prozesse auf Basis von Microsoft SQL Server und Microsoft Fabric. Ich überführe bestehende Berichtslandschaften in moderne, wartbare Strukturen, optimiere Datenmodelle hinsichtlich Performance und Kapazität und befähige Fachbereiche durch Workshops und Trainings zur eigenständigen Nutzung datengetriebener Dashboards. 
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES - 100% aligned with the job ad (DAX, RLS, Fabric, SQL)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{BI \& Analytics:} Power BI (DAX, Power Query), Microsoft Fabric (Lakehouse, Kapazitätsmanagement), SQL Server (SSRS), Dashboarding, KPI-Entwicklung, Performance-Tuning \\
+\textbf{Datenmodellierung \& Architektur:} Semantische Datenmodelle (Star/Snowflake-Schema), Row-Level-Security (RLS), Workspace-Konzepte, Berechtigungssteuerung \\
+\textbf{Datenintegration \& ETL/ELT:} Data Pipelines, Datenmigration (Legacy-Systeme zu Cloud), Microsoft Fabric Pipelines, Python (Pandas, NumPy), Power Automate \\
+\textbf{Datenbanken \& Abfragen:} SQL/T-SQL, Performance-Optimierung, Relationale Datenbanken, Cloud-Datenquellen (BigQuery) \\
+\textbf{Soft Skills:} Strukturierte \& analytische Arbeitsweise, Kommunikationsstärke, Pairing \& Wissensvermittlung, Eigeninitiative \\
+\textbf{Sprachen:} Deutsch (fließend, C1), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% WORK EXPERIENCE - Reframed to highlight "Modernisierung," "Performance," and "Fabric"
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Konzipierte und implementierte} moderne Lakehouse-Architekturen mit \textbf{Microsoft Fabric}, wodurch die Datenzugriffszeiten um \textbf{35\%} reduziert und die Grundlage für skalierbare ETL-Prozesse geschaffen wurden.
+    \item \textbf{Entwickelte performante Power BI Dashboards} mit komplexen DAX-Measures und optimierte bestehende Reporting-Strukturen, um relevante Produktions-KPIs für das Management sichtbar zu machen.
+    \item \textbf{Modernisierte} gewachsene BI-Landschaften, indem veraltete Berichtslogiken durchdringen und in saubere, wartbare Datenmodelle auf Microsoft Fabric überführt wurden.
+    \item \textbf{Automatisierte} ETL/ELT-Prozesse durch den Einsatz von Python und SQL, wodurch manuelle Datenaufbereitung um \textbf{40\%} reduziert und Altlasten beseitigt wurden.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Optimierte komplexe Datenstrukturen} und baute multidimensionale \textbf{semantische Modelle} in Power BI auf, was die Dashboard-Performance um \textbf{30\%} verbesserte.
+    \item \textbf{Entwickelte robuste Data-Warehouse-Modelle} und ETL-/ELT-Strecken (SQL/Python) zur Integration heterogener Datenquellen, was zu einer \textbf{22\%} höheren Datenqualität in Supply-Chain-Reports führte.
+    \item \textbf{Implementierte} Berechtigungskonzepte in Power BI (Row-Level-Security) und Workspace-Strukturen, um einen sicheren und rollenbasierten Zugriff auf sensible Unternehmensdaten zu gewährleisten.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Konzipierte und baute} Data-Warehouse-Architekturen (Snowflake, SQL Server) auf, die eine \textbf{35\%} verbesserte Datenverfügbarkeit für Berichte ermöglichten.
+    \item \textbf{Entwickelte} interaktive Power BI Reports und KPI-Strukturen für Supply Chain und Controlling Teams, wodurch die Analysezeit um \textbf{25\%} verkürzt wurde.
+    \item \textbf{Optimierte} die Abfrageperformance um \textbf{30\%} durch gezieltes Performance-Tuning komplexer SQL-Abfragen und Dateninfrastrukturen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS - Highlighting "Legacy-Modernisierung," "wartbare Strukturen," and "Cloud-Datenquellen"
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Modernisierung eines Supply Chain Reporting Systems} \\
+Überführte ein veraltetes Berichtssystem auf Basis veralteter SQL-Tabellen in eine moderne Power-BI-Reporting-Lösung mit Microsoft Fabric. Die Herausforderung bestand darin, bestehende Berechnungslogiken fachlich korrekt zu übertragen, Altlasten zu erkennen und eine Struktur zu schaffen, die langfristig wartbar ist. Resultat war ein performantes Dashboard mit \textbf{40\%} schnelleren Ladezeiten. 
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline (Migration zu Fabric)} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline zur Verarbeitung hochfrequenter Logistikdaten. Dieses Projekt demonstriert die Fähigkeit, von On-Premises-Datenbanken auf moderne Cloud-Architekturen (Fabric) umzusteigen und dabei Kapazitäts- und Performance-Themen zu berücksichtigen. 
+
+\item \textbf{Lieferantenperformance-Analyse mit Power BI} \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels Python, Selenium und komplexen SQL-Abfragen. Baute ein robustes Datenmodell in Power BI auf, das durch DAX-Logiken und RLS ergänzt wurde. Reduzierte den manuellen Auswertungsaufwand um \textbf{40\%} und verbesserte die Datenqualität signifikant. 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATES - Highlighting DP-600 and PL-300 explicitly for the job ad
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    
+    \item \textbf{Deutsch Sprachzertifikat C1} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+
+\end{itemize}
+\end{rSection}
+
+\end{document}
