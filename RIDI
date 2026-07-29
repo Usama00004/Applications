@@ -1,0 +1,109 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE - Highlighting Platform Building (not just operating), Fabric, and Governance
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Erfolgreich abgeschlossenes Masterstudium der Informatik mit ausgeprägter Expertise im Aufbau und Betrieb von Cloud-Datenplattformen. Spezialisiert auf die Konzeption von End-to-End-Lösungen mit \textbf{Microsoft Fabric} und \textbf{Azure Data Services} – von der Anbindung heterogener Quellsysteme über den Aufbau skalierbarer Lakehouse-/Warehouse-Strukturen bis hin zur Implementierung robuster Datenpipelines und Qualitätsregeln. Erfahrung in der Architekturplanung von Grund auf (Greenfield-Projekte) sowie der Überführung von Legacy-Systemen in moderne, KI-gestützte Datenökosysteme. Ich übernehme dauerhaft Verantwortung für die Stabilität und Weiterentwicklung der Plattform und befähige Teams durch strukturierte Wissensvermittlung.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES - 100% Matched to Job Ad (PySpark, Git, API, Data Quality, Monitoring)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Datenplattform \& Engineering:} Microsoft Fabric (Lakehouse, Warehouse, Dataflows Gen2), Azure Data Services, PySpark/Spark, Python (Pandas, NumPy), SQL/T-SQL, ETL/ELT-Pipelines, Bronze/Silver/Gold Architektur \\
+\textbf{Systemintegration \& APIs:} REST-APIs, OAuth2/OIDC, Webhooks, Microsoft Graph, Pagination, Error Handling, Retry-Mechanismen, Logging \\
+\textbf{Modellierung \& Reporting:} Power BI Semantic Models, Star/Snowflake-Schema, DAX, Performance-Tuning, Row-Level-Security (RLS) \\
+\textbf{Data Quality \& Governance:} Datenvalidierung, Monitoring, Qualitätsregeln, Rollen- \& Berechtigungskonzepte (Entra ID), Secrets Management \\
+\textbf{Entwicklungsprozess:} Git, strukturierte Softwareentwicklung, Pairing, Code-Reviews, Automatisierung \\
+\textbf{KI-Werkzeuge:} Produktiver Umgang mit modernen KI-Assistenten in der täglichen Entwicklungsarbeit bei gleichzeitiger kritischer Prüfung der Ergebnisse \\
+\textbf{Sprachen:} Deutsch (fließend, C1), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% WORK EXPERIENCE - Reframed to focus on "Aufbau von Grund auf," "Pipelines," "APIs," "Spark"
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Konzipierte und baute eine moderne Datenplattform} mit \textbf{Microsoft Fabric} auf, inkl. der Einrichtung von Lakehouse- und Warehouse-Strukturen nach dem Bronze/Silver/Gold-Pattern. Verantwortete den gesamten Lebenszyklus – von der Anforderungsaufnahme bis zur produktiven Nutzung.
+    \item \textbf{Entwickelte robuste ETL/ELT-Pipelines} mit Python, SQL und \textbf{PySpark} zur Verarbeitung großer Produktionsdatenmengen, wodurch die Datenzugriffszeiten um \textbf{35\%} reduziert wurden.
+    \item \textbf{Implementierte automatisierte Datenqualitätsregeln} und ein kontinuierliches Monitoring im Rahmen der internen Data-Excellence-Initiative, was die Datenkonsistenz deutlich erhöhte.
+    \item \textbf{Verantwortete die Anbindung} von ERP- und Produktionssystemen über REST-APIs inkl. Authentifizierung, Pagination und Fehlerbehandlung. Sicherte die Integrität der Pipelines durch Retry-Mechanismen und strukturiertes Logging.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Konzipierte semantische Power BI-Modelle} und \textbf{Data-Warehouse-Strukturen} zur Integration heterogener Quellsysteme (CRM, DMS). Optimierte komplexe Datenmodelle, was die Dashboard-Performance um \textbf{30\%} verbesserte.
+    \item \textbf{Entwickelte ETL-Pipelines} mit Python und SQL, die eine \textbf{22\%} höhere Datenqualität in Supply-Chain-Reports ermöglichten. 
+    \item \textbf{Implementierte Governance- und Sicherheitskonzepte} in Fabric, inkl. rollenbasierter Zugriffssteuerung (RLS) und Workspace-Strukturen, um sensible Unternehmensdaten abzusichern.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Entwickelte End-to-End-Analytics-Lösungen} – von der Anforderungsaufnahme bei Fachbereichen bis zur Bereitstellung interaktiver Power BI Reports. 
+    \item \textbf{Optimierte die Abfrageperformance} komplexer SQL-Abfragen und Dateninfrastrukturen um \textbf{30\%} durch gezieltes Performance-Tuning und die Einführung effizienter Datenmodelle.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS - Emphasizing "Greenfield," "API Integration," "Migration," "Complex Pipelines"
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Aufbau einer Echtzeit-Datenplattform (Greenfield-Projekt)} \\
+Konzipierte und implementierte eine Echtzeit-Datenpipeline für hochfrequente Logistikdaten auf \textbf{Microsoft Fabric}. Dieses Greenfield-Projekt umfasste die Architekturplanung von Grund auf (Bronze/Silver/Gold), die Anbindung von On-Premises-Datenbanken via REST-APIs und die Entwicklung einer skalierbaren Verarbeitungslogik mit \textbf{PySpark}. Demonstriert die Fähigkeit, Plattformen nicht nur zu betreiben, sondern aktiv von Null aufzubauen.
+
+\item \textbf{Modernisierung eines Supply Chain Reporting Systems} \\
+Überführte ein veraltetes Berichtssystem in eine moderne Power-BI-Reporting-Lösung mit Microsoft Fabric. Die Herausforderung bestand in der Übernahme komplexer Berechnungslogiken und der Beseitigung von Altlasten. Ergebnis war ein performantes Dashboard mit \textbf{40\%} schnelleren Ladezeiten sowie eine dokumentierte Best-Practice-Struktur für das Team.
+
+\item \textbf{Lieferantenperformance-Analyse mit API-Integration} \\
+Automatisierte die Erfassung von Lieferantendaten durch die Entwicklung einer \textbf{API-basierten Integrationslogik} (REST, OAuth2, Pagination). Ergänzte die Pipeline um ein robustes Logging- und Monitoring-System zur Sicherstellung der Datenqualität. Das resultierende Power BI-Modell reduzierte den manuellen Auswertungsaufwand um \textbf{40\%}.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATES - Highlighting Fabric and Power BI Certifications
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Deutsch Sprachzertifikat C1} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+\end{document}
