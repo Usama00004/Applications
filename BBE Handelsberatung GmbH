@@ -1,0 +1,109 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE - Tailored for IT-Inhouse Consultant & Data Specialist
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Serviceorientierter und analytisch denkender Wirtschaftsinformatiker mit Masterabschluss und praktischer Erfahrung in der Beratung interner Fachbereiche sowie im technischen Support für datengetriebene Tools. Expertise in der Entwicklung und Pflege von Reports und Dashboards mittels Power Query, Excel (VBA) und Power BI. Starke Kenntnisse in der Datenaufbereitung, -transformation und Qualitätssicherung aus komplexen SQL-Datenbanken. Freude an der Digitalisierung und Prozessoptimierung (CRM, IT-Lösungen) von der Anforderungsanalyse bis zur Umsetzung. Strukturierte, lösungsorientierte Arbeitsweise gepaart mit ausgeprägter Kommunikationsstärke als Schnittstelle zwischen Fachbereichen und IT.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES - Directly mapped to the job description
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Tools \& Reporting:} Power Query (Datenaufbereitung/-transformation), Excel (VBA), Power BI, Microsoft Office 365 \\
+\textbf{Datenbanken \& SQL:} SQL Server, T-SQL, Abfragen optimieren, Datenbankpflege, Datenmodellierung \\
+\textbf{Digitalisierung \& Prozesse:} Prozessoptimierung, Digitale Transformation, CRM, Anforderungsanalyse, Eigeninitiative \\
+\textbf{Support \& Schnittstelle:} Kunden-Support, Analyse von Anfragen, lösungsfokussierte Problemlösung, Kommunikation mit Beratern und externen Dienstleistern \\
+\textbf{Methoden \& KI:} Analytisches Denkvermögen, strukturierte Arbeitsweise, Freude am Einsatz von KI-Tools \\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE - Rewritten to highlight Support, Power Query, VBA, SQL, and Process Optimization
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Support und Weiterentwicklung} von internen Tools und Dashboards; Annahme und Analyse von Kundenanfragen (interne Fachbereiche) sowie zügige, lösungsorientierte Bearbeitung.
+    \item \textbf{Entwicklung und Pflege von Reports und Dashboards} mit \textbf{Power Query, Power BI und Excel} zur Überwachung von Produktions- und Lieferketten-KPIs.
+    \item \textbf{Pflege und Optimierung von SQL-Datenbanken} (T-SQL) sowie Aufbereitung und Qualitätssicherung von Daten aus verschiedenen Quellen (z.B. SAP) für Marktforschungszwecke.
+    \item \textbf{Aktive Mitwirkung an der Digitalisierung} und Prozessoptimierung durch Implementierung von Machine-Learning-Modellen und Automatisierung von Forecast-Prozessen.
+    \item \textbf{Schnittstellenfunktion} zwischen Data-Science-Team und Supply-Chain-Fachbereichen; Kommunikation und Koordination von Anforderungen.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Entwicklung und Pflege von DWH-Datenmodellen} und Optimierung von SQL-Abfragen zur Analyse von Produktionsprozessen, was die Datenqualität um \textbf{22\%} erhöhte.
+    \item \textbf{Unterstützung der Marktforschung} durch Erstellung von Frühwarn-Reports zu Lieferperformance und Beständen mittels \textbf{Power Query und Power BI}.
+    \item \textbf{Prozessoptimierung} im Reporting durch Aufbau multidimensionaler Datenmodelle, was die Ladezeiten von Dashboards um \textbf{30\%} reduzierte.
+    \item \textbf{Evaluation und Integration neuer Datenquellen} zur Verbesserung der internen IT-Lösungen und Reporting-Infrastruktur.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Pflege und Optimierung von SQL Server-Datenbanken}; Entwicklung von Data-Warehouse-Architekturen zur Verbesserung der Datenverfügbarkeit um \textbf{35\%}.
+    \item \textbf{Erstellung von Ad-hoc-Analysen und Standards-Reports} für Controlling- und Supply-Chain-Teams mit \textbf{Excel (VBA) und Power BI}, wodurch die Analysezeit um \textbf{25\%} verkürzt wurde.
+    \item \textbf{Unterstützung von Digitalisierungsprojekten} durch Performance-Tuning komplexer SQL-Abfragen und Automatisierung von Datenpipelines (ETL/ELT mit SSIS).
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS - Serving as proof for the listed skills (Power Query, Excel, SQL, Process Optimization)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Supply Chain Performance Dashboard} (Power Query \& Power BI) \\
+Entwickelte ein interaktives Dashboard zur Analyse von Liefertreue und Bestandsreichweite. Dieses Projekt diente der \textbf{Datenaufbereitung und -transformation} komplexer Daten für das Management. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Lieferantenperformance-Analyse} (SQL \& Excel VBA) \\
+Automatisierte die Erfassung und Analyse von Lieferantendaten mittels \textbf{Excel VBA} und SQL. Dies zeigt die Fähigkeit zur \textbf{Prozessoptimierung} und reduzierte den manuellen Auswertungsaufwand um \textbf{40\%}. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\item \textbf{Echtzeit-Logistikdaten Pipeline} (SQL \& Power Query) \\
+Entwarf eine Echtzeit-Datenpipeline zur Verarbeitung von Logistikdaten. Demonstriert Kenntnisse im \textbf{Datenbankmanagement} und der \textbf{Qualitätssicherung}. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700 \& PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039}{Zertifikat ansehen}
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}
+\end{itemize}
+\end{rSection}
+
+\end{document}
