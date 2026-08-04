@@ -1,0 +1,222 @@
+
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL / ZIEL (Angepasst: Schwerpunkt auf Controlling, Finance, internationale Tochtergesellschaften)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Business Intelligence \& Controlling-Spezialist mit Fokus auf Finanzkennzahlen (DSO, MOS) und internationalem Beteiligungsreporting. Expertise in Power BI, SQL und ETL-Prozessen zur Steuerung von Konzernkennzahlen und Ableitung von Optimierungsmaßnahmen. Ausgeprägte Kommunikationsstärke im internationalen Umfeld.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN (Angepasst: Fokus auf Controlling, Finanzkennzahlen, ERP)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+\textbf{Controlling \& Finance:} Beteiligungscontrolling, Konzerncontrolling, Soll-Ist-Vergleiche, Abweichungsanalysen, Budgetierung, Forecasts, Mittelfristige Planung, DSO/MOS-Analyse, Währungsmanagement, Cash Flow \\
+\textbf{Business Intelligence:} Power BI (Dashboard-Entwicklung, Datenmodellierung, DAX), Microsoft Fabric, Semantische Modelle (Star Schema, Tabular), KPI-Reporting, Self-Service BI \\
+\textbf{Data Engineering:} SQL, Python (Pandas, NumPy), ETL/ELT-Prozesse, Data Pipelines, Datenvalidierung, Qualitätssicherung \\
+\textbf{Business Analysis:} Requirements Engineering, Stakeholder Management, Prozessoptimierung, Workshop-Unterstützung \\
+\textbf{Technologien:} Microsoft Fabric, SAP S/4HANA, PostgreSQL, Excel (erweitert), Jira, Microsoft Dynamics AX (ERP-Integration) \\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG (Angepasst: Senior-Level Schwerpunkt, Finanzkennzahlen, Internationales Reporting)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Robert%20Bosch%20Zeugnis.pdf}{(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung und Optimierung interaktiver Power BI-Dashboards zur Steuerung von Produktions- und Logistikkennzahlen sowie zur Unterstützung des operativen Controllings.
+\item Konzeption semantischer Datenmodelle (Star Schema, Tabular Models) mit DAX zur Analyse von Abweichungen und zur Verbesserung der Dashboard-Performance für die Geschäftsleitung.
+\item Aufbau automatisierter ETL/ELT-Prozesse mit SQL und Python zur Integration von SAP-Daten und Sicherstellung konsistenter Datenqualität für Finanz- und Betriebsreportings.
+\item Enge Zusammenarbeit mit Fachbereichen zur Analyse neuer Geschäftsanforderungen und Ableitung geeigneter Steuerungsmaßnahmen.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Siemens%20Healthineers%20Zeugnisse.pdf} {(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung performanter Power BI-Dashboards und KPI-Reports für internationale Finance-Teams; Schwerpunkt auf Umsatz-, DSO- und Kostenanalysen.
+\item Modellierung multidimensionaler Datenmodelle zur Unterstützung des Konzerncontrollings und der Budgetplanung.
+\item Implementierung automatisierter ETL-Prozesse zur Integration heterogener Datenquellen (u.a. ERP-Systeme) und Validierung von Finanzdaten.
+\item Optimierung komplexer SQL-Abfragen zur Verkürzung der Analysezeit für Stakeholder um \textbf{25\%} und Unterstützung der monatlichen Forecasts.
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore \href{https://github.com/Usama00004/portfolio/blob/main/files/Experience_Letter_Systems.pdf}{(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung automatisierter Power BI-Dashboards und Reporting-Lösungen für Unternehmenskennzahlen mit Fokus auf Finanzperformance (Umsatz, Margen, operative KPIs).
+\item Erstellung multidimensionaler Datenmodelle und robuster ETL-Prozesse mit SQL und Python zur Konsolidierung von Daten internationaler Geschäftseinheiten.
+\item Durchführung von Soll-Ist-Vergleichen und Abweichungsanalysen; Ableitung von Handlungsempfehlungen für das Management.
+\item Verbesserung der Datenpipeline-Stabilität um \textbf{40\%} durch Optimierung von Datenbanken und SQL-Abfragen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE (Angepasst: Fokus auf Finanzkennzahlen und Echtzeit-Analysen)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI Sales \& Performance Dashboard} \\
+Entwickelte ein interaktives Power BI-Dashboard zur Analyse von Umsatztrends, KPI-Daten und Abweichungen (Budget vs. Ist). Implementierte Datenmodellierung und ETL-Pipelines mit Python (Pandas), wodurch die Reporting-Latenz um \textbf{20\%} reduziert wurde. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Entwarf und implementierte eine Echtzeit-Datenpipeline mit Apache Kafka und Flink zur Verarbeitung hochfrequenter Finanz- und Betriebsdaten. Ermöglichte latenzarme Analysen für operative Entscheidungen im Controlling. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Automatisierte Finanzberichterstattung} \\
+Automatisierte die Datenerfassung, Konsolidierung und Analyse von Finanzdaten mittels Python, Selenium und SQL. Reduzierte manuellen Aufwand im Monatsreporting um \textbf{40\%} und verbesserte die Datenqualität signifikant. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[11pt,a4paper]{article}
+
+%%%% Include Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella} % Or any other modern font supporting ß
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+
+%%%% Set Margins
+\geometry{top=1in, bottom=1in, left=0.5in, right=0.5in}
+
+%%%% Define Colors
+\definecolor{UI_blue}{RGB}{32, 64, 151}
+
+%%%% Document Content
+\begin{document}
+
+\vspace{1cm} % Space between header and addresses
+
+% Company name and addresses
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    BEGO Group\\ 
+    Wilhelm-Herbst-Straße 1\\
+    28359 Bremen-Horn-Lehe\\
+    Deutschland \\
+
+\end{minipage}%
+\hfill
+% Sender name and addresses
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir \\
+    Wallstraße 90-94 \\
+    55122 Mainz \\
+    Deutschland \\
+    
+    \vspace{1cm} % Adjust the space as needed
+    \today
+\end{minipage}
+
+\vspace{1cm} % Space between addresses and subject line
+
+% Subject line
+\noindent
+\textbf{Bewerbung als Controller - Beteiligungen \& BI}
+
+\vspace{0.2cm} % Space between subject line and main content
+
+% Main letter content
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Opening
+\vspace{0.2cm}
+
+
+Sehr geehrte Damen und Herren,
+
+als Business Intelligence- und Controlling-Spezialist mit Erfahrung bei \textbf{Bosch}, \textbf{Siemens} und internationalen Projekten bewerbe ich mich auf Ihre ausgeschriebene Controller-Stelle.
+
+\textbf{Meine relevanten Erfahrungen:}
+
+Bei \textbf{Siemens} entwickelte ich Power BI-Dashboards für internationale Finance-Teams mit Fokus auf Umsatz-, DSO- und Kostenanalysen und verkürzte die Analysezeit um \textbf{25\,\%}. Bei \textbf{Bosch} konzipierte ich semantische Datenmodelle und ETL-Prozesse zur Steuerung von Unternehmenskennzahlen. Bei \textbf{Systems Limited} konsolidierte ich Finanzdaten internationaler Einheiten und führte Soll-Ist-Vergleiche durch.
+
+\textbf{Mein Profil:}
+\begin{itemize}
+    \item Controlling: DSO, MOS, Budget, Forecast, Abweichungsanalysen
+    \item Power BI (DAX, Datenmodellierung), SQL, Python, ETL
+    \item Internationale Zusammenarbeit mit Finance-Teams
+    \item Deutsch (B2), Englisch (Muttersprache)
+\end{itemize}
+
+Die Weiterentwicklung Ihrer Reporting-Instrumente mit Power BI und das internationale Beteiligungscontrolling reizen mich besonders. Internationale Dienstreisen sind für mich selbstverständlich.
+
+\vspace{0.3cm}
+Über eine Einladung zum persönlichen Gespräch freue ich mich sehr.
+
+Mit freundlichen Grüßen,\\
+
+
+Usama Tahir \\ 
+(+49)-176-84973934 \\ 
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\ 
+\href{https://usama00004.github.io/portfolio/}{https://usama00004.github.io/portfolio/}
+
+\end{document}
+
+
+
