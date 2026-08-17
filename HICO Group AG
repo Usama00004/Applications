@@ -1,0 +1,234 @@
+
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL / ZIEL (Optimiert für DWH & Cloud Consulting / Projektleitung)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROFIL}
+
+Senior Data Warehouse \& BI Consultant mit über 4 Jahren Erfahrung in der Konzeption, Implementierung und Leitung komplexer DWH-Projekte. Spezialisiert auf Microsoft Fabric, Azure Analytics Services und die Integration heterogener Datenquellen (SAP, On-Premise, Cloud). Überführe fachliche Anforderungen in skalierbare, cloud-basierte Datenarchitekturen und begleite Kunden von der Akquisition bis zum unternehmensweiten Roll-Out. Ausgewiesene Expertise in der Standardisierung globaler KPIs und der Steuerung internationaler Teams. Fließend Deutsch und Englisch, mit ausgeprägter Reisebereitschaft und Leidenschaft für kreative Problemlösungen.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN (Fokus auf DWH, Cloud, Consulting & Tools)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{DWH \& Cloud-Architektur:}
+Microsoft Fabric (Lakehouse, Pipelines, Semantische Modelle), Azure Synapse, SQL Server, Data Modeling (Star Schema, Data Vault), ETL/ELT-Prozesse, Data Integration\\
+\textbf{BI \& Visualisierung:}
+Power BI (DAX, Performance-Optimierung), SAP Analytics Cloud, Tableau\\
+\textbf{Erweiterte Plattformen (von Vorteil):}
+Erfahrung mit modernen Data Stacks (dbt, Snowflake, Databricks) sowie cloud-agnostischem Denken (AWS, GCP)\\
+\textbf{Consulting \& Projektleitung:}
+(Teil-)Projektleitung, Requirements Engineering, Stakeholder Management, Presales-Unterstützung, Angebotserstellung, Kundenschulungen, Roll-Out-Management\\
+\textbf{Methoden:}
+Agile (Scrum/Kanban), Wasserfall, Qualitätssicherung, Performance-Tuning\\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG (Optimiert auf Projektleitung, DWH-Konzeption & Cloud)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{BioNTech SE}, Mainz \hfill Okt 2025 -- laufend
+\begin{itemize}
+    \item \textbf{(Teil-)Projektleitung \& DWH-Konzeption:} Leitung eines internationalen Teams zur Einführung einer unternehmensweiten, cloud-basierten Reporting-Plattform auf Basis von \textbf{Microsoft Fabric}; Verantwortung für Architektur, Zeitplan und Budget.
+    \item \textbf{Implementierung komplexer DWH-Lösungen:} Konzeption und Aufbau von ETL/ELT-Pipelines zur Extraktion und Transformation von \textbf{SAP S/4HANA}-Daten in ein zentrales Lakehouse; Integration weiterer operativer Systeme (IoT, Logistik) zur Schaffung einer "Single Source of Truth".
+    \item \textbf{Anforderungsanalyse \& Roll-Out:} Enge Zusammenarbeit mit Fachbereichen (Operations, Supply Chain) zur Definition von Steuerungskennzahlen; Begleitung des globalen Roll-Outs und Schulung von über 50 internationalen Anwendern.
+    \item \textbf{Qualität \& Performance:} Implementierung von Monitoring-Mechanismen; Optimierung von Datenmodellen und Abfragen, was die Reporting-Latenz um \textbf{40\%} reduzierte.
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- laufend\\
+\textbf{Bosch GmbH}, Reutlingen \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Robert%20Bosch%20Zeugnis.pdf}{(Zeugnis)}
+\begin{itemize}
+    \item \textbf{Beratung \& Konzeption:} Analyse internationaler Produktionsanforderungen; Entwicklung eines skalierbaren \textbf{DWH-Modells (Star Schema)} zur Konsolidierung von Fertigungsdaten aus verschiedenen ERP-Systemen.
+    \item \textbf{Implementierung in der Cloud:} Aufbau automatisierter ELT-Pipelines und Entwicklung eines globalen Reporting-Templates; Einsatz von DAX für komplexe Abweichungsanalysen.
+    \item \textbf{Kundenbetreuung:} Regelmäßiger Austausch mit den Stakeholdern in Produktion und Logistik; Übersetzung von Fachjargon in technische Anforderungen.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Siemens%20Healthineers%20Zeugnisse.pdf}{(Zeugnis)}
+\begin{itemize}
+    \item \textbf{DWH-Modellierung für Finance:} Konzeption multidimensionaler Datenmodelle für das internationale Konzerncontrolling; Fokus auf Umsatz-, DSO- und Kostenanalysen zur Unterstützung der globalen Budgetplanung.
+    \item \textbf{Performance-Optimierung:} Optimierung komplexer SQL-Abfragen und Datenbankstrukturen; Reduzierung der Analysezeit um \textbf{25\%} und Sicherstellung hoher Datenqualität für Entscheidungsgremien.
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore \href{https://github.com/Usama00004/portfolio/blob/main/files/Experience_Letter_Systems.pdf}{(Zeugnis)}
+\begin{itemize}
+    \item \textbf{ETL-Entwicklung \& Standardisierung:} Erstellung robuster ETL-Prozesse (SSIS) zur Konsolidierung internationaler Geschäftsdaten; Entwicklung von \textbf{Power BI}-Dashboards für das Management.
+    \item \textbf{Qualitätssicherung:} Verbesserung der Datenpipeline-Stabilität um \textbf{40\%} durch Optimierung von SQL-Abfragen und Datenbank-Indizierung.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE (Fokus auf Cloud, DBT, Snowflake/Databricks & Skalierbarkeit)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Enterprise Data Lakehouse mit Microsoft Fabric} \\
+Konzipierte und implementierte eine unternehmenskritische Datenpipeline mit \textbf{Microsoft Fabric} zur Verarbeitung von Echtzeit-Betriebsdaten. Entwickelte ein semantisches Modell für Power BI, das operative und strategische Entscheidungen in Echtzeit ermöglicht.
+
+\item \textbf{Modernisierung der Data Warehouse-Architektur} \\
+Entwarf eine Proof-of-Concept-Architektur unter Verwendung von \textbf{dbt (Data Build Tool)} und \textbf{Snowflake} zur Migration eines legacy DWH in die Cloud. Demonstrierte die Überlegenheit des neuen Stacks in Bezug auf Skalierbarkeit und Transformationsgeschwindigkeit.
+
+\item \textbf{Globales Power BI Performance Dashboard} \\
+Entwickelte ein interaktives Dashboard für Vertriebs- und Finanzkennzahlen. Reduzierte die Reporting-Latenz um \textbf{20\%} durch optimierte Datenmodellierung (Star Schema) und effiziente DAX-Formeln.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE (Azure, Fabric, Power BI hervorgehoben)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Analytics Engineer (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\documentclass[12pt,a4paper]{article}
+
+%%%% Packages
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+
+\usepackage[ngerman]{babel}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{ragged2e}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{microtype}
+
+%%%% Page Layout
+\geometry{
+    top=0.5in,
+    bottom=0.5in,
+    left=0.5in,
+    right=0.5in
+}
+
+%%%% Colors
+\definecolor{UI_blue}{RGB}{32,64,151}
+
+%%%% Document
+\begin{document}
+
+\vspace{0.4cm}
+
+%------------------------------------------------
+% Addresses
+%------------------------------------------------
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+    HICO Group AG\\
+    Bahnhofstraße 19\\
+    78224 Singen\\
+    Deutschland
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+    \raggedleft
+    Usama Tahir\\
+    Am Heilbrunnen 10\\
+    72766 Reutlingen\\
+    Deutschland\\[0.7cm]
+    \today
+\end{minipage}
+
+\vspace{0.9cm}
+
+%------------------------------------------------
+% Subject
+%------------------------------------------------
+\noindent
+{\textbf{Bewerbung als BI Consultant Data \& Cloud – Microsoft Fabric}}
+
+\vspace{0.4cm}
+
+%------------------------------------------------
+% Letter
+%------------------------------------------------
+\justify
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{11pt}
+
+\setstretch{1.12}
+
+Sehr geehrte Damen und Herren,
+
+Ihre Ausschreibung für die Position als BI Consultant Data \& Cloud mit Schwerpunkt Microsoft Fabric hat mich sofort angesprochen. Durch meine mehrjährige Erfahrung im Bereich Data Warehouse, Business Intelligence und Cloud Analytics bringe ich fundierte Kenntnisse in der Konzeption und Implementierung moderner Datenplattformen mit.
+
+Mein Schwerpunkt liegt insbesondere auf Microsoft Fabric, Power BI, SQL Server und Azure Analytics Services. Dabei habe ich mich intensiv mit Komponenten wie OneLake, Lakehouse, Data Factory, Dataflows Gen2, Warehouse und semantischen Modellen beschäftigt und Datenplattformen entlang einer modernen Medallion-Architektur aufgebaut bzw. weiterentwickelt. Ergänzend konnte ich praktische Erfahrungen mit Technologien wie Snowflake, Databricks und dbt sammeln.
+
+Neben der technischen Umsetzung bringe ich Erfahrung in der Zusammenarbeit mit Fachbereichen und internationalen Stakeholdern mit. In meiner aktuellen Tätigkeit bei BioNTech arbeite ich unter anderem an einer global ausgerichteten Reporting- und Analytics-Lösung im Supply-Chain-Umfeld und übernehme dabei auch Verantwortung für die Koordination und Weiterentwicklung von Lösungen. Während meiner Tätigkeiten bei Bosch und Siemens konnte ich zudem Anforderungen aus unterschiedlichen Fachbereichen aufnehmen, in skalierbare Daten- und BI-Lösungen überführen und Anwender bei der Nutzung moderner Analytics-Lösungen unterstützen.
+
+Besonders reizt mich die Verbindung aus technischer Expertise, Beratung und der Gestaltung moderner Data- und BI-Lösungen. Meine Erfahrung mit Microsoft Fabric sowie meine Deutsch- und Englischkenntnisse möchte ich gewinnbringend in Ihre Kundenprojekte einbringen. Reisebereitschaft und internationale Teamarbeit sind für mich selbstverständlich.
+
+Ich freue mich darauf, Sie in einem persönlichen Gespräch von meiner Motivation und meiner fachlichen Eignung zu überzeugen.
+
+\vspace{0.4cm}
+
+Mit freundlichen Grüßen
+
+\vspace{0.3cm}
+
+\textbf{Usama Tahir}\\
++49 176 84973934\\
+\href{mailto:usamatahir00004@gmail.com}{usamatahir00004@gmail.com}\\
+\href{https://usama00004.github.io/portfolio/}{usama00004.github.io/portfolio}
+
+\end{document}
