@@ -1,0 +1,120 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL – FOKUS: ANALYTICS ENGINEERING, DWH, DBT
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+Analytics Engineer mit Masterabschluss und mehrjähriger Erfahrung im Aufbau skalierbarer Data-Warehouse-Architekturen, semantischer Datenmodelle und robuster ELT-Pipelines. Spezialisiert auf dbt, Snowflake und SQL-basierte Transformationsschichten. Übernehme die End-to-End-Verantwortung für Datenqualität, Performance und die Etablierung einer Single Source of Truth – eng abgestimmt mit Fachbereichen und Leadership.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN – 1:1 AN DER STELLENBESCHREIBUNG AUSGERICHTET
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+\textbf{Data Transformation \& dbt:} dbt (Tests, Dokumentation, CI/CD, GitHub-Workflows), SQL-Entwicklung, Makros, Packages \\
+\textbf{Data-Warehouse-Architektur:} Dimensionales Modellieren (Stern-/Schneeflocken-Schema), Fact/Dimension-Design, Performance-Optimierung, Kostenkontrolle \\
+\textbf{Modern Data Platform:} Snowflake (oder vergleichbare Cloud-DWH), Microsoft Fabric, Azure Data Lake \\
+\textbf{ELT/ETL \& Orchestrierung:} Python (Pandas, NumPy), Datenpipelines, Dataflows, Automatisierung \\
+\textbf{BI \& Reporting:} Power BI, Metabase, Tableau – semantische Modelle, DAX, Dashboard-Befähigung von Fachbereichen \\
+\textbf{Data Quality \& Monitoring:} dbt-Tests, Datenqualitäts-Frameworks, Dokumentation, SLA-Überwachung \\
+\textbf{Stakeholder-Kommunikation:} Übersetzung von Business-Fragen in Metriken, Beratung von Operations, Produkt \& Engineering \\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG – ALLE PUNKTE AUF ANALYTICS ENGINEERING GETRIMMT
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Machine Learning \& Data Analyst} \hfill März 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+    \item \textbf{Aufbau semantischer Datenmodelle} und Implementierung von Microsoft-Fabric-Pipelines – Basis für skalierbare Reporting-Datenverarbeitung
+    \item \textbf{Entwicklung von dbt-ähnlichen Transformationslogiken} (SQL-basiert) zur Konsolidierung operativer Daten aus Produktion und Supply Chain
+    \item \textbf{Definition und Überwachung von Datenqualitätskennzahlen}; Reduzierung der Datenzugriffszeiten um \textbf{35\%} durch optimierte Modellierung
+    \item \textbf{Übersetzung von Business-Anforderungen} aus dem operativen Geschäft in nachhaltige, dokumentierte Datenmodelle
+\end{itemize}
+
+\textbf{Data Analyst Digitalization \& Reporting (Praktikum)} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen
+\begin{itemize}
+    \item \textbf{Design und Optimierung von Data-Warehouse-Strukturen} für Financial Reporting – Reduzierung der Ladezeiten um \textbf{30\%} durch gezielte Modellierung und Indexierung
+    \item \textbf{Analyse von Finance-Controlling-Anforderungen} und Abbildung in konsistenten semantischen Schichten (Sternschema, DAX-Modelle)
+    \item \textbf{Integration von SAP-FI/CO-Daten} in die Berichtslandschaft – Extraktion, Transformation und Harmonisierung systemübergreifender Datenflüsse
+    \item \textbf{Aufbau von ELT-Pipelines} mit SQL und Python zur Bereitstellung konsolidierter Reporting-Daten
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim
+\begin{itemize}
+    \item \textbf{Konzeption und Implementierung einer Data-Warehouse-Architektur} (Snowflake, SQL Server) für konsistentes unternehmensweites Reporting – Verbesserung der Datenverfügbarkeit um \textbf{35\%}
+    \item \textbf{Entwicklung von Dimensions- und Faktmodellen} für verschiedene Controlling-Bereiche mit Fokus auf Performance und Skalierbarkeit
+    \item \textbf{Performance-Tuning komplexer SQL-Abfragen} und Optimierung der Transformationsschritte – Steigerung der Abfrageleistung um \textbf{30\%}
+    \item \textbf{Etablierung von Standards für Datenqualität und Metadatenmanagement} – inkl. Dokumentation und Monitoring
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore
+\begin{itemize}
+    \item \textbf{Entwicklung und Wartung von Data-Modellen und ETL-Pipelines} (Python, SQL) für Finance- und Vertriebs-Reporting – Reduktion manueller Aufbereitungszeit um \textbf{35\%}
+    \item \textbf{Aufbau relationaler und multidimensionaler Datenmodelle} als Grundlage für konsistente Kennzahlen
+    \item \textbf{Implementierung robuster ELT/ELT-Prozesse} – Steigerung der Pipeline-Stabilität um \textbf{40\%}
+    \item \textbf{Enge Zusammenarbeit mit Fachbereichen} zur Definition von Metriken und Sicherstellung der Single Source of Truth
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE – FOKUS: DWH, DBT, SINGLE SOURCE OF TRUTH
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJEKTE}
+\item \textbf{dbt-Transformationsprojekt (Finance-Datenmodell)} \\
+Konzipierte ein vollständiges dbt-Projekt mit modularen SQL-Transformationsschritten, integrierten Tests und automatischer Dokumentation. Modellierte ein Sternschema für Umsatz- und Kostenanalysen mit klaren Fact-/Dimension-Tabellen. (\href{https://github.com/Usama00004/dbt-finance-model}{GitHub})
+
+\item \textbf{Data-Warehouse-Architektur auf Microsoft Fabric} \\
+Entwarf eine End-to-End-DWH-Lösung mit Lakehouse-Modellierung, Orchestrierung von Datenpipelines und rollenbasierten Zugriffskonzepten – optimiert für Performance und Kosten.
+
+\item \textbf{Systemübergreifende Datenintegration (SAP + Cloud)} \\
+Entwickelte ELT-Pipelines zur Harmonisierung von SAP-FI/CO-Daten mit Cloud-Quellen. Implementierte Datenqualitätschecks und etablierte eine unternehmensweite Single Source of Truth für Finance-Kennzahlen.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ZERTIFIKATE}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+\end{document}
