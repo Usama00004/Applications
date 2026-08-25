@@ -1,0 +1,124 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL / ZIEL (FOKUS: HR-CONTROLLING, PERSONALKOSTEN, DATENANALYSE)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+Data Analyst mit starker Expertise im HR-Controlling und Personalkostenmanagement. Erfahrung in Budgetierung, Forecasting, Soll-Ist-Analysen und Headcount-Planung. Entwicklung interaktiver Power BI-Dashboards und Automatisierung von Reporting-Prozessen zur Steigerung der Datenqualität und Effizienz. Schnittstellenkompetenz zwischen HR, Finance und IT – mit ausgeprägter Kommunikationsstärke und Prozessdenken.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN (ANGEPASST AUF HR-CONTROLLING, KOSTEN, SYSTEME, AUDITS)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+\textbf{HR-Controlling \& Personalkosten:} Personalkostencontrolling, Budgetierung, Forecasting, Soll-Ist-Vergleiche, Abweichungsanalysen, Headcount-Planung, Kapazitätsplanung, Monats- und Jahresabschlüsse, Datenqualitätssicherung, Revisionssicherheit \\
+\textbf{Business Intelligence:} Power BI (Dashboard-Entwicklung, DAX, Datenmodellierung), Tableau, Microsoft Fabric, Semantische Modelle, KPI-Reporting für HR und Finance \\
+\textbf{Data Engineering \& Automation:} SQL, Python (Pandas, NumPy), ETL/ELT-Prozesse, Datenvalidierung, Automatisierung von Reportings (Reduzierung manueller Aufwände um bis zu 40\%) \\
+\textbf{Systeme \& Tools:} SAP S/4HANA, Microsoft Dynamics AX, PostgreSQL, Excel (erweitert), Jira, HRIS-Integration \\
+\textbf{Methoden:} Stakeholder Management, Requirements Engineering, Prozessoptimierung, Workshop-Moderation \\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG (FOKUS: HR-DATEN, KOSTENANALYSEN, FORECASTS, AUDITS)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+
+
+\textbf{Data Analyst (Working Student)} \hfill March 2026 - laufend\\
+\textbf{BioNTech SE}, [Location, e.g., Mainz] \hfill \href{https://[link-to-your-reference]}{(Zeugnis)}
+\begin{itemize}
+\item Entwicklung interaktiver Power BI-Dashboards und KPI-Reports für das HR-Controlling mit Fokus auf Personalkosten, Headcount-Entwicklung, Fluktuation und Kapazitätsauslastung.
+\item Durchführung von Soll-Ist-Analysen, Budgetvergleichen und Forecasting zur Unterstützung der monatlichen und quartalsweisen Berichterstattung an das Management.
+\item Implementierung von ETL/ELT-Prozessen mit SQL und Python zur Integration von Personaldaten aus verschiedenen Quellsystemen (SAP, HRIS); Sicherstellung hoher Datenkonsistenz und -qualität.
+\item Automatisierung von Berichts- und Analyseprozessen, Reduzierung des manuellen Aufwands im monatlichen Personalkostenreporting um [z.B. 30\%].
+\item Enge Zusammenarbeit mit HR, Finance und Fachbereichen zur Ableitung datenbasierter Handlungsempfehlungen für Personal- und Kostenplanung.
+\item Unterstützung bei der Vorbereitung prüfungsrelevanter HR-Daten für interne und externe Audits sowie Sicherstellung der Revisionssicherheit.
+\end{itemize}
+
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Robert%20Bosch%20Zeugnis.pdf}{(Zeugnis)}
+\begin{itemize}
+\item Entwicklung und Optimierung interaktiver Power BI-Dashboards für HR- und Personalkostenkennzahlen (Headcount, Überstunden, Fluktuation, Kosten pro Stelle).
+\item Erstellung von Soll-Ist-Analysen und Forecasts zur Unterstützung der Budgetplanung und monatlichen Abschlüsse.
+\item Automatisierung von ETL-Prozessen mit SQL und Python zur Konsolidierung von Personaldaten aus SAP und weiteren Systemen; Sicherstellung hoher Datenqualität.
+\item Enge Zusammenarbeit mit HR und Finance zur Ableitung datenbasierter Handlungsempfehlungen für Kapazitäts- und Personalbedarfsplanung.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Siemens%20Healthineers%20Zeugnisse.pdf}{(Zeugnis)}
+\begin{itemize}
+\item Entwicklung von Power BI-KPI-Reports mit Fokus auf Personalkosten, DSO und Umsatz – internationaler Einsatz für Finance-Teams.
+\item Modellierung multidimensionaler Datenmodelle zur Abbildung von Kostenstellenstrukturen und Unterstützung des Konzerncontrollings.
+\item Implementierung automatisierter Datenpipelines zur Integration von HR- und Finanzdaten; Reduzierung der Reporting-Latenz um 25\%.
+\item Unterstützung bei Monatsabschlüssen durch Bereitstellung und Abstimmung von Personalkostendaten mit den Finance-Bereichen.
+\end{itemize}
+
+
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore \href{https://github.com/Usama00004/portfolio/blob/main/files/Experience_Letter_Systems.pdf}{(Zeugnis)}
+\begin{itemize}
+\item Entwicklung automatisierter Power BI-Dashboards für Unternehmenskennzahlen – Schwerpunkt auf operativen KPIs und Finanzperformance.
+\item Erstellung robuster ETL-Prozesse mit SQL und Python zur Konsolidierung von HR- und Personalkostendaten internationaler Geschäftseinheiten.
+\item Durchführung von Soll-Ist-Vergleichen und Ableitung von Optimierungsmaßnahmen für das Management.
+\item Verbesserung der Datenqualität und Stabilität von Datenpipelines um 40\% durch Optimierung von Datenbankabfragen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE (FOKUS: HR-DASHBOARDS, KOSTENANALYSEN, AUTOMATISIERUNG)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Power BI HR-Dashboard: Personalkosten \& Headcount} \\
+Entwickeltes interaktives Dashboard zur Überwachung von Personalkosten, Headcount-Entwicklung und Abweichungen (Budget vs. Ist). ETL-Pipelines mit Python (Pandas) reduzierten die Reporting-Zeit um 20\%. (\href{https://github.com/Usama00004/SalesReport}{GitHub})
+
+\item \textbf{Echtzeit-Datenanalyse für HR-Entscheidungen} \\
+Konzipierte eine Echtzeit-Pipeline mit Apache Kafka zur Verarbeitung von Personaldaten – ermöglichte latenzarme Analysen für operative HR-Entscheidungen. (\href{https://github.com/Usama00004/StreamAnalysis}{GitHub})
+
+\item \textbf{Automatisierte Personalkosten-Reportings} \\
+Automatisierte die Erfassung, Konsolidierung und Analyse von Personalkostendaten mit Python und Selenium; manueller Aufwand im Monatsreporting um 40\% reduziert. (\href{https://github.com/Usama00004/Twitter-Sentiment-Analysis}{GitHub})
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat}
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat}
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat}
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat}
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat}
+\end{itemize}
+\end{rSection}
+
+\end{document}
