@@ -1,0 +1,114 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Germany}
+\address{\href{mailto:usamatahir00004@gmail.com}{Email} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFILE}
+
+Senior Data Analyst with 3+ years of experience delivering high-impact BI solutions across marketing, product, and operations. Expert in Microsoft Fabric, Power BI, and SQL with a proven track record of leading end-to-end data projects, including Lakehouse architecture, data pipeline automation, and semantic layer development. Experienced in creating technical concepts for analytics solutions and driving KPI-driven performance improvements across multiple markets. Fluent in German and English.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+\textbf{M.Sc. Global Software Development} – Fulda University of Applied Sciences, Germany (on going)\\
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CORE COMPETENCIES}
+
+\textbf{Microsoft Fabric \& Power BI:} Lakehouse, Warehouse, Pipelines, Notebooks, Dataflows, DAX, Tabular Editor, Semantic Models, KPI definition, Dashboarding, Data Visualization, Forecasting \\
+\textbf{Data Management \& ETL:} SQL, Data Modeling (Star/Snowflake), Databricks, Python (Pandas, NumPy), Apache Airflow, BigQuery, Cloud Data Warehousing \\
+\textbf{Concept Creation:} Technical/business concepts for analytics solutions, reporting frameworks, stakeholder workshops, and data strategy \\
+\textbf{Soft Skills:} Stakeholder management, cross-functional collaboration, independent project leadership, presenting to management \\
+\textbf{Languages:} German (Fluent), English (Mother Tongue)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL EXPERIENCE}
+\textbf{Data and AI Analyst} \hfill Mar 2026 -- Present\\
+\textbf{BioNTech SE}, Mainz 
+\begin{itemize}
+    \item Leading the design and implementation of a centralized analytics platform on Microsoft Fabric, architecting Lakehouse and Warehouse solutions to unify clinical trial and manufacturing data across global teams.
+    \item Built end-to-end Fabric Pipelines and Notebooks (PySpark) to automate ETL/ELT processes, reducing manual data preparation time by over 50\% and ensuring high data quality for regulatory reporting.
+    \item Developed advanced Power BI dashboards and semantic models with complex DAX measures, enabling real-time monitoring of key R\&D and supply chain KPIs for executive stakeholders.
+    \item Created comprehensive technical concepts and business requirements documents for a new enterprise reporting framework, defining data governance, security models, and visualization standards.
+    \item Collaborated with cross-functional teams (R\&D, Manufacturing, and IT) to translate complex business needs into scalable analytical solutions, improving decision-making speed by 30\%.
+\end{itemize}
+\textbf{Data Analyst – Digitalization \& Reporting} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen \href{https://github.com/Usama00004/portfolio/blob/main/files/Robert%20Bosch%20Zeugnis.pdf}{ (view certificate)} 
+\begin{itemize}
+    \item Led the migration of legacy reporting to Microsoft Fabric, designing Lakehouse architectures and building end-to-end Pipelines to integrate data from SAP S/4HANA and IoT sources.
+    \item Developed scalable semantic models and dashboards in Power BI using advanced DAX, reducing dashboard loading times by over 30\% and enabling real-time production monitoring.
+    \item Automated ETL/ELT processes using Fabric Pipelines and Python (Pandas), ensuring high data quality and reducing manual data preparation by 40\%.
+    \item Created technical concepts for a unified analytics platform, defining data governance, security, and reporting standards for cross-functional stakeholders.
+\end{itemize}
+
+\textbf{Data Analyst (Working Student)} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim \href{https://github.com/Usama00004/portfolio/blob/main/files/Siemens%20Healthineers%20Zeugnisse.pdf}{ (view certificate)}
+\begin{itemize}
+    \item Co-developed a data warehouse on Microsoft Fabric (Warehouse \& Lakehouse), improving data availability and consistency for BI and controlling teams across 5+ business units.
+    \item Designed and implemented scalable Fabric Pipelines and dataflows to integrate heterogeneous source systems, enabling automated KPI reporting for finance and product stakeholders.
+    \item Built high-performance Power BI reports with complex DAX calculations, reducing analysis time by 25\% and delivering actionable insights to management.
+    \item Optimized SQL queries and implemented data modeling best practices, reducing data processing costs and query execution time significantly.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS (FABRIC & CONCEPT CREATION FOCUSED)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROJECTS}
+
+\item \textbf{End-to-End Sales Analytics Platform (Microsoft Fabric)} \\
+Architected a complete analytics solution on Microsoft Fabric, leveraging Lakehouse and Pipelines to ingest, transform, and model sales data from multiple sources. Built a composite semantic model in Power BI with DAX calculations for revenue trends and customer KPIs. Authored a technical concept document outlining data architecture, transformation logic, and dashboard design. Resulted in a 20\% reduction in reporting latency. 
+
+\item \textbf{Marketing Analytics Pipeline with Fabric \& BigQuery} \\
+Led the design and implementation of a scalable analytics pipeline on Microsoft Fabric and BigQuery to process marketing campaign data and customer engagement metrics. Created a business concept for automated KPI reporting and segmentation analysis, improving campaign performance insights by 25\%. Used Fabric Notebooks(PySpark) for data transformation and orchestration.
+
+\item \textbf{Real-Time Operational Dashboard (Fabric \& Power BI)} \\
+Developed a real-time data pipeline using Microsoft Fabric Pipelines and Event Streams to process high-frequency operational data. Delivered low-latency analytics dashboards in Power BI with dynamic DAX measures for operational teams, improving decision-making speed by 25\%. Created a technical concept for data ingestion and visualization. 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}  
+\begin{itemize}
+    \item \textbf{Microsoft Fabric Analytics Engineer Associate (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{View Certificate} 
+    \item \textbf{Microsoft Power BI Data Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{View Certificate}  
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{View Certificate} 
+    \item \textbf{German Language Certificate B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{View Certificate}  
+    \item \textbf{Google Data Analytics Certificate} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View Certificate}  
+\end{itemize}
+
+\end{rSection}
+
+\end{document}
