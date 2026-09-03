@@ -1,0 +1,93 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL - Kurz und auf die Stelle zugeschnitten
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROFIL}
+
+Datenanalyst mit 5+ Jahren Erfahrung in Power BI, statistischer Modellierung und der Entwicklung von Dashboards für Planungs- und Monitoringprozesse. Expertise in der Aufbereitung komplexer Daten, der Erstellung interaktiver Berichte und der Ableitung von Handlungsempfehlungen. Erfahrung im Gesundheitswesen und mit öffentlichen Körperschaften. Fließend Deutsch (B2+) und Englisch.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN - Fokus auf Power BI, Statistik, Bedarfsplanung
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+
+Power BI (Dashboards, Berichte, Datenvisualisierung) \\
+Statistik \& Modellierung (Versorgungs-, Bedarfs- und Prognoseanalysen) \\
+Datenaufbereitung, ETL-Prozesse und SQL \\
+Kenntnisse der ambulanten Bedarfsplanung und Vertragsarztabrechnung \\
+Dashboard-Entwicklung für Monitoring und Entscheidungsprozesse \\
+Präsentation komplexer Daten für Führungskräfte und Gremien \\
+Analytisch-logisches Denken und lösungsorientiertes Handeln \\
+Deutsch (fließend), Englisch (Muttersprache)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG - Betonung auf Power BI, Analyse, Beratung
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Werkstudent Data Analyst} \hfill Mar 2026 -- laufend\\
+\textbf{BioNTech SE}, Mainz
+\begin{itemize}
+\item Entwicklung und Pflege interaktiver Power BI-Dashboards zur Überwachung von Produktionskennzahlen und Qualitätsparametern im biotechnologischen Umfeld.
+\item Durchführung von Datenanalysen zur Identifikation von Engpässen und Optimierung von Produktionsabläufen.
+\item Aufbereitung und Visualisierung komplexer Datensätze für Fachbereiche und Führungskräfte zur Unterstützung strategischer Entscheidungen.
+\item Enge Zusammenarbeit mit interdisziplinären Teams (Produktion, Qualitätssicherung, IT) zur kontinuierlichen Verbesserung der Berichtslandschaft.
+\end{itemize}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Robert\%20Bosch\%20Zeugnis.pdf}{(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung interaktiver Power BI-Dashboards und semantischer Modelle für Produktions- und Logistik-Controlling.
+\item Aufbau automatisierter ETL/ELT-Prozesse mit SQL und Python zur Integration von SAP-Daten und Sicherstellung konsistenter Datenqualität.
+\item Beratung von Fachbereichen zu Power BI-Best Practices und Förderung von Self-Service-BI.
+\end{itemize}
+
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens AG}, Forchheim \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Siemens\%20Healthineers\%20Zeugnisse.pdf}{(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung performanter Power BI-Dashboards und Tabular Models für internationale Finance-Teams mit Fokus auf Umsatz- und Kostenanalysen.
+\item Konzeption skalierbarer Stern-Schemata zur Unterstützung des Konzerncontrollings.
+\item Automatisierung von Reporting-Prozessen, Reduzierung der Latenz um 25\%.
+\item Durchführung von Workshops mit internationalen Stakeholdern zur Übersetzung von Business Requirements in technische Lösungen.
+\end{itemize}
+\newpage
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore \href{https://github.com/Usama00004/portfolio/blob/main/files/Experience_Letter_Systems.pdf}{(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung automatisierter Power BI-Dashboards für Unternehmenskennzahlen (Umsatz, Margen, KPIs).
+\item Erstellung multidimensionaler Datenmodelle und robuster ETL-Prozesse mit SQL und Python.
+\item Verbesserung der Datenpipeline-Stabilität um 40\% durch Optimierung von Datenbanken und Abfragen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE - Power BI und relevante Qualifikationen
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Data Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Microsoft Fabric Analytics Engineer Associate (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/certification/fabric-analytics-engineer-associate?tab=credentials-tab}{Zertifikat ansehen} 
+    \item \textbf{Deutsch Sprachzertifikat B2.2} – \href{https://usama-tahir-00004.github.io/portfolio/files/B2_2.pdf}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+\end{document}
