@@ -1,0 +1,118 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFILE (Focus: DTC / Retail / E-Commerce Data Analytics, BI, Dashboards)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFILE}
+
+Data Analyst with 3+ years of experience transforming data into actionable insights and scalable solutions for business stakeholders. Skilled in designing analytical models, reports, and dashboards (Power BI, Tableau) for sales performance, inventory optimization, and KPI steering. Proficient in SQL, Python (Pandas, NumPy), ETL pipelines, and data modeling. Proven ability to collaborate with cross-functional teams and translate data needs into clear, impactful narratives. Passionate about retail and ecommerce analytics, customer behavior, and continuous learning in fast-paced DTC environments.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CORE COMPETENCIES (Aligned: Retail Data Analysis, BI, SQL, Python, Stakeholder Collaboration)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{CORE COMPETENCIES}
+\textbf{Retail \& DTC Data Analysis:} Sales performance analysis, inventory optimization, demand forecasting, customer segmentation, pricing optimization, KPI reporting, retail customer journey, ecommerce analytics \\
+\textbf{BI \& Data Visualization:} Power BI (DAX, data modeling), Tableau, Looker, Microsoft Fabric, semantic models (Star Schema, Tabular), dashboard development, storytelling with data \\
+\textbf{Technical Expertise:} SQL (complex queries, optimization), Python (Pandas, NumPy, Selenium), Excel (advanced), ETL/ELT processes, data pipelines, data validation, statistical methods \\
+\textbf{Cloud \& Data Platforms:} Microsoft Fabric, SAP S/4HANA, PostgreSQL, SharePoint, Apache Kafka, Flink, cloud platforms \\
+\textbf{Collaboration \& Communication:} Cross-functional teamwork (retail, marketing, product, engineering), stakeholder management, requirements analysis, translating business challenges into analytical opportunities, presentation skills \\
+\textbf{Problem-Solving \& Innovation:} Data-driven solutions, predictive analytics, pattern recognition, process automation, Power Automate, Copilot integration, NLP, growth mindset \\
+\textbf{Languages:} English (native), German (fluent)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE (Focus: Retail/DTC analytics, dashboards, ETL, stakeholder collaboration)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROFESSIONAL EXPERIENCE}
+
+\textbf{Data Analyst (Working Student)} \hfill March 2025 -- Present\\
+\textbf{BioNTech SE}, Mainz \hfill 
+\begin{itemize}
+\item Design, develop, and maintain BI solutions and dashboards on \textbf{Microsoft Fabric} and Power BI to address key business questions and support operational decision-making.
+\item Build and optimize scalable \textbf{ETL/ELT pipelines} using SQL and Python to integrate complex datasets and ensure high data quality and consistency.
+\item Evaluate and pilot \textbf{AI-driven analytical approaches} (e.g., Copilot) to automate routine reporting and improve data accessibility for non-technical stakeholders.
+\item Collaborate with cross-functional teams as a trusted partner for Power BI and analytics; promote \textbf{self-service BI} and best practices.
+\item Document data models and processes to establish a central \textbf{data dictionary} and support knowledge-sharing initiatives.
+\end{itemize}
+
+\textbf{Data Analyst Intern -- Digitalization \& Reporting} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Robert%20Bosch%20Zeugnis.pdf}{(View certificate)}
+\begin{itemize}
+\item Developed and optimized interactive \textbf{Power BI dashboards} to steer production and logistics KPIs and support operational controlling.
+\item Designed semantic data models (Star Schema, Tabular Models) with DAX to improve dashboard performance and enable variance analysis.
+\item Built automated \textbf{ETL/ELT processes} with SQL and Python to integrate SAP data and ensure consistent \textbf{data quality}.
+\item Partnered closely with business stakeholders to analyze new requirements, derive actionable steering measures, and advise on visualization options.
+\end{itemize}
+
+\textbf{Working Student Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Siemens%20Healthineers%20Zeugnisse.pdf}{(View certificate)}
+\begin{itemize}
+\item Developed high-performance \textbf{Power BI dashboards} and KPI reports for international finance teams, focusing on revenue, DSO, and cost analyses.
+\item Modeled multidimensional data models to support group controlling and budget planning.
+\item Implemented automated \textbf{ETL processes} to integrate heterogeneous data sources (incl. ERP systems) and validate financial data.
+\item Optimized complex SQL queries to reduce analysis time for stakeholders by \textbf{25\%} and support monthly forecasts.
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- July 2022\\
+\textbf{Systems Limited}, Lahore \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Experience_Letter_Systems.pdf}{(View certificate)}
+\begin{itemize}
+\item Developed automated \textbf{Power BI dashboards} and reporting solutions for business KPIs with a focus on financial performance (revenue, margins, operational KPIs).
+\item Built multidimensional data models and robust \textbf{ETL processes} with SQL and Python to consolidate data from international business units.
+\item \textbf{Automated} recurring reporting and data processes, reducing manual effort in monthly reporting by \textbf{40\%}.
+\item Improved data pipeline stability by \textbf{40\%} through database and SQL query optimization.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJECTS (Focus: Predictive Analytics, Real-Time Data, Automation, Forecasting)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJECTS}
+
+\item \textbf{Predictive Analytics Dashboard (AI/ML)} \\
+Developed a Power BI dashboard with integrated machine learning models to forecast revenue trends and variances (budget vs. actual). Implemented ETL pipelines with Python (Pandas), reducing reporting latency by \textbf{20\%}. 
+
+\item \textbf{Real-Time Data Analytics Pipeline} \\
+Designed and implemented a real-time data pipeline with Apache Kafka and Flink to process high-frequency financial and operational data. Enabled low-latency analytics for operational decision-making in controlling. 
+
+\item \textbf{Automated Financial Reporting \& Pattern Recognition} \\
+Automated data collection, consolidation, and analysis of financial data using Python, Selenium, and SQL. Applied AI methods for pattern recognition to identify anomalies early.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{EDUCATION}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Germany \\
+\textbf{B.Sc. Computer Science} – COMSATS University, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% CERTIFICATIONS
+%----------------------------------------------------------------------------------------
+\begin{rSection}{CERTIFICATIONS}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{View certificate} 
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/14d46edd9c61f423?ref=https%3A%2F%2Fwww.linkedin.com%2F}{View certificate} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{View certificate}  
+    \item \textbf{Google Data Analytics} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{View certificate}  
+\end{itemize}
+\end{rSection}
+
+\end{document}
