@@ -1,0 +1,121 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.2in,right=0.4 in,bottom=0.3in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Usama Tahir}
+\address{+49 17684973934 \\ Deutschland}
+\address{\href{mailto:usamatahir00004@gmail.com}{E-Mail} \\ 
+\href{http://www.linkedin.com/in/usamatahir-00004}{LinkedIn} \\ 
+\href{https://github.com/Usama00004}{GitHub}}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% PROFIL / ZIEL (Fokus: HR Reporting & Data Analytics, BI, Strategic Workforce Planning)
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFIL}
+
+HR-naher Data \& Reporting-Spezialist mit Fokus auf die Konzeption, Entwicklung und Pflege von BI-Dashboards sowie den Aufbau robuster ETL-/Datenpipelines. Expertise in der Integration von KI/ML-Methoden (Predictive Analytics, Copilot) zur Automatisierung von Analysen und Prognosen. Starke Beratungskompetenz für Fachbereiche bei der Definition von Kennzahlen und Visualisierungsstrategien. Begeistert von neuen Technologien und kontinuierlichem Lernen, mit dem Ziel, datengetriebene Entscheidungen durch innovative BI- und KI-Lösungen zu fördern.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% KERNKOMPETENZEN (Angepasst an die Anforderungen: HR Reporting, Analytics, BI, SAP SuccessFactors)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{KERNKOMPETENZEN}
+\textbf{HR Reporting \& Data Analytics:} End-to-End-Verantwortung für Reporting \& Analytics, KPI-Governance, HR-KPI-Definitionen, Reporting-Standards, Strategic Workforce Planning, Workforce Insights, Self-Service BI \\
+\textbf{BI \& Dashboard-Entwicklung:} Power BI (Dashboard-Entwicklung, DAX, Datenmodellierung), Tableau, Microsoft Fabric, Semantische Modelle (Star Schema, Tabular), KPI-Reporting \\
+\textbf{Data Engineering \& Pipelines:} SQL, Python (Pandas, NumPy), ETL/ELT-Prozesse, Data Pipelines, Datenvalidierung, Qualitätssicherung, Datenkonsistenz \\
+\textbf{KI/ML \& Automatisierung:} Predictive Analytics, Mustererkennung, Power Automate, Copilot-Integration, Prozessautomatisierung, NLP \\
+\textbf{Systeme \& Governance:} SAP SuccessFactors (Employee Central), SAP S/4HANA, Berechtigungskonzepte, Datenschutz \& IT-Security, Data Dictionary, Datenqualität, Governance \\
+\textbf{Beratung \& Kommunikation:} Stakeholder Management, Anforderungsanalyse, internationale Zusammenarbeit, Sparringspartner für HR und Fachbereiche \\
+\textbf{Sprachen:} Deutsch (fließend), Englisch (Muttersprache)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% BERUFSERFAHRUNG (Fokus: Dashboard-Entwicklung, ETL, KI/ML, Automatisierung, Beratung)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{BERUFSERFAHRUNG}
+
+\textbf{Data Analyst (Werk Student)} \hfill März 2025 -- laufend\\
+\textbf{BioNTech SE}, Mainz \hfill 
+\begin{itemize}
+\item Konzeption und kontinuierliche Verbesserung von BI-Lösungen auf \textbf{Microsoft Fabric} und Power BI, inklusive Dashboard-Entwicklung für klinische Studien- und Produktionsdaten.
+\item Aufbau und Optimierung skalierbarer \textbf{ETL/ELT-Pipelines} mit SQL und Python zur Integration komplexer Datensätze und Sicherstellung hoher Datenqualität.
+\item Evaluation und Pilotierung von \textbf{KI-gestützten Analyseansätzen} (z.B. Copilot) zur Automatisierung von Routine-Reportings und Verbesserung der Datenzugänglichkeit.
+\item Beratung interner Fachbereiche als vertrauensvoller Ansprechpartner für Power BI und Analytics; Förderung von \textbf{Self-Service BI} und Best Practices.
+\item Dokumentation von Datenmodellen und Prozessen zur Erstellung eines zentralen \textbf{Data Dictionarys}.
+\end{itemize}
+
+\textbf{Praktikant Data Analyst Digitalization \& Reporting} \hfill Sept 2025 -- Feb 2026\\
+\textbf{Bosch GmbH}, Reutlingen \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Robert%20Bosch%20Zeugnis.pdf}{(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung und Optimierung interaktiver \textbf{Power BI-Dashboards} zur Steuerung von Produktions- und Logistikkennzahlen sowie zur Unterstützung des operativen Controllings.
+\item Konzeption semantischer Datenmodelle (Star Schema, Tabular Models) mit DAX zur Verbesserung der Dashboard-Performance und Analyse von Abweichungen.
+\item Aufbau automatisierter \textbf{ETL/ELT-Prozesse} mit SQL und Python zur Integration von SAP-Daten und Sicherstellung konsistenter \textbf{Datenqualität}.
+\item Enge Zusammenarbeit mit Fachbereichen zur Analyse neuer Geschäftsanforderungen und Ableitung geeigneter Steuerungsmaßnahmen sowie Beratung zu Visualisierungsmöglichkeiten.
+\end{itemize}
+
+\newpage
+\textbf{Werkstudent Data Analyst} \hfill Jan 2025 -- Aug 2025\\
+\textbf{Siemens Healthineers}, Forchheim \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Siemens%20Healthineers%20Zeugnisse.pdf} {(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung performanter \textbf{Power BI-Dashboards} und KPI-Reports für internationale Finance-Teams; Schwerpunkt auf Umsatz-, DSO- und Kostenanalysen.
+\item Modellierung multidimensionaler Datenmodelle zur Unterstützung des Konzerncontrollings und der Budgetplanung.
+\item Implementierung automatisierter \textbf{ETL-Prozesse} zur Integration heterogener Datenquellen (u.a. ERP-Systeme) und Validierung von Finanzdaten.
+\item Optimierung komplexer SQL-Abfragen zur Verkürzung der Analysezeit für Stakeholder um \textbf{25\%} und Unterstützung der monatlichen Forecasts.
+\end{itemize}
+
+\textbf{Junior Data Analyst / Data Engineer} \hfill Jan 2021 -- Juli 2022\\
+\textbf{Systems Limited}, Lahore \hfill \href{https://github.com/Usama00004/portfolio/blob/main/files/Experience_Letter_Systems.pdf}{(Zeugnis ansehen)}
+\begin{itemize}
+\item Entwicklung automatisierter \textbf{Power BI-Dashboards} und Reporting-Lösungen für Unternehmenskennzahlen mit Fokus auf Finanzperformance (Umsatz, Margen, operative KPIs).
+\item Erstellung multidimensionaler Datenmodelle und robuster \textbf{ETL-Prozesse} mit SQL und Python zur Konsolidierung von Daten internationaler Geschäftseinheiten.
+\item \textbf{Automatisierung} wiederkehrender Reporting- und Datenprozesse, wodurch der manuelle Aufwand im Monatsreporting um \textbf{40\%} reduziert wurde.
+\item Verbesserung der Datenpipeline-Stabilität um \textbf{40\%} durch Optimierung von Datenbanken und SQL-Abfragen.
+\end{itemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROJEKTE (Fokus: KI/ML, Automatisierung, Echtzeitdaten, Forecasting)
+%----------------------------------------------------------------------------------------
+\begin{rSection}{PROJEKTE}
+
+\item \textbf{Predictive Analytics Dashboard (KI/ML)} \\
+Entwicklung eines Power BI-Dashboards mit integrierten Machine-Learning-Modellen zur Prognose von Umsatztrends und Abweichungen (Budget vs. Ist). Implementierung von ETL-Pipelines mit Python (Pandas), wodurch die Reporting-Latenz um \textbf{20\%} reduziert wurde. 
+
+\item \textbf{Echtzeit-Datenanalyse Pipeline} \\
+Entwurf und Implementierung einer Echtzeit-Datenpipeline mit Apache Kafka und Flink zur Verarbeitung hochfrequenter Finanz- und Betriebsdaten. Ermöglichte latenzarme Analysen für operative Entscheidungen im Controlling. 
+
+\item \textbf{Automatisierte Finanzberichterstattung \& Mustererkennung} \\
+Automatisierung der Datenerfassung, Konsolidierung und Analyse von Finanzdaten mittels Python, Selenium und SQL. Einsatz von KI-Methoden zur Mustererkennung, um Anomalien frühzeitig zu identifizieren.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% AUSBILDUNG
+%----------------------------------------------------------------------------------------
+\begin{rSection}{AUSBILDUNG}
+\textbf{M.Sc. Global Software Development} – Hochschule Fulda, Deutschland \\
+\textbf{B.Sc. Informatik} – COMSATS Universität, Lahore   
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% ZERTIFIKATE
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Zertifikate}  
+\begin{itemize}
+    \item \textbf{Microsoft Power BI Analyst (DP-700)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/9397793663d1b039?ref=https\%3A\%2F\%2Fwww.linkedin.com\%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (DP-600)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/14d46edd9c61f423?ref=https%3A%2F%2Fwww.linkedin.com%2F}{Zertifikat ansehen} 
+    \item \textbf{Microsoft Power BI Analyst (PL-300)} – \href{https://learn.microsoft.com/en-us/users/usamatahir-5344/credentials/f400769ffe6f66f8}{Zertifikat ansehen}  
+    \item \textbf{Google Datenanalyse} – \href{https://github.com/Usama00004/Certifications/blob/main/Google_Data_Analystics.pdf}{Zertifikat ansehen}  
+\end{itemize}
+\end{rSection}
+
+
+
+\end{document}
